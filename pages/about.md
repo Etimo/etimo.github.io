@@ -1,12 +1,18 @@
 ---
 layout: page
-title: About
+title: Om Etimo
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/Legacy-code.jpg"
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+# Vår vision:
+## Sveriges ledande utvecklingsorganisation
+Etimo är ett snabbväxande IT-konsultbolag som utvecklar skräddarsydda digitala lösningar. Vi hjälper ledande organisationer realisera affärskritiska utvecklingsprojekt. 
+## Passion för teknik
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+På Etimo förenas vi av en passion för att utveckla digitala lösningar, modern teknik och en vilja att göra samhällsnytta. Vi drivs av att skapa lösningar som gör skillnad och prioriterar alltid kundvärde och användarnytta.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+
+
+Ta dig över till [Etimos huvidsida](https://etimo.se) om du vill veta mer.
+
