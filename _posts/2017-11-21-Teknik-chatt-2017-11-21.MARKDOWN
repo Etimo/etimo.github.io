@@ -1,0 +1,71 @@
+---
+layout: post
+title: Teknik-chatt 2017-11-21
+---
+### daniel.winther - 2017-11-21 06:41 13s
+Elastic search version 6 släpptes i förra veckan för den som missat det. Många gottiga funktioner! Lagom till vi börjar med Photo Garden. 
+
+[https://www.elastic.co/blog/elasticsearch-6-0-0-released](https://www.elastic.co/blog/elasticsearch-6-0-0-released)
+### daniel.winther - 2017-11-21 07:15 56s
+Gällande innovation i sparande och ekonomi som vi har pratat om tidigare. Tipsade då om appen Dreams. Har provkört den nu i typ 7 månader och lyckats spara ihop 7659kr utan att jag knappt märkt det. Och när jag skriver ”knappt märkt det” så menar jag inte med nån dryg ton utan mer att appen är väldigt duktig på att spara diskret. 10-50kr här och där vid konstiga tillfällen, allt ifrån att dra pengar vid konstiga högtider (star wars-dagen tex) till att dra pengar vid fullmåne, nån gång varje vecka etc. små summor så man inte tänker på att pengar försvinner men här ser man tydligt ”många bäckar små...”. 
+
+Dreams - Spara till drömmar av Dreams Nordic AB[https://itunes.apple.com/se/app/dreams-spara-till-dr%C3%B6mmar/id1083073963?mt=8](https://itunes.apple.com/se/app/dreams-spara-till-dr%C3%B6mmar/id1083073963?mt=8)
+
+
+### daniel.winther - 2017-11-21 07:16 17s
+@daniel.winther uploaded a file: [https://etimo.slack.com/files/U29DWKE4C/F82QPU49E/image_uploaded_from_ios.png|Dreams spara pengar](https://etimo.slack.com/files/U29DWKE4C/F82QPU49E/image_uploaded_from_ios.png|Dreams spara pengar)
+### oscarnylander - 2017-11-21 09:38 36s
+Låter intressant! Hur fungerar den? Drar den små summor för att skapa ett större sparande över tid eller gör den något annat?
+### johanhazelius - 2017-11-21 09:42 29s
+@erik.malm tittade snabbt på vår diamonds och noterade att uppdateringen med "väggar" inte är optimal tillsammans med de för tillfället "korkade" bottar som spelar; bottarna fastnar ofta snabbt på en vägg. Föreslår därför att vi inaktiverar väggarna tillfälligt. Om vi vill lägga upp en smartare bot så kan vi sedan slå på väggarna igen. Vad tror du om det?
+### erik.malm - 2017-11-21 09:43 23s
+Japp, går enkelt. Vill du göra ett försök? Annars kör jag en snabb uppdatering ikväll.
+### erik.malm - 2017-11-21 09:43 56s
+Det är bara att ta bort den generatorn i GameObjectGenerator
+### johanhazelius - 2017-11-21 09:47 47s
+Enklast att du ordnar det, jag har inte miljöer på plats för att kunna lösa det:( 
+### oscarnylander - 2017-11-21 09:48 07s
+jag kan kanske lösa det
+### oscarnylander - 2017-11-21 09:48 09s
+eller
+### oscarnylander - 2017-11-21 09:48 13s
+helst inte :wink:
+### daniel.winther - 2017-11-21 09:48 35s
+@oscarnylander ja den drar en massa småsummor. Man aktiverar olika triggers som reagerar på olika saker (datum, månen, helgdagar, per månad, per vecka, slumpmässiga etc).
+### oscarnylander - 2017-11-21 09:55 49s
+Häftigt!
+### joakoles - 2017-11-21 10:37 28s
+När vi diskuterade teleport och väggar för ett tag sedan tyckte jag och @daniel.winther att vi bör hålla det lite enklare på det officiella/primära brädet. (Rätta mig om jag har fel @daniel.winther) Om vi ska ha väggar och teleport bör de sakerna i så fall ligga på ett annat bräde. Vad tycker ni andra om det?
+### daniel.winther - 2017-11-21 10:38 17s
+Du har uppfattat mig rätt @joakoles 
+### joakoles - 2017-11-21 10:39 05s
+Skälet är att det inte ska vara för hög tröskel för studenter
+### joakoles - 2017-11-21 10:39 32s
+(och kanske för våra botar)
+### oscarnylander - 2017-11-21 11:13 22s
+Någon som sett SQL Operations Studio? [https://github.com/Microsoft/sqlopsstudio](https://github.com/Microsoft/sqlopsstudio)
+Verkar vara ett vscode-style alternativ till SQL Server Management Studio som microsoft nyss kommit ut med. Intressant om de lägger till support för andra databaser också!
+### oscarnylander - 2017-11-21 11:15 47s
+Idé för applikation liknande Dream: app som kollar din transaktionshistorik och räknar ut saker du kan spara pengar på utan större ingrepp (med typ machine learning eller liknande)
+### daniel.winther - 2017-11-21 11:31 40s
+@oscarnylander laddade ner en ny app idag, Zlantar, som gör ungefär det. Visar allt som tink gör men listar också alla avtal den hittar transaktioner för, typ el vatten, mobil, försäkringar etc. dessa hittas med nån ai som blir bättre över tid. I appen kan man den få förslag på bättre avtal, får se hur det funkar i praktiken. 
+
+[https://itunes.apple.com/se/app/zlantar/id1239432790?mt=8](https://itunes.apple.com/se/app/zlantar/id1239432790?mt=8)
+### oscarnylander - 2017-11-21 11:32 52s
+neat!
+### jenspeterolsson - 2017-11-21 11:35 17s
+Ang botar i diamonds så diskuterade Erik och jag att man kanske skulle kunna skicka in flaggor när man reggar sig. Om man ska hamna på officiell high score eller inte, vilka features man vill ha etc. vi pratade också om att om man reggar sig med en etimoadress kanske man automatiskt ska hamna på etimos scoreboard som är dold och inte den officiella. 
+### jenspeterolsson - 2017-11-21 11:36 12s
+@erik.malm så jag minns det iaf ;-)
+### erik.malm - 2017-11-21 01:51 15s
+Jo, @jenspeterolsson det diskuterade vi. Tycker det är en bra sak du för nästa Diamonds sprint.
+### daniel.winther - 2017-11-21 03:42 55s
+BIOS pensioneras snart. Nostalgi för oss som byggde datorer när vi var unga :blush:
+
+[https://techworld.idg.se/2.2524/1.692896/intel-pensionerar-bios](https://techworld.idg.se/2.2524/1.692896/intel-pensionerar-bios)
+### joakoles - 2017-11-21 08:18 23s
+Jisses, hur konfigurerar man då spänning, multipel och fsb-frekvens när man överklockar? Jag har inte överklockat på många år, gör man på annat sätt nu?
+### daniel.winther - 2017-11-21 08:34 06s
+Ja du @joakoles ingen aning :smile: länge sen jag gjorde sånt också
+### johanhazelius - 2017-11-21 10:13 57s
+@daniel.winther intressant app du hittade, om det nu fungerar med avtalsjämförelse så är det ett verkligt värde för användaren tycker jag! Återstår väl att se om AI:t verkligen levererar eller om det är ännu en fin ide som inte riktigt funkar..
