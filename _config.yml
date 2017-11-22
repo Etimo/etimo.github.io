@@ -1,5 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/etimo-blog"
+#baseurl: "/etimo-blog"
+baseurl: ""
 url: "https://etimo.se"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -16,7 +17,7 @@ theme_settings:
      <p>En teknikblogg i chattformat. Följ diskussionen.</p>
 
      <p>Läs mer på <a href="https://etimo.se">Etimo.se</a></p>
-  header_text_feature_image: assets/Code.jpg
+  header_text_feature_image: assets/Code-crop.jpg
   footer_text: >
         <p>Lärt dig något? Dela med dig!</p>
   # Icons
