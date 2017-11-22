@@ -16,7 +16,7 @@ theme_settings:
   header_text: >
      <p>En teknikblogg i chattformat. Följ diskussionen.</p>
 
-     <p>Läs mer på <a href="https://etimo.se">Etimo.se</a></p>
+     <p>Läs mer på <a class="greatminds" href="https://etimo.se">Etimo.se</a></p>
   header_text_feature_image: assets/Code-crop.jpg
   footer_text: >
         <p>Lärt dig något? Dela med dig!</p>
