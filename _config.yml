@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-#baseurl: "/etimo-blog"
-baseurl: ""
+baseurl: "/etimo-blog"
+#baseurl: ""
 url: "https://etimo.se"
 
 # THEME-SPECIFIC CONFIGURATION
