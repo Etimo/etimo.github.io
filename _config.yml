@@ -2,11 +2,11 @@
 baseurl: ""
 #baseurl: ""
 url: "https://etimo.se"
-
+title: "Etimo tech tidbits"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Etimo tech tidbits
+  title: "Etimo tech tidbits"
   avatar: assets/etimo-blue-transp-ico.svg
   favicon: assets/favicon.png
   gravatar: # Email MD5 hash
