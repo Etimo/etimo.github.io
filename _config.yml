@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/etimo-blog"
+baseurl: ""
 #baseurl: ""
 url: "https://etimo.se"
 
