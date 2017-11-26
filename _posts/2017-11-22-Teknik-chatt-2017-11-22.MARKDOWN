@@ -3,28 +3,28 @@ layout: post
 title: Teknik-chatt 2017-11-22
 ---
 ### daniel.winther - 2017-11-22 05:18 48s
-@johanhazelius den verkar ha hittat alla avtal jag har iaf. Sen är det ju flera saker den har svårt att avgöra om avtalet är bra eller dåligt, tex el eller vatten då det innebär en förbrukningskostnad. Vet inte om deras ai kommer in där och kanske kollar geografiskt för att få fram nån slags statistik eller nåt. Återstår att se. 
+@johanhazelius den verkar ha hittat alla avtal jag har iaf. Sen ?r det ju flera saker den har sv?rt att avg?ra om avtalet ?r bra eller d?ligt, tex el eller vatten d? det inneb?r en f?rbrukningskostnad. Vet inte om deras ai kommer in d?r och kanske kollar geografiskt f?r att f? fram n?n slags statistik eller n?t. ?terst?r att se. 
 ### daniel.winther - 2017-11-22 05:19 53s
-@daniel.winther uploaded a file: [https://etimo.slack.com/files/U29DWKE4C/F846R6F53/image_uploaded_from_ios.png|Avtal för vatten](https://etimo.slack.com/files/U29DWKE4C/F846R6F53/image_uploaded_from_ios.png|Avtal för vatten) and commented: Avtalet för vatten är tex kvartalsbaserat så att den säger att det kostar 5400kr/mån är rätt fel. Får se om den justerar över tid. 
+@daniel.winther uploaded a file: [https://etimo.slack.com/files/U29DWKE4C/F846R6F53/image_uploaded_from_ios.png|Avtal f?r vatten](https://etimo.slack.com/files/U29DWKE4C/F846R6F53/image_uploaded_from_ios.png|Avtal f?r vatten) and commented: Avtalet f?r vatten ?r tex kvartalsbaserat s? att den s?ger att det kostar 5400kr/m?n ?r r?tt fel. F?r se om den justerar ?ver tid. 
 ### oscarnylander - 2017-11-22 08:45 53s
 Intressant!
 ### johanhazelius - 2017-11-22 11:18 12s
-Ja, klart spännande:)
+Ja, klart sp?nnande:)
 ### jenspeterolsson - 2017-11-22 03:51 27s
-Har kollat lite på integrationer mellan Trello och Github issues. Det går att lösa antingen genom att man manuellt (med en power-up för Github) länkar issues från ett kort i trello, alternativt att man installerar och konfigurerar en integration från Github till Trello som gör synken automatiskt. Jag tror inte på ett workflow med en manuell synk och att konfigurera och underhålla den här typen av administrativa integrationer känner jag också lite tvekan inför. Så mitt förslag är att vi fortsätter tills vidare att bara jobba med issues i Github men att vi alltid committar med issue nr. T.ex. för issue 19 i Github för Diamonds så har jag för en commit angett commit message "#19 test commit with marked issue" och #19 gör då att denna commit blir länkad till issuen i Github. Jag tycker att det räcker i steg 1 och att vi kan administrera vår backlog utifrån milestones (t,ex. releaser) och taggar (labels). Blir det ohanterligt i längden kan vi ta upp frågan igen. Vad tycker ni andra?
+Har kollat lite p? integrationer mellan Trello och Github issues. Det g?r att l?sa antingen genom att man manuellt (med en power-up f?r Github) l?nkar issues fr?n ett kort i trello, alternativt att man installerar och konfigurerar en integration fr?n Github till Trello som g?r synken automatiskt. Jag tror inte p? ett workflow med en manuell synk och att konfigurera och underh?lla den h?r typen av administrativa integrationer k?nner jag ocks? lite tvekan inf?r. S? mitt f?rslag ?r att vi forts?tter tills vidare att bara jobba med issues i Github men att vi alltid committar med issue nr. T.ex. f?r issue 19 i Github f?r Diamonds s? har jag f?r en commit angett commit message "#19 test commit with marked issue" och #19 g?r d? att denna commit blir l?nkad till issuen i Github. Jag tycker att det r?cker i steg 1 och att vi kan administrera v?r backlog utifr?n milestones (t,ex. releaser) och taggar (labels). Blir det ohanterligt i l?ngden kan vi ta upp fr?gan igen. Vad tycker ni andra?
 ### joakoles - 2017-11-22 04:04 10s
-Jag tycker det låter bra @jenspeterolsson. Jag tror inte det är värdefullt att lägga krut på automatisk integration i detta läget och jag tycker heller inte en manuell synk är att föredra.
+Jag tycker det l?ter bra @jenspeterolsson. Jag tror inte det ?r v?rdefullt att l?gga krut p? automatisk integration i detta l?get och jag tycker heller inte en manuell synk ?r att f?redra.
 ### daniel.winther - 2017-11-22 06:59 21s
-Jag tycker också det låter bra
+Jag tycker ocks? det l?ter bra
 ### jenspeterolsson - 2017-11-22 08:20 34s
-Sitter och leker lite med xunit i vs code. Kör Fizzbuzz! Lite udda att man behöver ange verbosity som quiet för att få någon vettig output out of the box (går såklart att konfigurera i ett seriöst projekt).
+Sitter och leker lite med xunit i vs code. K?r Fizzbuzz! Lite udda att man beh?ver ange verbosity som quiet f?r att f? n?gon vettig output out of the box (g?r s?klart att konfigurera i ett seri?st projekt).
 ### jenspeterolsson - 2017-11-22 08:21 21s
 @jenspeterolsson uploaded a file: [https://etimo.slack.com/files/U44MC0WLT/F84C59DEX/-.cs|Untitled](https://etimo.slack.com/files/U44MC0WLT/F84C59DEX/-.cs|Untitled)
 ### jenspeterolsson - 2017-11-22 08:21 31s
-Ger t.ex. följande output för ett test =&gt;
+Ger t.ex. f?ljande output f?r ett test =&gt;
 ### jenspeterolsson - 2017-11-22 08:22 07s
 @jenspeterolsson uploaded a file: [https://etimo.slack.com/files/U44MC0WLT/F84JJ98TX/-.cs|Untitled](https://etimo.slack.com/files/U44MC0WLT/F84JJ98TX/-.cs|Untitled)
 ### jenspeterolsson - 2017-11-22 08:22 40s
-Och det är som sagt med quiet :wink:
+Och det ?r som sagt med quiet :wink:
 ### jenspeterolsson - 2017-11-22 08:26 54s
-Dessutom tar det alldeles för lång tid att köra testerna p.g.a. kompilering när man är van med node...
+Dessutom tar det alldeles f?r l?ng tid att k?ra testerna p.g.a. kompilering n?r man ?r van med node...

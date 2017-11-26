@@ -3,15 +3,15 @@ layout: post
 title: Teknik-chatt 2017-11-20
 ---
 ### johanhazelius - 2017-11-20 10:14 55s
-Den 19e dec har vi nästa Etimo challange. Jag tänkte att vi kör en julmiddag på stan efter (vanlig mat, det brukar bli tillräckligt med julmat ändå..). Men innan jag bokar något vill jag höra hur tillgängligheten ser ut. Meddela mig (på privat kanal!) om ni kan köra middag den 19/12?
+Den 19e dec har vi n?sta Etimo challange. Jag t?nkte att vi k?r en julmiddag p? stan efter (vanlig mat, det brukar bli tillr?ckligt med julmat ?nd?..). Men innan jag bokar n?got vill jag h?ra hur tillg?ngligheten ser ut. Meddela mig (p? privat kanal!) om ni kan k?ra middag den 19/12?
 ### oscarnylander - 2017-11-20 11:48 09s
-[https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md](https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md) Span&lt;T&gt;, någon som har några åsikter?
+[https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md](https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md) Span&lt;T&gt;, n?gon som har n?gra ?sikter?
 ### joakoles - 2017-11-20 12:46 50s
-Intressant, men jag ser inte att jag har så stor nytta av det i sånt jag brukar jobba med.
+Intressant, men jag ser inte att jag har s? stor nytta av det i s?nt jag brukar jobba med.
 ### oscarnylander - 2017-11-20 12:48 49s
 [https://medium.com/postverta/announcing-postverta-721a24557525](https://medium.com/postverta/announcing-postverta-721a24557525)
-Verkar vara en intressant kombination av tjänster som [http://c9.io|c9.io](http://c9.io|c9.io) med lite mer PaaS inbyggt!
+Verkar vara en intressant kombination av tj?nster som [http://c9.io|c9.io](http://c9.io|c9.io) med lite mer PaaS inbyggt!
 ### joakoles - 2017-11-20 08:14 37s
-Kopplat till vår tidigare diskussion om att samarbeta från distans: Nu har Visual Studio Live Share släppts och det har stöd både för visual studio code och visual studio (om man vill kan den ena köra visual studio code och den andra visual studio): [https://code.visualstudio.com/visual-studio-live-share](https://code.visualstudio.com/visual-studio-live-share) De första 6 minuterna i videon handlar om det så man kan skippa den sista delen (som dock visar bra features i visual studio code). 
+Kopplat till v?r tidigare diskussion om att samarbeta fr?n distans: Nu har Visual Studio Live Share sl?ppts och det har st?d b?de f?r visual studio code och visual studio (om man vill kan den ena k?ra visual studio code och den andra visual studio): [https://code.visualstudio.com/visual-studio-live-share](https://code.visualstudio.com/visual-studio-live-share) De f?rsta 6 minuterna i videon handlar om det s? man kan skippa den sista delen (som dock visar bra features i visual studio code). 
 
-Ett annat alternativ om man kör slack är att helt enkelt dela sin skärm via slack (och ha röstsamtal samtidigt). Det gör jag ofta och det fungerar bra.
+Ett annat alternativ om man k?r slack ?r att helt enkelt dela sin sk?rm via slack (och ha r?stsamtal samtidigt). Det g?r jag ofta och det fungerar bra.
