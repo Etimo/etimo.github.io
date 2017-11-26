@@ -1,0 +1,18 @@
+---
+layout: post
+title: Teknik-chatt 2017-11-23
+---
+### daniel.winther - 2017-11-23 06:45 52s
+Ja det ?r en sk?n k?nsla n?r testerna k?rs instant :smile:
+
+
+### jenspeterolsson - 2017-11-23 06:57 05s
+Provade inte med dotnet watch test dock, ska g?ra det n?sta g?ng, men kompileringstiden finns v?l d?r ?nd?. 
+### daniel.winther - 2017-11-23 07:39 05s
+Hipp hipp hurra f?r @jens.hunt idag! :birthday::gift::champagne::balloon::tada:
+### joakoles - 2017-11-23 07:39 39s
+Ha den ?ran @jens.hunt :blush:
+### oscarnylander - 2017-11-23 08:06 36s
+@jens.hunt :tada: :cake:
+### joakoles - 2017-11-23 08:37 51s
+Om man k?r visual studio (ej code) kan man k?ra med [http://www.ncrunch.net/](http://www.ncrunch.net/) och om man k?r visual studio enterprise kan man k?ra med live unit testing som ing?r: [https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/](https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/) Jag tror att b?da l?sningar k?r tester automatiskt n?r man sparat en fil. Det st?mmer att koden kompileras f?rst.
