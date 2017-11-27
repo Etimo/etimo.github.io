@@ -3,9 +3,9 @@ layout: post
 title: Teknik-chatt 2017-11-24
 ---
 ### jenspeterolsson - 2017-11-24 07:36 51s
-N?r vi k?r ig?ng photo garden, vill vi fortfarande k?ra trunk based i git eller med tex git flow och pull requests? Vi beh?ver inte dra den allm?nna diskussionen ett varv till - tror alla insett att trunk based egentligen ALLTID ?r b?st ha ha - men mer pragmatiskt s? t?nker jag att trunk based ?r b?st och smidigast f?r oss men att jag och s?kert flera andra hade haft nytta inf?r kunduppdrag att bli vassare p? att jobba med github som plattform inkl Code reviews
+När vi kör igång photo garden, vill vi fortfarande köra trunk based i git eller med tex git flow och pull requests? Vi behöver inte dra den allmänna diskussionen ett varv till - tror alla insett att trunk based egentligen ALLTID är bäst ha ha - men mer pragmatiskt så tänker jag att trunk based är bäst och smidigast för oss men att jag och säkert flera andra hade haft nytta inför kunduppdrag att bli vassare på att jobba med github som plattform inkl Code reviews
 ### oscarnylander - 2017-11-24 08:14 02s
-jag f?respr?kar trunk med korta branches i PRs
+jag förespråkar trunk med korta branches i PRs
 ### oscarnylander - 2017-11-24 08:14 09s
 dvs branch -&gt; merge to master
 ### oscarnylander - 2017-11-24 08:14 17s
@@ -13,10 +13,10 @@ ingen dev/master
 ### daniel.winther - 2017-11-24 08:14 48s
 Jag tycker det har funkat bra med trunkbased 
 ### jenspeterolsson - 2017-11-24 08:20 54s
-Ha ha, nu k?r vi ju diskussionen igen i alla fall! Men jag k?r g?rna trunk based och branches vid behov (och att vi som sagt oavsett taggar v?ra commits med issue #), men jag har inga problem med git flow och pull requests heller om n?gon ?r sugen p? det
+Ha ha, nu kör vi ju diskussionen igen i alla fall! Men jag kör gärna trunk based och branches vid behov (och att vi som sagt oavsett taggar våra commits med issue #), men jag har inga problem med git flow och pull requests heller om någon är sugen på det
 ### jenspeterolsson - 2017-11-24 08:21 44s
-Vad s?ger ?vriga?
+Vad säger övriga?
 ### joakoles - 2017-11-24 08:44 08s
-Om vi l?gger stor vikt vid kodgranskning r?star jag p? brancher och PR (evt. med feature toggles) annars r?star jag p? trunk-based med feature toggles.
+Om vi lägger stor vikt vid kodgranskning röstar jag på brancher och PR (evt. med feature toggles) annars röstar jag på trunk-based med feature toggles.
 ### jenspeterolsson - 2017-11-24 08:59 21s
-+1 p? feature toggles oavsett, det borde vi f? in relativt tidigt
++1 på feature toggles oavsett, det borde vi få in relativt tidigt

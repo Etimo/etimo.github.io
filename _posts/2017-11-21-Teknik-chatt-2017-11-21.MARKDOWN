@@ -3,69 +3,69 @@ layout: post
 title: Teknik-chatt 2017-11-21
 ---
 ### daniel.winther - 2017-11-21 05:41 13s
-Elastic search version 6 sl?pptes i f?rra veckan f?r den som missat det. M?nga gottiga funktioner! Lagom till vi b?rjar med Photo Garden. 
+Elastic search version 6 släpptes i förra veckan för den som missat det. Många gottiga funktioner! Lagom till vi börjar med Photo Garden. 
 
 [https://www.elastic.co/blog/elasticsearch-6-0-0-released](https://www.elastic.co/blog/elasticsearch-6-0-0-released)
 ### daniel.winther - 2017-11-21 06:15 56s
-G?llande innovation i sparande och ekonomi som vi har pratat om tidigare. Tipsade d? om appen Dreams. Har provk?rt den nu i typ 7 m?nader och lyckats spara ihop 7659kr utan att jag knappt m?rkt det. Och n?r jag skriver ?knappt m?rkt det? s? menar jag inte med n?n dryg ton utan mer att appen ?r v?ldigt duktig p? att spara diskret. 10-50kr h?r och d?r vid konstiga tillf?llen, allt ifr?n att dra pengar vid konstiga h?gtider (star wars-dagen tex) till att dra pengar vid fullm?ne, n?n g?ng varje vecka etc. sm? summor s? man inte t?nker p? att pengar f?rsvinner men h?r ser man tydligt ?m?nga b?ckar sm?...?. 
+Gällande innovation i sparande och ekonomi som vi har pratat om tidigare. Tipsade då om appen Dreams. Har provkört den nu i typ 7 månader och lyckats spara ihop 7659kr utan att jag knappt märkt det. Och när jag skriver ”knappt märkt det” så menar jag inte med nån dryg ton utan mer att appen är väldigt duktig på att spara diskret. 10-50kr här och där vid konstiga tillfällen, allt ifrån att dra pengar vid konstiga högtider (star wars-dagen tex) till att dra pengar vid fullmåne, nån gång varje vecka etc. små summor så man inte tänker på att pengar försvinner men här ser man tydligt ”många bäckar små...”. 
 
-Dreams - Spara till dr?mmar av Dreams Nordic AB[https://itunes.apple.com/se/app/dreams-spara-till-dr%C3%B6mmar/id1083073963?mt=8](https://itunes.apple.com/se/app/dreams-spara-till-dr%C3%B6mmar/id1083073963?mt=8)
+Dreams - Spara till drömmar av Dreams Nordic AB[https://itunes.apple.com/se/app/dreams-spara-till-dr%C3%B6mmar/id1083073963?mt=8](https://itunes.apple.com/se/app/dreams-spara-till-dr%C3%B6mmar/id1083073963?mt=8)
 
 
 ### daniel.winther - 2017-11-21 06:16 17s
 @daniel.winther uploaded a file: [https://etimo.slack.com/files/U29DWKE4C/F82QPU49E/image_uploaded_from_ios.png|Dreams spara pengar](https://etimo.slack.com/files/U29DWKE4C/F82QPU49E/image_uploaded_from_ios.png|Dreams spara pengar)
 ### oscarnylander - 2017-11-21 08:38 36s
-L?ter intressant! Hur fungerar den? Drar den sm? summor f?r att skapa ett st?rre sparande ?ver tid eller g?r den n?got annat?
+Låter intressant! Hur fungerar den? Drar den små summor för att skapa ett större sparande över tid eller gör den något annat?
 ### johanhazelius - 2017-11-21 08:42 29s
-@erik.malm tittade snabbt p? v?r diamonds och noterade att uppdateringen med "v?ggar" inte ?r optimal tillsammans med de f?r tillf?llet "korkade" bottar som spelar; bottarna fastnar ofta snabbt p? en v?gg. F?resl?r d?rf?r att vi inaktiverar v?ggarna tillf?lligt. Om vi vill l?gga upp en smartare bot s? kan vi sedan sl? p? v?ggarna igen. Vad tror du om det?
+@erik.malm tittade snabbt på vår diamonds och noterade att uppdateringen med "väggar" inte är optimal tillsammans med de för tillfället "korkade" bottar som spelar; bottarna fastnar ofta snabbt på en vägg. Föreslår därför att vi inaktiverar väggarna tillfälligt. Om vi vill lägga upp en smartare bot så kan vi sedan slå på väggarna igen. Vad tror du om det?
 ### erik.malm - 2017-11-21 08:43 23s
-Japp, g?r enkelt. Vill du g?ra ett f?rs?k? Annars k?r jag en snabb uppdatering ikv?ll.
+Japp, går enkelt. Vill du göra ett försök? Annars kör jag en snabb uppdatering ikväll.
 ### erik.malm - 2017-11-21 08:43 56s
-Det ?r bara att ta bort den generatorn i GameObjectGenerator
+Det är bara att ta bort den generatorn i GameObjectGenerator
 ### johanhazelius - 2017-11-21 08:47 47s
-Enklast att du ordnar det, jag har inte milj?er p? plats f?r att kunna l?sa det:( 
+Enklast att du ordnar det, jag har inte miljöer på plats för att kunna lösa det:( 
 ### oscarnylander - 2017-11-21 08:48 07s
-jag kan kanske l?sa det
+jag kan kanske lösa det
 ### oscarnylander - 2017-11-21 08:48 09s
 eller
 ### oscarnylander - 2017-11-21 08:48 13s
 helst inte :wink:
 ### daniel.winther - 2017-11-21 08:48 35s
-@oscarnylander ja den drar en massa sm?summor. Man aktiverar olika triggers som reagerar p? olika saker (datum, m?nen, helgdagar, per m?nad, per vecka, slumpm?ssiga etc).
+@oscarnylander ja den drar en massa småsummor. Man aktiverar olika triggers som reagerar på olika saker (datum, månen, helgdagar, per månad, per vecka, slumpmässiga etc).
 ### oscarnylander - 2017-11-21 08:55 49s
-H?ftigt!
+Häftigt!
 ### joakoles - 2017-11-21 09:37 28s
-N?r vi diskuterade teleport och v?ggar f?r ett tag sedan tyckte jag och @daniel.winther att vi b?r h?lla det lite enklare p? det officiella/prim?ra br?det. (R?tta mig om jag har fel @daniel.winther) Om vi ska ha v?ggar och teleport b?r de sakerna i s? fall ligga p? ett annat br?de. Vad tycker ni andra om det?
+När vi diskuterade teleport och väggar för ett tag sedan tyckte jag och @daniel.winther att vi bör hålla det lite enklare på det officiella/primära brädet. (Rätta mig om jag har fel @daniel.winther) Om vi ska ha väggar och teleport bör de sakerna i så fall ligga på ett annat bräde. Vad tycker ni andra om det?
 ### daniel.winther - 2017-11-21 09:38 17s
-Du har uppfattat mig r?tt @joakoles 
+Du har uppfattat mig rätt @joakoles 
 ### joakoles - 2017-11-21 09:39 05s
-Sk?let ?r att det inte ska vara f?r h?g tr?skel f?r studenter
+Skälet är att det inte ska vara för hög tröskel för studenter
 ### joakoles - 2017-11-21 09:39 32s
-(och kanske f?r v?ra botar)
+(och kanske för våra botar)
 ### oscarnylander - 2017-11-21 10:13 22s
-N?gon som sett SQL Operations Studio? [https://github.com/Microsoft/sqlopsstudio](https://github.com/Microsoft/sqlopsstudio)
-Verkar vara ett vscode-style alternativ till SQL Server Management Studio som microsoft nyss kommit ut med. Intressant om de l?gger till support f?r andra databaser ocks?!
+Någon som sett SQL Operations Studio? [https://github.com/Microsoft/sqlopsstudio](https://github.com/Microsoft/sqlopsstudio)
+Verkar vara ett vscode-style alternativ till SQL Server Management Studio som microsoft nyss kommit ut med. Intressant om de lägger till support för andra databaser också!
 ### oscarnylander - 2017-11-21 10:15 47s
-Id? f?r applikation liknande Dream: app som kollar din transaktionshistorik och r?knar ut saker du kan spara pengar p? utan st?rre ingrepp (med typ machine learning eller liknande)
+Idé för applikation liknande Dream: app som kollar din transaktionshistorik och räknar ut saker du kan spara pengar på utan större ingrepp (med typ machine learning eller liknande)
 ### daniel.winther - 2017-11-21 10:31 40s
-@oscarnylander laddade ner en ny app idag, Zlantar, som g?r ungef?r det. Visar allt som tink g?r men listar ocks? alla avtal den hittar transaktioner f?r, typ el vatten, mobil, f?rs?kringar etc. dessa hittas med n?n ai som blir b?ttre ?ver tid. I appen kan man den f? f?rslag p? b?ttre avtal, f?r se hur det funkar i praktiken. 
+@oscarnylander laddade ner en ny app idag, Zlantar, som gör ungefär det. Visar allt som tink gör men listar också alla avtal den hittar transaktioner för, typ el vatten, mobil, försäkringar etc. dessa hittas med nån ai som blir bättre över tid. I appen kan man den få förslag på bättre avtal, får se hur det funkar i praktiken. 
 
 [https://itunes.apple.com/se/app/zlantar/id1239432790?mt=8](https://itunes.apple.com/se/app/zlantar/id1239432790?mt=8)
 ### oscarnylander - 2017-11-21 10:32 52s
 neat!
 ### jenspeterolsson - 2017-11-21 10:35 17s
-Ang botar i diamonds s? diskuterade Erik och jag att man kanske skulle kunna skicka in flaggor n?r man reggar sig. Om man ska hamna p? officiell high score eller inte, vilka features man vill ha etc. vi pratade ocks? om att om man reggar sig med en etimoadress kanske man automatiskt ska hamna p? etimos scoreboard som ?r dold och inte den officiella. 
+Ang botar i diamonds så diskuterade Erik och jag att man kanske skulle kunna skicka in flaggor när man reggar sig. Om man ska hamna på officiell high score eller inte, vilka features man vill ha etc. vi pratade också om att om man reggar sig med en etimoadress kanske man automatiskt ska hamna på etimos scoreboard som är dold och inte den officiella. 
 ### jenspeterolsson - 2017-11-21 10:36 12s
-@erik.malm s? jag minns det iaf ;-)
+@erik.malm så jag minns det iaf ;-)
 ### erik.malm - 2017-11-21 12:51 15s
-Jo, @jenspeterolsson det diskuterade vi. Tycker det ?r en bra sak du f?r n?sta Diamonds sprint.
+Jo, @jenspeterolsson det diskuterade vi. Tycker det är en bra sak du för nästa Diamonds sprint.
 ### daniel.winther - 2017-11-21 02:42 55s
-BIOS pensioneras snart. Nostalgi f?r oss som byggde datorer n?r vi var unga :blush:
+BIOS pensioneras snart. Nostalgi för oss som byggde datorer när vi var unga :blush:
 
 [https://techworld.idg.se/2.2524/1.692896/intel-pensionerar-bios](https://techworld.idg.se/2.2524/1.692896/intel-pensionerar-bios)
 ### joakoles - 2017-11-21 07:18 23s
-Jisses, hur konfigurerar man d? sp?nning, multipel och fsb-frekvens n?r man ?verklockar? Jag har inte ?verklockat p? m?nga ?r, g?r man p? annat s?tt nu?
+Jisses, hur konfigurerar man då spänning, multipel och fsb-frekvens när man överklockar? Jag har inte överklockat på många år, gör man på annat sätt nu?
 ### daniel.winther - 2017-11-21 07:34 06s
-Ja du @joakoles ingen aning :smile: l?nge sen jag gjorde s?nt ocks?
+Ja du @joakoles ingen aning :smile: länge sen jag gjorde sånt också
 ### johanhazelius - 2017-11-21 09:13 57s
-@daniel.winther intressant app du hittade, om det nu fungerar med avtalsj?mf?relse s? ?r det ett verkligt v?rde f?r anv?ndaren tycker jag! ?terst?r v?l att se om AI:t verkligen levererar eller om det ?r ?nnu en fin ide som inte riktigt funkar..
+@daniel.winther intressant app du hittade, om det nu fungerar med avtalsjämförelse så är det ett verkligt värde för användaren tycker jag! Återstår väl att se om AI:t verkligen levererar eller om det är ännu en fin ide som inte riktigt funkar..
