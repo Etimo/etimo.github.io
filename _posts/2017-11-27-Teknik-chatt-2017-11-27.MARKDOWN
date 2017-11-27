@@ -1,0 +1,19 @@
+---
+layout: post
+title: Teknik-chatt 2017-11-27
+---
+### oscarnylander - 2017-11-27 07:29 01s
+Lisp implementerat på färre än 200 rader C:
+[https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
+### johanhazelius - 2017-11-27 07:31 23s
+Snyggt:grin: 
+### daniel.winther - 2017-11-27 07:32 47s
+Oj herregud
+### oscarnylander - 2017-11-27 07:33 21s
+Lisp är ett förvånansvärt simpelt språk att implementera :slightly_smiling_face:
+### daniel.winther - 2017-11-27 07:33 41s
+Ja uppenbarligen :smile:
+### erik.malm - 2017-11-27 04:18 49s
+Har de löst problemet med att lisp är nittio procent parenteser?
+### daniel.winther - 2017-11-27 05:00 17s
+:joy:
