@@ -1,0 +1,30 @@
+---
+layout: post
+title: Teknik-chatt 2017-11-28
+---
+### jenspeterolsson - 2017-11-28 07:01 30s
+Någon mer än jag som höll på med amos? Faktum är att jag på fullt allvar tycker att [http://vb.net|vb.net](http://vb.net|vb.net) är/var minst lika bra som c# men eftersom ingen förstår det så...
+### jenspeterolsson - 2017-11-28 07:01 34s
+[https://sourceforge.net/projects/xamos/](https://sourceforge.net/projects/xamos/)
+### daniel.winther - 2017-11-28 07:07 58s
+Aldrig hört talas om. Men kul att du nämner vb :blush: själv tyckte jag inte .net varianten var jättekul utan i den vevan gick jag över till c#. Däremot var det visual basic som på allvar fick mig att programmera. Från vb3 till vb6, underbar tid! Nånstans där innan har jag nåt minne av qbasic i dos. Sen börjar minnena tona ut, man börjar ju bli till åren nu...
+### daniel.winther - 2017-11-28 07:08 17s
+@jenspeterolsson du måste ju ha suttit med vb också innan .net?
+### jenspeterolsson - 2017-11-28 07:26 00s
+@daniel.winther Nope. Amos var på Amiga, och sedan jobbade jag med c++, powerbuilder (!) och bash script mest innan c#. Men på IKEA satt jag under flera års tid med [http://vb.net|vb.net](http://vb.net|vb.net) och gillar tydligheten i syntaxen. Lite som Python...
+### erik.malm - 2017-11-28 07:37 18s
+AMOS var nåt vi Atari ST ägare bara suktade efter. Köpte och läste Amiga/Commodore tidningar med AMOS tutorials och C64 program som man skrev in själv. Massor av Poke &lt;Slumpmässig siffra här&gt; statements i rad. Jag hade ingen C64 heller.
+### jenspeterolsson - 2017-11-28 07:48 35s
+Fail hela vägen alltså @erik.malm 
+### jenspeterolsson - 2017-11-28 07:49 07s
+Och se hur långt du har kommit ändå :grimacing:
+### erik.malm - 2017-11-28 07:55 17s
+Klar fail hela vägen, men det är kanske ett tecken om man tycker "Poke" listor i tryck är sjukt bra läsning.
+### jenspeterolsson - 2017-11-28 08:20 36s
+Ha ha min lillebrors kompis sa senast jag träffade honom hur sjukt imponerade de var på den tiden av alla som programmerade ”på riktigt” och inte bara skrev av kodlistningar från datormagazine
+### jenspeterolsson - 2017-11-28 08:21 36s
+Men Amiga, c64 och st var helt klart bra skolor
+### jenspeterolsson - 2017-11-28 08:21 47s
+Och inte minst datormagazine
+### daniel.winther - 2017-11-28 08:22 34s
+Datormagazine var grym!
