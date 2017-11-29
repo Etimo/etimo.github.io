@@ -9,10 +9,10 @@ Ja det är en skön känsla när testerna körs instant :smile:
 ### jenspeterolsson - 2017-11-23 06:57 05s
 Provade inte med dotnet watch test dock, ska göra det nästa gång, men kompileringstiden finns väl där ändå. 
 ### daniel.winther - 2017-11-23 07:39 05s
-Hipp hipp hurra för @jens.hunt idag! :birthday::gift::champagne::balloon::tada:
+Hipp hipp hurra för @Unkown idag! :birthday::gift::champagne::balloon::tada:
 ### joakoles - 2017-11-23 07:39 39s
-Ha den äran @jens.hunt :blush:
+Ha den äran @Unkown :blush:
 ### oscarnylander - 2017-11-23 08:06 36s
-@jens.hunt :tada: :cake:
+@Unkown :tada: :cake:
 ### joakoles - 2017-11-23 08:37 51s
 Om man kör visual studio (ej code) kan man köra med [http://www.ncrunch.net/](http://www.ncrunch.net/) och om man kör visual studio enterprise kan man köra med live unit testing som ingår: [https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/](https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/) Jag tror att båda lösningar kör tester automatiskt när man sparat en fil. Det stämmer att koden kompileras först.

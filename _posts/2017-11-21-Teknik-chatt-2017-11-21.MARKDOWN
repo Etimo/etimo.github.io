@@ -2,32 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-11-21
 ---
-### daniel.winther - 2017-11-21 05:41 13s
-Elastic search version 6 släpptes i förra veckan för den som missat det. Många gottiga funktioner! Lagom till vi börjar med Photo Garden. 
-
-[https://www.elastic.co/blog/elasticsearch-6-0-0-released](https://www.elastic.co/blog/elasticsearch-6-0-0-released)
-### daniel.winther - 2017-11-21 06:15 56s
-Gällande innovation i sparande och ekonomi som vi har pratat om tidigare. Tipsade då om appen Dreams. Har provkört den nu i typ 7 månader och lyckats spara ihop 7659kr utan att jag knappt märkt det. Och när jag skriver ”knappt märkt det” så menar jag inte med nån dryg ton utan mer att appen är väldigt duktig på att spara diskret. 10-50kr här och där vid konstiga tillfällen, allt ifrån att dra pengar vid konstiga högtider (star wars-dagen tex) till att dra pengar vid fullmåne, nån gång varje vecka etc. små summor så man inte tänker på att pengar försvinner men här ser man tydligt ”många bäckar små...”. 
-
-Dreams - Spara till drömmar av Dreams Nordic AB[https://itunes.apple.com/se/app/dreams-spara-till-dr%C3%B6mmar/id1083073963?mt=8](https://itunes.apple.com/se/app/dreams-spara-till-dr%C3%B6mmar/id1083073963?mt=8)
-
-
-### daniel.winther - 2017-11-21 06:16 17s
-@daniel.winther uploaded a file: [https://etimo.slack.com/files/U29DWKE4C/F82QPU49E/image_uploaded_from_ios.png|Dreams spara pengar](https://etimo.slack.com/files/U29DWKE4C/F82QPU49E/image_uploaded_from_ios.png|Dreams spara pengar)
-### oscarnylander - 2017-11-21 08:38 36s
-Låter intressant! Hur fungerar den? Drar den små summor för att skapa ett större sparande över tid eller gör den något annat?
-### johanhazelius - 2017-11-21 08:42 29s
-@erik.malm tittade snabbt på vår diamonds och noterade att uppdateringen med "väggar" inte är optimal tillsammans med de för tillfället "korkade" bottar som spelar; bottarna fastnar ofta snabbt på en vägg. Föreslår därför att vi inaktiverar väggarna tillfälligt. Om vi vill lägga upp en smartare bot så kan vi sedan slå på väggarna igen. Vad tror du om det?
-### erik.malm - 2017-11-21 08:43 23s
-Japp, går enkelt. Vill du göra ett försök? Annars kör jag en snabb uppdatering ikväll.
-### erik.malm - 2017-11-21 08:43 56s
-Det är bara att ta bort den generatorn i GameObjectGenerator
-### johanhazelius - 2017-11-21 08:47 47s
-Enklast att du ordnar det, jag har inte miljöer på plats för att kunna lösa det:( 
-### oscarnylander - 2017-11-21 08:48 07s
-jag kan kanske lösa det
-### oscarnylander - 2017-11-21 08:48 09s
-eller
 ### oscarnylander - 2017-11-21 08:48 13s
 helst inte :wink:
 ### daniel.winther - 2017-11-21 08:48 35s
