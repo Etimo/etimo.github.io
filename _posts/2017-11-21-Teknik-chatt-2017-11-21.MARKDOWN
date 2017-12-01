@@ -2,16 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-11-21
 ---
-### oscarnylander - 2017-11-21 08:48 13s
-helst inte :wink:
-### daniel.winther - 2017-11-21 08:48 35s
-@oscarnylander ja den drar en massa småsummor. Man aktiverar olika triggers som reagerar på olika saker (datum, månen, helgdagar, per månad, per vecka, slumpmässiga etc).
-### oscarnylander - 2017-11-21 08:55 49s
-Häftigt!
-### joakoles - 2017-11-21 09:37 28s
-När vi diskuterade teleport och väggar för ett tag sedan tyckte jag och @daniel.winther att vi bör hålla det lite enklare på det officiella/primära brädet. (Rätta mig om jag har fel @daniel.winther) Om vi ska ha väggar och teleport bör de sakerna i så fall ligga på ett annat bräde. Vad tycker ni andra om det?
-### daniel.winther - 2017-11-21 09:38 17s
-Du har uppfattat mig rätt @joakoles 
 ### joakoles - 2017-11-21 09:39 05s
 Skälet är att det inte ska vara för hög tröskel för studenter
 ### joakoles - 2017-11-21 09:39 32s
