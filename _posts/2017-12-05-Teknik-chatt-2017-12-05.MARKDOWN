@@ -1,0 +1,33 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-05
+---
+### daniel.winther - 2017-12-05 06:36 47s
+Ja det kan man fråga sig men tydligen fanns det lite info om klang i ord och hur det kopplas till deppighet/negativitet. Men självklart mest en kul grej :smile:
+### daniel.winther - 2017-12-05 06:38 32s
+För er som också använder vscode finns den här pluginen för att förhindra komplex kod:
+
+[https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
+
+Har kört den i hela projektet här på seb och tycker den bidrar en del till att hålla funktionerna små och testbara. 
+### oscarnylander - 2017-12-05 08:40 32s
+Show etimo: Flaskbuckle! (Swashbuckle för Flask) [https://github.com/oscarnyl/flaskbuckle](https://github.com/oscarnyl/flaskbuckle)
+
+Autogenererar swagger baserat på ett Flask-API och exponerar en SwaggerUI baserat på den genererade swaggerfilen.
+### oscarnylander - 2017-12-05 08:41 17s
+(det står `pip install flaskbuckle` i instruktionerna men jag har inte publicerat det som paket ännu - det kommer idag/ikväll)
+### jenspeterolsson - 2017-12-05 08:43 37s
+Snyggt @oscarnylander
+### oscarnylander - 2017-12-05 08:44 32s
+Tackar! Vill ni se det live kan ni:
+1. Klona repot
+2. `docker-compose up`
+3. [http://localhost:5000/api/docs](http://localhost:5000/api/docs)
+### oscarnylander - 2017-12-05 08:44 46s
+baserat på api:t som finns i src/app.py
+### oscarnylander - 2017-12-05 08:45 37s
+Fixade en knepig bugg igår som uppstod pga. pythons mutable-dicts. Immutable borde vara default, det sparar vi nog massor på i slutändan tror jag
+### erik.malm - 2017-12-05 08:48 06s
+Coolt @oscarnylander, nu behöver jag bara ett projekt jag kan dokumentera. Uppskattar också todo delen längst ned i readme.
+### erik.malm - 2017-12-05 09:01 10s
+Tyvärr verkar mitt försök att testköra ha utlöst livskris i min docker daemon. Blir lokal techsupport istället.

@@ -2,31 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-11-21
 ---
-### joakoles - 2017-11-21 09:39 05s
-Skälet är att det inte ska vara för hög tröskel för studenter
-### joakoles - 2017-11-21 09:39 32s
-(och kanske för våra botar)
-### oscarnylander - 2017-11-21 10:13 22s
-Någon som sett SQL Operations Studio? [https://github.com/Microsoft/sqlopsstudio](https://github.com/Microsoft/sqlopsstudio)
-Verkar vara ett vscode-style alternativ till SQL Server Management Studio som microsoft nyss kommit ut med. Intressant om de lägger till support för andra databaser också!
-### oscarnylander - 2017-11-21 10:15 47s
-Idé för applikation liknande Dream: app som kollar din transaktionshistorik och räknar ut saker du kan spara pengar på utan större ingrepp (med typ machine learning eller liknande)
-### daniel.winther - 2017-11-21 10:31 40s
-@oscarnylander laddade ner en ny app idag, Zlantar, som gör ungefär det. Visar allt som tink gör men listar också alla avtal den hittar transaktioner för, typ el vatten, mobil, försäkringar etc. dessa hittas med nån ai som blir bättre över tid. I appen kan man den få förslag på bättre avtal, får se hur det funkar i praktiken. 
-
-[https://itunes.apple.com/se/app/zlantar/id1239432790?mt=8](https://itunes.apple.com/se/app/zlantar/id1239432790?mt=8)
-### oscarnylander - 2017-11-21 10:32 52s
-neat!
-### jenspeterolsson - 2017-11-21 10:35 17s
-Ang botar i diamonds så diskuterade Erik och jag att man kanske skulle kunna skicka in flaggor när man reggar sig. Om man ska hamna på officiell high score eller inte, vilka features man vill ha etc. vi pratade också om att om man reggar sig med en etimoadress kanske man automatiskt ska hamna på etimos scoreboard som är dold och inte den officiella. 
-### jenspeterolsson - 2017-11-21 10:36 12s
-@erik.malm så jag minns det iaf ;-)
-### erik.malm - 2017-11-21 12:51 15s
-Jo, @jenspeterolsson det diskuterade vi. Tycker det är en bra sak du för nästa Diamonds sprint.
-### daniel.winther - 2017-11-21 02:42 55s
-BIOS pensioneras snart. Nostalgi för oss som byggde datorer när vi var unga :blush:
-
-[https://techworld.idg.se/2.2524/1.692896/intel-pensionerar-bios](https://techworld.idg.se/2.2524/1.692896/intel-pensionerar-bios)
 ### joakoles - 2017-11-21 07:18 23s
 Jisses, hur konfigurerar man då spänning, multipel och fsb-frekvens när man överklockar? Jag har inte överklockat på många år, gör man på annat sätt nu?
 ### daniel.winther - 2017-11-21 07:34 06s
