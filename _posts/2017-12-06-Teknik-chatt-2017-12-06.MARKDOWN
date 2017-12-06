@@ -1,0 +1,36 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-06
+---
+### daniel.winther - 2017-12-06 07:14 23s
+Google har en ai som bygger andra AIs (AIar? Hur skriver man ai i plural?) och den har byggt en som är bättre än alla andra på datorsyn, även alla som är skapade av människor. Början på slutet?
+
+[http://www.sciencealert.com/google-s-ai-built-it-s-own-ai-that-outperforms-any-made-by-humans](http://www.sciencealert.com/google-s-ai-built-it-s-own-ai-that-outperforms-any-made-by-humans)
+### oscarnylander - 2017-12-06 08:13 48s
+Higher-Order AI? :horse:
+### oscarnylander - 2017-12-06 08:15 29s
+Nån som har förslag på hur man representerar "dict-shapes" i python på ett cleant sätt? Kom på att det finns kritiska brister i min klassbaserade approach som gör många APIer orepresenterbara på ett väldigt obekvämt sätt (pga variabelnamnrestriktioner i python)
+### daniel.winther - 2017-12-06 08:28 22s
+Vad är dict shapes?
+### oscarnylander - 2017-12-06 08:29 24s
+Vill kunna representera en "typad dict", ala:```
+{
+    str "string_key": "example value",
+    int "int_key": "12345
+}```
+### oscarnylander - 2017-12-06 08:29 54s
+egentligen så att en swagger spec kan genereras utifrån den (ett json schema och ett example)
+### oscarnylander - 2017-12-06 08:30 30s
+trodde jag var klipsk när jag utformade min SwaggerModel-class i Flaskbuckle, men den var fundamentalt trasig kom jag fram till senare :disappointed:
+### oscarnylander - 2017-12-06 08:39 03s
+Kanske slutar med att jag får köra en dict med tuple-values (type, actual_value)
+### jenspeterolsson - 2017-12-06 02:52 50s
+Jag har lagt upp de milestones vi skrev om för någon vecka sedan och också några issues. Tanken är då att man navigerar via milestones och sedan ser de issues som är kopplade till varje milestone (och att man skapar nya issues kopplade till en viss milestone). Använd issue nr vid commit, alltså t.ex. git commit -m "#1 amazing test scenario for hello world"
+### jenspeterolsson - 2017-12-06 02:52 54s
+[https://github.com/Etimo/photo-garden/milestones](https://github.com/Etimo/photo-garden/milestones)
+### jenspeterolsson - 2017-12-06 02:55 19s
+Jag har också skapat en basic node app med en testsetup som är snodd till stor del från det Bonnier/Expressen använder. En kombination av TDD/BDD, skulle jag säga.  Dels tycker jag den är bra och reflekterar mycket av de tankar många utvecklare har om hur man vill jobba testdrivet (snabbt och pragmatiskt och utifrån scenarios snarare än tekniska krav på coverage), dels kan det ju vara bra att vara bekant med denna setup rent kompetensmässigt.
+### jenspeterolsson - 2017-12-06 02:56 08s
+Vill någon hugga tag i de issues som ligger eller skapa nya så är det såklart bara att köra, annars rivstartar vi under nästa challenge!
+### jenspeterolsson - 2017-12-06 03:03 11s
+Är någon nyfiken på det vi gör på Bonnier finns en del av det som open source på npm/github, t.ex. [https://www.npmjs.com/package/pg-doc-store](https://www.npmjs.com/package/pg-doc-store)

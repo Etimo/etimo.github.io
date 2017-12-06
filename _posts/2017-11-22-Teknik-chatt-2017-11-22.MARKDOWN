@@ -2,26 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-11-22
 ---
-### daniel.winther - 2017-11-22 05:18 48s
-@johanhazelius den verkar ha hittat alla avtal jag har iaf. Sen är det ju flera saker den har svårt att avgöra om avtalet är bra eller dåligt, tex el eller vatten då det innebär en förbrukningskostnad. Vet inte om deras ai kommer in där och kanske kollar geografiskt för att få fram nån slags statistik eller nåt. Återstår att se. 
-### daniel.winther - 2017-11-22 05:19 53s
-@daniel.winther uploaded a file: [https://etimo.slack.com/files/U29DWKE4C/F846R6F53/image_uploaded_from_ios.png|Avtal för vatten](https://etimo.slack.com/files/U29DWKE4C/F846R6F53/image_uploaded_from_ios.png|Avtal för vatten) and commented: Avtalet för vatten är tex kvartalsbaserat så att den säger att det kostar 5400kr/mån är rätt fel. Får se om den justerar över tid. 
-### oscarnylander - 2017-11-22 08:45 53s
-Intressant!
-### johanhazelius - 2017-11-22 11:18 12s
-Ja, klart spännande:)
-### jenspeterolsson - 2017-11-22 03:51 27s
-Har kollat lite på integrationer mellan Trello och Github issues. Det går att lösa antingen genom att man manuellt (med en power-up för Github) länkar issues från ett kort i trello, alternativt att man installerar och konfigurerar en integration från Github till Trello som gör synken automatiskt. Jag tror inte på ett workflow med en manuell synk och att konfigurera och underhålla den här typen av administrativa integrationer känner jag också lite tvekan inför. Så mitt förslag är att vi fortsätter tills vidare att bara jobba med issues i Github men att vi alltid committar med issue nr. T.ex. för issue 19 i Github för Diamonds så har jag för en commit angett commit message "#19 test commit with marked issue" och #19 gör då att denna commit blir länkad till issuen i Github. Jag tycker att det räcker i steg 1 och att vi kan administrera vår backlog utifrån milestones (t,ex. releaser) och taggar (labels). Blir det ohanterligt i längden kan vi ta upp frågan igen. Vad tycker ni andra?
-### joakoles - 2017-11-22 04:04 10s
-Jag tycker det låter bra @jenspeterolsson. Jag tror inte det är värdefullt att lägga krut på automatisk integration i detta läget och jag tycker heller inte en manuell synk är att föredra.
-### daniel.winther - 2017-11-22 06:59 21s
-Jag tycker också det låter bra
-### jenspeterolsson - 2017-11-22 08:20 34s
-Sitter och leker lite med xunit i vs code. Kör Fizzbuzz! Lite udda att man behöver ange verbosity som quiet för att få någon vettig output out of the box (går såklart att konfigurera i ett seriöst projekt).
-### jenspeterolsson - 2017-11-22 08:21 21s
-@jenspeterolsson uploaded a file: [https://etimo.slack.com/files/U44MC0WLT/F84C59DEX/-.cs|Untitled](https://etimo.slack.com/files/U44MC0WLT/F84C59DEX/-.cs|Untitled)
-### jenspeterolsson - 2017-11-22 08:21 31s
-Ger t.ex. följande output för ett test =&gt;
 ### jenspeterolsson - 2017-11-22 08:22 07s
 @jenspeterolsson uploaded a file: [https://etimo.slack.com/files/U44MC0WLT/F84JJ98TX/-.cs|Untitled](https://etimo.slack.com/files/U44MC0WLT/F84JJ98TX/-.cs|Untitled)
 ### jenspeterolsson - 2017-11-22 08:22 40s
