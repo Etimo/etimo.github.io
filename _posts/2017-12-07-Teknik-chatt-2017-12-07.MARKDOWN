@@ -1,0 +1,20 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-07
+---
+### erik.malm - 2017-12-07 04:54 46s
+Coolt, att se någon göra en upsert till postgres förvirrar mitt MongoDB älskande hjärta. Bra jobbat med milstolparna @jenspeterolsson.
+### johanhazelius - 2017-12-07 12:24 02s
+Nu har vi överlämnat årets julgåva till Hand in Hand. Vi har köpt en andel i detta projekt: [https://www.handinhand.nu/wp-content/uploads/2017/10/JOBS_FOR_CHANGE_whitepaper.pdf](https://www.handinhand.nu/wp-content/uploads/2017/10/JOBS_FOR_CHANGE_whitepaper.pdf)
+### johanhazelius - 2017-12-07 12:24 18s
+God Jul (lite för tidigt men ändå:)
+### oscarnylander - 2017-12-07 12:24 37s
+God jul!
+### erik.malm - 2017-12-07 12:51 38s
+Aldrig för tidigt! God jul...
+### erik.malm - 2017-12-07 07:07 46s
+De tre av oss på SEB har genomgått registerkontroll, verkar dock som att riksbanken haft lite svårare med detta just på IT sidan.
+### erik.malm - 2017-12-07 07:07 47s
+[https://www.svd.se/allvarliga-brister-funna-i-riksbankens-it-sakerhet](https://www.svd.se/allvarliga-brister-funna-i-riksbankens-it-sakerhet)
+### johanhazelius - 2017-12-07 08:56 07s
+Verkligen. Verkar vara ett vanligt förekommande problem bland svenska myndigheter..
