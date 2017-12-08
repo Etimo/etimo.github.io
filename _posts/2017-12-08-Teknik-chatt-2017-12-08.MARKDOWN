@@ -1,0 +1,19 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-08
+---
+### oscarnylander - 2017-12-08 09:36 27s
+Dagens lösningsförslag för prod-issue:
+```Possible solutions:
+
+- Solve the root cause of this issue in remote apis
+- Use a retry strategy for all applicable cases (problem goes away after retrying)
+- Give up and cry```
+### oscarnylander - 2017-12-08 10:19 03s
+Dagens kommentar:
+`// DONT WASTE TIME HERE ANY MORE, HOURS SPENT: 8`
+följt av en utkommenterad SQL-query
+### erik.malm - 2017-12-08 10:20 02s
+Jag gillar era kommentarer, våra är mer corporate...
+### oscarnylander - 2017-12-08 10:20 32s
+Finns klara fördelar med att inte jobba i fintech :smirk:

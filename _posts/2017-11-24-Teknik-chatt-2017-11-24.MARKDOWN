@@ -2,12 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-11-24
 ---
-### jenspeterolsson - 2017-11-24 07:36 51s
-När vi kör igång photo garden, vill vi fortfarande köra trunk based i git eller med tex git flow och pull requests? Vi behöver inte dra den allmänna diskussionen ett varv till - tror alla insett att trunk based egentligen ALLTID är bäst ha ha - men mer pragmatiskt så tänker jag att trunk based är bäst och smidigast för oss men att jag och säkert flera andra hade haft nytta inför kunduppdrag att bli vassare på att jobba med github som plattform inkl Code reviews
-### oscarnylander - 2017-11-24 08:14 02s
-jag förespråkar trunk med korta branches i PRs
-### oscarnylander - 2017-11-24 08:14 09s
-dvs branch -&gt; merge to master
 ### oscarnylander - 2017-11-24 08:14 17s
 ingen dev/master
 ### daniel.winther - 2017-11-24 08:14 48s
