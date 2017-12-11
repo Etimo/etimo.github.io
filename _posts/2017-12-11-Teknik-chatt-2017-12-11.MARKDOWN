@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-11
+---
+### jens.hunt - 2017-12-11 11:53 46s
+C# 7.1 ger oss en async main metod: [https://blogs.msdn.microsoft.com/benwilli/2017/12/08/async-main-is-available-but-hidden/](https://blogs.msdn.microsoft.com/benwilli/2017/12/08/async-main-is-available-but-hidden/)
+### oscarnylander - 2017-12-11 12:02 31s
+:+1: hur mycket vinner man på det?
+### jenspeterolsson - 2017-12-11 12:18 58s
+Man slipper göra wait el. dyl. själv inuti main när man anropar en annan asynkron metod. Spelar oftast ingen roll men ändå mer cleant och ger kanske nya möjligheter för azure functions, aws lambdas m.m.
+### erik.malm - 2017-12-11 01:58 24s
+Mmm för serverless känns en async main som ett väldigt cleant alternativ.

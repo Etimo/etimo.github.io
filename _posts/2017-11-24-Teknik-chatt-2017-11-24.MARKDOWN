@@ -2,14 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-11-24
 ---
-### oscarnylander - 2017-11-24 08:14 17s
-ingen dev/master
-### daniel.winther - 2017-11-24 08:14 48s
-Jag tycker det har funkat bra med trunkbased 
-### jenspeterolsson - 2017-11-24 08:20 54s
-Ha ha, nu kör vi ju diskussionen igen i alla fall! Men jag kör gärna trunk based och branches vid behov (och att vi som sagt oavsett taggar våra commits med issue #), men jag har inga problem med git flow och pull requests heller om någon är sugen på det
-### jenspeterolsson - 2017-11-24 08:21 44s
-Vad säger övriga?
 ### joakoles - 2017-11-24 08:44 08s
 Om vi lägger stor vikt vid kodgranskning röstar jag på brancher och PR (evt. med feature toggles) annars röstar jag på trunk-based med feature toggles.
 ### jenspeterolsson - 2017-11-24 08:59 21s
