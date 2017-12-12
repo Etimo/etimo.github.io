@@ -1,0 +1,91 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-12
+---
+### daniel.winther - 2017-12-12 08:02 47s
+Nån som provat Parcel än?
+[https://github.com/parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+### daniel.winther - 2017-12-12 08:03 33s
+Känns som en dröm att gå ifrån webpack så jag ska prova på en gång :joy:
+### oscarnylander - 2017-12-12 08:50 08s
+läste lite, så som jag förstod det så nådde det inte riktigt upp till vad det lovade (det var lätt att confa om du ville ha precis det som erbjöds - annars gick det helt enkelt bara inte för många cases)
+### oscarnylander - 2017-12-12 08:50 20s
+men har såklart inte testat själv så kan inte säga allt för mycket
+### daniel.winther - 2017-12-12 09:14 37s
+Nej precis det är ju en zero conf i princip så blir ju svårt om man vill ha speciallösningar men tanken är ju att det ska funka för många vanliga fall. 
+### daniel.winther - 2017-12-12 09:14 50s
+Verkar funka för angular iaf
+### daniel.winther - 2017-12-12 09:15 27s
+Men att komma ifrån evighetslånga byggen med webpack är lite av en dröm här
+### oscarnylander - 2017-12-12 09:16 15s
+tar byggen lång tid med webpack för er? tidsåtgången är sällan ett problem i de projekt jag har jobbat med, främst komplexiteten i att konfigurera som är knepigt med webpack här.
+### daniel.winther - 2017-12-12 09:18 41s
+Vi har helt tvärtom. Vi kör default config från angular cli så vi behöver aldrig röra nån config. Däremot tar byggen ibland flera minuter, speciellt jobbigt om man ska försöka köra tdd. Men även jobbigt när det tar 10-20 sekunder även för diffbygge när man sparar filer och ska vänta på reload i webbläsaren. 
+### daniel.winther - 2017-12-12 09:24 23s
+Sen är webpack dålig på att plocka upp större förändringar. Här får vi ofta byggfel när man byter brancher och det är större delar av koden som är annorlunda. Då måste man alltid bygga om helt. Vet inte om det beror på Windows mer dock än webpack. Windows är ingen höjdare på att hantera många filförändringar, inte om man är van vid unix. 
+### oscarnylander - 2017-12-12 09:26 14s
+håller med, windows är högst problematiskt för filewatching
+### oscarnylander - 2017-12-12 09:26 36s
+men det tar även mycket tid när ni kör webpack-dev-server?
+### daniel.winther - 2017-12-12 09:26 42s
+Till följd av sånt får vi också problem med att det tex inte går att byta branch samtidigt som man bygger koden i en annan flik etc. git ballar ur och hamnar i detachade state med halvgjorda merges/checkouts. 
+### oscarnylander - 2017-12-12 09:26 56s
+:windows:
+### daniel.winther - 2017-12-12 09:27 18s
+Jag saknar utveckling på min Mac 🤣
+### oscarnylander - 2017-12-12 09:27 24s
+förstår det :wink:
+### oscarnylander - 2017-12-12 09:27 39s
+själv saknar jag linux när jag sitter på macen, native docker är vad jag behöver
+### daniel.winther - 2017-12-12 09:27 43s
+Sen att min vänstra shifttangent har lossnat gör inte saken enklare :joy:
+### oscarnylander - 2017-12-12 09:27 57s
+:cry: :gun:
+### daniel.winther - 2017-12-12 09:28 41s
+Zsh på macen ger mig allt jag behöver. Klart man saknar vissa grejer i linux ändå men men, kompromiss som är klart mer värd än att jobba på Windows :smile:
+### oscarnylander - 2017-12-12 09:28 50s
+men som sagt, får ni även lång feedback-loop med webpack-dev-server?
+### oscarnylander - 2017-12-12 09:28 55s
+för den brukar vara ganska kvick
+### daniel.winther - 2017-12-12 09:29 23s
+Ja. Som jag skrev ovan så har vi långa feedbackloopar även i dev
+### oscarnylander - 2017-12-12 09:29 31s
+skumt
+### oscarnylander - 2017-12-12 09:29 46s
+vi hade ca. 5 sekunder som värst på qliro i den conf jag hade
+### oscarnylander - 2017-12-12 09:29 56s
+save -&gt; rebuilt and reloaded
+### daniel.winther - 2017-12-12 09:30 07s
+Njae, en stor bov är virusprogrammet som måste kolla allt som sker i processen :weary:
+### oscarnylander - 2017-12-12 09:32 18s
+:windows: :gun:
+### oscarnylander - 2017-12-12 09:32 23s
+känner igen det där
+### oscarnylander - 2017-12-12 09:32 47s
+antiviruset på qliro gjorde att `yarn install` tog tillräckligt med tid att man gick och hämtade kaffe varje gång man gjorde det
+### oscarnylander - 2017-12-12 09:33 05s
+samtidigt borde det gå att confa den till att köra bara in-memory (webpack-dev-server)
+### oscarnylander - 2017-12-12 09:33 11s
+så att inga filer emittas och inget problem uppstår
+### daniel.winther - 2017-12-12 09:49 14s
+Den ska fortfarande läsa filer dock.
+### oscarnylander - 2017-12-12 09:52 09s
+:thinking_face: Stäng av antiviruset :wink:
+### oscarnylander - 2017-12-12 09:52 24s
+blir det mac på nästa uppdrag?
+### daniel.winther - 2017-12-12 09:52 47s
+Ja det vore såklart skönt att stänga av men icke :wink:
+### daniel.winther - 2017-12-12 09:52 54s
+Jag vet inte än men tror det
+### oscarnylander - 2017-12-12 09:53 10s
+:ok_hand:
+### erik.malm - 2017-12-12 02:54 18s
+Det är ju en eller två mac:ar här på uppdraget nu så funderar själv på hur man ska få till ett platformsbyte. Tror det är ganska döfött att be om en linux-burk :cry:
+### daniel.winther - 2017-12-12 08:30 47s
+@erik.malm går det att fixa så smileys, bilder och formaterad text kommer ut i bloggen?
+### erik.malm - 2017-12-12 08:33 58s
+Bilder går att ordna på en timme eller, markdown strular av någon anledning men borde gissningsvis gå rätt fort att ordna. Smileys vet jag inte om vi kan få in lagligt. Nån äger upphovsrätten  Funderar på att lägga in öppna motsvarigheter till de vanligaste och fylla på allt eftersom.
+### daniel.winther - 2017-12-12 08:34 21s
+Aha ok, coolers
+### erik.malm - 2017-12-12 08:39 50s
+Sen ska man bara hitta de där småtimmarna också. Men har ett par idéer jag gärna snackar igenom vid tillfälle.

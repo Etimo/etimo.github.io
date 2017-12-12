@@ -2,50 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-11-29
 ---
-### erik.malm - 2017-11-29 04:37 15s
-Någon med en Mac och High Sierra som har lust att testa? Tydligen ska man kunna logga in som root utan lösen, bara man trycker på unlock knappen flera gånger. [https://twitter.com/lemiorhan/status/935578694541770752](https://twitter.com/lemiorhan/status/935578694541770752)
-### daniel.winther - 2017-11-29 05:04 47s
-Har bara sierra än så länge
-### daniel.winther - 2017-11-29 05:09 23s
-Men ganska kul diskussion att läsa :joy:
-### daniel.winther - 2017-11-29 07:42 29s
-Apropå kortfattad diskussion vi hade om graphql på senaste Etimo challenge, vad sägs om att prova detta i photo garden för apiet mot klienten. På så vis kanske vi kan lägga en bättre grund för flera typer av klienter på sikt. Tror det kan va intressant att lära sig mer om det. 
-
-
-### daniel.winther - 2017-11-29 07:42 32s
-[http://graphql.org/learn/](http://graphql.org/learn/)
-### daniel.winther - 2017-11-29 07:43 11s
-[https://github.com/graphql/graphiql](https://github.com/graphql/graphiql)
-### jenspeterolsson - 2017-11-29 08:19 08s
-Kanske inte introducera både graphql och elastic search samtidigt? Jag är personligen inte så inne på graphql men om flera andra tycker det vore kul har jag inget emot att lära mig det. 
-### daniel.winther - 2017-11-29 08:35 24s
-Kanske blir överflödigt men jag tänkte nog inte att vi jobbar direkt mot elastic search från frontend utan att vi går via ett api, därav möjligheten. 
-### jenspeterolsson - 2017-11-29 08:54 35s
-Graphql har inte lagring utan är bara ett queryspråk som jag fattat det? D.v.s. det behövs api emellan både för graphql och elastic?
-### daniel.winther - 2017-11-29 08:55 08s
-Graphql är ju en tolk av input till Query mot källa
-### jenspeterolsson - 2017-11-29 08:55 28s
-Men kortsiktigt behöver vi ju främst läsa json och möjligtvis skriva enkel json så alternativet till graphql är väl snarare mongo/postgres etc.
-### jenspeterolsson - 2017-11-29 08:55 56s
-Elastic kommer nog in senare i utvecklingen när vi har mer data och fler sökfunktioner
-### jenspeterolsson - 2017-11-29 08:58 36s
-Sedan är det ingen nackdel att man är lite advokat för ett eget teknikval och tar lite större ansvar för att få det på plats @daniel.winther
-### jenspeterolsson - 2017-11-29 08:59 01s
-Så om du tar på dig ledarhatten för graphql är det ju ett plus :wink:
-### jenspeterolsson - 2017-11-29 08:59 17s
-Lite som oscar med docker t.ex.
-### oscarnylander - 2017-11-29 08:59 36s
-GraphQL är klart intressant, vet inte om jag tolkat projektet helt men är det som jag tror det är kan man nog spara en hel del utevecklingstid på att använda det
-### daniel.winther - 2017-11-29 08:59 48s
-@jenspeterolsson Absolut men vill helst inte propsa på nåt om ingen annan är intresserad :smile:
-### daniel.winther - 2017-11-29 09:00 17s
-Bra då är vi 2 @oscarnylander!
-### daniel.winther - 2017-11-29 09:15 04s
-Men som du säger @oscarnylander så har vi kanske inte alla detaljer på plats exakt hur allt ska funka, och antagligen inte samma bild allihopa. Jag tror också, i min vision, att det kan spara tid på sikt men samtidigt kommer det nog ta längre tid att implementera initialt. 
-### oscarnylander - 2017-11-29 09:19 59s
-Det ända jag varit skeptisk till är licensen, men den kanske ändrades i samband med React-ändringen?
-### daniel.winther - 2017-11-29 10:26 14s
-Har inte kollat, ska undersöka
 ### johanhazelius - 2017-11-29 10:43 14s
 Appropå att alla kanske inte har samma bild av vad photo.garden ska bli - jag kommer ansvara för att ta fram produktvisionen. Som vanligt utformar Vi den gemensamt men jag kommer hålla i pennan och ansvara för att vi faktiskt dokumenterar visionen så vi säkrar att vi alla har samma bild av slutmålet. Draft kommer innan nästa challange
 ### oscarnylander - 2017-11-29 10:43 33s
