@@ -84,7 +84,7 @@ Det är ju en eller två mac:ar här på uppdraget nu så funderar själv på hu
 ### daniel.winther - 2017-12-12 08:30 47s
 @erik.malm går det att fixa så smileys, bilder och formaterad text kommer ut i bloggen?
 ### erik.malm - 2017-12-12 08:33 58s
-Bilder går att ordna på en timme eller, markdown strular av någon anledning men borde gissningsvis gå rätt fort att ordna. Smileys vet jag inte om vi kan få in lagligt. Nån äger upphovsrätten  Funderar på att lägga in öppna motsvarigheter till de vanligaste och fylla på allt eftersom.
+Bilder går att ordna på en timme eller så, markdown strular av någon anledning men borde gissningsvis gå rätt fort att ordna. Smileys vet jag inte om vi kan få in lagligt. Nån äger upphovsrätten  Funderar på att lägga in öppna motsvarigheter till de vanligaste och fylla på allt eftersom.
 ### daniel.winther - 2017-12-12 08:34 21s
 Aha ok, coolers
 ### erik.malm - 2017-12-12 08:39 50s

@@ -2,20 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-11-29
 ---
-### johanhazelius - 2017-11-29 10:43 14s
-Appropå att alla kanske inte har samma bild av vad photo.garden ska bli - jag kommer ansvara för att ta fram produktvisionen. Som vanligt utformar Vi den gemensamt men jag kommer hålla i pennan och ansvara för att vi faktiskt dokumenterar visionen så vi säkrar att vi alla har samma bild av slutmålet. Draft kommer innan nästa challange
-### oscarnylander - 2017-11-29 10:43 33s
-Låter bra!
-### jenspeterolsson - 2017-11-29 12:02 23s
-Jag tänker att kopplat till produktvisionen så arbetar vi med milestones i Github i form av features (inte releaser, vilket jag vid närmare eftertanke tror är fel väg att gå). T.ex. för feature "Display photos from Google Drive" så ingår det ett antal issues i Github som att koppla mot Googles API, kanske transformera Googles format till ett standardformat vi vill arbeta med, visa i front-end m.m.
-### jenspeterolsson - 2017-11-29 12:02 49s
-Våra fyra första features skulle då kunna vara:
-### jenspeterolsson - 2017-11-29 12:03 00s
-- Display photos from Google Drive
-### jenspeterolsson - 2017-11-29 12:03 16s
-- Continuous Delivery (docker, appar, server, deploy etc.)
-### jenspeterolsson - 2017-11-29 12:03 45s
-- Feature flags (så att vi kan deploya kontinuerligt trots att en feature inte är klar)
 ### jenspeterolsson - 2017-11-29 12:04 08s
 - Search on metadata (date and place) from photos
 ### jenspeterolsson - 2017-11-29 12:04 35s
