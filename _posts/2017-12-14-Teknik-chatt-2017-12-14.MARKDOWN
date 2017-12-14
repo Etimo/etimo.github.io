@@ -1,0 +1,6 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-14
+---
+### oscarnylander - 2017-12-14 02:08 08s
+Dagens commitmeddelande: `...`

@@ -2,8 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-11-29
 ---
-### jenspeterolsson - 2017-11-29 12:04 08s
-- Search on metadata (date and place) from photos
 ### jenspeterolsson - 2017-11-29 12:04 35s
 Verkar det vettigt?
 ### johanhazelius - 2017-11-29 12:24 46s
