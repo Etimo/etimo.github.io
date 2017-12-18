@@ -2,8 +2,6 @@
 layout: post
 title: Teknik-chatt 2017-12-05
 ---
-### daniel.winther - 2017-12-05 06:36 47s
-Ja det kan man fråga sig men tydligen fanns det lite info om klang i ord och hur det kopplas till deppighet/negativitet. Men självklart mest en kul grej :smile:
 ### daniel.winther - 2017-12-05 06:38 32s
 För er som också använder vscode finns den här pluginen för att förhindra komplex kod:
 
