@@ -88,7 +88,12 @@ code,
 kbd,
 pre,
 samp {
-	margin: 1em 0;
+	margin: 1em auto;
+	background-color: #eceaea;
+	border-radius: 0.1em;
+	padding: 0.2em;
+	font-size: 0.9em;
+	width: 90%;
 }
 dt {
 	font-weight: bold;
