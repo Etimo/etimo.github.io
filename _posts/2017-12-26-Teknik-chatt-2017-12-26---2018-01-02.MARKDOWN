@@ -37,6 +37,21 @@ fruits = ['Banana', 'Apple', 'Lime']
 print(loud_fruits)a,b=b,a
 ```
  (Test-skott)
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-27 11:10 40s
+
+ser bra ut!
 
 <!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-12-27 12:39 19s
+
+Riktigt bra Erik! 
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-27 02:43 24s
+
+Snyggt @erik.malm!
 </section>
