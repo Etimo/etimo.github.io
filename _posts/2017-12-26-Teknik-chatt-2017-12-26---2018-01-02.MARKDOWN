@@ -4,22 +4,22 @@ title: Teknik-chatt 2017-12-26 - 2018-01-02
 excerpt_separator: <!--excerpt-->
 ---
 <section class="message" markdown="1">
-### erik.malm - 2017-12-26 10:38 54s
+### erik.malm - 2017-12-26 23:38 54s
 
 Reddit ledde mig till Dwitter ([https://www.dwitter.net/top](https://www.dwitter.net/top)) ett community där folk skriver javascripts på 140 tecken för att köra visualiseringar. Jag tror att det är hit Demo-scenen tog vägen efter Amigan (långt efter) och kan inte sluta titta.
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-12-27 01:09 15s
+### erik.malm - 2017-12-27 02:09 15s
 
 Den som känner för att ta en titt får gärna kika på bloggen. Vi ska klara det mesta i form av filer, kodblock, emojis och bilder nu men det tog en hel del pill så edge cases väntar säkerligen. 
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-27 08:51 37s
+### oscarnylander - 2017-12-27 09:51 37s
 
 Ser för det mesta bra ut, bra jobbat! 🐧
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-12-27 10:55 45s
+### erik.malm - 2017-12-27 11:55 45s
 
 ```java
  public void main(String[] argv){
@@ -39,19 +39,19 @@ print(loud_fruits)a,b=b,a
  (Test-skott)
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-27 11:10 40s
+### oscarnylander - 2017-12-27 12:10 40s
 
 ser bra ut!
 
 <!--excerpt-->
 </section>
 <section class="message" markdown="1">
-### johanhazelius - 2017-12-27 12:39 19s
+### johanhazelius - 2017-12-27 13:39 19s
 
 Riktigt bra Erik! 
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-12-27 02:43 24s
+### daniel.winther - 2017-12-27 15:43 24s
 
 Snyggt @erik.malm!
 </section>

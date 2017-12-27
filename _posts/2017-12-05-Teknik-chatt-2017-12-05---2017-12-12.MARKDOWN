@@ -4,7 +4,7 @@ title: Teknik-chatt 2017-12-05 - 2017-12-12
 excerpt_separator: <!--excerpt-->
 ---
 <section class="message" markdown="1">
-### daniel.winther - 2017-12-05 06:36 47s
+### daniel.winther - 2017-12-05 07:36 47s
 
 Ja det kan man fråga sig men tydligen fanns det lite info om klang i ord och hur det kopplas till deppighet/negativitet. Men självklart mest en kul grej 😄
 För er som också använder vscode finns den här pluginen för att förhindra komplex kod:
@@ -18,7 +18,7 @@ Har kört den i hela projektet här på seb och tycker den bidrar en del till at
     
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-05 08:40 32s
+### oscarnylander - 2017-12-05 09:40 32s
 
 Show etimo: Flaskbuckle! (Swashbuckle för Flask) [https://github.com/oscarnyl/flaskbuckle](https://github.com/oscarnyl/flaskbuckle)
 
@@ -30,12 +30,12 @@ Autogenererar swagger baserat på ett Flask-API och exponerar en SwaggerUI baser
 (det står `pip install flaskbuckle` i instruktionerna men jag har inte publicerat det som paket ännu - det kommer idag/ikväll)
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-12-05 08:43 37s
+### jenspeterolsson - 2017-12-05 09:43 37s
 
 Snyggt @oscarnylander
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-05 08:44 32s
+### oscarnylander - 2017-12-05 09:44 32s
 
 Tackar! Vill ni se det live kan ni:
 1. Klona repot
@@ -45,19 +45,19 @@ baserat på api:t som finns i src/app.py
 Fixade en knepig bugg igår som uppstod pga. pythons mutable-dicts. Immutable borde vara default, det sparar vi nog massor på i slutändan tror jag
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-12-05 08:48 06s
+### erik.malm - 2017-12-05 21:48 06s
 
 Coolt @oscarnylander, nu behöver jag bara ett projekt jag kan dokumentera. Uppskattar också todo delen längst ned i readme.
 
 <!--excerpt-->
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-12-05 09:01 10s
+### erik.malm - 2017-12-05 22:01 10s
 
 Tyvärr verkar mitt försök att testköra ha utlöst livskris i min docker daemon. Blir lokal techsupport istället.
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-12-06 07:14 23s
+### daniel.winther - 2017-12-06 08:14 23s
 
 Google har en ai som bygger andra AIs (AIar? Hur skriver man ai i plural?) och den har byggt en som är bättre än alla andra på datorsyn, även alla som är skapade av människor. Början på slutet?
 
@@ -68,18 +68,18 @@ Google har en ai som bygger andra AIs (AIar? Hur skriver man ai i plural?) och d
     
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-06 08:13 48s
+### oscarnylander - 2017-12-06 09:13 48s
 
 Higher-Order AI? 🐴
 Nån som har förslag på hur man representerar "dict-shapes" i python på ett cleant sätt? Kom på att det finns kritiska brister i min klassbaserade approach som gör många APIer orepresenterbara på ett väldigt obekvämt sätt (pga variabelnamnrestriktioner i python)
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-12-06 08:28 22s
+### daniel.winther - 2017-12-06 09:28 22s
 
 Vad är dict shapes?
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-06 08:29 24s
+### oscarnylander - 2017-12-06 09:29 24s
 
 Vill kunna representera en "typad dict", ala:
 ```
@@ -92,12 +92,12 @@ egentligen så att en swagger spec kan genereras utifrån den (ett json schema o
 trodde jag var klipsk när jag utformade min SwaggerModel-class i Flaskbuckle, men den var fundamentalt trasig kom jag fram till senare 😞
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-06 08:39 03s
+### oscarnylander - 2017-12-06 09:39 03s
 
 Kanske slutar med att jag får köra en dict med tuple-values (type, actual_value)
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-12-06 02:52 50s
+### jenspeterolsson - 2017-12-06 15:52 50s
 
 Jag har lagt upp de milestones vi skrev om för någon vecka sedan och också några issues. Tanken är då att man navigerar via milestones och sedan ser de issues som är kopplade till varje milestone (och att man skapar nya issues kopplade till en viss milestone). Använd issue nr vid commit, alltså t.ex. git commit -m "#1 amazing test scenario for hello world"
 [https://github.com/Etimo/photo-garden/milestones](https://github.com/Etimo/photo-garden/milestones)
@@ -109,7 +109,7 @@ Jag har också skapat en basic node app med en testsetup som är snodd till stor
 Vill någon hugga tag i de issues som ligger eller skapa nya så är det såklart bara att köra, annars rivstartar vi under nästa challenge!
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-12-06 03:03 11s
+### jenspeterolsson - 2017-12-06 16:03 11s
 
 Är någon nyfiken på det vi gör på Bonnier finns en del av det som open source på npm/github, t.ex. [https://www.npmjs.com/package/pg-doc-store](https://www.npmjs.com/package/pg-doc-store)
 
@@ -118,28 +118,28 @@ Vill någon hugga tag i de issues som ligger eller skapa nya så är det såklar
     
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-12-07 04:54 46s
+### erik.malm - 2017-12-07 05:54 46s
 
 Coolt, att se någon göra en upsert till postgres förvirrar mitt MongoDB älskande hjärta. Bra jobbat med milstolparna @jenspeterolsson.
 </section>
 <section class="message" markdown="1">
-### johanhazelius - 2017-12-07 12:24 02s
+### johanhazelius - 2017-12-07 13:24 02s
 
 Nu har vi överlämnat årets julgåva till Hand in Hand. Vi har köpt en andel i detta projekt: [https://www.handinhand.nu/wp-content/uploads/2017/10/JOBS_FOR_CHANGE_whitepaper.pdf](https://www.handinhand.nu/wp-content/uploads/2017/10/JOBS_FOR_CHANGE_whitepaper.pdf)
 God Jul (lite för tidigt men ändå:)
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-07 12:24 37s
+### oscarnylander - 2017-12-07 13:24 37s
 
 God jul!
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-12-07 12:51 38s
+### erik.malm - 2017-12-07 13:51 38s
 
 Aldrig för tidigt! God jul...
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-12-07 07:07 46s
+### erik.malm - 2017-12-07 20:07 46s
 
 De tre av oss på SEB har genomgått registerkontroll, verkar dock som att riksbanken haft lite svårare med detta just på IT sidan.
 [https://www.svd.se/allvarliga-brister-funna-i-riksbankens-it-sakerhet](https://www.svd.se/allvarliga-brister-funna-i-riksbankens-it-sakerhet)
@@ -149,12 +149,12 @@ De tre av oss på SEB har genomgått registerkontroll, verkar dock som att riksb
     
 </section>
 <section class="message" markdown="1">
-### johanhazelius - 2017-12-07 08:56 07s
+### johanhazelius - 2017-12-07 21:56 07s
 
 Verkligen. Verkar vara ett vanligt förekommande problem bland svenska myndigheter..
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-08 09:36 27s
+### oscarnylander - 2017-12-08 10:36 27s
 
 Dagens lösningsförslag för prod-issue:
 ```
@@ -166,19 +166,19 @@ Possible solutions:
 ```
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-08 10:19 03s
+### oscarnylander - 2017-12-08 11:19 03s
 
 Dagens kommentar:
 `// DONT WASTE TIME HERE ANY MORE, HOURS SPENT: 8`
 följt av en utkommenterad SQL-query
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-12-08 10:20 02s
+### erik.malm - 2017-12-08 11:20 02s
 
 Jag gillar era kommentarer, våra är mer corporate...
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-12-08 10:20 32s
+### oscarnylander - 2017-12-08 11:20 32s
 
 Finns klara fördelar med att inte jobba i fintech 😏
 </section>

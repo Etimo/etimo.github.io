@@ -4,12 +4,12 @@ title: Teknik-chatt 2017-11-20 - 2017-11-27
 excerpt_separator: <!--excerpt-->
 ---
 <section class="message" markdown="1">
-### johanhazelius - 2017-11-20 10:14 55s
+### johanhazelius - 2017-11-20 11:14 55s
 
 Den 19e dec har vi nästa Etimo challange. Jag tänkte att vi kör en julmiddag på stan efter (vanlig mat, det brukar bli tillräckligt med julmat ändå..). Men innan jag bokar något vill jag höra hur tillgängligheten ser ut. Meddela mig (på privat kanal!) om ni kan köra middag den 19/12?
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-20 11:48 09s
+### oscarnylander - 2017-11-20 12:48 09s
 
 [https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md](https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md) Span&lt;T&gt;, någon som har några åsikter?
 
@@ -18,12 +18,12 @@ Den 19e dec har vi nästa Etimo challange. Jag tänkte att vi kör en julmiddag 
     
 </section>
 <section class="message" markdown="1">
-### joakoles - 2017-11-20 12:46 50s
+### joakoles - 2017-11-20 13:46 50s
 
 Intressant, men jag ser inte att jag har så stor nytta av det i sånt jag brukar jobba med.
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-20 12:48 49s
+### oscarnylander - 2017-11-20 13:48 49s
 
 [https://medium.com/postverta/announcing-postverta-721a24557525](https://medium.com/postverta/announcing-postverta-721a24557525)
 Verkar vara en intressant kombination av tjänster som [http://c9.io|c9.io](http://c9.io|c9.io) med lite mer PaaS inbyggt!
@@ -33,7 +33,7 @@ Verkar vara en intressant kombination av tjänster som [http://c9.io|c9.io](http
     
 </section>
 <section class="message" markdown="1">
-### joakoles - 2017-11-20 08:14 37s
+### joakoles - 2017-11-20 21:14 37s
 
 Kopplat till vår tidigare diskussion om att samarbeta från distans: Nu har Visual Studio Live Share släppts och det har stöd både för visual studio code och visual studio (om man vill kan den ena köra visual studio code och den andra visual studio): [https://code.visualstudio.com/visual-studio-live-share](https://code.visualstudio.com/visual-studio-live-share) De första 6 minuterna i videon handlar om det så man kan skippa den sista delen (som dock visar bra features i visual studio code). 
 
@@ -46,14 +46,14 @@ Ett annat alternativ om man kör slack är att helt enkelt dela sin skärm via s
 <!--excerpt-->
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-21 05:41 13s
+### daniel.winther - 2017-11-21 06:41 13s
 
 Elastic search version 6 släpptes i förra veckan för den som missat det. Många gottiga funktioner! Lagom till vi börjar med Photo Garden. 
 
 [https://www.elastic.co/blog/elasticsearch-6-0-0-released](https://www.elastic.co/blog/elasticsearch-6-0-0-released)
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-21 06:15 56s
+### daniel.winther - 2017-11-21 07:15 56s
 
 Gällande innovation i sparande och ekonomi som vi har pratat om tidigare. Tipsade då om appen Dreams. Har provkört den nu i typ 7 månader och lyckats spara ihop 7659kr utan att jag knappt märkt det. Och när jag skriver ”knappt märkt det” så menar jag inte med nån dryg ton utan mer att appen är väldigt duktig på att spara diskret. 10-50kr här och där vid konstiga tillfällen, allt ifrån att dra pengar vid konstiga högtider (star wars-dagen tex) till att dra pengar vid fullmåne, nån gång varje vecka etc. små summor så man inte tänker på att pengar försvinner men här ser man tydligt ”många bäckar små...”. 
 
@@ -74,61 +74,61 @@ Dreams spara pengar
      
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-21 08:38 36s
+### oscarnylander - 2017-11-21 09:38 36s
 
 Låter intressant! Hur fungerar den? Drar den små summor för att skapa ett större sparande över tid eller gör den något annat?
 </section>
 <section class="message" markdown="1">
-### johanhazelius - 2017-11-21 08:42 29s
+### johanhazelius - 2017-11-21 09:42 29s
 
 @erik.malm tittade snabbt på vår diamonds och noterade att uppdateringen med "väggar" inte är optimal tillsammans med de för tillfället "korkade" bottar som spelar; bottarna fastnar ofta snabbt på en vägg. Föreslår därför att vi inaktiverar väggarna tillfälligt. Om vi vill lägga upp en smartare bot så kan vi sedan slå på väggarna igen. Vad tror du om det?
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-11-21 08:43 23s
+### erik.malm - 2017-11-21 09:43 23s
 
 Japp, går enkelt. Vill du göra ett försök? Annars kör jag en snabb uppdatering ikväll.
 Det är bara att ta bort den generatorn i GameObjectGenerator
 </section>
 <section class="message" markdown="1">
-### johanhazelius - 2017-11-21 08:47 47s
+### johanhazelius - 2017-11-21 09:47 47s
 
 Enklast att du ordnar det, jag har inte miljöer på plats för att kunna lösa det:( 
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-21 08:48 07s
+### oscarnylander - 2017-11-21 09:48 07s
 
 jag kan kanske lösa det
 eller
 helst inte 😉
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-21 08:48 35s
+### daniel.winther - 2017-11-21 09:48 35s
 
 @oscarnylander ja den drar en massa småsummor. Man aktiverar olika triggers som reagerar på olika saker (datum, månen, helgdagar, per månad, per vecka, slumpmässiga etc).
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-21 08:55 49s
+### oscarnylander - 2017-11-21 09:55 49s
 
 Häftigt!
 </section>
 <section class="message" markdown="1">
-### joakoles - 2017-11-21 09:37 28s
+### joakoles - 2017-11-21 10:37 28s
 
 När vi diskuterade teleport och väggar för ett tag sedan tyckte jag och @daniel.winther att vi bör hålla det lite enklare på det officiella/primära brädet. (Rätta mig om jag har fel @daniel.winther) Om vi ska ha väggar och teleport bör de sakerna i så fall ligga på ett annat bräde. Vad tycker ni andra om det?
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-21 09:38 17s
+### daniel.winther - 2017-11-21 10:38 17s
 
 Du har uppfattat mig rätt @joakoles 
 </section>
 <section class="message" markdown="1">
-### joakoles - 2017-11-21 09:39 05s
+### joakoles - 2017-11-21 10:39 05s
 
 Skälet är att det inte ska vara för hög tröskel för studenter
 (och kanske för våra botar)
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-21 10:13 22s
+### oscarnylander - 2017-11-21 11:13 22s
 
 Någon som sett SQL Operations Studio? [https://github.com/Microsoft/sqlopsstudio](https://github.com/Microsoft/sqlopsstudio)
 Verkar vara ett vscode-style alternativ till SQL Server Management Studio som microsoft nyss kommit ut med. Intressant om de lägger till support för andra databaser också!
@@ -139,7 +139,7 @@ Verkar vara ett vscode-style alternativ till SQL Server Management Studio som mi
 Idé för applikation liknande Dream: app som kollar din transaktionshistorik och räknar ut saker du kan spara pengar på utan större ingrepp (med typ machine learning eller liknande)
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-21 10:31 40s
+### daniel.winther - 2017-11-21 11:31 40s
 
 @oscarnylander laddade ner en ny app idag, Zlantar, som gör ungefär det. Visar allt som tink gör men listar också alla avtal den hittar transaktioner för, typ el vatten, mobil, försäkringar etc. dessa hittas med nån ai som blir bättre över tid. I appen kan man den få förslag på bättre avtal, får se hur det funkar i praktiken. 
 
@@ -150,23 +150,23 @@ Idé för applikation liknande Dream: app som kollar din transaktionshistorik oc
     
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-21 10:32 52s
+### oscarnylander - 2017-11-21 11:32 52s
 
 neat!
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-11-21 10:35 17s
+### jenspeterolsson - 2017-11-21 11:35 17s
 
 Ang botar i diamonds så diskuterade Erik och jag att man kanske skulle kunna skicka in flaggor när man reggar sig. Om man ska hamna på officiell high score eller inte, vilka features man vill ha etc. vi pratade också om att om man reggar sig med en etimoadress kanske man automatiskt ska hamna på etimos scoreboard som är dold och inte den officiella. 
 @erik.malm så jag minns det iaf ;-)
 </section>
 <section class="message" markdown="1">
-### erik.malm - 2017-11-21 12:51 15s
+### erik.malm - 2017-11-21 13:51 15s
 
 Jo, @jenspeterolsson det diskuterade vi. Tycker det är en bra sak du för nästa Diamonds sprint.
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-21 02:42 55s
+### daniel.winther - 2017-11-21 15:42 55s
 
 BIOS pensioneras snart. Nostalgi för oss som byggde datorer när vi var unga 😊
 
@@ -177,22 +177,22 @@ BIOS pensioneras snart. Nostalgi för oss som byggde datorer när vi var unga �
     
 </section>
 <section class="message" markdown="1">
-### joakoles - 2017-11-21 07:18 23s
+### joakoles - 2017-11-21 20:18 23s
 
 Jisses, hur konfigurerar man då spänning, multipel och fsb-frekvens när man överklockar? Jag har inte överklockat på många år, gör man på annat sätt nu?
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-21 07:34 06s
+### daniel.winther - 2017-11-21 20:34 06s
 
 Ja du @joakoles ingen aning 😄 länge sen jag gjorde sånt också
 </section>
 <section class="message" markdown="1">
-### johanhazelius - 2017-11-21 09:13 57s
+### johanhazelius - 2017-11-21 22:13 57s
 
 @daniel.winther intressant app du hittade, om det nu fungerar med avtalsjämförelse så är det ett verkligt värde för användaren tycker jag! Återstår väl att se om AI:t verkligen levererar eller om det är ännu en fin ide som inte riktigt funkar..
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-22 05:18 48s
+### daniel.winther - 2017-11-22 06:18 48s
 
 @johanhazelius den verkar ha hittat alla avtal jag har iaf. Sen är det ju flera saker den har svårt att avgöra om avtalet är bra eller dåligt, tex el eller vatten då det innebär en förbrukningskostnad. Vet inte om deras ai kommer in där och kanske kollar geografiskt för att få fram nån slags statistik eller nåt. Återstår att se. 
 Avtal för vatten
@@ -205,32 +205,32 @@ Avtal för vatten
      
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-22 08:45 53s
+### oscarnylander - 2017-11-22 09:45 53s
 
 Intressant!
 </section>
 <section class="message" markdown="1">
-### johanhazelius - 2017-11-22 11:18 12s
+### johanhazelius - 2017-11-22 12:18 12s
 
 Ja, klart spännande:)
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-11-22 03:51 27s
+### jenspeterolsson - 2017-11-22 16:51 27s
 
 Har kollat lite på integrationer mellan Trello och Github issues. Det går att lösa antingen genom att man manuellt (med en power-up för Github) länkar issues från ett kort i trello, alternativt att man installerar och konfigurerar en integration från Github till Trello som gör synken automatiskt. Jag tror inte på ett workflow med en manuell synk och att konfigurera och underhålla den här typen av administrativa integrationer känner jag också lite tvekan inför. Så mitt förslag är att vi fortsätter tills vidare att bara jobba med issues i Github men att vi alltid committar med issue nr. T.ex. för issue 19 i Github för Diamonds så har jag för en commit angett commit message "#19 test commit with marked issue" och #19 gör då att denna commit blir länkad till issuen i Github. Jag tycker att det räcker i steg 1 och att vi kan administrera vår backlog utifrån milestones (t,ex. releaser) och taggar (labels). Blir det ohanterligt i längden kan vi ta upp frågan igen. Vad tycker ni andra?
 </section>
 <section class="message" markdown="1">
-### joakoles - 2017-11-22 04:04 10s
+### joakoles - 2017-11-22 17:04 10s
 
 Jag tycker det låter bra @jenspeterolsson. Jag tror inte det är värdefullt att lägga krut på automatisk integration i detta läget och jag tycker heller inte en manuell synk är att föredra.
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-22 06:59 21s
+### daniel.winther - 2017-11-22 19:59 21s
 
 Jag tycker också det låter bra
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-11-22 08:20 34s
+### jenspeterolsson - 2017-11-22 21:20 34s
 
 Sitter och leker lite med xunit i vs code. Kör Fizzbuzz! Lite udda att man behöver ange verbosity som quiet för att få någon vettig output out of the box (går såklart att konfigurera i ett seriöst projekt).
 
@@ -268,34 +268,34 @@ Och det är som sagt med quiet 😉
 Dessutom tar det alldeles för lång tid att köra testerna p.g.a. kompilering när man är van med node...
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-23 06:45 52s
+### daniel.winther - 2017-11-23 07:45 52s
 
 Ja det är en skön känsla när testerna körs instant 😄
 
 
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-11-23 06:57 05s
+### jenspeterolsson - 2017-11-23 07:57 05s
 
 Provade inte med dotnet watch test dock, ska göra det nästa gång, men kompileringstiden finns väl där ändå. 
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-23 07:39 05s
+### daniel.winther - 2017-11-23 08:39 05s
 
 Hipp hipp hurra för @jens.hunt idag! 🎂🎁🍾🎈🎉
 </section>
 <section class="message" markdown="1">
-### joakoles - 2017-11-23 07:39 39s
+### joakoles - 2017-11-23 08:39 39s
 
 Ha den äran @jens.hunt 😊
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-23 08:06 36s
+### oscarnylander - 2017-11-23 09:06 36s
 
 @jens.hunt 🎉 🍰
 </section>
 <section class="message" markdown="1">
-### joakoles - 2017-11-23 08:37 51s
+### joakoles - 2017-11-23 09:37 51s
 
 Om man kör visual studio (ej code) kan man köra med [http://www.ncrunch.net/](http://www.ncrunch.net/) och om man kör visual studio enterprise kan man köra med live unit testing som ingår: [https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/](https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/) Jag tror att båda lösningar kör tester automatiskt när man sparat en fil. Det stämmer att koden kompileras först.
 
@@ -304,35 +304,35 @@ Om man kör visual studio (ej code) kan man köra med [http://www.ncrunch.net/](
     
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-11-24 07:36 51s
+### jenspeterolsson - 2017-11-24 08:36 51s
 
 När vi kör igång photo garden, vill vi fortfarande köra trunk based i git eller med tex git flow och pull requests? Vi behöver inte dra den allmänna diskussionen ett varv till - tror alla insett att trunk based egentligen ALLTID är bäst ha ha - men mer pragmatiskt så tänker jag att trunk based är bäst och smidigast för oss men att jag och säkert flera andra hade haft nytta inför kunduppdrag att bli vassare på att jobba med github som plattform inkl Code reviews
 </section>
 <section class="message" markdown="1">
-### oscarnylander - 2017-11-24 08:14 02s
+### oscarnylander - 2017-11-24 09:14 02s
 
 jag förespråkar trunk med korta branches i PRs
 dvs branch -&gt; merge to master
 ingen dev/master
 </section>
 <section class="message" markdown="1">
-### daniel.winther - 2017-11-24 08:14 48s
+### daniel.winther - 2017-11-24 09:14 48s
 
 Jag tycker det har funkat bra med trunkbased 
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-11-24 08:20 54s
+### jenspeterolsson - 2017-11-24 09:20 54s
 
 Ha ha, nu kör vi ju diskussionen igen i alla fall! Men jag kör gärna trunk based och branches vid behov (och att vi som sagt oavsett taggar våra commits med issue #), men jag har inga problem med git flow och pull requests heller om någon är sugen på det
 Vad säger övriga?
 </section>
 <section class="message" markdown="1">
-### joakoles - 2017-11-24 08:44 08s
+### joakoles - 2017-11-24 09:44 08s
 
 Om vi lägger stor vikt vid kodgranskning röstar jag på brancher och PR (evt. med feature toggles) annars röstar jag på trunk-based med feature toggles.
 </section>
 <section class="message" markdown="1">
-### jenspeterolsson - 2017-11-24 08:59 21s
+### jenspeterolsson - 2017-11-24 09:59 21s
 
 +1 på feature toggles oavsett, det borde vi få in relativt tidigt
 </section>
