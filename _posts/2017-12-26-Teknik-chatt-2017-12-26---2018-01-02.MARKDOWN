@@ -4,7 +4,7 @@ title: Teknik-chatt 2017-12-26 - 2018-01-02
 excerpt_separator: <!--excerpt-->
 ---
 <section class="message" markdown="1">
-### erik.malm - 2017-12-26 11:38 54s
+### erik.malm - 2017-12-26 10:38 54s
 
 Reddit ledde mig till Dwitter ([https://www.dwitter.net/top](https://www.dwitter.net/top)) ett community där folk skriver javascripts på 140 tecken för att köra visualiseringar. Jag tror att det är hit Demo-scenen tog vägen efter Amigan (långt efter) och kan inte sluta titta.
 
