@@ -22,7 +22,10 @@ Ser för det mesta bra ut, bra jobbat! 🐧
 ### erik.malm - 2017-12-27 10:55 45s
 
 ```java
- public void main(String[] argv)
+ public void main(String[] argv){
+String iAmString = "ThisIsAString";
+int integer = 10;
+}
 ```
 ```console
  /bin/bash
