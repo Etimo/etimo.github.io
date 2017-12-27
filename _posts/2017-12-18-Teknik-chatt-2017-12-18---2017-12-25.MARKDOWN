@@ -1,0 +1,150 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-18 - 2017-12-25
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2017-12-18 11:57 17s
+
+
+<div class="fileblock">
+<div class="text">
+</div>
+<a href="/assets/blogAssets/F8H0T4BV4-DI_16_dec_-_Etimo_omnämns_som_givare_till_Hand_in_hand.pdf">DI 16 dec - Etimo omnämns som givare till Hand in hand.pdf</a>
+</div>
+
+</section>
+<section class="message" markdown="1">
+### joakoles - 2017-12-18 12:00 37s
+
+Jag ser att vi är med i listan under “Företagen som har skänkt pengar till Jobs for change”. Kul!
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-18 12:00 50s
+
+Håller med, jättekul!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-18 12:14 34s
+
+👏
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2017-12-18 01:05 16s
+
+Härligt! 😀
+
+<!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-18 02:15 12s
+
+Bra jobabt @johanhazelius! Kul...
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-12-19 08:30 21s
+
+Test av bild:
+
+<div class="imageblock">
+<a href="/assets/blogAssets/F8GQ7NX7F-hand-0053-banner_statisk-300x250px.jpg">
+<img alt="hand-0053-banner_statisk-300x250px.jpg" src="/assets/blogAssets/thumbnail-F8GQ7NX7F-hand-0053-banner_statisk-300x250px.jpg"/>
+</a></div>
+
+     
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-12-19 08:36 33s
+
+Coolt med en pull request för photo garden (från utvecklare för unleash som jag tolkar det). Bara att godkänna och göra merge på den - någon som vill stå för denna högtidliga insats? @jens.hunt kanske?
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2017-12-19 09:47 31s
+
+Behöver nog ha någon form av rättigheter för det
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-19 09:49 20s
+
+Jag kan approva den!
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-12-19 10:17 16s
+
+Alla borde kunna göra det men kör du @oscarnylander 
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-19 10:17 38s
+
+tror alla har owner-status, om inget är konstigt
+fixade mergen iallafall. sjukt häftigt att få contributions så tidigt!
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-19 10:24 12s
+
+la till travis build status också i readmen. kändes coolt att ha det
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-19 10:39 11s
+
+Ja det är coolt! Snyggt @oscarnylander! Måste ju lägga till coveragebadge och sånt också sen
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-20 11:40 35s
+
+Igår visade jag vilken data man får från bildigenkänningen hos Microsoft. @erik.malm och @joakoles vi pratade bl.a. om ”adult” faktorn som ska känna igen olämpliga bilder. Här kan man läsa om ett exempel: 
+[http://feber.se/pryl/art/375512/artificiell_intelligens_missta/](http://feber.se/pryl/art/375512/artificiell_intelligens_missta/)
+
+<div class="attachment"><h4>Artificiell intelligens misstar öknar för nakna människor</h4><div class="text">Brittisk polis har börjat användas sig av maskinlärning för att med hjälp av datorsyn kunna hitta eventuellt kriminellt komprometterande bilder i mobiltelefoner och datorer man beslagtar från misstänkta. Systemet kan redan idag identifiera saker som pistoler, droger och pengar men systemet verkar ha svårare att identifiera bilder på till exempel barn och människor som utsätts för sexuella övergre....</div>
+<a href="http://feber.se/pryl/art/375512/artificiell_intelligens_missta/"><img src="http://static.feber.se/article_images/44/27/90/442790_440x440.jpeg" fallback="Artificiell intelligens misstar öknar för nakna människor"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-20 11:46 23s
+
+Att du skickar såna bilder när jag är på jobbet Daniel! 
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-20 11:47 51s
+
+Funderade på att skicka en bild på min kala hjässa men ville inte provocera för mycket ifall du råkade sitta bland andra människor @erik.malm 😄
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-20 12:07 11s
+
+Vad jag minns är ditt huvud över 1,5% "adult" enligt Microsoft Cognitive Services! Tänk på att @jens.hunt och @oscarnylander inte är gamla nog att se sådant än!
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-20 12:46 03s
+
+🐴
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-12-20 03:01 20s
+
+hahaha
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-12-21 08:32 20s
+
+Lean är som bekant ett buzzword i vår värld. I denna podcast belyses konceptet på ett bra sätt tycker jag: [http://kapitalet.se/2017/12/18/lean-fran-toyota-till-sjostadsskolan/](http://kapitalet.se/2017/12/18/lean-fran-toyota-till-sjostadsskolan/)
+Handlar inte om utveckling specifikt men väl applicerbart även på utvecklingsprocesser. Ex fokus på att leverera produkt så snabbt som möjligt snarare än att optimera effektivitet och produktivitet lokalt (i.e per utvecklare) tycker jag utgör grund för eftertanke. Lyssna och fundera är mitt råd.
+
+<div class="attachment"><h4>Lean – från Toyota till Sjöstadsskolan</h4><div class="text"></div>
+<a href="http://kapitalet.se/2017/12/18/lean-fran-toyota-till-sjostadsskolan/"><img src="http://kapitalet.se/wp-content/uploads/2017/12/work-1713103_1920-1024x576.jpg" fallback="Lean – från Toyota till Sjöstadsskolan"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-12-22 02:47 20s
+
+Någon som har erfarenhet av Apollo ([https://www.apollographql.com](https://www.apollographql.com)) eller PrimeNG ([https://www.primefaces.org/primeng/#](https://www.primefaces.org/primeng/#)) tillsammans med Angular? Om ja, någon allmän uppfattning om dessa tekniker?
+
+<div class="attachment"><h4>Apollo GraphQL</h4><div class="text">Learn about the Apollo platform: Client, Engine, GraphQL servers, GraphQL support, and more.</div>
+<a href="https://www.apollographql.com">Apollo GraphQL</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-22 09:01 53s
+
+Kollat in Apollo lite grann i samband med code review av struqtur men inte jobbat med det. Primeng har jag aldrig sett men har kollat in lättare varianter som tex angular material. 
+</section>

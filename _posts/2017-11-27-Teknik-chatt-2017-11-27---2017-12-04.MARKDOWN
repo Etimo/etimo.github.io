@@ -1,0 +1,242 @@
+---
+layout: post
+title: Teknik-chatt 2017-11-27 - 2017-12-04
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### oscarnylander - 2017-11-27 08:29 01s
+
+Lisp implementerat på färre än 200 rader C:
+[https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
+
+<div class="attachment"><h4>Lisp In Less Than 200 Lines Of C</h4><div class="text">Title: a brief and simple programming language implementationTags: lambda calculus, Lisp, C, programmingAuthors:</div>
+<a href="https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html">Lisp In Less Than 200 Lines Of C</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-11-27 08:31 23s
+
+Snyggt😁 
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-27 08:32 47s
+
+Oj herregud
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-11-27 08:33 21s
+
+Lisp är ett förvånansvärt simpelt språk att implementera :slightly_smiling_face:
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-27 08:33 41s
+
+Ja uppenbarligen 😄
+
+<!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-11-27 05:18 49s
+
+Har de löst problemet med att lisp är nittio procent parenteser?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-27 06:00 17s
+
+😂
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-11-28 08:01 30s
+
+Någon mer än jag som höll på med amos? Faktum är att jag på fullt allvar tycker att [http://vb.net|vb.net](http://vb.net|vb.net) är/var minst lika bra som c# men eftersom ingen förstår det så...
+[https://sourceforge.net/projects/xamos/](https://sourceforge.net/projects/xamos/)
+
+<div class="attachment"><h4>XAMOS</h4><div class="text">Download XAMOS for free. Cross-platform reimplementation of AMOS BASIC (runtime) XAMOS is a cross-platform reimplementation of AMOS BASIC based on jAMOS, fully re-written in C++ with SDL libraries. Currently runtime only, however is widely compatible with jAMOS projects.</div>
+<a href="https://sourceforge.net/projects/xamos/"><div class="linkdiv"><img src="/assets/blogAssets/XAMOS" fallback="XAMOS"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-28 08:07 58s
+
+Aldrig hört talas om. Men kul att du nämner vb 😊 själv tyckte jag inte .net varianten var jättekul utan i den vevan gick jag över till c#. Däremot var det visual basic som på allvar fick mig att programmera. Från vb3 till vb6, underbar tid! Nånstans där innan har jag nåt minne av qbasic i dos. Sen börjar minnena tona ut, man börjar ju bli till åren nu...
+@jenspeterolsson du måste ju ha suttit med vb också innan .net?
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-11-28 08:26 00s
+
+@daniel.winther Nope. Amos var på Amiga, och sedan jobbade jag med c++, powerbuilder (!) och bash script mest innan c#. Men på IKEA satt jag under flera års tid med [http://vb.net|vb.net](http://vb.net|vb.net) och gillar tydligheten i syntaxen. Lite som Python...
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-11-28 08:37 18s
+
+AMOS var nåt vi Atari ST ägare bara suktade efter. Köpte och läste Amiga/Commodore tidningar med AMOS tutorials och C64 program som man skrev in själv. Massor av Poke &lt;Slumpmässig siffra här&gt; statements i rad. Jag hade ingen C64 heller.
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-11-28 08:48 35s
+
+Fail hela vägen alltså @erik.malm 
+Och se hur långt du har kommit ändå 😬
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-11-28 08:55 17s
+
+Klar fail hela vägen, men det är kanske ett tecken om man tycker "Poke" listor i tryck är sjukt bra läsning.
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-11-28 09:20 36s
+
+Ha ha min lillebrors kompis sa senast jag träffade honom hur sjukt imponerade de var på den tiden av alla som programmerade ”på riktigt” och inte bara skrev av kodlistningar från datormagazine
+Men Amiga, c64 och st var helt klart bra skolor
+Och inte minst datormagazine
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-28 09:22 34s
+
+Datormagazine var grym!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-11-29 05:37 15s
+
+Någon med en Mac och High Sierra som har lust att testa? Tydligen ska man kunna logga in som root utan lösen, bara man trycker på unlock knappen flera gånger. [https://twitter.com/lemiorhan/status/935578694541770752](https://twitter.com/lemiorhan/status/935578694541770752)
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-29 06:04 47s
+
+Har bara sierra än så länge
+Men ganska kul diskussion att läsa 😂
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-29 08:42 29s
+
+Apropå kortfattad diskussion vi hade om graphql på senaste Etimo challenge, vad sägs om att prova detta i photo garden för apiet mot klienten. På så vis kanske vi kan lägga en bättre grund för flera typer av klienter på sikt. Tror det kan va intressant att lära sig mer om det. 
+
+
+[http://graphql.org/learn/](http://graphql.org/learn/)
+
+<div class="attachment"><h4>GraphQL: A query language for APIs.</h4><div class="text">GraphQL provides a complete description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.</div>
+<a href="http://graphql.org/learn/"><div class="linkdiv"><img src="/assets/blogAssets/GraphQL: A query language for APIs." fallback="GraphQL: A query language for APIs."/></div></a></div>
+    
+[https://github.com/graphql/graphiql](https://github.com/graphql/graphiql)
+
+<div class="attachment"><h4>graphql/graphiql</h4><div class="text">graphiql - An in-browser IDE for exploring GraphQL.</div>
+<a href="https://github.com/graphql/graphiql"><div class="linkdiv"><img src="/assets/blogAssets/graphql/graphiql" fallback="graphql/graphiql"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-11-29 09:19 08s
+
+Kanske inte introducera både graphql och elastic search samtidigt? Jag är personligen inte så inne på graphql men om flera andra tycker det vore kul har jag inget emot att lära mig det. 
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-29 09:35 24s
+
+Kanske blir överflödigt men jag tänkte nog inte att vi jobbar direkt mot elastic search från frontend utan att vi går via ett api, därav möjligheten. 
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-11-29 09:54 35s
+
+Graphql har inte lagring utan är bara ett queryspråk som jag fattat det? D.v.s. det behövs api emellan både för graphql och elastic?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-29 09:55 08s
+
+Graphql är ju en tolk av input till Query mot källa
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-11-29 09:55 28s
+
+Men kortsiktigt behöver vi ju främst läsa json och möjligtvis skriva enkel json så alternativet till graphql är väl snarare mongo/postgres etc.
+Elastic kommer nog in senare i utvecklingen när vi har mer data och fler sökfunktioner
+Sedan är det ingen nackdel att man är lite advokat för ett eget teknikval och tar lite större ansvar för att få det på plats @daniel.winther
+Så om du tar på dig ledarhatten för graphql är det ju ett plus 😉
+Lite som oscar med docker t.ex.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-11-29 09:59 36s
+
+GraphQL är klart intressant, vet inte om jag tolkat projektet helt men är det som jag tror det är kan man nog spara en hel del utevecklingstid på att använda det
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-29 09:59 48s
+
+@jenspeterolsson Absolut men vill helst inte propsa på nåt om ingen annan är intresserad 😄
+Bra då är vi 2 @oscarnylander!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-29 10:15 04s
+
+Men som du säger @oscarnylander så har vi kanske inte alla detaljer på plats exakt hur allt ska funka, och antagligen inte samma bild allihopa. Jag tror också, i min vision, att det kan spara tid på sikt men samtidigt kommer det nog ta längre tid att implementera initialt. 
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-11-29 10:19 59s
+
+Det ända jag varit skeptisk till är licensen, men den kanske ändrades i samband med React-ändringen?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-29 11:26 14s
+
+Har inte kollat, ska undersöka
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-11-29 11:43 14s
+
+Appropå att alla kanske inte har samma bild av vad photo.garden ska bli - jag kommer ansvara för att ta fram produktvisionen. Som vanligt utformar Vi den gemensamt men jag kommer hålla i pennan och ansvara för att vi faktiskt dokumenterar visionen så vi säkrar att vi alla har samma bild av slutmålet. Draft kommer innan nästa challange
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-11-29 11:43 33s
+
+Låter bra!
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-11-29 01:02 23s
+
+Jag tänker att kopplat till produktvisionen så arbetar vi med milestones i Github i form av features (inte releaser, vilket jag vid närmare eftertanke tror är fel väg att gå). T.ex. för feature "Display photos from Google Drive" så ingår det ett antal issues i Github som att koppla mot Googles API, kanske transformera Googles format till ett standardformat vi vill arbeta med, visa i front-end m.m.
+Våra fyra första features skulle då kunna vara:
+- Display photos from Google Drive
+- Continuous Delivery (docker, appar, server, deploy etc.)
+- Feature flags (så att vi kan deploya kontinuerligt trots att en feature inte är klar)
+- Search on metadata (date and place) from photos
+Verkar det vettigt?
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-11-29 01:24 46s
+
+Tycker det låter vettigt @jenspeterolsson 
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-11-29 03:20 44s
+
+Låter som en bra start!
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-11-29 05:43 01s
+
+Har flyttat markdown om produkt som vi uppdaterade senaste Etimo challenge till github istället (kan då öppnas direkt i browser), ligger här:
+[https://github.com/Etimo/photo-garden/blob/master/Product%20draft.md](https://github.com/Etimo/photo-garden/blob/master/Product%20draft.md)
+
+<div class="attachment"><h4>Etimo/photo-garden</h4><div class="text">Contribute to photo-garden development by creating an account on GitHub.</div>
+<a href="https://github.com/Etimo/photo-garden/blob/master/Product%20draft.md"><div class="linkdiv"><img src="/assets/blogAssets/Etimo/photo-garden" fallback="Etimo/photo-garden"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-01 01:04 41s
+
+Exempel på annorlunda dataanalys:
+[https://techworld.idg.se/2.2524/1.693637/kent-deppigaste-laten](https://techworld.idg.se/2.2524/1.693637/kent-deppigaste-laten)
+
+<div class="attachment"><h4>Vilken Kent-låt är deppigast? Nu finns det dataanalys på det.</h4><div class="text">Ett kul hobbyprojekt ger en bra illustration av en dataanalytikers arbete. Det upptäckte Filip Wästberg när han tog reda på vilken Kent-låt som är deppigast.</div>
+<a href="https://techworld.idg.se/2.2524/1.693637/kent-deppigaste-laten"><div class="linkdiv"><img src="/assets/blogAssets/Vilken Kent-låt är deppigast? Nu finns det dataanalys på det." fallback="Vilken Kent-låt är deppigast? Nu finns det dataanalys på det."/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-01 01:37 19s
+
+Den lär vara från "La Belle Epoque" albumet annars är det fel på analysen.
+Har spenderat mycket tid med R under min doktorandtid men måste erkänna att jag aldrig såg den här möjligheten.
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-12-01 01:44 41s
+
+Jag som gillar Kent åtminstone fram till ca 2002 läste artikeln och deppigaste låten var från Hagnesta Hill
+Sedan sätter jag frågetecken för hur man kan göra en objektiv analys i frågan 😉
+</section>

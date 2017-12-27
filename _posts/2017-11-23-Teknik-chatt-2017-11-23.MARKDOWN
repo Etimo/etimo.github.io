@@ -1,6 +1,0 @@
----
-layout: post
-title: Teknik-chatt 2017-11-23
----
-### joakoles - 2017-11-23 08:37 51s
-Om man kör visual studio (ej code) kan man köra med [http://www.ncrunch.net/](http://www.ncrunch.net/) och om man kör visual studio enterprise kan man köra med live unit testing som ingår: [https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/](https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/) Jag tror att båda lösningar kör tester automatiskt när man sparat en fil. Det stämmer att koden kompileras först.

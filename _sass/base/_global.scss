@@ -159,3 +159,26 @@ img[align=right] {
 		font-size: 0.75em;
 	}
 }
+.attachment .text,.fileblock .text,.imageblock .text,.preview .text{
+	margin-bottom:1em;
+}
+.attachment,.fileblock,.imageblock{
+	text-align:center;
+}
+.attachment,.fileblock,.preview,.imageblock{
+	border-radius:2em;
+	border:2px solid #507492;
+	text-align:center;
+	font-size:0.8em;
+	width:auto;
+	padding:0.4em 1.2em;
+	margin:0 auto;
+}
+.imageblock img{
+	margin:0 auto;
+	max-height:50em;
+}
+.attachment img,.fileblock img{
+	margin:0 auto;
+	max-height:15em;
+}

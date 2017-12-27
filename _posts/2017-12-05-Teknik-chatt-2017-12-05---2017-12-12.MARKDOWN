@@ -1,0 +1,184 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-05 - 2017-12-12
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-05 07:36 47s
+
+Ja det kan man fråga sig men tydligen fanns det lite info om klang i ord och hur det kopplas till deppighet/negativitet. Men självklart mest en kul grej 😄
+För er som också använder vscode finns den här pluginen för att förhindra komplex kod:
+
+[https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
+
+Har kört den i hela projektet här på seb och tycker den bidrar en del till att hålla funktionerna små och testbara. 
+
+<div class="attachment"><h4>CodeMetrics - Visual Studio Marketplace</h4><div class="text">Extension for Visual Studio Code - Computes complexity in TypeScript / JavaScript files.</div>
+<a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics"><div class="linkdiv"><img src="/assets/blogAssets/CodeMetrics - Visual Studio Marketplace" fallback="CodeMetrics - Visual Studio Marketplace"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-05 09:40 32s
+
+Show etimo: Flaskbuckle! (Swashbuckle för Flask) [https://github.com/oscarnyl/flaskbuckle](https://github.com/oscarnyl/flaskbuckle)
+
+Autogenererar swagger baserat på ett Flask-API och exponerar en SwaggerUI baserat på den genererade swaggerfilen.
+
+<div class="attachment"><h4>oscarnyl/flaskbuckle</h4><div class="text">flaskbuckle - Auto-generated Swagger specifications for your Flask API</div>
+<a href="https://github.com/oscarnyl/flaskbuckle"><div class="linkdiv"><img src="/assets/blogAssets/oscarnyl/flaskbuckle" fallback="oscarnyl/flaskbuckle"/></div></a></div>
+    
+(det står `pip install flaskbuckle` i instruktionerna men jag har inte publicerat det som paket ännu - det kommer idag/ikväll)
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-12-05 09:43 37s
+
+Snyggt @oscarnylander
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-05 09:44 32s
+
+Tackar! Vill ni se det live kan ni:
+1. Klona repot
+2. `docker-compose up`
+3. [http://localhost:5000/api/docs](http://localhost:5000/api/docs)
+baserat på api:t som finns i src/app.py
+Fixade en knepig bugg igår som uppstod pga. pythons mutable-dicts. Immutable borde vara default, det sparar vi nog massor på i slutändan tror jag
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-05 09:48 06s
+
+Coolt @oscarnylander, nu behöver jag bara ett projekt jag kan dokumentera. Uppskattar också todo delen längst ned i readme.
+
+<!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-05 10:01 10s
+
+Tyvärr verkar mitt försök att testköra ha utlöst livskris i min docker daemon. Blir lokal techsupport istället.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-06 08:14 23s
+
+Google har en ai som bygger andra AIs (AIar? Hur skriver man ai i plural?) och den har byggt en som är bättre än alla andra på datorsyn, även alla som är skapade av människor. Början på slutet?
+
+[http://www.sciencealert.com/google-s-ai-built-it-s-own-ai-that-outperforms-any-made-by-humans](http://www.sciencealert.com/google-s-ai-built-it-s-own-ai-that-outperforms-any-made-by-humans)
+
+<div class="attachment"><h4>Google's AI Built Its Own AI That Outperforms Any Made by Humans</h4><div class="text">In May 2017, researchers at Google Brain announced the creation of AutoML, an artificial intelligence (AI) that's capable of generating its own AIs.</div>
+<a href="http://www.sciencealert.com/google-s-ai-built-it-s-own-ai-that-outperforms-any-made-by-humans"><img src="http://www.sciencealert.com/images/articles/processed/GettyImages-474395892_1024.jpg" fallback="Google's AI Built Its Own AI That Outperforms Any Made by Humans"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-06 09:13 48s
+
+Higher-Order AI? 🐴
+Nån som har förslag på hur man representerar "dict-shapes" i python på ett cleant sätt? Kom på att det finns kritiska brister i min klassbaserade approach som gör många APIer orepresenterbara på ett väldigt obekvämt sätt (pga variabelnamnrestriktioner i python)
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-06 09:28 22s
+
+Vad är dict shapes?
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-06 09:29 24s
+
+Vill kunna representera en "typad dict", ala:
+```
+{
+    str "string_key": "example value",
+    int "int_key": "12345
+}
+```
+egentligen så att en swagger spec kan genereras utifrån den (ett json schema och ett example)
+trodde jag var klipsk när jag utformade min SwaggerModel-class i Flaskbuckle, men den var fundamentalt trasig kom jag fram till senare 😞
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-06 09:39 03s
+
+Kanske slutar med att jag får köra en dict med tuple-values (type, actual_value)
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-12-06 03:52 50s
+
+Jag har lagt upp de milestones vi skrev om för någon vecka sedan och också några issues. Tanken är då att man navigerar via milestones och sedan ser de issues som är kopplade till varje milestone (och att man skapar nya issues kopplade till en viss milestone). Använd issue nr vid commit, alltså t.ex. git commit -m "#1 amazing test scenario for hello world"
+[https://github.com/Etimo/photo-garden/milestones](https://github.com/Etimo/photo-garden/milestones)
+
+<div class="attachment"><h4>Etimo/photo-garden</h4><div class="text">Contribute to photo-garden development by creating an account on GitHub.</div>
+<a href="https://github.com/Etimo/photo-garden/milestones"><div class="linkdiv"><img src="/assets/blogAssets/Etimo/photo-garden" fallback="Etimo/photo-garden"/></div></a></div>
+    
+Jag har också skapat en basic node app med en testsetup som är snodd till stor del från det Bonnier/Expressen använder. En kombination av TDD/BDD, skulle jag säga.  Dels tycker jag den är bra och reflekterar mycket av de tankar många utvecklare har om hur man vill jobba testdrivet (snabbt och pragmatiskt och utifrån scenarios snarare än tekniska krav på coverage), dels kan det ju vara bra att vara bekant med denna setup rent kompetensmässigt.
+Vill någon hugga tag i de issues som ligger eller skapa nya så är det såklart bara att köra, annars rivstartar vi under nästa challenge!
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-12-06 04:03 11s
+
+Är någon nyfiken på det vi gör på Bonnier finns en del av det som open source på npm/github, t.ex. [https://www.npmjs.com/package/pg-doc-store](https://www.npmjs.com/package/pg-doc-store)
+
+<div class="attachment"><h4>pg-doc-store</h4><div class="text">Opionated solution for storing document as entities in postgres without an ORM-solution</div>
+<a href="https://www.npmjs.com/package/pg-doc-store"><div class="linkdiv"><img src="/assets/blogAssets/pg-doc-store" fallback="pg-doc-store"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-07 05:54 46s
+
+Coolt, att se någon göra en upsert till postgres förvirrar mitt MongoDB älskande hjärta. Bra jobbat med milstolparna @jenspeterolsson.
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-12-07 01:24 02s
+
+Nu har vi överlämnat årets julgåva till Hand in Hand. Vi har köpt en andel i detta projekt: [https://www.handinhand.nu/wp-content/uploads/2017/10/JOBS_FOR_CHANGE_whitepaper.pdf](https://www.handinhand.nu/wp-content/uploads/2017/10/JOBS_FOR_CHANGE_whitepaper.pdf)
+God Jul (lite för tidigt men ändå:)
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-07 01:24 37s
+
+God jul!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-07 01:51 38s
+
+Aldrig för tidigt! God jul...
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-07 08:07 46s
+
+De tre av oss på SEB har genomgått registerkontroll, verkar dock som att riksbanken haft lite svårare med detta just på IT sidan.
+[https://www.svd.se/allvarliga-brister-funna-i-riksbankens-it-sakerhet](https://www.svd.se/allvarliga-brister-funna-i-riksbankens-it-sakerhet)
+
+<div class="attachment"><h4>Allvarliga brister funna i Riksbankens it-säkerhet</h4><div class="text">SvD AVSLÖJAR | Känslig information som riskerar att hamna i orätta händer, allvarliga incidentrapporter som slarvas bort, dåligt krypterad kommunikation och slarv i hantering av hemlig data. Riksbankens informationssäkerhet har ett flertal anmärkningsvärda brister.</div>
+<a href="https://www.svd.se/allvarliga-brister-funna-i-riksbankens-it-sakerhet"><div class="linkdiv"><img src="/assets/blogAssets/Allvarliga brister funna i Riksbankens it-säkerhet" fallback="Allvarliga brister funna i Riksbankens it-säkerhet"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2017-12-07 09:56 07s
+
+Verkligen. Verkar vara ett vanligt förekommande problem bland svenska myndigheter..
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-08 10:36 27s
+
+Dagens lösningsförslag för prod-issue:
+```
+Possible solutions:
+
+- Solve the root cause of this issue in remote apis
+- Use a retry strategy for all applicable cases (problem goes away after retrying)
+- Give up and cry
+```
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-08 11:19 03s
+
+Dagens kommentar:
+`// DONT WASTE TIME HERE ANY MORE, HOURS SPENT: 8`
+följt av en utkommenterad SQL-query
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-08 11:20 02s
+
+Jag gillar era kommentarer, våra är mer corporate...
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-08 11:20 32s
+
+Finns klara fördelar med att inte jobba i fintech 😏
+</section>

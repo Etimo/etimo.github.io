@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 *.manifest
 *.spec
-
+*.swp
 
 _site/**
 _site

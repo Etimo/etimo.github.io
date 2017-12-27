@@ -1,0 +1,248 @@
+---
+layout: post
+title: Teknik-chatt 2017-12-11 - 2017-12-18
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### jens.hunt - 2017-12-11 12:53 46s
+
+C# 7.1 ger oss en async main metod: [https://blogs.msdn.microsoft.com/benwilli/2017/12/08/async-main-is-available-but-hidden/](https://blogs.msdn.microsoft.com/benwilli/2017/12/08/async-main-is-available-but-hidden/)
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-11 01:02 31s
+
+👍 hur mycket vinner man på det?
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-12-11 01:18 58s
+
+Man slipper göra wait el. dyl. själv inuti main när man anropar en annan asynkron metod. Spelar oftast ingen roll men ändå mer cleant och ger kanske nya möjligheter för azure functions, aws lambdas m.m.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-11 02:58 24s
+
+Mmm för serverless känns en async main som ett väldigt cleant alternativ.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 09:02 47s
+
+Nån som provat Parcel än?
+[https://github.com/parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+
+<div class="attachment"><h4>parcel-bundler/parcel</h4><div class="text">parcel - :package::rocket: Blazing fast, zero configuration web application bundler</div>
+<a href="https://github.com/parcel-bundler/parcel"><div class="linkdiv"><img src="/assets/blogAssets/parcel-bundler/parcel" fallback="parcel-bundler/parcel"/></div></a></div>
+    
+Känns som en dröm att gå ifrån webpack så jag ska prova på en gång 😂
+
+<!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 09:50 08s
+
+läste lite, så som jag förstod det så nådde det inte riktigt upp till vad det lovade (det var lätt att confa om du ville ha precis det som erbjöds - annars gick det helt enkelt bara inte för många cases)
+men har såklart inte testat själv så kan inte säga allt för mycket
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:14 37s
+
+Nej precis det är ju en zero conf i princip så blir ju svårt om man vill ha speciallösningar men tanken är ju att det ska funka för många vanliga fall. 
+Verkar funka för angular iaf
+Men att komma ifrån evighetslånga byggen med webpack är lite av en dröm här
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:16 15s
+
+tar byggen lång tid med webpack för er? tidsåtgången är sällan ett problem i de projekt jag har jobbat med, främst komplexiteten i att konfigurera som är knepigt med webpack här.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:18 41s
+
+Vi har helt tvärtom. Vi kör default config från angular cli så vi behöver aldrig röra nån config. Däremot tar byggen ibland flera minuter, speciellt jobbigt om man ska försöka köra tdd. Men även jobbigt när det tar 10-20 sekunder även för diffbygge när man sparar filer och ska vänta på reload i webbläsaren. 
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:24 23s
+
+Sen är webpack dålig på att plocka upp större förändringar. Här får vi ofta byggfel när man byter brancher och det är större delar av koden som är annorlunda. Då måste man alltid bygga om helt. Vet inte om det beror på Windows mer dock än webpack. Windows är ingen höjdare på att hantera många filförändringar, inte om man är van vid unix. 
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:26 14s
+
+håller med, windows är högst problematiskt för filewatching
+men det tar även mycket tid när ni kör webpack-dev-server?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:26 42s
+
+Till följd av sånt får vi också problem med att det tex inte går att byta branch samtidigt som man bygger koden i en annan flik etc. git ballar ur och hamnar i detachade state med halvgjorda merges/checkouts. 
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:26 56s
+
+:windows:
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:27 18s
+
+Jag saknar utveckling på min Mac 🤣
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:27 24s
+
+förstår det 😉
+själv saknar jag linux när jag sitter på macen, native docker är vad jag behöver
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:27 43s
+
+Sen att min vänstra shifttangent har lossnat gör inte saken enklare 😂
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:27 57s
+
+😢 🔫
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:28 41s
+
+Zsh på macen ger mig allt jag behöver. Klart man saknar vissa grejer i linux ändå men men, kompromiss som är klart mer värd än att jobba på Windows 😄
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:28 50s
+
+men som sagt, får ni även lång feedback-loop med webpack-dev-server?
+för den brukar vara ganska kvick
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:29 23s
+
+Ja. Som jag skrev ovan så har vi långa feedbackloopar även i dev
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:29 31s
+
+skumt
+vi hade ca. 5 sekunder som värst på qliro i den conf jag hade
+save -&gt; rebuilt and reloaded
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:30 07s
+
+Njae, en stor bov är virusprogrammet som måste kolla allt som sker i processen 😩
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:32 18s
+
+:windows: 🔫
+känner igen det där
+antiviruset på qliro gjorde att `yarn install` tog tillräckligt med tid att man gick och hämtade kaffe varje gång man gjorde det
+samtidigt borde det gå att confa den till att köra bara in-memory (webpack-dev-server)
+så att inga filer emittas och inget problem uppstår
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:49 14s
+
+Den ska fortfarande läsa filer dock.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:52 09s
+
+:thinking_face: Stäng av antiviruset 😉
+blir det mac på nästa uppdrag?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 10:52 47s
+
+Ja det vore såklart skönt att stänga av men icke 😉
+Jag vet inte än men tror det
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-12 10:53 10s
+
+👌
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-12 03:54 18s
+
+Det är ju en eller två mac:ar här på uppdraget nu så funderar själv på hur man ska få till ett platformsbyte. Tror det är ganska döfött att be om en linux-burk 😢
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 09:30 47s
+
+@erik.malm går det att fixa så smileys, bilder och formaterad text kommer ut i bloggen?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-12 09:33 58s
+
+Bilder går att ordna på en timme eller så, markdown strular av någon anledning men borde gissningsvis gå rätt fort att ordna. Smileys vet jag inte om vi kan få in lagligt. Nån äger upphovsrätten  Funderar på att lägga in öppna motsvarigheter till de vanligaste och fylla på allt eftersom.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2017-12-12 09:34 21s
+
+Aha ok, coolers
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-12 09:39 50s
+
+Sen ska man bara hitta de där småtimmarna också. Men har ett par idéer jag gärna snackar igenom vid tillfälle.
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-12-13 08:28 56s
+
+Apropå parcel så har jag varken provat det eller brunch men jag hade gärna testat brunch i ett lite större projekt
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-13 10:57 22s
+
+Försökte ta en titt igår på hur långt Rust kommit som språk för att skapa webapplikationer och drog snabbt slutsatsen att det inte ens är i närheten av vart det behöver vara för att kunna övervägas för webapplikationsutveckling.
+
+Så nu vet vi det!
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-13 11:11 42s
+
+[http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/](http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
+
+Vad tycker ni, är entity services korrekt väg att gå eller ett anti-pattern?
+
+<div class="attachment"><h4>The Entity Service Antipattern - Wide Awake Developers</h4><div class="text">In my last post I talked about the need to keep things separated once they've been decoupled. Let's look at one of the ways this breaks down: entity …</div>
+<a href="http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/">The Entity Service Antipattern - Wide Awake Developers</a></div>
+    
+[https://blogs.technet.microsoft.com/dataplatforminsider/2017/12/12/try-mssql-cli-a-new-interactive-command-line-tool-for-sql-server/](https://blogs.technet.microsoft.com/dataplatforminsider/2017/12/12/try-mssql-cli-a-new-interactive-command-line-tool-for-sql-server/)
+
+Ett verktyg likt pgcli och mycli finns nu till mssql!
+
+`In order to install mssql-cli, you must have Python on your machine.` Oväntat för Microsoft-mjukvara!
+
+<div class="attachment"><h4>Try mssql-cli, a new interactive command line tool for SQL Server</h4><div class="text">Official News from Microsoft’s Information Platform</div>
+<a href="https://blogs.technet.microsoft.com/dataplatforminsider/2017/12/12/try-mssql-cli-a-new-interactive-command-line-tool-for-sql-server/">Try mssql-cli, a new interactive command line tool for SQL Server</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2017-12-13 02:00 07s
+
+Frågan om entity services är intressant. Den stora fördelen med entiteter tycker jag är att rätt valda så kan man få ett gemensamt synsätt på systemet hela vägen från beställare via utvecklare till användare. Ju mer specifika och konkreta entiteter man använder, desto bättre. Jag tycker alltså att tydligheten är ett stort skäl till att det många gånger är bra att börja bygga tjänster utifrån entiteter. Å andra sidan, om det finns en entitet "Product" i ett e-handelssystem med ett mycket stort antal produkter och transaktioner så kommer knappast samma mikrotjänst på ett bra sätt kunna hantera CRUD, att hämta detaljer för en order och att göra en bred sökning bland alla produkter utifrån t.ex. en kategori. Det sista fallet med sök skulle t.ex. kunna vara en mikrotjänst som använder Elastic Search och heter "ProductSearch".  Så jag tror alltså inte på ett regelverk där det måste vara antingen eller. Och jag tror också att även om man väljer att designa utifrån processflöden så får man samma problem med dependencies (och dessutom vill processflöden gärna växa över tid både i omfattning och komplexitet). Och en ShoppingService kommer behöva info från en OrderService (och båda behöver i sin tur info från ProductSearchService o.s.v.).
+Den stora bristen i exemplet är att det inte analyserar hur man kan abstrahera kopplingarna mellan tjänster. Detta problem är i stort det samma oavsett entity services, men att inte ha direkta dependencies mellan url:er etc. är extremt viktigt i ett större system om man ska få mer av fördelarna och mindre av nackdelarna med micro services. Alltså API gateways, routing med proxies o.s.v.
+Med denna långa utläggning vill jag alltså ha sagt att det kan vara ett anti-pattern men att det inte behöver vara det 😉
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-14 03:08 08s
+
+Dagens commitmeddelande: `...`
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2017-12-15 11:20 30s
+
+Jag känner personens otroliga brist på inspiration
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-15 11:22 19s
+
+Det var mitt commitmeddelande 🐧
+jag var lite frustrerad över en miss jag gjorde
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2017-12-15 01:17 16s
+
+Dagens commitmeddelande. `done`
+Den är jag inte skyldig till heller 😉
+</section>
