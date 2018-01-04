@@ -1,0 +1,42 @@
+---
+layout: post
+title: Teknik-chatt 2018-01-04 - 2018-01-11
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### joakoles - 2018-01-04 14:23 26s
+
+[https://meltdownattack.com/](https://meltdownattack.com/)
+Innehåller även info om Spectre.
+Senaste nytt inom data om nån missat det :slightly_smiling_face:
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-04 14:23 57s
+
+är det intel-skandalen?
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-04 14:25 42s
+
+Ja
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-04 14:25 55s
+
+ja, det var en riktig miss av dom
+såg ni att intel-chefen sålt aktier efter han vetat om problemet?
+klart ifrågasättbart
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-04 14:27 53s
+
+Osmart av honom, nu måste ju många köpa nya processorer 🐧
+
+<!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-04 14:28 12s
+
+I guess 😉 kanske inte av intel dock
+vad tror ni chansen att NSA vetat om och använt sig av exploiten är?
+</section>
