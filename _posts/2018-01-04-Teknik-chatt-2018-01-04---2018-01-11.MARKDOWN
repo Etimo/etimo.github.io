@@ -40,3 +40,49 @@ Osmart av honom, nu måste ju många köpa nya processorer 🐧
 I guess 😉 kanske inte av intel dock
 vad tror ni chansen att NSA vetat om och använt sig av exploiten är?
 </section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-04 14:30 54s
+
+Intel sjunker på börsen medan amd stiger visserligen.
+
+Bra fråga @oscarnylander! Är nyfiken på svaret.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-04 14:31 08s
+
+det var oväntat
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-04 14:31 28s
+
+Jag skrev det omvänt, har uppdaterat mitt meddelande nu @oscarnylander
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-04 15:20 43s
+
+Sprang först på det hela i den här bloggen: [http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table](http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table), den ger en bra genomgång av lösningen och var kostnaden kommer ifrån med liten krydda av spekulationer kring exakt vad vulnerabilityn består i innan allt blivit offentligt. Fortfarande riktigt läsvärd.
+
+<div class="attachment"><h4>The mysterious case of the Linux Page Table Isolation patches</h4><div class="text">[Various errors and updates are addressed in Quiet in the peanut gallery] tl;dr: there is presently an embargoed security bug impacting apparently all contemporary CPU architectures that implement...</div>
+<a href="http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table"><img src="http://78.media.tumblr.com/1c80c45e14c1e676b35cdd89cc9b557c/tumblr_inline_p1untxZBBD1rkm8fh_540.jpg" fallback="The mysterious case of the Linux Page Table Isolation patches"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-04 15:26 21s
+
+Intel låg lite i blåsväder för sin inbyggda "Intel Managment Engine" (ett på-processor-os baserat på Minix) innan detta också. De har inte haft ett bra slut på 2017.
+[https://www.wired.com/story/intel-management-engine-vulnerabilities-pcs-servers-iot/](https://www.wired.com/story/intel-management-engine-vulnerabilities-pcs-servers-iot/)
+
+<div class="attachment"><h4>Intel Chip Flaws Leave Millions of Devices Exposed</h4><div class="text">A new set of confirmed vulnerabilities in Intel's Management Engine impacts most recent PCs, servers, and IoT devices.</div>
+<a href="https://www.wired.com/story/intel-management-engine-vulnerabilities-pcs-servers-iot/"><img src="https://media.wired.com/photos/5a1362ba99a585526cd5506a/2:1/w_2500,c_limit/Intel-FA-615254488.jpg" fallback="Intel Chip Flaws Leave Millions of Devices Exposed"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-04 15:27 14s
+
+Osis intel
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-04 15:30 06s
+
+Kan ju hoppas att det leder till att man kan köpa lite mer high-end AMD laptops i framtiden om man vill leta uppsida.
+</section>
