@@ -86,3 +86,8 @@ Osis intel
 
 Kan ju hoppas att det leder till att man kan köpa lite mer high-end AMD laptops i framtiden om man vill leta uppsida.
 </section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-04 15:30 55s
+
+Intel hittar på massor med hyss, det håller jag med om. Känns dock som att deras hårdvara har presterat bättre tidigare, men det lär ju ändras nu när alla måste in med den här patchen
+</section>
