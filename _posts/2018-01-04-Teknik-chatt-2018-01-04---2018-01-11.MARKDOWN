@@ -8,7 +8,7 @@ excerpt_separator: <!--excerpt-->
 
 [https://meltdownattack.com/](https://meltdownattack.com/)
 Innehåller även info om Spectre.
-Senaste nytt inom data om nån missat det :slightly_smiling_face:
+Senaste nytt inom data om nån missat det 🙂
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-01-04 14:23 57s
