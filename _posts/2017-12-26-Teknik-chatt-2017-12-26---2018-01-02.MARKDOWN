@@ -42,8 +42,6 @@ print(loud_fruits)a,b=b,a
 ### oscarnylander - 2017-12-27 12:10 40s
 
 ser bra ut!
-
-<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### johanhazelius - 2017-12-27 13:39 19s
@@ -54,4 +52,6 @@ Riktigt bra Erik!
 ### daniel.winther - 2017-12-27 15:43 24s
 
 Snyggt @erik.malm!
+
+<!--excerpt-->
 </section>

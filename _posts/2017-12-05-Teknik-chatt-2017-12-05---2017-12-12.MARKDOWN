@@ -48,8 +48,6 @@ Fixade en knepig bugg igår som uppstod pga. pythons mutable-dicts. Immutable bo
 ### erik.malm - 2017-12-05 21:48 06s
 
 Coolt @oscarnylander, nu behöver jag bara ett projekt jag kan dokumentera. Uppskattar också todo delen längst ned i readme.
-
-<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2017-12-05 22:01 10s
@@ -127,6 +125,8 @@ Coolt, att se någon göra en upsert till postgres förvirrar mitt MongoDB älsk
 
 Nu har vi överlämnat årets julgåva till Hand in Hand. Vi har köpt en andel i detta projekt: [https://www.handinhand.nu/wp-content/uploads/2017/10/JOBS_FOR_CHANGE_whitepaper.pdf](https://www.handinhand.nu/wp-content/uploads/2017/10/JOBS_FOR_CHANGE_whitepaper.pdf)
 God Jul (lite för tidigt men ändå:)
+
+<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2017-12-07 13:24 37s

@@ -33,8 +33,6 @@ Håller med, jättekul!
 ### jens.hunt - 2017-12-18 13:05 16s
 
 Härligt! 😀
-
-<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2017-12-18 14:15 12s
@@ -98,6 +96,8 @@ Igår visade jag vilken data man får från bildigenkänningen hos Microsoft. @e
 <div class="attachment"><h4>Artificiell intelligens misstar öknar för nakna människor</h4><div class="text">Brittisk polis har börjat användas sig av maskinlärning för att med hjälp av datorsyn kunna hitta eventuellt kriminellt komprometterande bilder i mobiltelefoner och datorer man beslagtar från misstänkta. Systemet kan redan idag identifiera saker som pistoler, droger och pengar men systemet verkar ha svårare att identifiera bilder på till exempel barn och människor som utsätts för sexuella övergre....</div>
 <a href="http://feber.se/pryl/art/375512/artificiell_intelligens_missta/"><img src="http://static.feber.se/article_images/44/27/90/442790_440x440.jpeg" fallback="Artificiell intelligens misstar öknar för nakna människor"/></a></div>
     
+
+<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2017-12-20 11:46 23s

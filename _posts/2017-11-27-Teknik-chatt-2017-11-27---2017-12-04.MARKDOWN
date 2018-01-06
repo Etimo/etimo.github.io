@@ -32,8 +32,6 @@ Lisp är ett förvånansvärt simpelt språk att implementera 🙂
 ### daniel.winther - 2017-11-27 08:33 41s
 
 Ja uppenbarligen 😄
-
-<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2017-11-27 17:18 49s
@@ -93,6 +91,8 @@ Och inte minst datormagazine
 ### daniel.winther - 2017-11-28 21:22 34s
 
 Datormagazine var grym!
+
+<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2017-11-29 05:37 15s

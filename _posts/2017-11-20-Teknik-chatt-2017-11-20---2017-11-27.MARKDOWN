@@ -42,8 +42,6 @@ Ett annat alternativ om man kör slack är att helt enkelt dela sin skärm via s
 <div class="attachment"><h4>Visual Studio Live Share</h4><div class="text">Visual Studio Live Share - Real-time Collaborative Development.</div>
 <a href="https://code.visualstudio.com/visual-studio-live-share"><img src="http://code.visualstudio.com/assets/landing/ls-social-resized.png" fallback="Visual Studio Live Share"/></a></div>
     
-
-<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2017-11-21 06:41 13s
@@ -115,6 +113,8 @@ Häftigt!
 ### joakoles - 2017-11-21 10:37 28s
 
 När vi diskuterade teleport och väggar för ett tag sedan tyckte jag och @daniel.winther att vi bör hålla det lite enklare på det officiella/primära brädet. (Rätta mig om jag har fel @daniel.winther) Om vi ska ha väggar och teleport bör de sakerna i så fall ligga på ett annat bräde. Vad tycker ni andra om det?
+
+<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2017-11-21 10:38 17s

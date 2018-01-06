@@ -33,8 +33,6 @@ Nån som provat Parcel än?
 <a href="https://github.com/parcel-bundler/parcel"><div class="linkdiv"><img src="/assets/blogAssets/parcel-bundler/parcel" fallback="parcel-bundler/parcel"/></div></a></div>
     
 Känns som en dröm att gå ifrån webpack så jag ska prova på en gång 😂
-
-<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2017-12-12 09:50 08s
@@ -90,6 +88,8 @@ Jag saknar utveckling på min Mac 🤣
 
 förstår det 😉
 själv saknar jag linux när jag sitter på macen, native docker är vad jag behöver
+
+<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2017-12-12 10:27 43s
