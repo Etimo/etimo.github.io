@@ -16,6 +16,16 @@ excerpt_separator: <!--excerpt-->
 ### joakoles - 2018-01-07 14:07 39s
 
 Läste det blogginlägget tidigare idag jag med 🙂 Intressant blogginlägg som visar problemen med tredje-parts-paket om någon elak skrivit det. Osis att inte `Content Security Policy` skyddar mot det helt.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-07 18:37 11s
+
+NPM har alltid känts lite vilda västern för mig som kom från Java-hållet. Jag drar alltid upp left-pad som ett exempel på en dependency som jag tycker löser ett för litet problem att dra in i ett projekt, men uppenbarligen användes överallt. Med lite tracking-kod däri så.  [https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/)
+
+<div class="attachment"><h4>How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript</h4><div class="text">Code pulled from NPM – which everyone was using</div>
+<a href="https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/"><img src="https://regmedia.co.uk/2016/03/23/jenga_tower.jpg?x=1200&y=794" fallback="How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript"/></a></div>
+    
+Anti-tracking har börjat implementeras i browsers såsom Safari, Firefox (till viss del) och Brave de senaste åren, känns som att vi kanske är på väg mot en white-list motsvarande någon sorts certificate-authority för trackers i framtiden.
 
 <!--excerpt-->
 </section>
