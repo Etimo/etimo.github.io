@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teknik-chatt 2018-01-07 - 2018-01-14
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2018-01-07 14:04 03s
+
+[https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+
+<div class="attachment"><h4>I’m harvesting credit card numbers and passwords from your site. Here’s how.</h4><div class="text">The following is a true story. Or maybe it’s just based on a true story. Perhaps it’s not true at all.</div>
+<a href="https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5"><img src="https://cdn-images-1.medium.com/max/1200/1*41XiwBL9NXDfGtIXbc3UsQ.jpeg" fallback="I’m harvesting credit card numbers and passwords from your site. Here’s how."/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-07 14:07 39s
+
+Läste det blogginlägget tidigare idag jag med 🙂 Intressant blogginlägg som visar problemen med tredje-parts-paket om någon elak skrivit det. Osis att inte `Content Security Policy` skyddar mot det helt.
+
+<!--excerpt-->
+</section>
