@@ -67,6 +67,18 @@ Intressant med nya områden för smart teknik 🙂
 ### oscarnylander - 2018-01-08 16:24 25s
 
 Intressant! Jag skulle betala för skosulor som justerade sig så att jag inte fick ont i fötterna när jag är ute och springer, det är helt klart ett problem för mig
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-08 16:42 37s
+
+[https://pi-hole.net/](https://pi-hole.net/)
+
+Satte upp en sån här i helgen på hemnätverket, sjukt behagligt med DNS-level adblock!
+Den har käkat 6% av alla DNS queries hittills.
+
+<div class="attachment"><h4>Pi-hole®: A black hole for Internet advertisements</h4><div class="text">curl -sSL <https://install.pi-hole.net> | bash</div>
+<a href="https://pi-hole.net/"><div class="linkdiv"><img src="/assets/blogAssets/Pi-hole®: A black hole for Internet advertisements" fallback="Pi-hole®: A black hole for Internet advertisements"/></div></a></div>
+    
 
 <!--excerpt-->
 </section>
