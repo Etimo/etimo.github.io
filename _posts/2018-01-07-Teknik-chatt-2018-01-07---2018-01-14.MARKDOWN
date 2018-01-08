@@ -36,6 +36,21 @@ Intressant, läste den om CSP också i helgen! Mycket intressant och helt klart 
 ### johanhazelius - 2018-01-08 10:08 33s
 
 Ja, Open source har både för- och nackdelar. Liksom vår öppna transparanta värld i allmänhet. Vår princip att ”inte uppfinna hjulet” blir inte lika självklar om man måste kvalitetsgranska det redan färdiga hjulet i minsta detalj innan man monterar det. Gå igenom och förstå någon annans kod kan som bekant vara mkt tidskrävande. Och det blir inte enklare när det man söker är något som är medvetet gömt. Då kanske det tom går fortare att uppfinna hjulet. Eller införskaffa det från pålitliga källor...
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-08 13:14 41s
+
+I en tidigare version av blogginlägget ’I’m harvesting credit card numbers and passwords ...’ stod att man är säker om man använder CSP men det stämmer inte så blogginlägget uppdaterades. Det är bra att veta om någon läste den tidigare versionen.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-08 13:17 48s
+
+Jasså? Så det är kört vilket som?
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-08 13:25 55s
+
+CSP ger viss säkerhetsförbättring men det finns vägar runt det. För känsliga delar föreslås i inlägget att skriva koden själv, dvs. inte använda tredjepartspaket etc.
 
 <!--excerpt-->
 </section>
