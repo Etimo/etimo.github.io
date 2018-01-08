@@ -51,6 +51,22 @@ Jasså? Så det är kört vilket som?
 ### joakoles - 2018-01-08 13:25 55s
 
 CSP ger viss säkerhetsförbättring men det finns vägar runt det. För känsliga delar föreslås i inlägget att skriva koden själv, dvs. inte använda tredjepartspaket etc.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-01-08 16:23 33s
+
+Smart teknik i ny skosula:
+[http://feber.se/pryl/art/376203/zhor_tech_visar_smarta_ilggssu/](http://feber.se/pryl/art/376203/zhor_tech_visar_smarta_ilggssu/)
+
+<div class="attachment"><h4>Zhor Tech visar smarta iläggssulor</h4><div class="text">För två år sedan visade företaget Zhor Tech upp ett par smarta skor som kunde snöra sig själva via mobilen. Man har vidareutvecklat konceptet och presenterar på årets CES-mässa även ett par uppkollade iläggssulor man kan stoppa i sina skor. Dessa är proppade med sensorer och kan räkna dina steg, känna av om du är trött, analysera din hållning och upptäcka om det är massa vibrationer i din närhet.....</div>
+<a href="http://feber.se/pryl/art/376203/zhor_tech_visar_smarta_ilggssu/"><img src="http://static.feber.se/article_images/44/33/93/443393_440x440.jpg" fallback="Zhor Tech visar smarta iläggssulor"/></a></div>
+    
+Intressant med nya områden för smart teknik 🙂
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-08 16:24 25s
+
+Intressant! Jag skulle betala för skosulor som justerade sig så att jag inte fick ont i fötterna när jag är ute och springer, det är helt klart ett problem för mig
 
 <!--excerpt-->
 </section>
