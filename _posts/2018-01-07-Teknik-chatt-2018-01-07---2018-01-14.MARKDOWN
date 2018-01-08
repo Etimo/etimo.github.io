@@ -31,6 +31,11 @@ Anti-tracking har börjat implementeras i browsers såsom Safari, Firefox (till 
 ### oscarnylander - 2018-01-08 09:26 44s
 
 Intressant, läste den om CSP också i helgen! Mycket intressant och helt klart något att tänka på.
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-01-08 10:08 33s
+
+Ja, Open source har både för- och nackdelar. Liksom vår öppna transparanta värld i allmänhet. Vår princip att ”inte uppfinna hjulet” blir inte lika självklar om man måste kvalitetsgranska det redan färdiga hjulet i minsta detalj innan man monterar det. Gå igenom och förstå någon annans kod kan som bekant vara mkt tidskrävande. Och det blir inte enklare när det man söker är något som är medvetet gömt. Då kanske det tom går fortare att uppfinna hjulet. Eller införskaffa det från pålitliga källor...
 
 <!--excerpt-->
 </section>
