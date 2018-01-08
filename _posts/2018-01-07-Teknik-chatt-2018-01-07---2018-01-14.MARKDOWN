@@ -79,6 +79,11 @@ Den har käkat 6% av alla DNS queries hittills.
 <div class="attachment"><h4>Pi-hole®: A black hole for Internet advertisements</h4><div class="text">curl -sSL <https://install.pi-hole.net> | bash</div>
 <a href="https://pi-hole.net/"><div class="linkdiv"><img src="/assets/blogAssets/Pi-hole®: A black hole for Internet advertisements" fallback="Pi-hole®: A black hole for Internet advertisements"/></div></a></div>
     
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-01-08 18:05 16s
+
+Coolt @oscarnylander!
 
 <!--excerpt-->
 </section>
