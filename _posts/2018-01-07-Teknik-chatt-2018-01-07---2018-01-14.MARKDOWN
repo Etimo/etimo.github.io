@@ -89,6 +89,18 @@ Coolt @oscarnylander!
 ### erik.malm - 2018-01-08 20:55 08s
 
 Har också Pi-Hole i nätverket! Det är grymt.  Kan tipsa om att eftersom det är en DNS server så kan du enkelt ge olika namn till burkar på ditt nätverk också, eller som i mitt fall blockera Reddit under jullovet.
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-08 21:04 55s
+
+En del sidor visar bara sitt innehåll om man avaktiverar sin adblock. Vad händer på såna sidor när man kör med pi-hole?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-08 21:05 44s
+
+Precis det du väntar dig tyvärr, en irriterande banner.
+Har ett gäng ublock-origin regler som tar bort såna på siter jag bryr mig om.
+Men att kunna filtrera annonser på plattor som barnen håller på med är för bra för att låta bli.
 
 <!--excerpt-->
 </section>
