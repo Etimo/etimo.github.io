@@ -26,6 +26,11 @@ NPM har alltid känts lite vilda västern för mig som kom från Java-hållet. J
 <a href="https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/"><img src="https://regmedia.co.uk/2016/03/23/jenga_tower.jpg?x=1200&y=794" fallback="How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript"/></a></div>
     
 Anti-tracking har börjat implementeras i browsers såsom Safari, Firefox (till viss del) och Brave de senaste åren, känns som att vi kanske är på väg mot en white-list motsvarande någon sorts certificate-authority för trackers i framtiden.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-08 09:26 44s
+
+Intressant, läste den om CSP också i helgen! Mycket intressant och helt klart något att tänka på.
 
 <!--excerpt-->
 </section>
