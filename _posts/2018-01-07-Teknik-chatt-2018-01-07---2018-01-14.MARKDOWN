@@ -84,6 +84,11 @@ Den har käkat 6% av alla DNS queries hittills.
 ### daniel.winther - 2018-01-08 18:05 16s
 
 Coolt @oscarnylander!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-08 20:55 08s
+
+Har också Pi-Hole i nätverket! Det är grymt.  Kan tipsa om att eftersom det är en DNS server så kan du enkelt ge olika namn till burkar på ditt nätverk också, eller som i mitt fall blockera Reddit under jullovet.
 
 <!--excerpt-->
 </section>
