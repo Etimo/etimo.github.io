@@ -104,3 +104,8 @@ Men att kunna filtrera annonser på plattor som barnen håller på med är för 
 
 <!--excerpt-->
 </section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-09 09:31 27s
+
+Worst case scenario så kan man whitelista sidor som är helt omöjliga att kringgå, men det är väldigt få som faktiskt är det (som jag är intresserad av visserligen)
+</section>
