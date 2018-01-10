@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 #baseurl: ""
-url: "https://etimo.se"
+url: "http://blog.etimo.se"
 title: "Etimo tech tidbits"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
