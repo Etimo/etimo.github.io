@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2018-01-16 - 2018-01-23
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### rickard.bernal - 2018-01-16 11:04 28s
+
+@rickard.bernal has joined the channel
+
+<!--excerpt-->
+</section>
