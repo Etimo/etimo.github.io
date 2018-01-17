@@ -7,6 +7,11 @@ excerpt_separator: <!--excerpt-->
 ### rickard.bernal - 2018-01-16 11:04 28s
 
 @rickard.bernal has joined the channel
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-01-17 22:06 55s
+
+@teo.roijezon has joined the channel
 
 <!--excerpt-->
 </section>
