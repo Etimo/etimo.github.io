@@ -32,6 +32,18 @@ Haha, personliga favoriter är den lilla fläkten och kattbilder som göms när 
 ### erik.malm - 2018-01-18 07:38 04s
 
 Java forever var väl också norsk? Känner att svensk publik service måste kliva fram med lite kvalitetsalternativ.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-18 18:01 49s
+
+Ni som har hus kanske också vet att det är en kamp för att få wifi att nå alla hörn där man givetvis måste kunna surfa. Jag har en länge tid varit övertygad om att vår Chromecast mördar mitt nätverk, vilket syns i mina hemmatester.
+Det verkar som att jag inte bara är paranoid:
+[http://www.theregister.co.uk/2018/01/15/router_vendors_update_firmware_to_protect_against_google_chromecast_traffic_floods/](http://www.theregister.co.uk/2018/01/15/router_vendors_update_firmware_to_protect_against_google_chromecast_traffic_floods/)
+
+<div class="attachment"><h4>OK, Google: Why does Chromecast clobber Wi-Fi connections?</h4><div class="text">Router vendors sling firmware to protect users from packet floods</div>
+<a href="http://www.theregister.co.uk/2018/01/15/router_vendors_update_firmware_to_protect_against_google_chromecast_traffic_floods/"><img src="https://regmedia.co.uk/2015/09/29/chromecast_group.jpg?x=1200&y=794" fallback="OK, Google: Why does Chromecast clobber Wi-Fi connections?"/></a></div>
+    
+Tror dock att jag hellre patchar min router än gör något för att rubba hur allt fungerar hemma.
 
 <!--excerpt-->
 </section>
