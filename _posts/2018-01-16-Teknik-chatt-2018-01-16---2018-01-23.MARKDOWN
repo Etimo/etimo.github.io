@@ -22,6 +22,11 @@ excerpt_separator: <!--excerpt-->
 <a href="https://youtu.be/ocwnns57cYQ"><div class="linkdiv"><img src="/assets/blogAssets/Kantega | The Mysterious Life of Developers" fallback="Kantega | The Mysterious Life of Developers"/></div></a></div>
     
 Speciellt rolig om man tittar på mycket naturfilm 😄
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-01-18 07:15 12s
+
+Haha, personliga favoriter är den lilla fläkten och kattbilder som göms när flocken hotas av projektledaren.. 😃
 
 <!--excerpt-->
 </section>
