@@ -49,6 +49,11 @@ Tror dock att jag hellre patchar min router än gör något för att rubba hur a
 ### jens.hunt - 2018-01-18 20:23 58s
 
 Detta förklarar ett och annat vill jag lova! Har en i varje rum i min tvåa.
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-01-18 20:38 10s
+
+Tack Erik! Jag har bara en chomecast men det kanske räcker som förklaring till vissa problem...
 
 <!--excerpt-->
 </section>
