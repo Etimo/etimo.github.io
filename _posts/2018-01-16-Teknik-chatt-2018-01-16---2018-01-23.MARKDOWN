@@ -44,6 +44,11 @@ Det verkar som att jag inte bara är paranoid:
 <a href="http://www.theregister.co.uk/2018/01/15/router_vendors_update_firmware_to_protect_against_google_chromecast_traffic_floods/"><img src="https://regmedia.co.uk/2015/09/29/chromecast_group.jpg?x=1200&y=794" fallback="OK, Google: Why does Chromecast clobber Wi-Fi connections?"/></a></div>
     
 Tror dock att jag hellre patchar min router än gör något för att rubba hur allt fungerar hemma.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-01-18 20:23 58s
+
+Detta förklarar ett och annat vill jag lova! Har en i varje rum i min tvåa.
 
 <!--excerpt-->
 </section>
