@@ -12,6 +12,16 @@ excerpt_separator: <!--excerpt-->
 ### teo.roijezon - 2018-01-17 22:06 55s
 
 @teo.roijezon has joined the channel
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-01-18 06:39 47s
+
+[https://youtu.be/ocwnns57cYQ](https://youtu.be/ocwnns57cYQ)
+
+<div class="attachment"><h4>Kantega | The Mysterious Life of Developers</h4><div class="text"></div>
+<a href="https://youtu.be/ocwnns57cYQ"><div class="linkdiv"><img src="/assets/blogAssets/Kantega | The Mysterious Life of Developers" fallback="Kantega | The Mysterious Life of Developers"/></div></a></div>
+    
+Speciellt rolig om man tittar på mycket naturfilm 😄
 
 <!--excerpt-->
 </section>
