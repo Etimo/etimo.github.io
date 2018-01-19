@@ -54,6 +54,21 @@ Detta förklarar ett och annat vill jag lova! Har en i varje rum i min tvåa.
 ### johanhazelius - 2018-01-18 20:38 10s
 
 Tack Erik! Jag har bara en chomecast men det kanske räcker som förklaring till vissa problem...
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-01-19 07:31 45s
+
+Haha @erik.malm jag tittade på Java forever nu. Mycket skoj 😂
+</section>
+<section class="message" markdown="1">
+### jenspeterolsson - 2018-01-19 07:49 24s
+
+Coolt -&gt;
+[https://blogs.microsoft.com/ai/drawing-ai/](https://blogs.microsoft.com/ai/drawing-ai/)
+
+<div class="attachment"><h4>Microsoft researchers build a bot that draws what you tell it to - The AI Blog</h4><div class="text">A new AI technology under development with Microsoft Research is programmed to generate images based on caption-like text descriptions.</div>
+<a href="https://blogs.microsoft.com/ai/drawing-ai/"><img src="https://mscorpmedia.azureedge.net/mscorpmedia/2018/01/drawing-bot-3-short-fb.jpg" fallback="Microsoft researchers build a bot that draws what you tell it to - The AI Blog"/></a></div>
+    
 
 <!--excerpt-->
 </section>
