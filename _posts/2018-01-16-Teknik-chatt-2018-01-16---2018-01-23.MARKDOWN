@@ -85,6 +85,11 @@ Provade precis denna app som jag hittade via länken du skickade @jenspeterolsso
 <a href="https://itunes.apple.com/us/app/seeing-ai-talking-camera-for-the-blind/id999062298"><div class="linkdiv"><img src="/assets/blogAssets/Seeing AI on the App Store" fallback="Seeing AI on the App Store"/></div></a></div>
     
 Känner igen det den ser i kameran och pratar med dig
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-20 12:01 46s
+
+Ganska häftig produkt för synskadade. Kan tänka mig att det ibland är genuint hjälpsamt. Stor potential för underhållande missförstånd vid buggar.
 
 <!--excerpt-->
 </section>
