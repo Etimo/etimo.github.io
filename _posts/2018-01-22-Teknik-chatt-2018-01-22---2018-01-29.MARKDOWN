@@ -27,6 +27,11 @@ Ganska häftigt att ett så pass stort företag ställer sig bakom teknologin, �
 <div class="attachment"><h4>Western Digital Gives A Billion Unit Boost To Open Source RISC-V CPU</h4><div class="text">Western Digital is known for its storage products. What many do not realize is that the company ships over 1 billion processor cores within its products each year and is moving toward 2 billion per year. And it just committed to using an open source RISC-V for all future products.</div>
 <a href="https://www.forbes.com/sites/tiriasresearch/2017/12/06/western-digital-gives-a-billion-unit-boost-to-open-source-risc-v-cpu/#5f8c6f1b2266"><img src="https://thumbor.forbes.com/thumbor/600x315/smart/https%3A%2F%2Fblogs-images.forbes.com%2Ftiriasresearch%2Ffiles%2F2017%2F12%2FIMG_0463-1200x674.jpg" fallback="Western Digital Gives A Billion Unit Boost To Open Source RISC-V CPU"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-01-22 11:50 18s
+
+kul att se fler investera i RISC-V, men WDs övergång handlar troligen mer om att de byter ut sina controllers än att de har stora ambitioner på att sälja SoCs och liknande
 
 <!--excerpt-->
 </section>
