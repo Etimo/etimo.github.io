@@ -6,13 +6,17 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2018-01-22 09:32 44s
 
-# Lite glädjande info kring öppen hårdvara
-Intel har fått rätt mycket skepsis från Linux-hållet de senaste åren gällande sin "Intel Managment Engine", i.e. ett inbyggt OS med full access till allt som sker på processorn, och nätverksaccess t.o.m när strömmen är av på huvudprocessorn. Man är helt enkelt inte bekväm med att det kör kod som man inte kontrollerar (som har haft dokumenterade säkerhetshål exploaterbara över nätverket:  [https://wccftech.com/intel-management-engine-not-fixed/](https://wccftech.com/intel-management-engine-not-fixed/)) på varje CPU.
+## Problemen kring Intel Managment Engine (IME)
+- Intel har fått rätt mycket skepsis från Linux-hållet de senaste åren gällande sin "Intel Managment Engine", i.e. ett inbyggt OS med full access till allt som sker på processorn, och nätverksaccess t.o.m när strömmen är av på huvudprocessorn. 
+- Man är helt enkelt inte bekväm med att det kör kod som man inte kontrollerar (som har haft dokumenterade säkerhetshål exploaterbara över nätverket:  [https://wccftech.com/intel-management-engine-not-fixed/](https://wccftech.com/intel-management-engine-not-fixed/)) på varje CPU.
 
 <div class="attachment"><h4>Intel Management Engine Problems May Not Have Been Completely Fixed</h4><div class="text">Intel's Secretive Management Engine Problems May Not Have Been Completely Fixed as It Gives Attackers "God Mode" Access.</div>
 <a href="https://wccftech.com/intel-management-engine-not-fixed/"><img src="https://cdn.wccftech.com/wp-content/uploads/2017/11/intel-bugs.png" fallback="Intel Management Engine Problems May Not Have Been Completely Fixed"/></a></div>
     
-AMD har liknande saker så jakten på en helt öppen cpu har varit hård, vissa laptop-tillverkare i.e. Purism har helt enkelt tagit en lödkolv (en väldigt liten, industriell sådan då) och gett sig på chipen de köper in: ([https://puri.sm/posts/purism-librem-laptops-completely-disable-intel-management-engine/](https://puri.sm/posts/purism-librem-laptops-completely-disable-intel-management-engine/)). Detta var lite av en resa och det visade sig t.ex. att Intel chips var grundinställda att reboota efter trettio minuter om IME kretsarna inte hittades.
+### Jakten på en pålitlig processor
+- AMD har liknande saker (sin PSP) så jakten på en helt öppen cpu har varit hård, vissa laptop-tillverkare i.e. Purism har helt enkelt tagit en lödkolv (en väldigt liten, industriell sådan då) och gett sig på chipen de köper in: ([https://puri.sm/posts/purism-librem-laptops-completely-disable-intel-management-engine/](https://puri.sm/posts/purism-librem-laptops-completely-disable-intel-management-engine/)).   
+Detta var lite av en resa och det visade sig t.ex. att Intel chips var grundinställda att reboota efter trettio minuter om IME kretsarna inte hittades.
+###  Western digital och Risc-V öppna processorer
 Ett annat spår som IME historien fått in mig på har varit att hoppas på vidareutveckling av helt öppen CPU-hårdvara, vilket i stort sett inneburit varit Risc-V arkitekturen.  
 Det har gått rätt långsamt, jag hade annars hoppats på en System-On-A-Chip med Risc-V att leka med.  
 
