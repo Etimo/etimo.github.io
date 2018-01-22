@@ -6,7 +6,7 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2018-01-22 09:32 44s
 
-## Problemen kring Intel Managment Engine (IME)
+## Intel Managment Engine (IME)
 - Intel har fått rätt mycket skepsis från Linux-hållet de senaste åren gällande sin "Intel Managment Engine", i.e. ett inbyggt OS med full access till allt som sker på processorn, och nätverksaccess t.o.m när strömmen är av på huvudprocessorn. 
 - Man är helt enkelt inte bekväm med att det kör kod som man inte kontrollerar (som har haft dokumenterade säkerhetshål exploaterbara över nätverket:  [https://wccftech.com/intel-management-engine-not-fixed/](https://wccftech.com/intel-management-engine-not-fixed/)) på varje CPU.
 
@@ -37,6 +37,21 @@ kul att se fler investera i RISC-V, men WDs övergång handlar troligen mer om a
 ### erik.malm - 2018-01-22 12:24 52s
 
 Håller med, tror inte jag är deras slutkonsument, men att det faktiskt börjar tillverkas Risc-V processorer som finns i faktiska konsumentprodukter är ett jättekliv (peppar peppar). Det tog ganska många år innan ARM SOCs man faktiskt ville ha dök upp så jag är tålmodig.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-22 21:22 59s
+
+Tänkte bara nämna att OnePlus betalningssida verkar ha blivit injicerad med snokande Javascript, under omständigheter som verkar rätt lika de vi diskuterat tidigare (även om NPM inte verkar vara vektorn). 
+[https://www.theverge.com/2018/1/19/16908990/oneplus-credit-card-security-breach-investigation-40000-affected](https://www.theverge.com/2018/1/19/16908990/oneplus-credit-card-security-breach-investigation-40000-affected)
+
+<div class="attachment"><h4>OnePlus says up to 40,000 customers were affected by credit card security breach</h4><div class="text">Credit card payments remain suspended during ongoing investigation</div>
+<a href="https://www.theverge.com/2018/1/19/16908990/oneplus-credit-card-security-breach-investigation-40000-affected"><img src="https://cdn.vox-cdn.com/thumbor/tNtHbpvBMVYz2uA_JvW2qZ3fwa4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9971973/oneplus_5t_sandstone_white_6.JPG" fallback="OnePlus says up to 40,000 customers were affected by credit card security breach"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-01-22 21:26 04s
+
+Nån som känner till mer om hur det gick till?
 
 <!--excerpt-->
 </section>
