@@ -17,7 +17,7 @@ excerpt_separator: <!--excerpt-->
 - AMD har liknande saker (sin PSP) så jakten på en helt öppen cpu har varit hård, vissa laptop-tillverkare i.e. Purism har helt enkelt tagit en lödkolv (en väldigt liten, industriell sådan då) och gett sig på chipen de köper in: ([https://puri.sm/posts/purism-librem-laptops-completely-disable-intel-management-engine/](https://puri.sm/posts/purism-librem-laptops-completely-disable-intel-management-engine/)).   
 Detta var lite av en resa och det visade sig t.ex. att Intel chips var grundinställda att reboota efter trettio minuter om IME kretsarna inte hittades.
 ###  Western digital och Risc-V öppna processorer
-Ett annat spår som IME historien fått in mig på har varit att hoppas på vidareutveckling av helt öppen CPU-hårdvara, vilket i stort sett inneburit varit Risc-V arkitekturen.  
+Ett annat spår som IME historien fått in mig på har varit att hoppas på vidareutveckling av helt öppen CPU-hårdvara, vilket i stort sett inneburit Risc-V arkitekturen.  
 Det har gått rätt långsamt, jag hade annars hoppats på en System-On-A-Chip med Risc-V att leka med.  
 
 Lite kul nyheter är dock att Western-Digital nyligen gått ut med att de tänker börja gå över helt till att sälja processorer med Risc-V arkitektur.
@@ -32,6 +32,11 @@ Ganska häftigt att ett så pass stort företag ställer sig bakom teknologin, �
 ### teo.roijezon - 2018-01-22 11:50 18s
 
 kul att se fler investera i RISC-V, men WDs övergång handlar troligen mer om att de byter ut sina controllers än att de har stora ambitioner på att sälja SoCs och liknande
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-22 12:24 52s
+
+Håller med, tror inte jag är deras slutkonsument, men att det faktiskt börjar tillverkas Risc-V processorer som finns i faktiska konsumentprodukter är ett jättekliv (peppar peppar). Det tog ganska många år innan ARM SOCs man faktiskt ville ha dök upp så jag är tålmodig.
 
 <!--excerpt-->
 </section>
