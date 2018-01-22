@@ -52,6 +52,16 @@ Tänkte bara nämna att OnePlus betalningssida verkar ha blivit injicerad med sn
 ### joakoles - 2018-01-22 21:26 04s
 
 Nån som känner till mer om hur det gick till?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-22 21:49 14s
+
+Hittade OnePlus uttalande om det:
+[https://forums.oneplus.net/threads/jan-19-update-an-update-on-credit-card-security.752415/](https://forums.oneplus.net/threads/jan-19-update-an-update-on-credit-card-security.752415/)
+
+<div class="attachment"><h4>[Jan 19 Update] An Update on Credit Card Security</h4><div class="text">[Jan 19 Update #2] Update: Thank you for your comments, we're reading each and every one and we appreciate your feedback. We do want to clarify, only...</div>
+<a href="https://forums.oneplus.net/threads/jan-19-update-an-update-on-credit-card-security.752415/"><img src="https://forums.oneplus.net/attachments/credit-card-jpg.676588/" fallback="[Jan 19 Update] An Update on Credit Card Security"/></a></div>
+    
 
 <!--excerpt-->
 </section>
