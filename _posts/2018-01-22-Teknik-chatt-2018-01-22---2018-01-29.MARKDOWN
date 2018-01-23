@@ -62,6 +62,12 @@ Hittade OnePlus uttalande om det:
 <div class="attachment"><h4>[Jan 19 Update] An Update on Credit Card Security</h4><div class="text">[Jan 19 Update #2] Update: Thank you for your comments, we're reading each and every one and we appreciate your feedback. We do want to clarify, only...</div>
 <a href="https://forums.oneplus.net/threads/jan-19-update-an-update-on-credit-card-security.752415/"><img src="https://forums.oneplus.net/attachments/credit-card-jpg.676588/" fallback="[Jan 19 Update] An Update on Credit Card Security"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-01-23 10:35 02s
+
+ojojoj
+tur att man inte köpt en OnePlus-telefon då 🐴 jag har tom funderat på det, de ser ut att vara skapligt sunda enheter för prislappen
 
 <!--excerpt-->
 </section>
