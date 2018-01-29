@@ -1,0 +1,18 @@
+---
+layout: post
+title: Teknik-chatt 2018-01-29 - 2018-02-05
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2018-01-29 09:29 47s
+
+Personligen är jag lite intresserad av lyckoforskning. Oavsett om ni delar mitt intresse är detta relevant för oss alla i branchen; [https://qz.com/1190151/why-am-i-unhappy-a-new-study-explains-americas-unhappiness-epidemic/?mc_cid=8e11dba2d3&amp;mc_eid=540de3c54e](https://qz.com/1190151/why-am-i-unhappy-a-new-study-explains-americas-unhappiness-epidemic/?mc_cid=8e11dba2d3&amp;mc_eid=540de3c54e). Så, se till att komma iväg från skärmen när ni går hem från jobbet:)
+
+<div class="attachment"><h4>Most unhappy people are unhappy for the exact same reason</h4><div class="text">We&rsquo;d all like to be a little happier.
+The problem is that much of what determines happiness is outside of our control. Some of us are genetically predisposed to see the world through rose-colored glasses, while others have a generally negative outlook. Bad things happen, to us and in the world. People can be unkind, and jobs can be tedious.
+But we do have some control over how we spend our ....</div>
+<a href="https://qz.com/1190151/why-am-i-unhappy-a-new-study-explains-americas-unhappiness-epidemic/?mc_cid=8e11dba2d3&mc_eid=540de3c54e"><div class="linkdiv"><img src="/assets/blogAssets/Most unhappy people are unhappy for the exact same reason" fallback="Most unhappy people are unhappy for the exact same reason"/></div></a></div>
+    
+
+<!--excerpt-->
+</section>
