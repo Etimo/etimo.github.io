@@ -41,6 +41,18 @@ Jag kör bara på att jag äger stenålderstiteln 😉
 ### johanhazelius - 2018-01-30 21:33 26s
 
 Det är först nu på äldre dagar jag förstått vad som menas med "Gammal är äldst" 🙂
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-01-30 23:00 18s
+
+IMG_20180130_225108.jpg
+
+<div class="imageblock">
+<a href="/assets/blogAssets/F916C12BE-IMG_20180130_225108.jpg">
+<img alt="IMG_20180130_225108.jpg" src="/assets/blogAssets/thumbnail-F916C12BE-IMG_20180130_225108.jpg"/>
+</a></div>
+
+     
 
 <!--excerpt-->
 </section>
