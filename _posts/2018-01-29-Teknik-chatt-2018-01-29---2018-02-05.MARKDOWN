@@ -53,6 +53,11 @@ IMG_20180130_225108.jpg
 </a></div>
 
      
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-01-31 07:15 40s
+
+Jag har svårt att komma igång den här hösten och når nog min inaktivitetstopp hittills i livet nu under hösten. Bra med påminnelser om att det är okej att prioritera träning framför familj och jobb ett par gånger i veckan.
 
 <!--excerpt-->
 </section>
