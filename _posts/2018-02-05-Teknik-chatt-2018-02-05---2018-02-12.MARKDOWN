@@ -1,0 +1,13 @@
+---
+layout: post
+title: Teknik-chatt 2018-02-05 - 2018-02-12
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2018-02-05 08:10 18s
+
+Jag var riktigt lycklig tills jag scrollade ned, 999 dollar är lite mycket bara för experimentlusta.
+Sjukt kul att det börjar produceras Risc-V:or för konsumentbruk dock. Får lura Johan att det är en affärsutgift när priset droppat lite lagom till nästa produktionsserie helt enkelt.
+
+<!--excerpt-->
+</section>
