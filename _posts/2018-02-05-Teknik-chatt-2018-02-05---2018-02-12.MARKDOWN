@@ -8,6 +8,26 @@ excerpt_separator: <!--excerpt-->
 
 Jag var riktigt lycklig tills jag scrollade ned, 999 dollar är lite mycket bara för experimentlusta.
 Sjukt kul att det börjar produceras Risc-V:or för konsumentbruk dock. Får lura Johan att det är en affärsutgift när priset droppat lite lagom till nästa produktionsserie helt enkelt.
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-02-06 08:20 00s
+
+Någon som provat sökmotorn Duckduckgo? Ska tydligen vara "det goda google" som inte lagrar någon info om användaren. Låter ju lockande men jag undrar om den ger bra sökresultat?
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-06 08:21 20s
+
+jag har använt den som min standardsökmotor i ett antal år nu
+ärligt talat är sökresultaten ganska meh, jag tvingas ofta gå till google och likn. ändå
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-06 08:28 06s
+
+istället är den stora säljpunkten för mig "!bangs", t.ex. redirectar "!mdn :first-child" till [https://developer.mozilla.org/en-US/search?q=%3Afirst%2Dchild](https://developer.mozilla.org/en-US/search?q=%3Afirst%2Dchild) , "!yt do you do poison" till [https://www.youtube.com/results?search_query=do+you+do+poison](https://www.youtube.com/results?search_query=do+you+do+poison) , osv
+
+<div class="attachment"><h4>do you do poison - YouTube</h4><div class="text">Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</div>
+<a href="https://www.youtube.com/results?search_query=do+you+do+poison">do you do poison - YouTube</a></div>
+    
 
 <!--excerpt-->
 </section>
