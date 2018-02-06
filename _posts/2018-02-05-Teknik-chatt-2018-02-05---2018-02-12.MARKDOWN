@@ -28,6 +28,12 @@ istället är den stora säljpunkten för mig "!bangs", t.ex. redirectar "!mdn :
 <div class="attachment"><h4>do you do poison - YouTube</h4><div class="text">Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</div>
 <a href="https://www.youtube.com/results?search_query=do+you+do+poison">do you do poison - YouTube</a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-06 09:29 00s
+
+Jag är också duckduckgo användare, men man får ibland strukturera sina sökningar ungefär som för Altavista.  
+För tekniska sökningar tycker jag att den håller rätt hög nivå, och det är ju alltid trevligt att google inte ser om man googlar efter mjällschampon (riktigt exempel) eller dylikt.
 
 <!--excerpt-->
 </section>
