@@ -1,0 +1,32 @@
+---
+layout: post
+title: Teknik-chatt 2018-02-14 - 2018-02-21
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2018-02-14 20:16 25s
+
+[https://proandroiddev.com/kotlin-a-massive-leap-forward-78251531f616](https://proandroiddev.com/kotlin-a-massive-leap-forward-78251531f616)
+
+<div class="attachment"><h4>Kotlin: A massive leap forward – ProAndroidDev</h4><div class="text">This article summarizes the first part of my research about the impacts of Kotlin for companies and individuals which have existing Java…</div>
+<a href="https://proandroiddev.com/kotlin-a-massive-leap-forward-78251531f616"><img src="https://cdn-images-1.medium.com/max/1200/1*oigO70fzhkbk51O8sAciYQ.jpeg" fallback="Kotlin: A massive leap forward – ProAndroidDev"/></a></div>
+    
+Blir lite sugen på att plocka upp Kotlin efter att ha läst ett par extremt positiva bloggar och podcaster. Man kan aldrig kunna för många JVM språk, även om jag är lite sugen att gå in för något kompilerat. Svårt det där med inlärningsval.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-14 22:19 59s
+
+Varit ganska besatt av Nix senaste.. halvåret eller så
+[https://nixos.org/](https://nixos.org/)
+I grunden är det en pakethanterare som försöker isolera alla paket
+Installerar du t.ex. Python så installeras den inte som global /usr/bin/python  med ett beroende på /usr/lib/glibc.so (etc), utan till (något som motsvarar) /nix/store/python-3.6-with-glibc-2.26-with-..../bin/python, med ett beroende på /nix/store/glibc-2.26/lib/glibc.so
+Sedan skapas det en symlänksfarm ("profil") som länkar in alla paket du uttryckligen installerat, utan att du får allt från deras beroenden
+Det leder sedan till att du "gratis" får rollbacks (bara att återställa till den föregående profilen), installationer per-användare (varje användare kan ha en egen profil, eftersom allt gemensamt ändå länkar tillbaka till samma plats i /nix/store), och en variant av Pythons virtualenv eller Rubys bundler som fungerar för alla paket i hela systemet (skapa en profil, kör programmet, radera profilen)
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-14 22:46 11s
+
+Sen finns det också NixOS som hanterar hela systemet som en Nix-profil, och NixOps som automatiskt deployar NixOS till en serverfarm
+
+<!--excerpt-->
+</section>
