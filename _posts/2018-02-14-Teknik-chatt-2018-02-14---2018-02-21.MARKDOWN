@@ -40,6 +40,23 @@ Yup, hehe
 Kör hitils NixOS på min systers laptop, min HTPC, och jobblaptopen
 Och NixOps på båda hemmaservrarna + ~10 VMs som körs på dessa
 Med en setup som liknar [https://nixos.wiki/wiki/Virtualization_in_NixOS](https://nixos.wiki/wiki/Virtualization_in_NixOS)
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-15 19:19 22s
+
+Kul, har letat efter ett alternativ till proxmox ([https://www.proxmox.com/en/proxmox-ve](https://www.proxmox.com/en/proxmox-ve)).   
+Jag testkör Solus på min lekdator just nu, men får pröva Nix nästa distro-vända.
+Kör du stable eller unstable?   Lutar åt unstable för ett rent nöjesbygge.
+
+<div class="attachment"><h4>Open-source virtualization and container platform Proxmox VE</h4><div class="text">Proxmox VE is an open-source server virtualization management platform based on KVM hypervisor and Linux Containers (LXC).</div>
+<a href="https://www.proxmox.com/en/proxmox-ve">Open-source virtualization and container platform Proxmox VE</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-15 19:28 25s
+
+Kör unstable på det mesta, mest för att när jag konfade allt så var stable ganska långt efter
+Kör dock 17.09 (stable) på jobbdatorn, och har inte märkt av något större som jag saknar, så det verkar som att det har blivit bättre sedan dess
 
 <!--excerpt-->
 </section>
