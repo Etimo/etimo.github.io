@@ -27,6 +27,19 @@ Det leder sedan till att du "gratis" får rollbacks (bara att återställa till 
 ### teo.roijezon - 2018-02-14 22:46 11s
 
 Sen finns det också NixOS som hanterar hela systemet som en Nix-profil, och NixOps som automatiskt deployar NixOS till en serverfarm
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-15 07:16 45s
+
+Låter som en mix av Ubuntu Snappy och CoreOS, fast för desktop. Installerat det på någon hårdvara ännu @teo.roijezon? Jag råkar veta att du har en dator över sen en vecka eller så... hinthint...
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-15 07:23 33s
+
+Yup, hehe
+Kör hitils NixOS på min systers laptop, min HTPC, och jobblaptopen
+Och NixOps på båda hemmaservrarna + ~10 VMs som körs på dessa
+Med en setup som liknar [https://nixos.wiki/wiki/Virtualization_in_NixOS](https://nixos.wiki/wiki/Virtualization_in_NixOS)
 
 <!--excerpt-->
 </section>
