@@ -31,7 +31,7 @@ Sen finns det också NixOS som hanterar hela systemet som en Nix-profil, och Nix
 <section class="message" markdown="1">
 ### erik.malm - 2018-02-15 07:16 45s
 
-Låter som en mix av Ubuntu Snappy och CoreOS, fast för desktop. Installerat det på någon hårdvara ännu @teo.roijezon? Jag råkar veta att du har en dator över sen en vecka eller så... hinthint...
+Låter som en mix av Ubuntu Core och CoreOS, fast för desktop. Installerat det på någon hårdvara ännu @teo.roijezon? Jag råkar veta att du har en dator över sen en vecka eller så... hinthint...
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-02-15 07:23 33s
