@@ -67,6 +67,19 @@ I mitt nya liv har jag tänkt utveckla dotnet core under linux. Antar att det ä
 ### erik.malm - 2018-02-16 12:15 39s
 
 Debuggern för dotnet core kör namn checkar på vilken distribution man kör, går att hacka sig förbi men klart enklast att hålla sig till tex ubuntu.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-16 12:35 48s
+
+o.O
+Någon aning vad motivationen bakom det är?
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-02-16 12:37 59s
+
+:thinking_face: microsoft och deras underliga idéer
+@jenspeterolsson Kör ubuntu, det gör livet lättare. Jag körde arch tidigare men gick över till ubuntu för lite just works-stuk jag känner är hälsosamt att ha för sin utvecklingsdator
+kanske är för att jag suttit några månader på MacOS också men ja, jag gillar det
 
 <!--excerpt-->
 </section>
