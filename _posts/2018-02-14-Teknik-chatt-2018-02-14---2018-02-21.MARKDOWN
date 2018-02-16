@@ -62,6 +62,11 @@ Kör dock 17.09 (stable) på jobbdatorn, och har inte märkt av något större s
 ### jenspeterolsson - 2018-02-16 10:43 49s
 
 I mitt nya liv har jag tänkt utveckla dotnet core under linux. Antar att det är ubuntu som gäller om man inte vill mecka för mycket (utan bara lagom mycket..) med sin jobbdator eller what say you all?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-16 12:15 39s
+
+Debuggern för dotnet core kör namn checkar på vilken distribution man kör, går att hacka sig förbi men klart enklast att hålla sig till tex ubuntu.
 
 <!--excerpt-->
 </section>
