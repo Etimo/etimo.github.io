@@ -1,0 +1,140 @@
+---
+layout: post
+title: Teknik-chatt 2018-02-19 - 2018-02-26
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-19 19:48 12s
+
+vilket synkprogram använder ni för Google Drive?
+jag har använt grive2 ([https://github.com/vitalif/grive2](https://github.com/vitalif/grive2)) hittils, men den verkar ha problem med Unicode
+
+<div class="attachment"><h4>vitalif/grive2</h4><div class="text">grive2 - Google Drive client with support for new Drive REST API and partial sync</div>
+<a href="https://github.com/vitalif/grive2"><div class="linkdiv"><img src="/assets/blogAssets/vitalif/grive2" fallback="vitalif/grive2"/></div></a></div>
+    
+(vissa filer dyker inte upp alls, och vissa filer rapporteras konstant som ändrade även om dom inte har ändrats på över ett år)
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-02-19 19:53 09s
+
+Jag använder 'Drive File Stream' vilket är den nya klienten för Windows.
+Den kanske inte finns för Linux dock
+Men för Mac finns den
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-19 20:09 01s
+
+ingen av Googles officiella klienter funkar på Linux 😞
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-19 20:11 52s
+
+Har kört [https://www.insynchq.com/downloads](https://www.insynchq.com/downloads)
+Men där är det bara free as in beer inte som i freedom.
+
+<div class="attachment"><h4>Download Insync for Windows, Mac, and Linux</h4><div class="text">Download Insync for free to start syncing your files across Google Drive and all your devices. Works on Windows (XP, 7, 8, 10), Linux (Ubuntu, Mint, Fedora, etc) and mac OS. Comes with multiple account support, external and network drives syncing, GDoc to Office conversion, an activity feed, notifications and more!</div>
+<a href="https://www.insynchq.com/downloads"><img src="https://d2t3ff60b2tol4.cloudfront.net/c/7/4aEGX-/insync_og.png" fallback="Download Insync for Windows, Mac, and Linux"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-19 20:12 37s
+
+Free as in beer? Vart får du gratis öl?
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-19 20:14 29s
+
+verkar inte free as in beer heller
+
+<div class="imageblock">
+<a href="/assets/blogAssets/F9AS2NA0Z-image.png">
+<img alt="image.png" src="/assets/blogAssets/thumbnail-F9AS2NA0Z-image.png"/>
+</a></div>
+
+     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-19 20:18 34s
+
+Undrar om det är därför jag inte längre använder Insync.  Verkar konsekvent.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-19 20:19 08s
+
+heh
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-19 20:46 57s
+
+Tror det är Richard Stallman som bjuder på gratis öl..
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-19 20:47 54s
+
+Jasså. Inte mycket den gången jag var och lyssnade på honom. Synd. Men väldigt underhållande var det ändå 😄
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-19 20:48 24s
+
+[https://en.wikipedia.org/wiki/Gratis_versus_libre#/media/File:Isummit_2008,_Japan,_free_beer_crop.png](https://en.wikipedia.org/wiki/Gratis_versus_libre#/media/File:Isummit_2008,_Japan,_free_beer_crop.png)
+
+<div class="attachment"><h4>Gratis versus libre</h4><div class="text">The English adjective free is commonly used in one of two meanings: "for free" (gratis) and "with little or no restriction" (libre). This ambiguity of free can cause issues where the distinction is important, as it often is in dealing with laws concerning the use of information, such as copyright and patents.
+The terms gratis and libre may be used to categorise intellectual property, particularly....</div>
+<a href="https://en.wikipedia.org/wiki/Gratis_versus_libre#/media/File:Isummit_2008,_Japan,_free_beer_crop.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Isummit_2008%2C_Japan%2C_free_beer_crop.png" fallback="Gratis versus libre"/></a></div>
+    
+(Ifall att någon undrade på riktigt)
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-19 20:49 28s
+
+👍
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-19 20:49 46s
+
+[https://github.com/MStadlmeier/drivesync/](https://github.com/MStadlmeier/drivesync/) verkar intressant
+
+<div class="attachment"><h4>MStadlmeier/drivesync</h4><div class="text">drivesync - Google Drive synchronization for Linux</div>
+<a href="https://github.com/MStadlmeier/drivesync/"><div class="linkdiv"><img src="/assets/blogAssets/MStadlmeier/drivesync" fallback="MStadlmeier/drivesync"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-19 20:57 05s
+
+Hur lätt är det att dra in ett slumpmässigt paket på NixOs?
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-19 21:02 26s
+
+beror på, många populära språk har importverktyg som gör att du automatiskt kan generera ett NixOS-paket utifrån språkets egna pakethanterare
+t.ex. node2nix ([https://github.com/svanderburg/node2nix](https://github.com/svanderburg/node2nix)) för NodeJS/NPM
+
+<div class="attachment"><h4>svanderburg/node2nix</h4><div class="text">node2nix - Generate Nix expressions to build NPM packages</div>
+<a href="https://github.com/svanderburg/node2nix"><div class="linkdiv"><img src="/assets/blogAssets/svanderburg/node2nix" fallback="svanderburg/node2nix"/></div></a></div>
+    
+eller sbtix ([https://github.com/teozkr/sbtix](https://github.com/teozkr/sbtix)) för Scala/SBT
+
+<div class="attachment"><h4>teozkr/Sbtix</h4><div class="text">Sbtix - Generates Nix definitions for your SBT builds</div>
+<a href="https://github.com/teozkr/sbtix"><div class="linkdiv"><img src="/assets/blogAssets/teozkr/Sbtix" fallback="teozkr/Sbtix"/></div></a></div>
+    
+(disclaimer: jag kanske inte är helt opartisk vad gäller sbtix :P)
+men det är inte jättesvårt ifall det inte finns något konverteringsverktyg
+se t.ex. [https://github.com/NixOS/nixpkgs/pull/34687/files](https://github.com/NixOS/nixpkgs/pull/34687/files) för mitt paket för libinput-gestures
+
+<div class="attachment"><h4>libinput-gestures: init at 2.32 by teozkr · Pull Request #34687 · NixOS/nixpkgs</h4><div class="text">Motivation for this change xf86-input-synaptics is unmaintained, and touchegg doesn't work with the latest synaptics driver or libinput. Ideally DEs would implement this themselves, but at least KD...</div>
+<a href="https://github.com/NixOS/nixpkgs/pull/34687/files"><div class="linkdiv"><img src="/assets/blogAssets/libinput-gestures: init at 2.32 by teozkr · Pull Request #34687 · NixOS/nixpkgs" fallback="libinput-gestures: init at 2.32 by teozkr · Pull Request #34687 · NixOS/nixpkgs"/></div></a></div>
+    
+som är skrivet i Python men har ett eget installationsverktyg
+
+<!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-19 21:09 18s
+
+Det här förklarar mycket, minns att jag grävde i det där repot och inte helt kopplade glädjen med att generera en definition, för att gå till ett maven repo och sen bygga med SBT. Allt är så mycket tydligare nu,
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-02-19 21:09 26s
+
+😄
+</section>
