@@ -138,3 +138,8 @@ Det här förklarar mycket, minns att jag grävde i det där repot och inte helt
 
 😄
 </section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-21 07:44 48s
+
+Jag kör pythonutveckling nu i vscode också som ett försök att lämna sublime bakom mig. Vscode levererar väldigt bra med snyggt integrerad debugging, integrerade tester med feedback och massa gott.
+</section>
