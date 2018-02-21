@@ -148,3 +148,18 @@ Jag kör pythonutveckling nu i vscode också som ett försök att lämna sublime
 
 vscode funkar helt klart bra för pythonutveckling! däremot är det lite vek integration med debugging i docker-container, där ligger pycharm helt klart före enligt mina före detta kollegor på bytbil
 </section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-21 11:01 21s
+
+Ah ok, bra att veta! Här har jag som tur är lyxen att utveckla direkt på datorn så har inga behov av remote debugging eller development på nåt sätt vilket är skönt 😄
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-02-21 11:02 33s
+
+jag föredrar att hålla utvecklingen i en container så man slipper venv/skräpa ner globalt, men det kommer ju tyvärr med sina nackdelar 😞
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-21 11:07 04s
+
+ja så är det ju. Det finns såklart mycket att vinna också, speciellt om man faktiskt ska använda docker i deploy sen.
+</section>
