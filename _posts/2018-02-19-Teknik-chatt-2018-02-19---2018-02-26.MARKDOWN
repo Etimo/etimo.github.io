@@ -143,3 +143,8 @@ Det här förklarar mycket, minns att jag grävde i det där repot och inte helt
 
 Jag kör pythonutveckling nu i vscode också som ett försök att lämna sublime bakom mig. Vscode levererar väldigt bra med snyggt integrerad debugging, integrerade tester med feedback och massa gott.
 </section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-02-21 10:49 08s
+
+vscode funkar helt klart bra för pythonutveckling! däremot är det lite vek integration med debugging i docker-container, där ligger pycharm helt klart före enligt mina före detta kollegor på bytbil
+</section>
