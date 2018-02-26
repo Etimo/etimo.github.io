@@ -1,0 +1,35 @@
+---
+layout: post
+title: Teknik-chatt 2018-02-26 - 2018-03-05
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-26 08:05 06s
+
+Väldigt irrelevant för oss men sjukt cool teknik som jag snubblade över häromdagen. Världens svartaste svart:
+[https://www.surreynanosystems.com/vantablack](https://www.surreynanosystems.com/vantablack)
+
+Från wikipedia:
+"Vantablack är så svart att alla tredimensionella drag hos det objekt som materialet täcker suddas ut. Till och med när man böjer eller skrynklar till materialet ser det totalt platt ut. Dess förmåga att absorbera ljus har liknats vid hur ett svart hål uppträder."
+
+<div class="attachment"><h4>             Vantablack | Surrey NanoSystems     </h4><div class="text">Vantablack® is a super-black coating that holds the world record as the darkest man-made substance. Absorbing 99.9% of light, it has applications in visual technologies, calibration and art and architecture.</div>
+<a href="https://www.surreynanosystems.com/vantablack">             Vantablack | Surrey NanoSystems     </a></div>
+    
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-02-26 08:22 11s
+
+Verkar coolt! Jag antar att om jag applicerar en hinna på min skjorta så slipper jag stryka framöver:)
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-26 08:27 13s
+
+Ja det låter som ett mycket bra användningsfall 🙂
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-02-26 09:00 05s
+
+Enda nedsidan är att jag kanske upplevs som ganska tråkig om jag alltid bör världens svartaste begravningssvart:) Och kanske priset..
+
+<!--excerpt-->
+</section>
