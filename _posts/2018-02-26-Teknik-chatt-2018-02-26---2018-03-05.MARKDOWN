@@ -40,6 +40,70 @@ Man behöver skaffa nåt tillstånd också från myndigheterna i UK för att få
 ### johanhazelius - 2018-02-26 13:52 58s
 
 Ja, där sprack det:)
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-02-27 19:39 06s
+
+[https://techcrunch.com/2018/02/27/googles-flutter-ui-framework-is-now-in-beta/](https://techcrunch.com/2018/02/27/googles-flutter-ui-framework-is-now-in-beta/)
+Google lanserar konkurrent till facebooks React Native kallad Flutter. 
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-27 19:41 04s
+
+Är för deras språk dart va? Läste imorse om att de vill promota en ny version
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-02-27 19:41 28s
+
+Yes, stämmer
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-27 19:41 30s
+
+Spännande att se hur det funkar när det börjar användas!
+Aldrig provat dart
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-02-27 19:42 48s
+
+Ja, instämmer. Även om jag tycker det mest intressanta är att Cross plattform får ytterligare draghjälp i kampen mot native när det kommer till mobilappar..
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-27 19:43 11s
+
+Ja verkligen 👍
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-27 19:43 45s
+
+Flutter har dykt upp tidigare som toolkittet för att bygga appar för Fuschia, googles egen kernel (bl.a.).
+[http://www.businessinsider.com/google-fuchsia-os-first-look-2018-1?r=US&amp;IR=T&amp;IR=T](http://www.businessinsider.com/google-fuchsia-os-first-look-2018-1?r=US&amp;IR=T&amp;IR=T)
+
+<div class="attachment"><h4>This is our first look at what might be Google's new operating system for phones, tablets, and computers</h4><div class="text">The code is running on a Google Pixelbook and barely qualifies as a beta, but it still might give a flavor of what Google is aiming at.</div>
+<a href="http://www.businessinsider.com/google-fuchsia-os-first-look-2018-1?r=US&IR=T&IR=T"><img src="https://amp.businessinsider.com/images/5a60cba928eecc67008b5930-750-375.jpg" fallback="This is our first look at what might be Google's new operating system for phones, tablets, and computers"/></a></div>
+    
+Känns som ett led i att få mjukvara som går att porta från Android när den dagen eventuellt kommer.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-27 19:45 47s
+
+Coolt!
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-02-27 19:55 32s
+
+Instämmer, coolt @erik.malm 
 
 <!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-27 19:55 52s
+
+Den här var det jag ville posta...
+[https://9to5google.com/2016/08/14/google-is-working-on-fuchsia-a-new-operating-system-that-isnt-based-on-linux/](https://9to5google.com/2016/08/14/google-is-working-on-fuchsia-a-new-operating-system-that-isnt-based-on-linux/)
+
+<div class="attachment"><h4>Google is working on ‘Fuchsia,’ a new operating system that isn’t based on Linux</h4><div class="text">As per&nbsp;a new Google project over on Github, the company is working on a brand new operating system. The new OS, currently dubbed&nbsp;Fuchsia, would add to Google&rsquo;s current operating system offerings, namely Android and Chrome OS. This wouldn&rsquo;t be an upgrade or replacement for either, but rather something completely standalone. Where it differs is in the fact that Fuchsia is not ....</div>
+<a href="https://9to5google.com/2016/08/14/google-is-working-on-fuchsia-a-new-operating-system-that-isnt-based-on-linux/">Google is working on ‘Fuchsia,’ a new operating system that isn’t based on Linux</a></div>
+    
+Den här!
 </section>
