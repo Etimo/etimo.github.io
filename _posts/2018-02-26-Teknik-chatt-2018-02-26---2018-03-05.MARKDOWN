@@ -141,3 +141,29 @@ Man blir tårögd när man måste skotta 5 ggr per dag 😂 men väldigt lätt s
 
 jag är uppväxt med en alldeles för stor garageuppfart, jag lider med dig.
 </section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-28 20:46 54s
+
+Det är riktigt fint, men det är så blåsigt och kallt så jag bröt min vinterpromenad efter halva sträckan nu på kvällen. Riktig vargavinter.
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-02-28 20:49 28s
+
+Ja det är hejdundrande kallt! Och när det börjar blåsa blir det en mycket kall feels-like-temperatur.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-28 20:52 49s
+
+verkligen
+ordentlig vinter nu
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-02-28 20:57 38s
+
+För dig stämmer väl det året om?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-28 20:57 51s
+
+winther is coming, always
+</section>
