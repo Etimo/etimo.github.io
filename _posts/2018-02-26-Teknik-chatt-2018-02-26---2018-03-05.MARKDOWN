@@ -131,3 +131,13 @@ det är nästan så att man blir tårögd
 
 ❄
 </section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-28 11:30 42s
+
+Man blir tårögd när man måste skotta 5 ggr per dag 😂 men väldigt lätt snö att skotta iaf
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-02-28 11:37 50s
+
+jag är uppväxt med en alldeles för stor garageuppfart, jag lider med dig.
+</section>
