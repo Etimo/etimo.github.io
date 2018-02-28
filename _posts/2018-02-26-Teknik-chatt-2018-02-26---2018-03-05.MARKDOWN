@@ -107,3 +107,15 @@ Den här var det jag ville posta...
     
 Den här!
 </section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-02-28 10:29 30s
+
+Bra med snö idag :joy:
+
+<div class="imageblock">
+<a href="/assets/blogAssets/F9G6Z02F7-Image_uploaded_from_iOS.jpg">
+<img alt="Image uploaded from iOS.jpg" src="/assets/blogAssets/thumbnail-F9G6Z02F7-Image_uploaded_from_iOS.jpg"/>
+</a></div>
+
+     
+</section>
