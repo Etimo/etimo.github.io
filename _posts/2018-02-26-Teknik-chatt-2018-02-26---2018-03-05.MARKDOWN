@@ -172,3 +172,8 @@ winther is coming, always
 
 Erkänn Daniel att du la upp bilden bara för att få slänga upp den där kommentaren:) Jag som sitter nere i Gbg känner igen vibbarna, samma stil på skämten här Winther-man:)
 </section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-02 08:19 37s
+
+Haha 😄
+</section>
