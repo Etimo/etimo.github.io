@@ -1,0 +1,97 @@
+---
+layout: post
+title: Teknik-chatt 2018-03-15 - 2018-03-22
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2018-03-15 06:56 21s
+
+Har börjat leka lite med OpenJ9 ( [https://www.eclipse.org/openj9/](https://www.eclipse.org/openj9/) ), IBMs JVM som nu har open-sourceats. 
+Än så länge verkar den ge sådär 20% snabbare upstart och lägre minnesanvändning. Inga uppenbara kompatibilitetshål ännu heller.
+Känns lite för bra för att vara sant, så vi får se var det första edge-caset dyker upp.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-15 06:59 55s
+
+med liknande prestanda när den har värmt upp?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-03-15 07:02 48s
+
+Minnet är det enda jag kontrollerat över tid, och det ligger stabilt lägre för min ganska tunga proteomik-server jag skrev i forntiden.
+Inte helt säker på vilka mer seriösa profiling verktyg som fungerar med OpenJ9, men kommer nog att pilla på det när jag får lite mer dödtid.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-15 07:08 01s
+
+Coolt
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-15 07:24 06s
+
+👍
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-15 09:24 10s
+
+Men den viktigaste frågan kvarstår: bryter den kompatibilitet med Lombok som använder interna compiler-api:er? 😉
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-15 09:31 24s
+
+det är väl bara en JRE, har för mig att du använder vanliga OpenJDK för kompileringen
+så lombok borde inte vara nått problem 😛
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-15 09:42 43s
+
+👌 jag gillar mina fulhack intakta så att jag kan låtsas att jag skriver C# när jag egentligen skriver Java 😬
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-03-15 11:43 40s
+
+Jag är så kluven över Lombok, å ena sidan kan jag nu inte kompilera utan ett tredjeplats verktyg. Å andra sidan kan jag låtsas att jag skriver Scala med val överallt.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-15 11:45 25s
+
+jo.. Java 10 får väl till slut var iaf
+synd att val tydligen inte blev av
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-15 11:46 15s
+
+Lombok is love, lombok is life
+ja synd att de gick för bara `var`, `val` är ju så uppenbart överlägset känner jag
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-15 11:47 32s
+
+ja
+fast Rusts `let` vs `let mut` är ju ännu bättre 😛
+immutable ska vara bekvämare, inte bara på lika fot!
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-15 11:48 42s
+
+spot on! sane defaults innebär ju att immutable ska vara default
+varför inte ta det längre i java och introducera två mouthfulls med keywords för att få mutable, lätt att världen blir 2x bättre då
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-15 11:50 21s
+
+`nonfinal editable yesimreallysureiknowwhatimdoing int myInt`
+👌
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-15 12:17 35s
+
+hehe
+
+<!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-03-15 13:57 54s
+
+Ubuntu brukade tvinga en att skriva "Do as I say!" för riktigt korkade saker, som att avinstallera apt-get.
+</section>
