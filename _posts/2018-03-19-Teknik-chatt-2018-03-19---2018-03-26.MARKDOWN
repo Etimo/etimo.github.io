@@ -1,0 +1,14 @@
+---
+layout: post
+title: Teknik-chatt 2018-03-19 - 2018-03-26
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-19 10:54 12s
+
+[https://localstack.cloud/](https://localstack.cloud/)
+Verkar vara ett spännande projekt för att kunna köra en aws-liknande miljö lokalt
+Goda nyheter som förhoppningsvis skulle kunna underlätta utveckling och framförallt testning
+
+<!--excerpt-->
+</section>
