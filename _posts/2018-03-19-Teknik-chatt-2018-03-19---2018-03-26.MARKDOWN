@@ -9,6 +9,12 @@ excerpt_separator: <!--excerpt-->
 [https://localstack.cloud/](https://localstack.cloud/)
 Verkar vara ett spännande projekt för att kunna köra en aws-liknande miljö lokalt
 Goda nyheter som förhoppningsvis skulle kunna underlätta utveckling och framförallt testning
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-03-19 18:17 05s
+
+Verkar täcka det som är bökigt att ordna själv och verkar inte alltför jobbigt att sätta upp.
+Får kolla lite närmare på vad deras "highly efficient dev / test and deployment pipelines" innebär.
 
 <!--excerpt-->
 </section>
