@@ -15,6 +15,102 @@ Goda nyheter som förhoppningsvis skulle kunna underlätta utveckling och framf�
 
 Verkar täcka det som är bökigt att ordna själv och verkar inte alltför jobbigt att sätta upp.
 Får kolla lite närmare på vad deras "highly efficient dev / test and deployment pipelines" innebär.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-20 13:43 03s
+
+OMRÖSTNING: Är `do-while` för obskyrt för att någonsin användas?
+&gt;👍 =&gt; Använd do-while
+&gt;👎 =&gt; Använd inte do-while
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-20 13:43 20s
+
+vad är motivationen till do-while?
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-20 13:43 46s
+
+vill implementera retrying under vissa omständigheter
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-03-20 13:43 47s
+
+Att alltid exekvera en iteration oavsett while-uttrycket
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-20 13:44 10s
+
+`do { ...api code } while (method = GET &amp; tries &lt; 5)`
+typ
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-20 13:45 22s
+
+@joakoles det går lika bra att göra med vanliga loopar väl? däremot kanske do while kan ge ett tydligare intryck att man faktiskt vill göra åtminstone en gång
+hur vanligt är det i c#?
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-03-20 13:46 32s
+
+@daniel.winther: Ja precis. Det är i praktiken väldigt ovanligt skulle jag säga.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-20 13:46 46s
+
+ja, jag tycker också det är väldigt ovanligt
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-20 13:47 02s
+
+skulle säga 👎 eftersom du oftast vill ha mer logik runtomkring
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-20 13:47 08s
+
+så jag skulle säga nej pga att det i mina ögon skapar viss förbryllelse jämfört med hur man "brukar" göra
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-20 13:47 15s
+
+typ max antal retries, delay, etc
+bättre att göra en egen retry-loop (eller använda från nått bibliotek)
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-20 13:48 07s
+
+@teo.roijezon rösta!
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-20 13:49 29s
+
+så  😛
 
 <!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-20 13:49 44s
+
+jag lutar nog mot att ni har rätt
+do-while considered harmful :feelsbadman:
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-20 13:50 06s
+
+🐧 cheer up!
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-20 13:50 27s
+
+fick lösas med en while och en throw roligt nog
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-20 13:50 53s
+
+😧
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-20 13:51 46s
+
+och en return 🐧
 </section>
