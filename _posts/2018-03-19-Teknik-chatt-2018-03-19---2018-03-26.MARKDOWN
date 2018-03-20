@@ -114,3 +114,23 @@ fick lösas med en while och en throw roligt nog
 
 och en return 🐧
 </section>
+<section class="message" markdown="1">
+### erik.malm - 2018-03-20 20:12 21s
+
+Du kanske kan få in en System.exit() någonstans där också?
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-20 20:14 33s
+
+självklart med en SecurityManager som omdefinierar var System.exit gör
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-03-20 20:15 42s
+
+Kan vi jobba in en moddad ClassLoader också?
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-03-20 20:16 14s
+
+det är väl den som ropar på hela kalaset
+</section>
