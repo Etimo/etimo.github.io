@@ -134,3 +134,18 @@ Kan vi jobba in en moddad ClassLoader också?
 
 det är väl den som ropar på hela kalaset
 </section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-21 10:06 39s
+
+jag gillar php's `or die();`, den kanske är något?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-21 10:07 07s
+
+haha den gamla klassikern! 😂
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-21 10:07 19s
+
+defensiv programmering 🐧
+</section>
