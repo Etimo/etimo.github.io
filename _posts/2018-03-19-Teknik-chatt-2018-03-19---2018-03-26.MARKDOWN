@@ -149,3 +149,19 @@ haha den gamla klassikern! 😂
 
 defensiv programmering 🐧
 </section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-03-23 13:39 16s
+
+[https://github.com/bluzi/travis-buddy](https://github.com/bluzi/travis-buddy)
+
+kul koncept om ni kör travis!
+
+<div class="attachment"><h4>bluzi/travis-buddy</h4><div class="text">travis-buddy - :rocket: TravisBuddy is an awesome bot that will make life much easier for your contributors</div>
+<a href="https://github.com/bluzi/travis-buddy"><div class="linkdiv"><img src="/assets/blogAssets/bluzi/travis-buddy" fallback="bluzi/travis-buddy"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-23 13:39 29s
+
+👍 coolt!
+</section>
