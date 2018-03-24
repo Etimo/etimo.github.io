@@ -165,3 +165,13 @@ kul koncept om ni kör travis!
 
 👍 coolt!
 </section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-03-24 14:22 45s
+
+[https://aca.st/c63946](https://aca.st/c63946)
+
+<div class="attachment"><h4>a16z Podcast: Containing the Monolith -- From Microservices to DevOps | a16z on acast</h4><div class="text">What happens when monolithic architectures are broken down into containers and microservices (or when things are broken down into smaller units, not just in infrastructure but perhaps even in company structure too)? From building more dynamic websites to monitoring the enterprise cloud to elastically scaling applications, where are developers in the enterprise going now and next? This episode of ....</div>
+<a href="https://aca.st/c63946"><div class="linkdiv"><img src="/assets/blogAssets/a16z Podcast: Containing the Monolith -- From Microservices to DevOps | a16z on acast" fallback="a16z Podcast: Containing the Monolith -- From Microservices to DevOps | a16z on acast"/></div></a></div>
+    
+Ganska high-level men ändå intressant. Ständigt återkommande ämne..
+</section>
