@@ -1,0 +1,14 @@
+---
+layout: post
+title: Teknik-chatt 2018-03-28 - 2018-04-04
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-28 10:29 21s
+
+[https://traefik.io/](https://traefik.io/)
+Http load balancer utvecklad för mikrotjänster i åtanke
+Med inbyggt stöd för kubernetes, docker, etc, lets encrypt och en massa gött
+
+<!--excerpt-->
+</section>
