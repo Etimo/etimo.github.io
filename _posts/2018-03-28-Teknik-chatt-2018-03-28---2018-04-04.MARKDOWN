@@ -19,6 +19,16 @@ Alltid relevant, antagligen än mer nu för tiden:
 <div class="attachment"><h4>How Dark Patterns Trick You Online</h4><div class="text"></div>
 <a href="https://www.youtube.com/watch?time_continue=252&amp;v=kxkrdLI6e6M"><div class="linkdiv"><img src="/assets/blogAssets/How Dark Patterns Trick You Online" fallback="How Dark Patterns Trick You Online"/></div></a></div>
     
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-29 09:31 45s
+
+Och tillhörande hall of shame:
+[https://darkpatterns.org/hall-of-shame](https://darkpatterns.org/hall-of-shame)
+
+<div class="attachment"><h4>Hall of Shame | Dark Patterns</h4><div class="text">Hall of Shame</div>
+<a href="https://darkpatterns.org/hall-of-shame">Hall of Shame | Dark Patterns</a></div>
+    
 
 <!--excerpt-->
 </section>
