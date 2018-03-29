@@ -9,6 +9,16 @@ excerpt_separator: <!--excerpt-->
 [https://traefik.io/](https://traefik.io/)
 Http load balancer utvecklad för mikrotjänster i åtanke
 Med inbyggt stöd för kubernetes, docker, etc, lets encrypt och en massa gött
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-03-29 09:25 13s
+
+Alltid relevant, antagligen än mer nu för tiden:
+[https://www.youtube.com/watch?time_continue=252&amp;v=kxkrdLI6e6M](https://www.youtube.com/watch?time_continue=252&amp;v=kxkrdLI6e6M)
+
+<div class="attachment"><h4>How Dark Patterns Trick You Online</h4><div class="text"></div>
+<a href="https://www.youtube.com/watch?time_continue=252&amp;v=kxkrdLI6e6M"><div class="linkdiv"><img src="/assets/blogAssets/How Dark Patterns Trick You Online" fallback="How Dark Patterns Trick You Online"/></div></a></div>
+    
 
 <!--excerpt-->
 </section>
