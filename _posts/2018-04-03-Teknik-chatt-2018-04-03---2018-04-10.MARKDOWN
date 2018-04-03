@@ -13,6 +13,11 @@ Chrome har tydligen börjat scanna filer på system den är installerad på.
 <a href="https://motherboard.vice.com/en_us/article/wj7x9w/google-chrome-scans-files-on-your-windows-computer-chrome-cleanup-tool"><img src="https://video-images.vice.com/articles/5ac27fcb1d597d00069a0f38/lede/1522697453815-shutterstock_746561158.jpeg?crop=1xw:0.8285113098369279xh;center,center&resize=1200:*" fallback="Chrome Is Scanning Files on Your Computer, and People Are Freaking Out"/></a></div>
     
 Artikeln är väldigt överslätande men jag kommer definitivt att börja kolla upp möjligheter att sandboxa browsern a-la firejail.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-03 18:03 19s
+
+tror inte firefox gör det.. än iaf
 
 <!--excerpt-->
 </section>
