@@ -32,6 +32,11 @@ Kafka som i [https://kafka.apache.org/](https://kafka.apache.org/), inte förfat
 ### erik.malm - 2018-04-16 23:53 28s
 
 Några av hans böcker är lite förvirrande och alla publicerade etter hans död.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-17 24:10 52s
+
+Är i Processen med kafka. Gör vad den ska, verkar klara de volymer av meddelanden vi matat den med bra. Något förvirrande rollfördelning mellan Zookeeper (distribuerad konfig / key-value store) och själva Kafka.
 
 <!--excerpt-->
 </section>
