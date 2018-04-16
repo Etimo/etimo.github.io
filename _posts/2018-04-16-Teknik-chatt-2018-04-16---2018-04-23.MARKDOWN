@@ -16,6 +16,17 @@ Slack for iOS Upload
 
      
 Jag tycker denna setup fungerar ganska bra efter första dagens test. Aningen svårt att dubbelklicka (man missar pga. känsligheten men det kanske man vänjer sig till eller justeras) och skrollen funkar bara sådär (men det kanske är bättre i deras nyare modeller).
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-16 23:16 52s
+
+Nån som har erfarenhet av kafka?
+Kafka som i [https://kafka.apache.org/](https://kafka.apache.org/), inte författaren franz kafka
+
+<div class="attachment"><h4>Apache Kafka</h4><div class="text">Apache Kafka: A Distributed Streaming Platform.</div>
+<a href="https://kafka.apache.org/"><img src="http://apache-kafka.org/images/apache-kafka.png" fallback="Apache Kafka"/></a></div>
+    
+😄
 
 <!--excerpt-->
 </section>
