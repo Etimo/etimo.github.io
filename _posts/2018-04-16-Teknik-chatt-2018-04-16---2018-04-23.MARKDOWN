@@ -27,6 +27,11 @@ Kafka som i [https://kafka.apache.org/](https://kafka.apache.org/), inte förfat
 <a href="https://kafka.apache.org/"><img src="http://apache-kafka.org/images/apache-kafka.png" fallback="Apache Kafka"/></a></div>
     
 😄
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-16 23:53 28s
+
+Några av hans böcker är lite förvirrande och alla publicerade etter hans död.
 
 <!--excerpt-->
 </section>
