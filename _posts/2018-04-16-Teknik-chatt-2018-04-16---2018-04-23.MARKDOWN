@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teknik-chatt 2018-04-16 - 2018-04-23
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### joakoles - 2018-04-16 17:12 53s
+
+Jag lånar en ergonomi-setup: Mousetrapper-"mus" och tilbehör att vila armarna på. Nån som har koll på sånt och vet vad man ska ha om man vill att axlar osv. ska hålla länge?
+Slack for iOS Upload
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FA7GWLKCJ-Image_uploaded_from_iOS.jpg">
+<img alt="Image uploaded from iOS.jpg" src="/assets/blogAssets/thumbnail-FA7GWLKCJ-Image_uploaded_from_iOS.jpg"/>
+</a></div>
+
+     
+Jag tycker denna setup fungerar ganska bra efter första dagens test. Aningen svårt att dubbelklicka (man missar pga. känsligheten men det kanske man vänjer sig till eller justeras) och skrollen funkar bara sådär (men det kanske är bättre i deras nyare modeller).
+
+<!--excerpt-->
+</section>
