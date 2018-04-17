@@ -80,6 +80,13 @@ Men jag kör helt på default out of the box och följer deras egna tutorial
 ### teo.roijezon - 2018-04-17 07:29 16s
 
 😕
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-04-17 16:25 50s
+
+I azure event hub (som man kan se som ett alternativ till kafka) är rekommendation att en consumer group max har en läsare per partition. Lite grovt kan man se en consumer group som en applikation, men mer specifik handlar det om en vy av event hubben och state som beskriver hur långt man har kommit läsningen. Jag antar rekommendationen beror på att synkronisering av statet annars skulle vara jobbigt och att man då riskerar att behandla ett event flera gånger av misstag.
+
+Dock är det okej att olika consumer groups har läsare som läser från samma partition samtidigt då de håller reda på sitt state separat.
 
 <!--excerpt-->
 </section>
