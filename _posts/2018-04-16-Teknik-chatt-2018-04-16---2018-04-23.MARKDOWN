@@ -37,6 +37,49 @@ Några av hans böcker är lite förvirrande och alla publicerade etter hans dö
 ### erik.malm - 2018-04-17 24:10 52s
 
 Är i Processen med kafka. Gör vad den ska, verkar klara de volymer av meddelanden vi matat den med bra. Något förvirrande rollfördelning mellan Zookeeper (distribuerad konfig / key-value store) och själva Kafka.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-17 07:21 31s
+
+Ja, det är en av grejerna jag tycker är väldigt konstig och diffus. Rent funktionellt tycker jag också det är flera oklarheter kring implementation och designval vilket jag ifrågasätter, mestadels för att jag inte vet hur man ska tackla det. Tex kan man inte ha fler workers än partitioner för samma kö. Dvs när man skapar köerna (topics) måste man veta hur man kommer vilja skala dem i framtiden vad gäller parallell hantering. Enligt dokumentationen är det ett designval som ligger till grund för många av de garantier som Kafka ger men jag får det inte att landa i mitt huvud. 
+Sen har jag flera problem lokalt när jag testar, tex så tar det alltid mellan 20-30 sekunder från att jag startar en consumer till att den faktiskt får meddelanden från Kafka pga att Kafka går in i en rebalance varje gång jag ansluter. Den ombalanseringen tar av nån anledning 20-30 sekunder trots att jag kör lokalt med helt tomt state
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-17 07:23 36s
+
+intressant.. och man behöver radera och återskapa kön för att ändra på partitioneringen?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-17 07:25 13s
+
+Oklart. Tror det kan balanseras om men att det måste göras via konfigurationer, dvs du kan inte bara skala upp workers och så ”funkar det”. För varje worker måste du då konfa en till plats i Kafka. Alternativt att man konfar fler partitioner än vad man tror behövs för ett tag. Inga problem att ha fler
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-17 07:25 42s
+
+ahh
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-17 07:26 15s
+
+Låter orimligt i mina ögon men jag känner spontant att Kafka är väldigt mycket svårare att få grepp om än tex Rabbitmq, längre startsträcka och mer som man måste förstå för att kunna köra bra. 
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-17 07:27 06s
+
+bara 20s-delayen låter ju som att den skulle bli extremt frustrerande att utveckla för
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-17 07:27 08s
+
+Dessa problem är endast relaterade till queue-worker modellen, inte pubsub. 
+Ja det är väldigt irriterande. Speciellt när man sitter med JS där det bara är att tuta och köra. Men tänker att det måste va nåt knas nånstans, nåt som jag missat. Sen när allt väl har kommit igång så går det smidigt därefter men iom att man ofta behöver starta om när man testar och itererar fram blir det väldigt knöligt
+Men jag kör helt på default out of the box och följer deras egna tutorial  
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-17 07:29 16s
+
+😕
 
 <!--excerpt-->
 </section>
