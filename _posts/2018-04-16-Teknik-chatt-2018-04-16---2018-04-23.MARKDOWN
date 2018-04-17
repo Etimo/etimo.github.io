@@ -95,6 +95,29 @@ Men är tanken då att man ska skala upp genom att starta flera consumer groups?
 Eller finns det kanske inga praktiska fall då man faktisk behöver elastisk skalning av worker pooler?
 I tex ditt fall Jocke vet ni att ni vill processa ungefär 4000 meddelanden per sekund. Då vet ni hur ni ska skala från början. Men säg att du bygger en tjänst som kommer växa mer organiskt, hur ska man tänka då?
 Tänk photo garden tex. Ett tu tre så hamnar vi på reddits förstasida och användarbasen börjar växa enormt. Då vill vi enkelt kunna skruva upp antal workers tex
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-04-17 17:02 58s
+
+Man når hög prestanda genom att man har ett högt antal partitioner och man kan då ha upp till samma antal läs-instanser (och alla läs-instanser har samma consumer group). En läs-instans kan läsa från flera olika partitioner. 
+
+Dock löser det inte problemet som uppstår om belastningen ökar extremt mycket på kort tid. I ett sånt fall tror jag IoT hub är mer lämpligt, men i praktiken kommer andra delar av lösningen antagligen stöta på prestandaproblem med så stor belastningsökning som du nämner. Vet inte helt hur IoT hub fungerar då jag inte använt det. Lite förenklat kan man se IoT hub som en förbättring av event hub med fler features och bättre uppskalning. Nackdelen med IoT hub är att det kostar mer.
+IoT hub har tex. stöd för tvåvägs-kommunikation och hantering av enskilda enheter.
 
 <!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-17 17:10 52s
+
+Ja en lösning är ju att sätta ett godtyckligt antal partitioner från början men det känns väldigt löst förankrat då det helt enkelt inte kan baseras på nåt. 
+Ska kolla in iot hub. I övrigt håller jag på att testa [https://nats.io](https://nats.io) 
+
+<div class="attachment"><h4>NATS - Open Source Messaging System | Secure, Native Cloud Application Development</h4><div class="text">NATS is a high performance messaging system that acts as a distributed messaging queue for cloud native applications, IoT device messaging, and microservices architecture.</div>
+<a href="https://nats.io">NATS - Open Source Messaging System | Secure, Native Cloud Application Development</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-17 17:18 40s
+
+Och specifikt NATS streaming server som är Kafka-motsvarigheten
 </section>
