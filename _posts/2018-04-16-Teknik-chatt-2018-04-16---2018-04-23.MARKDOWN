@@ -87,6 +87,14 @@ Men jag kör helt på default out of the box och följer deras egna tutorial
 I azure event hub (som man kan se som ett alternativ till kafka) är rekommendation att en consumer group max har en läsare per partition. Lite grovt kan man se en consumer group som en applikation, men mer specifik handlar det om en vy av event hubben och state som beskriver hur långt man har kommit läsningen. Jag antar rekommendationen beror på att synkronisering av statet annars skulle vara jobbigt och att man då riskerar att behandla ett event flera gånger av misstag.
 
 Dock är det okej att olika consumer groups har läsare som läser från samma partition samtidigt då de håller reda på sitt state separat.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-17 16:55 35s
+
+Men är tanken då att man ska skala upp genom att starta flera consumer groups? Då kommer man ju processa samma meddelande flera gånger?
+Eller finns det kanske inga praktiska fall då man faktisk behöver elastisk skalning av worker pooler?
+I tex ditt fall Jocke vet ni att ni vill processa ungefär 4000 meddelanden per sekund. Då vet ni hur ni ska skala från början. Men säg att du bygger en tjänst som kommer växa mer organiskt, hur ska man tänka då?
+Tänk photo garden tex. Ett tu tre så hamnar vi på reddits förstasida och användarbasen börjar växa enormt. Då vill vi enkelt kunna skruva upp antal workers tex
 
 <!--excerpt-->
 </section>
