@@ -160,3 +160,8 @@ tyckte jag såg något med variabler dock!
 Ska vi ställa upp i VM i excel? [http://moschampionship.com/](http://moschampionship.com/)
 Kanske PowerPoint är rätt gren för oss?
 </section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-04-20 14:54 28s
+
+Haha, jag tycker själv jag är ganska duktig på Excel så varför inte:)
+</section>
