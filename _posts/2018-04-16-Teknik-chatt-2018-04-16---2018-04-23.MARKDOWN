@@ -165,3 +165,8 @@ Kanske PowerPoint är rätt gren för oss?
 
 Haha, jag tycker själv jag är ganska duktig på Excel så varför inte:)
 </section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-04-20 17:30 48s
+
+@oscarnylander snart behöver vi aldrig lämna code
+</section>
