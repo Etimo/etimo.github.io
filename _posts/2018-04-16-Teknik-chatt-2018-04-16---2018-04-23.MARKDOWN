@@ -121,3 +121,36 @@ Ska kolla in iot hub. I övrigt håller jag på att testa [https://nats.io](http
 
 Och specifikt NATS streaming server som är Kafka-motsvarigheten
 </section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-20 10:18 19s
+
+Dagens VSCode-extension: [https://marketplace.visualstudio.com/items?itemName=humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+Postman är nu dött.
+
+<div class="attachment"><h4>REST Client - Visual Studio Marketplace</h4><div class="text">Extension for Visual Studio Code - REST Client for Visual Studio Code</div>
+<a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client"><div class="linkdiv"><img src="/assets/blogAssets/REST Client - Visual Studio Marketplace" fallback="REST Client - Visual Studio Marketplace"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-04-20 10:20 21s
+
+Klår det verkligen postmans olika features? Tex. stöd för miljöer så man kan ange variabler som ersätts med miljö-specifika variabler, delning av collections med kollegor och annat.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-20 10:20 51s
+
+jag har inte testat det helt - för mitt allmäna use-case slår det dock postman helt och hållet
+där jag oftast använder postman som en lite mer kraftfull curl
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-04-20 10:21 26s
+
+Aha okej
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-20 10:21 28s
+
+och att slippa starta ytterligare en electron-app är värt helt och hållet för mig
+tyckte jag såg något med variabler dock!
+</section>
