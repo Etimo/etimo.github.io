@@ -154,3 +154,9 @@ Aha okej
 och att slippa starta ytterligare en electron-app är värt helt och hållet för mig
 tyckte jag såg något med variabler dock!
 </section>
+<section class="message" markdown="1">
+### joakoles - 2018-04-20 13:48 34s
+
+Ska vi ställa upp i VM i excel? [http://moschampionship.com/](http://moschampionship.com/)
+Kanske PowerPoint är rätt gren för oss?
+</section>
