@@ -170,3 +170,13 @@ Haha, jag tycker själv jag är ganska duktig på Excel så varför inte:)
 
 @oscarnylander snart behöver vi aldrig lämna code
 </section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-21 21:22 07s
+
+[https://business.tink.se](https://business.tink.se)
+
+<div class="attachment"><h4>Home</h4><div class="text">Market-proven technology that’s changing banking for the better. | Account aggregation | |Payment Initiation | |Personal Finance Management | Categorisation of transactions | Developer friendly API Platform |</div>
+<a href="https://business.tink.se"><div class="linkdiv"><img src="/assets/blogAssets/Home" fallback="Home"/></div></a></div>
+    
+Tink öppnar sin plattform för utvecklare!
+</section>
