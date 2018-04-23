@@ -7,6 +7,11 @@ excerpt_separator: <!--excerpt-->
 ### oscarnylander - 2018-04-23 09:29 22s
 
 @jens.hunt I for one welcome my new Microsoft overlords 🐧
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-23 20:11 21s
+
+Riktigt intressant för min del @daniel.winther, finns typ en bransch-standard inom PSD2 ([https://www.berlin-group.org/psd2-access-to-bank-accounts](https://www.berlin-group.org/psd2-access-to-bank-accounts)). Får gräva igenom hur nära dessa Tink ligger.
 
 <!--excerpt-->
 </section>
