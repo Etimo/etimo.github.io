@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2018-04-23 - 2018-04-30
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-23 09:29 22s
+
+@jens.hunt I for one welcome my new Microsoft overlords 🐧
+
+<!--excerpt-->
+</section>
