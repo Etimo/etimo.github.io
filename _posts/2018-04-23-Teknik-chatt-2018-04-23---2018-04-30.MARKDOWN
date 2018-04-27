@@ -11,12 +11,39 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-23 20:11 21s
 
-Riktigt intressant för min del @Unkown, finns typ en bransch-standard inom PSD2 ([https://www.berlin-group.org/psd2-access-to-bank-accounts](https://www.berlin-group.org/psd2-access-to-bank-accounts)). Får gräva igenom hur nära dessa Tink ligger.
+Riktigt intressant för min del @daniel.winther, finns typ en bransch-standard inom PSD2 ([https://www.berlin-group.org/psd2-access-to-bank-accounts](https://www.berlin-group.org/psd2-access-to-bank-accounts)). Får gräva igenom hur nära dessa Tink ligger.
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-27 06:58 04s
 
 Behöver göra mig av med ett gäng gamla hårddiskar. Vill gärna utplåna informationen på dem innan det är dags för tippen, om någon har en favorit-utility för sådant så mottages tips gärna.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-27 09:22 00s
+
+DBAN är väl en klassiker
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-27 09:51 33s
+
+[https://www.palletsprojects.com/blog/flask-1-0-released/](https://www.palletsprojects.com/blog/flask-1-0-released/)
+
+Flask har kommit ut med en 1.0-release! Intressant.
+
+<div class="attachment"><h4>Flask 1.0 Released</h4><div class="text"></div>
+<a href="https://www.palletsprojects.com/blog/flask-1-0-released/"><img src="https://www.palletsprojects.com/og_image.png" fallback="Flask 1.0 Released"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-04-27 09:54 53s
+
+woop woop! på tiden 😄
+har ju funnits hur länge som helst
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-27 09:56 01s
+
+eller hur, märkvärdigt att de inte gått till 1.0 ännu
 
 <!--excerpt-->
 </section>
