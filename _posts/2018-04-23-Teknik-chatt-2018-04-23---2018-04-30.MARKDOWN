@@ -44,6 +44,107 @@ har ju funnits hur länge som helst
 ### oscarnylander - 2018-04-27 09:56 01s
 
 eller hur, märkvärdigt att de inte gått till 1.0 ännu
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-27 11:50 44s
+
+Haha, Flask fanns till och med när jag skrev ordentligt med Python senast. Tur att jag väntade i ca 10 år så att jag inte lärt mig omogen teknik! ;)
+Även om jag mer tror att det här är ett fall av att hantera versioner som Linus.
+[https://betanews.com/2018/04/16/linux-kernel-5-0/](https://betanews.com/2018/04/16/linux-kernel-5-0/)
+
+<div class="attachment"><h4>Linus Torvalds says Linux kernel v5.0 'should be meaningless'</h4><div class="text">Following the release of Linux kernel 4.16, Linus Torvalds has said that the next kernel will be version 5.0. Or maybe it won't, because version numbers are meaningless.</div>
+<a href="https://betanews.com/2018/04/16/linux-kernel-5-0/"><div class="linkdiv"><img src="/assets/blogAssets/Linus Torvalds says Linux kernel v5.0 'should be meaningless'" fallback="Linus Torvalds says Linux kernel v5.0 'should be meaningless'"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-27 11:55 44s
+
+Troligen är det så 🙂
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-27 11:56 07s
+
+DBAN verkar vara precis rätt verktyg @daniel.winther
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-27 11:56 27s
+
+*@oscarnylander 😞
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-27 11:58 09s
+
+@erik.malm @oscarnylander använd inte DBAN för SSD:er
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-27 11:58 19s
+
+Förr i världen har jag låtit bash skriva från /dev/random över hela disken ett par vändor men har inte energi för det den här gången.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-27 11:58 46s
+
+dom har mycket intern skrivbalansering osv vilket innebär att rester kommer finnas kvar
+använd [https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase](https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase) istället
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-27 11:59 54s
+
+Mmm.. Den nivå på teknik jag gör mig av med är 5200rpms diskar så inte ett problem den här vändan. Men lär vara relevant nästa gång jag kör en utrensning.
 
 <!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-27 12:00 04s
+
+ahh okej
+ja då borde det räcka
+eller bara `dd if=/dev/urandom of=/dev/sdXN bs=1M` ett par ggr
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-27 12:01 20s
+
+`dd: disk destroyer` :parrot:
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-27 12:01 26s
+
+Det är min vanliga. Men det är fem diskar som kommer behöva behandlas och då slår latmasken till
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-27 12:01 32s
+
+ahh, iC
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-04-27 12:01 43s
+
+koppla in alla och kör parallellt!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-27 12:02 50s
+
+Om de bara vore thunderbolt så kunde jag daisy-chaina allt!
+Som en hårddisk konga-line!
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-27 12:05 24s
+
+[https://www.youtube.com/watch?v=deJ9lpNBZUA](https://www.youtube.com/watch?v=deJ9lpNBZUA)
+
+<div class="attachment"><h4>That Mitchell and Webb Look - Posh Dancing</h4><div class="text"></div>
+<a href="https://www.youtube.com/watch?v=deJ9lpNBZUA"><div class="linkdiv"><img src="/assets/blogAssets/That Mitchell and Webb Look - Posh Dancing" fallback="That Mitchell and Webb Look - Posh Dancing"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-04-27 12:09 35s
+
+Jag är nöjd med hur den här diskussionen slutade.
+P.S. are we the baddies?
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-04-27 12:10 58s
+
+tror inte vi har dödskallehattar än?
+Johan får ta tag i det 😛
 </section>
