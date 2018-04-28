@@ -148,3 +148,18 @@ P.S. are we the baddies?
 tror inte vi har dödskallehattar än?
 Johan får ta tag i det 😛
 </section>
+<section class="message" markdown="1">
+### joakoles - 2018-04-28 17:47 28s
+
+För ett tag sedan sa jag att jag skulle informera om resultatet av prestandatest-applikationen jag skrev som skulle mäta prestandan i azure event hub (vilket kan ses som ett kafka-alternativ). Applikationen jag skrev består av två delar: En del som skriver en massa events (med samma storlek som vi skickar i produktion) till event hub och en del som läser dessa events från event hub. Skriv-delen är ett azure webjob och läs-delen är en azure function. Båda dessa delar kan skalas upp och ut som man vill. Även själva event hub'en kan skalas genom att höja antalet throughput units (TPU) och antalet partitioner (i praktiken måste man radera och skapa en ny event hub då man inte kan ändra antalet partitioner i efterhand).
+
+Både skriv- och läs-delen hanterar intervall. Man kan då ange att varje instans ska skicka tex. 100 meddelanden per sekund under tex. 1 minut och därefter höja till 500 och därefter till 1000 meddelanden per sekund. 
+
+Läs-delen beräknar lite enkla mätdata för att ta reda på prestandan. Mätdatan lagras inte i databasen för varje event då det skulle påverka resultatet mycket. Istället lagras bara mätdatan en gång per intervall, dvs. tex. en gång per minut.
+
+Resultatet visade att throughput blir högt om man skalar upp/ut men att latensen för en del av eventen är förvånansvärt högt trots att man skalat upp/ut (åtminstone blev jag förvånad). De flesta events går igenom event hub'en snabbt men en liten andel tar över en sekund och ibland över 5 sekunder.
+
+Microsoft har själva gjort ett liknande test fast för ett längre flöde och fler events per sekund. Även där ser man att en andel av eventen passerar genom flödet mycket långsammare än genomsnittet. Hälften av eventen passerar flödet på mindre än 1,1 sek medan en del tar mycket längre tid: [https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
+
+Jag vill dock inte påstå att mina mätresultat är 100% tillförlitliga. Det kan vara så att något i applikationen jag skrev är suboptimalt. Dessutom kan klockan skilja sig mellan olika maskiner i azure vilket skulle ge stor effekt på mätresultaten. Jag hörde någon berätta att det är vanligt att klockan i azure-maskiner är "korrekt tid +/- 2 sekunder" vilket innebär ett intervall på 4 sekunder. Ett förslag på workaround är att förlita sig på databas-serverns klocka för att kompensera för detta. Vid uppstart skulle applikationen (både skriv- och läs-sidan) kunna hämta tiden från db-servern för att ta reda på hur den lokala klockan skiljer sig från "sanningen" om vi definerar db-serverns klocka som "sanningen" i prestandatestet. Applikationen får då ta hänsyn till differensen däremellan. Därmed kompenserar man för skillnad i klocka på olika maskiner. Då jag bytt team har jag inte implementerat denna workaround men jag har tipsat teamet om detta.
+</section>
