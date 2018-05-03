@@ -1,0 +1,16 @@
+---
+layout: post
+title: Teknik-chatt 2018-05-03 - 2018-05-10
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### joakoles - 2018-05-03 20:53 46s
+
+Spectre Next Generation: [https://www.heise.de/ct/artikel/Exclusive-Spectre-NG-Multiple-new-Intel-CPU-flaws-revealed-several-serious-4040648.html](https://www.heise.de/ct/artikel/Exclusive-Spectre-NG-Multiple-new-Intel-CPU-flaws-revealed-several-serious-4040648.html)
+
+<div class="attachment"><h4>Exclusive: Spectre-NG - Multiple new Intel CPU flaws revealed, several serious</h4><div class="text">New flaws and even more patches - "Spectre Next Generation" is just around the corner. According to information exclusively available to c't, researchers have already found eight new security holes in Intel processors.</div>
+<a href="https://www.heise.de/ct/artikel/Exclusive-Spectre-NG-Multiple-new-Intel-CPU-flaws-revealed-several-serious-4040648.html"><div class="linkdiv"><img src="/assets/blogAssets/Exclusive: Spectre-NG - Multiple new Intel CPU flaws revealed, several serious" fallback="Exclusive: Spectre-NG - Multiple new Intel CPU flaws revealed, several serious"/></div></a></div>
+    
+
+<!--excerpt-->
+</section>
