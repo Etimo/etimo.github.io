@@ -11,6 +11,11 @@ Spectre Next Generation: [https://www.heise.de/ct/artikel/Exclusive-Spectre-NG-M
 <div class="attachment"><h4>Exclusive: Spectre-NG - Multiple new Intel CPU flaws revealed, several serious</h4><div class="text">New flaws and even more patches - "Spectre Next Generation" is just around the corner. According to information exclusively available to c't, researchers have already found eight new security holes in Intel processors.</div>
 <a href="https://www.heise.de/ct/artikel/Exclusive-Spectre-NG-Multiple-new-Intel-CPU-flaws-revealed-several-serious-4040648.html"><div class="linkdiv"><img src="/assets/blogAssets/Exclusive: Spectre-NG - Multiple new Intel CPU flaws revealed, several serious" fallback="Exclusive: Spectre-NG - Multiple new Intel CPU flaws revealed, several serious"/></div></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-04 05:03 34s
+
+Ok, dags att byta bransch, flytta ut i skogen och leva på svampplockning. Det här med datorer är uppenbarligen ett misstag.
 
 <!--excerpt-->
 </section>
