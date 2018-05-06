@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2018-05-06 - 2018-05-13
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2018-05-06 08:12 35s
+
+Ok Visual Studio Code användare, finns det någon rättstavningskontroll för programmet som inte tar upp 100% av min fyrkärniga i7:a och gör det omöjligt att editera medan den checkar? Har prövat tre olika spellcheck plugins hitills och den processorkraft som gått åt till att kolla ett markdown-dokument är nästan löjeväckande.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-06 08:17 34s
+
+Rättstavning? Har tyvärr aldrig använt i code. 
+
+<!--excerpt-->
+</section>
