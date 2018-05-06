@@ -22,6 +22,12 @@ Gissade att det är nischat. Men skriver en del markdown och känner att ibland 
 ### erik.malm - 2018-05-06 08:45 26s
 
 Lite fascinerad över hur mycket processor de jag testat kan dra, gjorde det verkligen helt omöjligt att jobba och körde konstant fläkt.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-05-06 11:10 41s
+
+i värsta fall, kör aspell separat efteråt
+antar jag
 
 <!--excerpt-->
 </section>
