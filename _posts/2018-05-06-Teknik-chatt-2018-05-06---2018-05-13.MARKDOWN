@@ -12,6 +12,16 @@ Ok Visual Studio Code användare, finns det någon rättstavningskontroll för p
 ### daniel.winther - 2018-05-06 08:17 34s
 
 Rättstavning? Har tyvärr aldrig använt i code. 
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-06 08:39 08s
+
+Gissade att det är nischat. Men skriver en del markdown och känner att ibland vill man bara att mjukvara ska hjälpa till att stava professionell.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-06 08:45 26s
+
+Lite fascinerad över hur mycket processor de jag testat kan dra, gjorde det verkligen helt omöjligt att jobba och körde konstant fläkt.
 
 <!--excerpt-->
 </section>
