@@ -21,7 +21,7 @@ Utöver dessa delar diskuteras det som artikelförfattaren rent subjektivt tycke
 Som borde vara uppenbart med fritidsinlärning som grund är det inte frågan om den ultimata sanningen utan mer om en första smak. Lite som att stå vid en buffè och smaka på allt innan man slutligen bestämmer sig för vad som ska tas med till bordet.
 
 ### De nykläckta språken.
-Språken som intresserar mig personligen sammanfattas i listan nedan som är ordnad med fokus på hur nyfiken jag är på dem. 
+Språken som intresserar mig personligen sammanfattas i listan nedan, som sagt ordnad med fokus nyfikenhet. 
 
 - `Pony / PonyLang` - Objekt orienterat, statiskt typat, type safe språk fokuserat på actor-modellen. Känns lite som ett snabbt kompilerbart Erlang, eller Akka Actors närmare metallen. 
 Verkar dock ha en syntax som gör det enkelt att jobba med, och ett fokus på pragmatisk utveckling som tilltalar mig. 
