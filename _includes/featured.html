@@ -1,0 +1,19 @@
+<div class="featuredPost">
+    <div class="paneOne">
+        {% if include.post.image %}
+        <figure>
+            <img src="/assets/posts/{{include.post.image}}" alt="{{ include.post.image }}">
+            {% if include.post.caption %}
+            <figcaption>{{ include.post.caption }}</figcaption>
+            {% endif %} 
+        </figure> 
+        {% endif %}
+    </div>
+
+    <div class="paneTwo">
+        <div class="featuredExcerpt">
+        {{ include.post.excerpt | truncate: 200 }}
+        </div>
+    </div>
+
+</div>

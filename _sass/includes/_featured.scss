@@ -1,0 +1,30 @@
+.featuredPost {
+    max-width:30em;
+    min-width:10em;
+    border-radius:1em;
+    margin:1em;
+    padding:1em;
+
+    .paneOne{
+        padding:1em;
+        max-height:10em;
+        figure{
+            margin-right:auto;
+            img{
+            margin:0;
+            padding:0;
+
+            }
+        }
+    }
+    .paneTwo{
+        margin:0 auto;
+        vertical-align:top;
+        min-width:10em;
+        font-size:1em;
+        h1,h2,h3,h4,h5{
+            font-size:1em;
+            margin-bottom:4px;
+        }
+    }
+}
