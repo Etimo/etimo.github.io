@@ -69,7 +69,7 @@ Detta är i sig själv enormt, att debugga deadlocks och data-races är i bästa
 Detta ger också att språket kan vara garbage-collected utan de pauser som t.ex. JVM:ens garbage collection ger, då isolationen av variabler i minnet kan tas för given.
 
 ### Actor like you mean it.
-PonyC är helt baserat på actor-modellen, dvs uppbyggt av ett antal objekt som skickat meddelanden till varandra, där dessa sedan processas av mottagaractor. 
+PonyC är helt baserat på actor-modellen, dvs uppbyggt av ett antal enkeltrådade processer som kommunicerar genom att skicka meddelanden till varandra. Meddelanden processas av mottagar-actor i mottagande-ordning, ren FIFO. 
 Pony sköter scheduling av meddelanden på samtliga tillgängliga trådar, en actor är alltså inte låst till en specifik tråd.  
 En actor som inte tar emot meddelanden har en extremt liten overhead och Pony-program kan därför skrivas med hundratusentals actors i olika roller.
 
