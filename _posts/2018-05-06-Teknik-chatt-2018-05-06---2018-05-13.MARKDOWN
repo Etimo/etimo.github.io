@@ -28,6 +28,11 @@ Lite fascinerad över hur mycket processor de jag testat kan dra, gjorde det ver
 
 i värsta fall, kör aspell separat efteråt
 antar jag
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-09 23:12 52s
+
+I slutändan upptäckte jag att vim har spellchecking och lät sen bli att använda den. Dett bllev okaj ända.
 
 <!--excerpt-->
 </section>
