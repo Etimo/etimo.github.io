@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Erik Malm
 title: Compile time - PonyLang del 1
 image: pony.png
 caption: Pony, ett språk för färskt för att användas?
@@ -57,11 +58,12 @@ Back to basics här helt enkelt.
 Pony har en dedikerad dependency manager vid namn pony-stable, som dock visar sig betydligt svårare att installera än själva pony kompilatorn. Som tur är ligger dependency hantering utanför ambitionen för inledande pony projekt.
 
 # Pony basics
-Koncept kring PonyC, främst de som jag själv tycker gör koden nedan enklare att läsa.
-Först och främst: 
+Här följer koncept kring PonyC som jag själv tycker gör koden nedan enklare att läsa.  
+Först och främst:  
  Pony är ett starkt typat, objekt-baserat och kompilerat språk, viss type inference finns men inget dynamiskt så långt ögat når.
 
-Utöver detta har ett Pony riktigt intressanta egenskaper, kompilerade pony program är garanterade att vara  data-race och därmed deadlock-fria (!). För detta finns till och med matematiska bevis.
+Utöver detta har Pony riktigt intressanta egenskaper.  
+Kompilerade pony program är garanterade att vara  data-race och därmed deadlock-fria (!) och för detta finns till och med matematiska bevis.
 Detta är i sig själv enormt, att debugga deadlocks och data-races är i bästa fall svårt och i värsta fall något som får en person att gå över till något mer värdigt istället för programmering - som att skyffla gödsel.
 
 Detta ger också att språket kan vara garbage-collected utan de pauser som t.ex. JVM:ens garbage collection ger, då isolationen av variabler i minnet kan tas för given.
@@ -91,7 +93,7 @@ Variabelreferenser kan också konsumeras vilket lämnar den tidigare referensen 
 `let a = consume b`  lämnar variabel b tom och ger kompileringsfel om denna används efter detta.
 
 ### Destructive read variabel=variabel=variabel
-Assignment av en variabel returnerar i pony det gammla värdet från variabeln längst till vänster i en assignment, sk. destructive read (?), dvs `a=b`kommer att returnera `a`:s värde innan assignment. Detta gäller för varje assignment från höger till vänster, `c=a=b` ger `c` det gamla värdet av `a`.  
+Assignment av en variabel returnerar i pony det gamla värdet från variabeln längst till vänster i en assignment, sk. destructive read (?), dvs `a=b`kommer att returnera `a`:s värde innan assignment. Detta gäller för varje assignment från höger till vänster, `c=a=b` ger `c` det gamla värdet av `a`.  
 Reassignments kan därmed ofta göras utan temporära mellanvariabler. 
 Ett exempel:
 ```javascript
@@ -458,7 +460,7 @@ Ett bra pony program kan göras parallelt väldigt enkelt så länge som den ord
 Nästa blog-post tittar på:
 ### Lite mer språkdiskussion
 
-- Klasshantering i Pony med en kolla på Trait, Interface, Class och Actor 
+- Klasshantering i Pony med Trait, Interface, Class och Actor 
 - Lambdas 
 - Typer och hur de relaterar till klasser, traits och interfaces.
 - Foreign funtion interface - Pony kan enkelt interagera med C bibliotek.
