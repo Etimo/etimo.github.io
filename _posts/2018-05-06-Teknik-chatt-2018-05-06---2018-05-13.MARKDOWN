@@ -43,6 +43,15 @@ I slutändan upptäckte jag att vim har spellchecking och lät sen bli att anvä
 <a href="https://techcrunch.com/2018/05/08/microsoft-and-red-hat-now-offer-a-jointly-managed-openshift-service-on-azure/"><img src="https://techcrunch.com/wp-content/uploads/2014/04/redhat_hat.jpg?w=764" fallback="Microsoft and Red Hat now offer a jointly managed OpenShift service on Azure"/></a></div>
     
 Ytterligare alternativ i vår diskussion kring Containers
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-05-10 15:23 00s
+
+Slänger in den här också då: [https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436](https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
+
+<div class="attachment"><h4>Titus, the Netflix container management platform, is now open source</h4><div class="text">by Amit Joshi, Andrew Leung, Corin Dwyer, Fabio Kung, Sargun Dhillon, Tomasz Bak, Andrew Spyker, Tim Bozarth</div>
+<a href="https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436"><img src="https://cdn-images-1.medium.com/max/1200/1*R-XMUHeTud1sYosB1UWijQ.png" fallback="Titus, the Netflix container management platform, is now open source"/></a></div>
+    
 
 <!--excerpt-->
 </section>
