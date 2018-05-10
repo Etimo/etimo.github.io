@@ -33,6 +33,16 @@ antar jag
 ### erik.malm - 2018-05-09 23:12 52s
 
 I slutändan upptäckte jag att vim har spellchecking och lät sen bli att använda den. Dett bllev okaj ända.
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-05-10 08:41 35s
+
+[https://techcrunch.com/2018/05/08/microsoft-and-red-hat-now-offer-a-jointly-managed-openshift-service-on-azure/](https://techcrunch.com/2018/05/08/microsoft-and-red-hat-now-offer-a-jointly-managed-openshift-service-on-azure/)
+
+<div class="attachment"><h4>Microsoft and Red Hat now offer a jointly managed OpenShift service on Azure</h4><div class="text">Microsoft and Red Hat are deepening their existing alliance around cloud computing. The two companies will now offer a managed version of OpenShift, Red Hat’s container application platform, on Microsoft Azure. This service will be jointly developed and managed by Microsoft and Red Hat and wi…</div>
+<a href="https://techcrunch.com/2018/05/08/microsoft-and-red-hat-now-offer-a-jointly-managed-openshift-service-on-azure/"><img src="https://techcrunch.com/wp-content/uploads/2014/04/redhat_hat.jpg?w=764" fallback="Microsoft and Red Hat now offer a jointly managed OpenShift service on Azure"/></a></div>
+    
+Ytterligare alternativ i vår diskussion kring Containers
 
 <!--excerpt-->
 </section>
