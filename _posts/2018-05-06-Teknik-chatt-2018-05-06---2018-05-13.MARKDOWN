@@ -52,6 +52,21 @@ Slänger in den här också då: [https://medium.com/netflix-techblog/titus-the-
 <div class="attachment"><h4>Titus, the Netflix container management platform, is now open source</h4><div class="text">by Amit Joshi, Andrew Leung, Corin Dwyer, Fabio Kung, Sargun Dhillon, Tomasz Bak, Andrew Spyker, Tim Bozarth</div>
 <a href="https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436"><img src="https://cdn-images-1.medium.com/max/1200/1*R-XMUHeTud1sYosB1UWijQ.png" fallback="Titus, the Netflix container management platform, is now open source"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-10 20:00 12s
+
+Kul Netflix är ju bra på DevOps. Känns som att de ensamma orsakat mycket av nuvarande mikrotjänst-fokus.
+OpenShift har jag jobbat med tillräckligt mycket för att börja gilla den nu, även om jag ibland tycker att de funktioner den erbjuder till viss del gör det svårare att helt veta hur den byggda containern kommer att bete sig.
+Lite ovant är det fortfarande att se Microsoft lansera nya Linux-baserade initiativ (till och med ett Linux-baserat eget OS nyligen).
+Ännu mer container-fokuserade saker   
+RedHat håller på att integrera CoreOS, och Google gick just ut med GVisor - En "Userspace Kernel" som mellanlager mellan den riktiga Kerneln (än så länge bara linux) och processen som vill använda den.  
+Målet verkar vara att ytterligare isolera processer i containers utan alltför mycket overhead, men det ska bli intressant att se om någon börjar utveckla direkt för GVisor istället för hostkerneln.  
+[https://github.com/google/gvisor](https://github.com/google/gvisor)
+
+<div class="attachment"><h4>google/gvisor</h4><div class="text">gvisor - Container Runtime Sandbox</div>
+<a href="https://github.com/google/gvisor"><div class="linkdiv"><img src="/assets/blogAssets/google/gvisor" fallback="google/gvisor"/></div></a></div>
+    
 
 <!--excerpt-->
 </section>
