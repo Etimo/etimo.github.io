@@ -67,6 +67,21 @@ Målet verkar vara att ytterligare isolera processer i containers utan alltför 
 <div class="attachment"><h4>google/gvisor</h4><div class="text">gvisor - Container Runtime Sandbox</div>
 <a href="https://github.com/google/gvisor"><div class="linkdiv"><img src="/assets/blogAssets/google/gvisor" fallback="google/gvisor"/></div></a></div>
     
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-05-11 13:34 14s
+
+Nån som känner igen situationen?
+[https://youtu.be/zXTUK2W422w](https://youtu.be/zXTUK2W422w)
+
+<div class="attachment"><h4>Fixing bugs in your code</h4><div class="text"></div>
+<a href="https://youtu.be/zXTUK2W422w"><div class="linkdiv"><img src="/assets/blogAssets/Fixing bugs in your code" fallback="Fixing bugs in your code"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-11 13:34 37s
+
+Haha ja verkligen 😄
 
 <!--excerpt-->
 </section>
