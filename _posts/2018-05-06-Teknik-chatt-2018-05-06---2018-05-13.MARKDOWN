@@ -82,6 +82,15 @@ Nån som känner igen situationen?
 ### daniel.winther - 2018-05-11 13:34 37s
 
 Haha ja verkligen 😄
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-11 20:30 22s
+
+[https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/](https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/)
+
+<div class="attachment"><h4>Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web</h4><div class="text">About two months ago I published my initial research[1] on data-driven bundling. A few weeks after that, I had the opportunity to present my work on RenderConf in Oxford, UK in my talk “Teach Your Bundler Users’ Habits”[2]. The original goal of the article was to show how data can help in improving the user-perceived page load performance by using predictive analytics[3]. The artifacts from the a....</div>
+<a href="https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/">Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web</a></div>
+    
 
 <!--excerpt-->
 </section>
