@@ -91,6 +91,22 @@ Haha ja verkligen 😄
 <div class="attachment"><h4>Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web</h4><div class="text">About two months ago I published my initial research[1] on data-driven bundling. A few weeks after that, I had the opportunity to present my work on RenderConf in Oxford, UK in my talk “Teach Your Bundler Users’ Habits”[2]. The original goal of the article was to show how data can help in improving the user-perceived page load performance by using predictive analytics[3]. The artifacts from the a....</div>
 <a href="https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/">Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web</a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-12 23:14 16s
+
+Dagen i ära, lite trevlig data analys av Eurovision röstnings-block, komplett med graphviz charts. Spoiler: Sverige / Danmark (och Norge) röstar mycket på varandras bidrag och i allmänhet röstar länder på grannar.  
+[http://jasss.soc.surrey.ac.uk/21/1/1.html](http://jasss.soc.surrey.ac.uk/21/1/1.html)
+
+<div class="attachment"><h4>Examining  Collusion and Voting Biases Between Countries During the Eurovision Song Contest Since 1957</h4><div class="text">by Alexander V. Mantzaris, Samuel R. Rein and Alexander D. Hopkins</div>
+<a href="http://jasss.soc.surrey.ac.uk/21/1/1.html"><div class="linkdiv"><img src="/assets/blogAssets/Examining  Collusion and Voting Biases Between Countries During the Eurovision Song Contest Since 1957" fallback="Examining  Collusion and Voting Biases Between Countries During the Eurovision Song Contest Since 1957"/></div></a></div>
+    
+Datan och koden som ligger bakom finns på Github om någon behöver ett dataset för ett hobbyprojekt:
+[https://github.com/mantzaris/eurovision/](https://github.com/mantzaris/eurovision/)
+
+<div class="attachment"><h4>mantzaris/eurovision</h4><div class="text">eurovision - Mapping the collusion and biases inovting between countries in the Eurovision song contest (JASSS 2017)</div>
+<a href="https://github.com/mantzaris/eurovision/"><div class="linkdiv"><img src="/assets/blogAssets/mantzaris/eurovision" fallback="mantzaris/eurovision"/></div></a></div>
+    
 
 <!--excerpt-->
 </section>
