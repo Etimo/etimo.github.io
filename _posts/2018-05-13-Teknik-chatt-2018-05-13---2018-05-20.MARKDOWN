@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2018-05-13 - 2018-05-20
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2018-05-13 22:17 36s
+
+Alltid intressant med livsviktig statistik..:)
+
+<!--excerpt-->
+</section>
