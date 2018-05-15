@@ -50,6 +50,25 @@ allright, hade varit intressant att höra din take på det annars
 
 jag hade aldrig hört talas om det förrän nu på standup för 10 minuter sen 🙂
 får se senare
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-05-15 17:56 12s
+
+Kände direkt att jag måste testa detta!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-15 18:05 53s
+
+Richard Stallman fortsätter att vara Richard Stallman. [https://slashdot.org/story/340766](https://slashdot.org/story/340766)
+
+<div class="attachment"><h4>Richard Stallman Demands Return Of Abortion Joke To libc Documentation - Slashdot</h4><div class="text">An anonymous reader quotes The Register: Late last month, open-source contributor Raymond Nicholson proposed a change to the manual for glibc, the GNU implementation of the C programming language's standard library, to remove "the abortion joke," which accompanied the explanation of libc's abort() f...</div>
+<a href="https://slashdot.org/story/340766"><div class="linkdiv"><img src="/assets/blogAssets/Richard Stallman Demands Return Of Abortion Joke To libc Documentation - Slashdot" fallback="Richard Stallman Demands Return Of Abortion Joke To libc Documentation - Slashdot"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-15 18:07 56s
+
+Haha
 
 <!--excerpt-->
 </section>
