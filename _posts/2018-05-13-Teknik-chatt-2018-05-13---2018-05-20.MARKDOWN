@@ -7,6 +7,49 @@ excerpt_separator: <!--excerpt-->
 ### johanhazelius - 2018-05-13 22:17 36s
 
 Alltid intressant med livsviktig statistik..:)
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-15 10:07 11s
+
+Nån som använt Cypress?
+[https://www.cypress.io/](https://www.cypress.io/)
+
+<div class="attachment"><h4>JavaScript End to End Testing Framework | Cypress.io</h4><div class="text">Fast, easy and reliable testing for anything that runs in a browser. Install Cypress in seconds and take the pain out of front-end testing.</div>
+<a href="https://www.cypress.io/"><div class="linkdiv"><img src="/assets/blogAssets/JavaScript End to End Testing Framework | Cypress.io" fallback="JavaScript End to End Testing Framework | Cypress.io"/></div></a></div>
+    
+De säger att en av deras feature är just *reliability* vilket är lite banbrytande inom världen av selenium och andra gui-tester
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-15 10:15 16s
+
+har enbart läst om det, ser onekligen intressant ut dock. i synnerhet om man inte är ett jättefan av selenium
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-15 10:16 56s
+
+exakt min tanke
+de ska börja använda det på mitt uppdrag, lät intressant tyckte jag också
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-15 10:17 36s
+
+coolt! blir du inblandad eller är det på andra sidan företaget?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-15 10:18 20s
+
+njae, det är mer för gui-testerna. jag skriver ju bara apier så jag kör Jest
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-15 10:21 58s
+
+allright, hade varit intressant att höra din take på det annars
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-15 10:22 17s
+
+jag hade aldrig hört talas om det förrän nu på standup för 10 minuter sen 🙂
+får se senare
 
 <!--excerpt-->
 </section>
