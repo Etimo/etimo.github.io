@@ -213,3 +213,13 @@ To change the subject: Jag är tveksam till att Bitcoin (eller andra energikräv
 
 Oj shit 🙂
 </section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-18 17:34 18s
+
+Så istället för att investera i bitcoin bör man köpa aktier i elbolag?
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-05-18 17:45 11s
+
+Kanske det @erik.malm. Eller sätta solceller på taket:)
+</section>
