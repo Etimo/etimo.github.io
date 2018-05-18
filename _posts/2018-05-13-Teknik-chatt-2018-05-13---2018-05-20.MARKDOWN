@@ -139,3 +139,14 @@ har för mig vi pratade kort förut om att kanske använda graphql i photo garde
 
 det kanske kan vara en grej! tekniken får min seal of approval iallafall 👌
 </section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 11:23 30s
+
+VSCode är nu obsolete: [https://www.vim.org/vim-8.1-released.php](https://www.vim.org/vim-8.1-released.php)
+:vim:
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 11:39 38s
+
+haha
+</section>
