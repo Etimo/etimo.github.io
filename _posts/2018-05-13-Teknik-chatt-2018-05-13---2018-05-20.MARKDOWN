@@ -73,7 +73,7 @@ Haha
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 09:59 04s
 
-På bytbil har de börjat använda sig av GraphQL i en av tjänsterna och jag har haft möjlighet att lära mig mer om det. Igår kändes det som att det äntligen klickade för mig med GraphQL i hur resolvers fungerade - jag är nu helt klart ett stort fan av tekniken.
+På mitt projekt har de börjat använda sig av GraphQL i en av tjänsterna och jag har haft möjlighet att lära mig mer om det. Igår kändes det som att det äntligen klickade för mig med GraphQL i hur resolvers fungerade - jag är nu helt klart ett stort fan av tekniken.
 Skulle definitivt kunna tänka mig att använda GraphQL som api-gateway för andra projekt i framtiden 👌
 Har någon annan jobbat med GraphQL också?
 </section>
