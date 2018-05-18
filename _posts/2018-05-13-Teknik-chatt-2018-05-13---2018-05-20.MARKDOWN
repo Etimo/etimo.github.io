@@ -150,3 +150,61 @@ VSCode är nu obsolete: [https://www.vim.org/vim-8.1-released.php](https://www.v
 
 haha
 </section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-18 12:32 41s
+
+Varför skrattar du Daniel? Vår herre Vim har äntligen återvänt.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 12:34 32s
+
+Jag skrattar mest för min egen del för att Vim är så långt bort för mig
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 13:00 51s
+
+❤ Jest snapshot testing
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 13:18 44s
+
+Skriver integrationstester för apiet, väldigt smidigt jest snapshot testing
+Har använt jest för alla tester i projektet här på uppdraget, funkar verkligen bra!
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 13:32 45s
+
+yep, jest är grymt. snapshots i synnerhet är en riktigt bekväm typ av test
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 13:50 19s
+
+verkligen
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 13:51 44s
+
+kör du det på endpoint-nivå?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 13:52 00s
+
+i integrationstesterna, ja
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 13:52 09s
+
+neat!
+så jag brukar skriva också
+- att jag brukar köra "manuell" snapshotting då jag inte kört javascript-apier förän nu
+släng på att man kollar att alla side effects inträffat så är det kanon
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-05-18 14:16 03s
+
+To change the subject: Jag är tveksam till att Bitcoin (eller andra energikrävande kryptovalutor) kan ha en plats så länge de bygger på extrem energikonsumption... [https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/](https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/)
+
+<div class="attachment"><h4>Bitcoin’s energy use got studied, and you libertarian nerds look even worse than usual</h4><div class="text">Bitcoin is on track to consume 0.5 percent of the world's electricity by end of the year.</div>
+<a href="https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/"><div class="linkdiv"><img src="/assets/blogAssets/Bitcoin’s energy use got studied, and you libertarian nerds look even worse than usual" fallback="Bitcoin’s energy use got studied, and you libertarian nerds look even worse than usual"/></div></a></div>
+    
+</section>
