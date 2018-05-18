@@ -69,6 +69,73 @@ Richard Stallman fortsätter att vara Richard Stallman. [https://slashdot.org/st
 ### daniel.winther - 2018-05-15 18:07 56s
 
 Haha
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 09:59 04s
+
+På bytbil har de börjat använda sig av GraphQL i en av tjänsterna och jag har haft möjlighet att lära mig mer om det. Igår kändes det som att det äntligen klickade för mig med GraphQL i hur resolvers fungerade - jag är nu helt klart ett stort fan av tekniken.
+Skulle definitivt kunna tänka mig att använda GraphQL som api-gateway för andra projekt i framtiden 👌
+Har någon annan jobbat med GraphQL också?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 10:07 41s
+
+Bara testat, aldrig jobbat med det. Det används flitigt här på mitt nuvarande uppdrag i flera delar
+Jag gillar konceptet att man tillåter konsumenterna att själva styra  hur returformatet ska vara på datat och vad som ska vara med
+men då jag inte jobbat med det har jag dåligt koll på hur man bygger det.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 10:09 39s
+
+Kan berätta lite kanske 🙂
+jag har ganska begränsad kunskap men gör mitt bästa:
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 10:10 02s
+
+och hur man förhindrar DDOS
 
 <!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 10:10 14s
+
+det kan jag inte svara på ännu 😉
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 10:10 35s
+
+om en klient ber om allt data med alla fält  i många nivåer etc
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 10:12 08s
+
+GraphQL bygger på att man definerar sina entiteter som typer i GraphQL-språket, och sedan registerar ett antal 'resolver'-funktioner för hur dessa entiteter levereras. Ett enkelt exempel kan vara:
+
+```
+User { id: ID, username: String, keys: AccessKey }, AccessKey { id: ID, description: String }
+```
+där man sedan tex. kan definera en funktion för hur man resolvar en user baserat på id
+och sedan definerar en funktion för hur man baserat på en User kan resolva en AccessKey
+kanske är lite oklart men jag kan förklara vidare på lunchen
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 10:13 12s
+
+👍
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 10:13 42s
+
+tror att man kan spara en hel del tid på att skriva diverse web-lagerkod genom dessa resolvers
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 10:13 51s
+
+har för mig vi pratade kort förut om att kanske använda graphql i photo garden
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-18 10:14 29s
+
+det kanske kan vara en grej! tekniken får min seal of approval iallafall 👌
 </section>
