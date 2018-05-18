@@ -208,3 +208,8 @@ To change the subject: Jag är tveksam till att Bitcoin (eller andra energikräv
 <a href="https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/"><div class="linkdiv"><img src="/assets/blogAssets/Bitcoin’s energy use got studied, and you libertarian nerds look even worse than usual" fallback="Bitcoin’s energy use got studied, and you libertarian nerds look even worse than usual"/></div></a></div>
     
 </section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-18 14:56 37s
+
+Oj shit 🙂
+</section>
