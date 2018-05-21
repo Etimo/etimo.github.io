@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2018-05-21 - 2018-05-28
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-21 14:58 39s
+
+En metod att undvika self-DDOS med GraphQL: [https://github.com/facebook/dataloader](https://github.com/facebook/dataloader)
+
+<!--excerpt-->
+</section>
