@@ -21,6 +21,20 @@ Största nackdelen just nu verkar vara instabilitet och få libs, samt att språ
 jag och Therese använder det för (en stor del av) exjobbet
 vi använder det för utveckling av microcontroller-firmware, vilket är ett relativt instabilt och nischat användningsområde
 men är ändå jättenöjda med det än så länge
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-05-22 12:39 05s
+
+t.ex. är RTFM ([http://blog.japaric.io/fearless-concurrency/](http://blog.japaric.io/fearless-concurrency/)) ett väldigt intressant alternativ till "fullstora" RTOS som FreeRTOS
+
+<div class="attachment"><h4>Fearless concurrency in your microcontroller - Embedded in Rust</h4><div class="text">A blog about Rust and embedded stuff</div>
+<a href="http://blog.japaric.io/fearless-concurrency/">Fearless concurrency in your microcontroller - Embedded in Rust</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-22 12:51 40s
+
+Intressant! Får ta en titt på det.
 
 <!--excerpt-->
 </section>
