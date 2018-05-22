@@ -7,6 +7,20 @@ excerpt_separator: <!--excerpt-->
 ### oscarnylander - 2018-05-21 14:58 39s
 
 En metod att undvika self-DDOS med GraphQL: [https://github.com/facebook/dataloader](https://github.com/facebook/dataloader)
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-22 11:47 01s
+
+Har tittat lite på fritiden på Rust och är helt klart intresserad av de löften språket ger i zero-cost abstractions och compile-time garantier mot minnesläckor. Tror ni språket kommer bli en kandidat för kommersiell utveckling i framtiden?
+
+Största nackdelen just nu verkar vara instabilitet och få libs, samt att språket är lite knepigt att lära sig och (enligt min erfarenhet) tar lite längre att skriva.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-05-22 12:18 00s
+
+jag och Therese använder det för (en stor del av) exjobbet
+vi använder det för utveckling av microcontroller-firmware, vilket är ett relativt instabilt och nischat användningsområde
+men är ändå jättenöjda med det än så länge
 
 <!--excerpt-->
 </section>
