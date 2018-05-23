@@ -35,6 +35,12 @@ t.ex. är RTFM ([http://blog.japaric.io/fearless-concurrency/](http://blog.japar
 ### oscarnylander - 2018-05-22 12:51 40s
 
 Intressant! Får ta en titt på det.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-23 07:46 41s
+
+[https://course.elementsofai.com/](https://course.elementsofai.com/)
+Gratis onlinekurs i AI
 
 <!--excerpt-->
 </section>
