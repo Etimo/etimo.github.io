@@ -41,6 +41,16 @@ Intressant! Får ta en titt på det.
 
 [https://course.elementsofai.com/](https://course.elementsofai.com/)
 Gratis onlinekurs i AI
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-23 15:50 42s
+
+Läste verkligen Al där istället för AI väldigt länge.
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-23 15:52 20s
+
+Big Al!
 
 <!--excerpt-->
 </section>
