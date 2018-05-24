@@ -72,6 +72,85 @@ Boten som vill inleda automatiseringseran genom att ersätta alla världens boll
     
 Hitta och ta bort liknande foton, suddiga foton etc på din kamerarulle. 
 Inspiration till liknande funktioner som vi har pratat om för photo garden
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 08:59 05s
+
+Provade appen precis. Otroligt bra resultat vid första anblicken!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 09:58 51s
+
+nån som provat `traceroute bad.horse`?
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-24 09:59 03s
+
+Nej, vad händer om man gör det?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 09:59 18s
+
+man gör en trace route som blir en saga om en häst typ 🙂
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-24 09:59 27s
+
+:thinking_face:
+testar!
 
 <!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 09:59 35s
+
+svårt att förklara,
+tar typ 10-20 steg innan du kommer till hästgrejen
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-24 09:59 59s
+
+🐴
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 10:00 09s
+
+varför, kan man undra
+hittade den i nån twittertråd som började med `curl parrot.live`
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-24 10:01 16s
+
+vilken grej!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 10:01 23s
+
+verkligen! 🐧
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-24 10:01 23s
+
+kom till berättelsen nu
+ska läsa
+märkvärdigt!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 10:03 45s
+
+ja, kul men väldigt märkvärdigt 😄
+suck, `telnet [http://towel.blinkenlights.nl|towel.blinkenlights.nl](http://towel.blinkenlights.nl|towel.blinkenlights.nl)` så får man se hela star wars IV i asciiart
+eller hela och hela… nån kortvariant
+Folk har för mycket tid, och kreativitet
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-24 10:06 15s
+
+man får betrakta det som konstverk helt enkelt
+då är det lättare att förstå 🙂
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 10:06 39s
+
+absolut
 </section>
