@@ -154,3 +154,8 @@ då är det lättare att förstå 🙂
 
 absolut
 </section>
+<section class="message" markdown="1">
+### joakoles - 2018-05-24 17:55 21s
+
+Har nån tips på restaurang med afrikansk mat?
+</section>
