@@ -159,3 +159,8 @@ absolut
 
 Har nån tips på restaurang med afrikansk mat?
 </section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 19:43 24s
+
+Tyvärr inte men är också nyfiken på vad du hittar för ställe
+</section>
