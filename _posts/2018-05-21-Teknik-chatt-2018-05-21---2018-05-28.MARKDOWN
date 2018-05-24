@@ -51,6 +51,27 @@ Läste verkligen Al där istället för AI väldigt länge.
 ### oscarnylander - 2018-05-23 15:52 20s
 
 Big Al!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-24 07:48 31s
+
+Kursen verkar rätt bra i övrigt, när vi gått den allihopa kanske vi också kan kickstarta något. Som Tenni-bot.  
+Boten som vill inleda automatiseringseran genom att ersätta alla världens boll-Kalle.   [https://www.kickstarter.com/projects/770435035/tennibot-the-worlds-first-robotic-tennis-ball-coll](https://www.kickstarter.com/projects/770435035/tennibot-the-worlds-first-robotic-tennis-ball-coll)
+
+<div class="attachment"><h4>Tennibot: The World’s First Robotic Tennis Ball Collector</h4><div class="text">Autonomous &amp; intelligent robot saves players and coaches time by eliminating the tedious task of collecting tennis balls!</div>
+<a href="https://www.kickstarter.com/projects/770435035/tennibot-the-worlds-first-robotic-tennis-ball-coll"><img src="https://ksr-ugc.imgix.net/assets/020/677/032/f0bfed73a1832be0306c35e25190232d_original.jpg?crop=faces&w=1552&h=873&fit=crop&v=1522090404&auto=format&q=92&s=a5f824cc6bd4cb17752fa0a00d740cf9" fallback="Tennibot: The World’s First Robotic Tennis Ball Collector"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-24 08:08 35s
+
+[https://macpaw.com/blog/gemini-photos-release?ref=producthunt](https://macpaw.com/blog/gemini-photos-release?ref=producthunt)
+
+<div class="attachment"><h4>We made an iPhone app for those who have too many photos</h4><div class="text">Gemini Photos brings order to your Camera Roll by clearing similar photos, blurred ones, and other useless clutter. Check it out.</div>
+<a href="https://macpaw.com/blog/gemini-photos-release?ref=producthunt"><img src="https://cdn.macpaw.com/uploads/images/blogOG.jpg" fallback="We made an iPhone app for those who have too many photos"/></a></div>
+    
+Hitta och ta bort liknande foton, suddiga foton etc på din kamerarulle. 
+Inspiration till liknande funktioner som vi har pratat om för photo garden
 
 <!--excerpt-->
 </section>
