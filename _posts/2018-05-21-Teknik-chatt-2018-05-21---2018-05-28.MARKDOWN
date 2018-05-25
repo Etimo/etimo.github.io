@@ -164,3 +164,13 @@ Har nån tips på restaurang med afrikansk mat?
 
 Tyvärr inte men är också nyfiken på vad du hittar för ställe
 </section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-25 09:07 27s
+
+Afrikansk mat är nog lite väl generellt skulle jag tro 😉
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-25 10:11 49s
+
+Idag träder GDPR i kraft - har ni gjort några takeouts eller forgetme-requests?
+</section>
