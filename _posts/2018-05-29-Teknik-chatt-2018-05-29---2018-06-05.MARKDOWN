@@ -1,0 +1,90 @@
+---
+layout: post
+title: Teknik-chatt 2018-05-29 - 2018-06-05
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-29 10:59 42s
+
+Någon annan som använder `zsh`? Installerade nyss ett gäng plugins till `zsh`: 
+```
+zsh-completions
+zsh-suggestions
+zsh-syntax-highlighting
+```
+
+Det leder helt klart till en intressantare terminalupplevelse!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-29 10:59 53s
+
+jag kör zsh
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-29 11:00 04s
+
+`oh-my-zsh` också? 🙂
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-29 11:00 08s
+
+japp
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-29 11:00 13s
+
+👌
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-29 11:00 17s
+
+mest för gitintegrationen egentligen
+😄
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-29 11:00 30s
+
+git och exit code gillar jag
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-29 11:00 30s
+
+se branch etc vid sökvägen
+vad är det för grej om exit code?
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-29 11:00 42s
+
+röd pil vid non-zero är bra
+grön pil vid zero
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-29 11:00 56s
+
+aha så det är exit coden som visualiseras!
+aldrig fattat
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-29 11:01 24s
+
+skönt att slippa köra `echo $?` i vissa fall
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-29 11:02 04s
+
+ja indeed
+</section>
+<section class="message" markdown="1">
+### oscarnylander - 2018-05-29 11:03 50s
+
+syntax highlighting och suggestions är intressant också
+blir lite som att köra `pgcli` fast i terminalen
+har inte kört det länge men än så länge är jag ett fan
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-29 11:04 31s
+
+ska prova!
+
+<!--excerpt-->
+</section>
