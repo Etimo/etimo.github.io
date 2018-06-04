@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2018-06-04 - 2018-06-11
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2018-06-04 07:37 51s
+
+Jag vet inte om jag ska skratta eller gråta...
+[https://www.theverge.com/2018/6/3/17422752/microsoft-github-acquisition-rumors](https://www.theverge.com/2018/6/3/17422752/microsoft-github-acquisition-rumors)
+
+<div class="attachment"><h4>Microsoft has reportedly acquired GitHub</h4><div class="text">Deal could be announced on Monday</div>
+<a href="https://www.theverge.com/2018/6/3/17422752/microsoft-github-acquisition-rumors"><img src="https://cdn.vox-cdn.com/thumbor/0m-LgMD_8Df25knhBRnRg5iIICI=/0x138:1920x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/7105443/microsoftloveslinux.0.jpg" fallback="Microsoft has reportedly acquired GitHub"/></a></div>
+    
+
+<!--excerpt-->
+</section>
