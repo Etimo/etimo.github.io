@@ -17,6 +17,22 @@ Jag vet inte om jag ska skratta eller gråta...
 ### erik.malm - 2018-06-04 09:55 26s
 
 Känns något olustigt. Får se om det gör någon skillnad för GitLabs popularitet.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-06-04 19:44 00s
+
+mm 😕
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-06-04 20:23 14s
+
+Man får åtminstone ge MS att de går all in på sin nya "Open source profilering"..
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-06-04 20:24 35s
+
+njae.. hade kunnat köpa det om de hade öppnat eller lagt ner t.ex. Windows/Office/"riktiga" .NET
+allt hittils verkar bara som sätt att köpa tillbaka utvecklare så att de fastnar på deras andra (nedlåsta) produkter igen
 
 <!--excerpt-->
 </section>
