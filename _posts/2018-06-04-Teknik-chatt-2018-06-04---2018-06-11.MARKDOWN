@@ -45,6 +45,12 @@ allt hittils verkar bara som sätt att köpa tillbaka utvecklare så att de fast
 </a></div>
 
      
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-06-05 20:14 53s
+
+Det som jag undrar mest över är githubs andra projekt. Microsoft äger nu mer eller mindre Electron t.ex.
+Men det riktigt intressanta är hur mycket backing Atom kommer att få. Det känns som en rätt rejäl duplicering av projekt om man jämför med VSCode.
 
 <!--excerpt-->
 </section>
