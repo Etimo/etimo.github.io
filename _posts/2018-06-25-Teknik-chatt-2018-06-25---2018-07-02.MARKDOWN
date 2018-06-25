@@ -18,6 +18,11 @@ wow.. trevligt
 
 Ojdå
 Går inte bra för Intel ...
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-06-25 19:06 27s
+
+Jisses! Nej det kan man inte säga.
 
 <!--excerpt-->
 </section>
