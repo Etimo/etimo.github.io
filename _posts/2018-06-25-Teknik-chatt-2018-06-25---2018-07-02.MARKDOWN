@@ -1,0 +1,23 @@
+---
+layout: post
+title: Teknik-chatt 2018-06-25 - 2018-07-02
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### teo.roijezon - 2018-06-25 15:51 49s
+
+[http://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/](http://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/)
+
+<div class="attachment"><h4>Meet TLBleed: A crypto-key-leaking CPU attack that Intel reckons we shouldn't worry about</h4><div class="text">How to extract 256-bit signing keys with 99.8% success</div>
+<a href="http://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/"><img src="https://regmedia.co.uk/2018/06/21/shutterstock_generic_heart_bleed.jpg?x=1200&y=794" fallback="Meet TLBleed: A crypto-key-leaking CPU attack that Intel reckons we shouldn't worry about"/></a></div>
+    
+wow.. trevligt
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-06-25 15:56 26s
+
+Ojdå
+Går inte bra för Intel ...
+
+<!--excerpt-->
+</section>
