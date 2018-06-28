@@ -43,7 +43,7 @@ Verkar rejält mycket omständigare än Spectre, att köra maskininlärning för
 <section class="message" markdown="1">
 ### erik.malm - 2018-06-26 20:18 51s
 
-Annat tema,  och lite äldre artikel men Cubas workaround för brist på internet är riktigt intressant. 
+Annat tema,  och lite äldre artikel men Cubas workarounds för brist på internet är riktigt intressanta. 
 [https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/](https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/)
 
 <div class="attachment"><h4>Inside Cuba’s DIY Internet Revolution</h4><div class="text">To connect to the world, people In Havana have taken matters into their own hands.</div>
