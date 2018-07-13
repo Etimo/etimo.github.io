@@ -1,0 +1,13 @@
+---
+layout: post
+title: Teknik-chatt 2018-07-13 - 2018-07-20
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2018-07-13 21:35 56s
+
+Vim förföljer mig även på semestern!
+[https://rhysd.github.io/vim.wasm/](https://rhysd.github.io/vim.wasm/)
+
+<!--excerpt-->
+</section>
