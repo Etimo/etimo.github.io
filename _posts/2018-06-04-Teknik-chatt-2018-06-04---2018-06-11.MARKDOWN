@@ -37,14 +37,7 @@ allt hittils verkar bara som sätt att köpa tillbaka utvecklare så att de fast
 <section class="message" markdown="1">
 ### jens.hunt - 2018-06-05 14:22 38s
 
-20180605_142218.png
 
-<div class="imageblock">
-<a href="/assets/blogAssets/FB1KHCBQC-20180605_142218.png">
-<img alt="20180605_142218.png" src="/assets/blogAssets/thumbnail-FB1KHCBQC-20180605_142218.png"/>
-</a></div>
-
-     
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-06-05 20:14 53s
