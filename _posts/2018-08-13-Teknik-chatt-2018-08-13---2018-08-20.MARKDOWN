@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2018-08-13 - 2018-08-20
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### lukas.lindqvist - 2018-08-13 10:49 00s
+
+@lukas.lindqvist has joined the channel
+
+<!--excerpt-->
+</section>
