@@ -42,6 +42,21 @@ Det vore kul om Jan orkade sammanfatta.
 Auto correct på nya telefonen har inte lärt sig
 Några fler föredrag avklarade bland annat det jag skrev att jag var pepp på i morse om CSS polyfills. Det var långt ifrån realitet men ger ändå indikation på vart CSS är på väg. Var dessutom riktig coola demos. Houdini heter det, ska se om jag hittar demos online att visa här.
 Var även en kort dragning om några som haft en gammal native app till alla plattformar Mac Win iOS Android som compilerat sin c++ backend till webassembly som gjort att de kan komma ut på webben. Riktigt fränt
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 16:52 48s
+
+Det hör jagg gärna mer om, har vart sjukt nyfiken på webassembly länge och c++ känns som ett helt okej språk att börja med.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 17:02 26s
+
+Galet talk nu en som styrde en drönare med härnaktivitetsheadset paketet finns på npm 😂
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 18:07 33s
+
+Sista för dagen var av FE  lead på Netflix om hur Chromeapiet kan användas till massor av fräna saker. Ett exempel var såklart för testning, men ett annat för för att exponera hemsidor som apier i webscrapinganda. Ramverket som användes var Puppeteer.js och ser flera användningsområden för detta  på uppdraget för t.ex. montering då vi pratar med extern part direkt från FE och har svårt att se hur ofta det går fel osv
 
 <!--excerpt-->
 </section>
