@@ -19,6 +19,22 @@ Lite oväntat är jag väldigt pepp på ett talk om css-polyfills, men har nog e
 ### joakoles - 2018-09-06 09:56 48s
 
 Ska bli kul att höra dig berätta lite om konferensen sen @jens.hunt
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 10:34 32s
+
+Riktigt kul om du orkar dra lite på någon fredagseftermiddag @jens.hunt.
+Kommer in till kontoret först efter lunch imorgon f.ö. så planera in ett fika runt ett.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 11:07 50s
+
+Nu är det första fika och har antecknat järnet. Grymt fall om optimering av vyrendering i webbläsaren. Jan sammanfatta mitt oklara referat sedan
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 11:28 45s
+
+Det vore kul om Jan orkade sammanfatta.
 
 <!--excerpt-->
 </section>
