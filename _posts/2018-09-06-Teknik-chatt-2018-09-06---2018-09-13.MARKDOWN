@@ -14,6 +14,11 @@ Om man följer diverse forum får man känslan av att React har blivit någon fo
 ### jens.hunt - 2018-09-06 08:05 52s
 
 Lite oväntat är jag väldigt pepp på ett talk om css-polyfills, men har nog en stark koppling till kompatibilitetskraven så jag har haft på sista tiden. IE-hell!  
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-09-06 09:56 48s
+
+Ska bli kul att höra dig berätta lite om konferensen sen @jens.hunt
 
 <!--excerpt-->
 </section>
