@@ -35,6 +35,13 @@ Nu är det första fika och har antecknat järnet. Grymt fall om optimering av v
 ### erik.malm - 2018-09-06 11:28 45s
 
 Det vore kul om Jan orkade sammanfatta.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 13:05 15s
+
+Auto correct på nya telefonen har inte lärt sig
+Några fler föredrag avklarade bland annat det jag skrev att jag var pepp på i morse om CSS polyfills. Det var långt ifrån realitet men ger ändå indikation på vart CSS är på väg. Var dessutom riktig coola demos. Houdini heter det, ska se om jag hittar demos online att visa här.
+Var även en kort dragning om några som haft en gammal native app till alla plattformar Mac Win iOS Android som compilerat sin c++ backend till webassembly som gjort att de kan komma ut på webben. Riktigt fränt
 
 <!--excerpt-->
 </section>
