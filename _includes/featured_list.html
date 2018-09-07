@@ -1,0 +1,8 @@
+
+    <div class="featured">
+        <h4>Rekommenderad läsning</h4>
+        {% for check in site.tags.featured limit:10 %}
+            {% include featured.html post=check %}
+        {% endfor %}
+         
+    </div>
