@@ -128,3 +128,15 @@ Vem vet, kanske ger bättre kontakt med sensorerna, och då kommer ju framtidens
 
 Det är en vacker dröm @jens.hunt, en vacker dröm.
 </section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-07 10:55 34s
+
+Har lyssnat på utmaningarna i implementation av multitrådning i node som kommer i v 10. Ännu så länge experimentell feature och  verkar inte så vass ännu.
+
+Även hunnit med en mattelektion för 3d utveckling i webgl
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-07 11:29 51s
+
+Fasen, får se om jag sätter den på konferensschemat nästa år.
+</section>
