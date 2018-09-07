@@ -140,3 +140,8 @@ Har lyssnat på utmaningarna i implementation av multitrådning i node som komme
 
 Fasen, får se om jag sätter den på konferensschemat nästa år.
 </section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-07 12:31 07s
+
+Jag ska hit igen!
+</section>
