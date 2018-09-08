@@ -11,7 +11,7 @@ excerpt_separator: <!--excerpt-->
 ---
 
 Compile Time är en blog-serie där en van Java-utvecklare breddar vyerna genom att bada i kompilerade språk.
-För att få mer bakgrund kring Pony och blogserien kan det vara trevligt att börja med [del 1 av bloggen - En titt på Pony]({% post_url 2018-04-23-compile-time-pony %}).
+För att få mer bakgrund kring Pony och blogserien kan det vara trevligt att börja med [del 1 av bloggen - En titt på Pony]({% post_url 2018-05-08-compile-time-pony %}).
 
 # Pony part two - Electric bogaloo
 Del 2 av titten på pony tittar övergripande på ponys språksyntax, typsystem och interaktion med C bibliotek.  
