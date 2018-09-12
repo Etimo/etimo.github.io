@@ -13,6 +13,18 @@ Man ska dock inte missa detta: "Vad Europaparlamentet i dag har röstat om var a
 <div class="attachment"><h4>EU-parlamentet säger ja till länkavgift och upphovsrättsfilter - DN.SE</h4><div class="text">Europaparlamentet har röstat igenom både länkavgift och upphovsrättsfilter. Det står klart efter EU-parlamentets omröstning om upphovsrätten på nätet.</div>
 <a href="https://www.dn.se/kultur-noje/eu-parlamentet-sager-ja-till-lankavgift-och-upphovsrattsfilter/"><img src="https://cached-images.bonnier.news/cms30/UploadedImages/2018/9/12/76381db7-c9ee-4228-8f9f-d0287f68182e/bigOriginal.jpg?interpolation=lanczos-none&fit=inside|470:246&output-quality=80&output-format=jpeg" fallback="EU-parlamentet säger ja till länkavgift och upphovsrättsfilter - DN.SE"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2018-09-12 18:55 39s
+
+"Sedan dess har Europaparlamentets rättsliga utskott arbetat om förslaget så att bland annat småföretag och icke vinstdrivande encyklopedier som Wikipedia undantas från kravet på att betala länkersättning till innehållsproducenter." Även tjänster som github är exkluderade. Så det är inte samma som förut iaf.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-12 19:28 11s
+
+Känns långt ifrån betryggande i alla fall. I mina ögon förlorade copyrighten sin legitimitet iom den numera absurda längden på upphosvmannens livslängd + 90 år (i vissa fall 70, i andra fall 100). Conan Doyle dog 1930 och Sherlock Holmes skulle med nuvarande regler ha copyright till år 2020. Någon som känner för att populera en content-id databas med allt som produceras i år och ha koll på det 150 år framåt?
+Sättet copyright-takedown notiser redan idag används som en ren konkurrensmetod är också obehaglig, att kunna monetisera länkar kommer kommer knappast att leda till ett mer resonabelt sådant.
+Viljan att rädda lokala tidningar från globala aggregeringstjänster är begriplig, men det här kan fortfarande gå ganska illa.
 
 <!--excerpt-->
 </section>
