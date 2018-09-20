@@ -1,0 +1,23 @@
+---
+layout: post
+title: Teknik-chatt 2018-09-20 - 2018-09-27
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2018-09-20 23:10 06s
+
+Okej, på skalan av coola project är GraalVM bland det ballaste jag sprungit på. Skriv kod i flera olika språl, och låt dem anropa varandra. Embedda Graalvm som interpeter i olika språk, lite som Jython eller JRuby men för allt från R och Javascript till C++.
+
+Och sist men inte minst, ta denna oheliga skapelse och kompilera den till en binär ahead-of-time. 
+
+Spenderade den sena kvällen med att kompileraom gammal Java till binärer och det funkar. Främst för äldre kod som inte använder reflection men t.o.m. rätt avancerade saker som sockets verkar fungera smärtfritt. 
+Jag är riktigt imponerad.
+
+[https://www.graalvm.org](https://www.graalvm.org)
+
+<div class="attachment"><h4>            GraalVM        </h4><div class="text"></div>
+<a href="https://www.graalvm.org/"><img src="https://www.graalvm.org/resources/img/graalvm.png" fallback="            GraalVM        "/></a></div>
+    
+
+<!--excerpt-->
+</section>
