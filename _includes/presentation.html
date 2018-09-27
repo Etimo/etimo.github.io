@@ -1,0 +1,23 @@
+<p>Idag välkomnar vi en ny anställd, {{ include.data.name }}, till Etimo!</p>
+
+<img src="{{ include.data.image }}" style="float:left; border-radius: 50%; padding: 0 10px; max-width: 150px; max-height: 150px;">
+
+<h4>Varför valde du att börja på Etimo {{ include.data.shortname }}?</h4>
+{% for answer in include.data.answers[0] %}
+<p>{{ answer }}</p>
+{% endfor %}
+
+<h4>Vad är din bakgrund?</h4>
+{% for answer in include.data.answers[1] %}
+<p>{{ answer }}</p>
+{% endfor %}
+
+<h4>Vilka är dina tekniska kompetenser?</h4>
+{% for answer in include.data.answers[2] %}
+<p>{{ answer }}</p>
+{% endfor %}
+
+<h4>Vad är det näst-bästa du vet (efter programmering)?</h4>
+{% for answer in include.data.answers[3] %}
+<p>{{ answer }}</p>
+{% endfor %}
