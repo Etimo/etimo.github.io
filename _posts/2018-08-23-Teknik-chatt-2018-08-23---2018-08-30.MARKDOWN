@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teknik-chatt 2018-08-23 - 2018-08-30
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2018-08-23 11:08 03s
+
+Lite intressant läsning för er som gillar nya digitala ideer/lösningar. Det är techcrunch som listar 59 start-ups som presenterade nyligen på Y-combinator med allt från vilda ideer till fungerande företag. Bra som inspiration både i kunduppdrag och för ev framtida spår inom Etimo Challange: [https://techcrunch.com/2018/08/21/all-59-startups-that-launched-today-at-y-combinators-s18-demo-day-2/?utm_medium=TCnewsletter&amp;guccounter=1](https://techcrunch.com/2018/08/21/all-59-startups-that-launched-today-at-y-combinators-s18-demo-day-2/?utm_medium=TCnewsletter&amp;guccounter=1)
+
+<div class="attachment"><h4>All 59 startups that launched today at Y Combinator’s S18 Demo Day 2</h4><div class="text">From yeast-grown cannabinoids to project management software to consumer apps looking to gauge opinions on college campuses, a wide variety of spaces was represented on the second day of pitches from Y Combinator’s Summer 2018 class. As we noted yesterday, B2B software and services was the bi…</div>
+<a href="https://techcrunch.com/2018/08/21/all-59-startups-that-launched-today-at-y-combinators-s18-demo-day-2/?utm_medium=TCnewsletter&amp;guccounter=1"><img src="https://techcrunch.com/wp-content/uploads/2016/08/yc-all-demo-day.png?w=711" fallback="All 59 startups that launched today at Y Combinator’s S18 Demo Day 2"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-08-23 12:23 25s
+
+Fasen cannabinoider är toksvårt att producera, de är en sekundärmetabolit som är rejält svår att producera i cellkulturer vad jag minns. Respekt att få in de pathwaysen i jäst. Måste kika på den biten om inte annat.
+
+<!--excerpt-->
+</section>

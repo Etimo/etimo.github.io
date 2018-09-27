@@ -1,0 +1,49 @@
+---
+layout: post
+title: Teknik-chatt 2018-06-04 - 2018-06-11
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2018-06-04 07:37 51s
+
+Jag vet inte om jag ska skratta eller gråta...
+[https://www.theverge.com/2018/6/3/17422752/microsoft-github-acquisition-rumors](https://www.theverge.com/2018/6/3/17422752/microsoft-github-acquisition-rumors)
+
+<div class="attachment"><h4>Microsoft has reportedly acquired GitHub</h4><div class="text">Deal could be announced on Monday</div>
+<a href="https://www.theverge.com/2018/6/3/17422752/microsoft-github-acquisition-rumors"><img src="https://cdn.vox-cdn.com/thumbor/0m-LgMD_8Df25knhBRnRg5iIICI=/0x138:1920x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/7105443/microsoftloveslinux.0.jpg" fallback="Microsoft has reportedly acquired GitHub"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-06-04 09:55 26s
+
+Känns något olustigt. Får se om det gör någon skillnad för GitLabs popularitet.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-06-04 19:44 00s
+
+mm 😕
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-06-04 20:23 14s
+
+Man får åtminstone ge MS att de går all in på sin nya "Open source profilering"..
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-06-04 20:24 35s
+
+njae.. hade kunnat köpa det om de hade öppnat eller lagt ner t.ex. Windows/Office/"riktiga" .NET
+allt hittils verkar bara som sätt att köpa tillbaka utvecklare så att de fastnar på deras andra (nedlåsta) produkter igen
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-06-05 14:22 38s
+
+
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-06-05 20:14 53s
+
+Det som jag undrar mest över är githubs andra projekt. Microsoft äger nu mer eller mindre Electron t.ex.
+Men det riktigt intressanta är hur mycket backing Atom kommer att få. Det känns som en rätt rejäl duplicering av projekt om man jämför med VSCode.
+
+<!--excerpt-->
+</section>

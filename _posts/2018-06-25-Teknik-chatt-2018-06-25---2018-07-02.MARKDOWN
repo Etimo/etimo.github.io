@@ -1,0 +1,56 @@
+---
+layout: post
+title: Teknik-chatt 2018-06-25 - 2018-07-02
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### teo.roijezon - 2018-06-25 15:51 49s
+
+[http://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/](http://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/)
+
+<div class="attachment"><h4>Meet TLBleed: A crypto-key-leaking CPU attack that Intel reckons we shouldn't worry about</h4><div class="text">How to extract 256-bit signing keys with 99.8% success</div>
+<a href="http://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/"><img src="https://regmedia.co.uk/2018/06/21/shutterstock_generic_heart_bleed.jpg?x=1200&y=794" fallback="Meet TLBleed: A crypto-key-leaking CPU attack that Intel reckons we shouldn't worry about"/></a></div>
+    
+wow.. trevligt
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-06-25 15:56 26s
+
+Ojdå
+Går inte bra för Intel ...
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-06-25 19:06 27s
+
+Jisses! Nej det kan man inte säga.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-06-26 17:44 34s
+
+Allt jag vill ha är en RISC cpu som inte kostar 10000kr eller är tjugo år gammal.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-06-26 17:49 42s
+
+Verkar vara ett ny attackvektor också så kan nog se fram mot liknande exploits när fler säkerhetsforskare drar igång i samma område. 
+
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-06-26 17:55 35s
+
+Verkar rejält mycket omständigare än Spectre, att köra maskininlärning för en exploit känns rätt omständigt. Sjukt starkt jobbat av gruppen dock,.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-06-26 20:18 51s
+
+Annat tema,  och lite äldre artikel men Cubas workarounds för brist på internet är riktigt intressanta. 
+[https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/](https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/)
+
+<div class="attachment"><h4>Inside Cuba’s DIY Internet Revolution</h4><div class="text">To connect to the world, people In Havana have taken matters into their own hands.</div>
+<a href="https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/"><img src="https://www.wired.com/wp-content/uploads/2017/07/0817-WI-FFCUBA-01-660x440.jpg" fallback="Inside Cuba’s DIY Internet Revolution"/></a></div>
+    
+Periodisk distribution för hårddiskar och ett Havanna täckande mesh-network byggt av gamers som inte orkade bära sina datorer till varandra för att spela täcks för den som orkar läsa igenom.  
+Riktigt fascinerande.
+
+<!--excerpt-->
+</section>

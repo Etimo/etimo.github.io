@@ -1,0 +1,147 @@
+---
+layout: post
+title: Teknik-chatt 2018-09-06 - 2018-09-13
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 07:57 25s
+
+Idag och imorgon kommer jag vara på konferensen NordicJs. Ska bli kul att bli lite inspirerad av vad som händer i javascriptvärlden nu när ramverkshetsen verkar ha lagt sig. Det är egentligen bara ett talk som verkar handla om någon som skapat ett nytt ramverk. 
+
+Om man följer diverse forum får man känslan av att React har blivit någon form av branschstandard medan Vue fortfarande är på uppgång. 
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 08:05 52s
+
+Lite oväntat är jag väldigt pepp på ett talk om css-polyfills, men har nog en stark koppling till kompatibilitetskraven så jag har haft på sista tiden. IE-hell!  
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-09-06 09:56 48s
+
+Ska bli kul att höra dig berätta lite om konferensen sen @jens.hunt
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 10:34 32s
+
+Riktigt kul om du orkar dra lite på någon fredagseftermiddag @jens.hunt.
+Kommer in till kontoret först efter lunch imorgon f.ö. så planera in ett fika runt ett.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 11:07 50s
+
+Nu är det första fika och har antecknat järnet. Grymt fall om optimering av vyrendering i webbläsaren. Jan sammanfatta mitt oklara referat sedan
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 11:28 45s
+
+Det vore kul om Jan orkade sammanfatta.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 13:05 15s
+
+Auto correct på nya telefonen har inte lärt sig
+Några fler föredrag avklarade bland annat det jag skrev att jag var pepp på i morse om CSS polyfills. Det var långt ifrån realitet men ger ändå indikation på vart CSS är på väg. Var dessutom riktig coola demos. Houdini heter det, ska se om jag hittar demos online att visa här.
+Var även en kort dragning om några som haft en gammal native app till alla plattformar Mac Win iOS Android som compilerat sin c++ backend till webassembly som gjort att de kan komma ut på webben. Riktigt fränt
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 16:52 48s
+
+Det hör jagg gärna mer om, har vart sjukt nyfiken på webassembly länge och c++ känns som ett helt okej språk att börja med.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 17:02 26s
+
+Galet talk nu en som styrde en drönare med härnaktivitetsheadset paketet finns på npm 😂
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 18:07 33s
+
+Sista för dagen var av FE  lead på Netflix om hur Chromeapiet kan användas till massor av fräna saker. Ett exempel var såklart för testning, men ett annat för för att exponera hemsidor som apier i webscrapinganda. Ramverket som användes var Puppeteer.js och ser flera användningsområden för detta  på uppdraget för t.ex. montering då vi pratar med extern part direkt från FE och har svårt att se hur ofta det går fel osv
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 18:35 38s
+
+Vad var huvudorsaken till att han skrivit det paketet?
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 18:37 58s
+
+För att wrappa chrome devtools api för att abstrahera bort komplexiteten. Anledningen var nog för test i första hand och det var vad han pratade mest om. Apiet exponerar hela DOMen och alla features i Chrome devtools
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 18:38 23s
+
+Jag är ledsen @jens.hunt, det var en ordvits om den hjärnstyrda drönaren.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 18:38 59s
+
+Jaha, jag kopplade inte. Eventuellt pga att det var en tjej som skrivit det och att jag tänkte på det senaste jag skrivit istället 😄
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 18:41 34s
+
+Ahhh, ett enkelt pronomen kan ha sabbat en bra ordvits. Bittert.
+Men mer på JS sidan har jag just upptäckt att Window objektet i chrome numera har ett "performance" object som lagrar hastighetsinfo om anrop och svar. Det går att tagga dem genom att låta servern inkludera "performance" headers i svaret från servern också.
+Sjukt robust funktionalitet som jag inte haft en aning om det inte vore för en av många kodpoddar.
+
+<!--excerpt-->
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 18:42 28s
+
+Det var faktiskt något han visade hur han använde via apiet som e2e performancetester
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 18:44 06s
+
+Känns som en väldigt matnyttig konferens. Känns också som att vi måste kombinera hjärn-NPM paketet med VR för att äntligen göra den ultimata Jedi-simulatorn.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 18:48 17s
+
+Jag är väldigt nöjd ännu så länge, får väl be om ursäkt för spammandet här. Kommer ju en dag till imorgon.
+VR-utveckling låter som att det kan bli väldigt intressant.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 18:49 20s
+
+Känner en gammal-psykologi doktorand som brukade mappa hjärnaktivitet, får diskutera sensorer där. Behöver man raka huvudet för avläsning ligger jag redan långt framme.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 18:51 15s
+
+Tjejen som hade byggt det hade mycket hår
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 18:52 26s
+
+Då är det väl min nuvarande frisyr bara ett resultat av ärtfligt håravfall igen och inte framtidens user interface.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-06 19:15 39s
+
+Vem vet, kanske ger bättre kontakt med sensorerna, och då kommer ju framtidens människor alla vara rakade på huvudet
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-06 19:31 19s
+
+Det är en vacker dröm @jens.hunt, en vacker dröm.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-07 10:55 34s
+
+Har lyssnat på utmaningarna i implementation av multitrådning i node som kommer i v 10. Ännu så länge experimentell feature och  verkar inte så vass ännu.
+
+Även hunnit med en mattelektion för 3d utveckling i webgl
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-07 11:29 51s
+
+Fasen, får se om jag sätter den på konferensschemat nästa år.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-07 12:31 07s
+
+Jag ska hit igen!
+</section>
