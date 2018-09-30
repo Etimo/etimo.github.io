@@ -13,6 +13,11 @@ Denna PR: [https://github.com/Microsoft/MS-DOS/pull/1](https://github.com/Micros
 <div class="attachment"><h4>#1 refactoring</h4><div class="text">just cleaning up some old cruft</div>
 <a href="https://github.com/Microsoft/MS-DOS/pull/1">#1 refactoring</a></div>
     
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-09-30 12:37 46s
+
+Haha coolt!
 
 <!--excerpt-->
 </section>
