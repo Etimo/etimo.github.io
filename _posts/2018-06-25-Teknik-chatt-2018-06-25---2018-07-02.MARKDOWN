@@ -16,40 +16,40 @@ wow.. trevligt
 <section class="message" markdown="1">
 ### daniel.winther - 2018-06-25 15:56 26s
 
-Ojdå
-Går inte bra för Intel ...
+Ojd?
+G?r inte bra f?r Intel ...
 </section>
 <section class="message" markdown="1">
 ### joakoles - 2018-06-25 19:06 27s
 
-Jisses! Nej det kan man inte säga.
+Jisses! Nej det kan man inte s?ga.
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-06-26 17:44 34s
 
-Allt jag vill ha är en RISC cpu som inte kostar 10000kr eller är tjugo år gammal.
+Allt jag vill ha ?r en RISC cpu som inte kostar 10000kr eller ?r tjugo ?r gammal.
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-06-26 17:49 42s
 
-Verkar vara ett ny attackvektor också så kan nog se fram mot liknande exploits när fler säkerhetsforskare drar igång i samma område. 
+Verkar vara ett ny attackvektor ocks? s? kan nog se fram mot liknande exploits n?r fler s?kerhetsforskare drar ig?ng i samma omr?de. 
 
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-06-26 17:55 35s
 
-Verkar rejält mycket omständigare än Spectre, att köra maskininlärning för en exploit känns rätt omständigt. Sjukt starkt jobbat av gruppen dock,.
+Verkar rej?lt mycket omst?ndigare ?n Spectre, att k?ra maskininl?rning f?r en exploit k?nns r?tt omst?ndigt. Sjukt starkt jobbat av gruppen dock,.
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-06-26 20:18 51s
 
-Annat tema,  och lite äldre artikel men Cubas workarounds för brist på internet är riktigt intressanta. 
+Annat tema,  och lite ?ldre artikel men Cubas workarounds f?r brist p? internet ?r riktigt intressanta. 
 [https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/](https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/)
 
-<div class="attachment"><h4>Inside Cuba’s DIY Internet Revolution</h4><div class="text">To connect to the world, people In Havana have taken matters into their own hands.</div>
-<a href="https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/"><img src="https://www.wired.com/wp-content/uploads/2017/07/0817-WI-FFCUBA-01-660x440.jpg" fallback="Inside Cuba’s DIY Internet Revolution"/></a></div>
+<div class="attachment"><h4>Inside Cuba?s DIY Internet Revolution</h4><div class="text">To connect to the world, people In Havana have taken matters into their own hands.</div>
+<a href="https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/"><img src="https://www.wired.com/wp-content/uploads/2017/07/0817-WI-FFCUBA-01-660x440.jpg" fallback="Inside Cuba?s DIY Internet Revolution"/></a></div>
     
-Periodisk distribution för hårddiskar och ett Havanna täckande mesh-network byggt av gamers som inte orkade bära sina datorer till varandra för att spela täcks för den som orkar läsa igenom.  
+Periodisk distribution f?r h?rddiskar och ett Havanna t?ckande mesh-network byggt av gamers som inte orkade b?ra sina datorer till varandra f?r att spela t?cks f?r den som orkar l?sa igenom.  
 Riktigt fascinerande.
 
 <!--excerpt-->

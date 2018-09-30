@@ -11,55 +11,55 @@ Alltid intressant med livsviktig statistik..:)
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-15 10:07 11s
 
-Nån som använt Cypress?
+N?n som anv?nt Cypress?
 [https://www.cypress.io/](https://www.cypress.io/)
 
 <div class="attachment"><h4>JavaScript End to End Testing Framework | Cypress.io</h4><div class="text">Fast, easy and reliable testing for anything that runs in a browser. Install Cypress in seconds and take the pain out of front-end testing.</div>
 <a href="https://www.cypress.io/"><div class="linkdiv"><img src="/assets/blogAssets/JavaScript End to End Testing Framework | Cypress.io" fallback="JavaScript End to End Testing Framework | Cypress.io"/></div></a></div>
     
-De säger att en av deras feature är just *reliability* vilket är lite banbrytande inom världen av selenium och andra gui-tester
+De s?ger att en av deras feature ?r just *reliability* vilket ?r lite banbrytande inom v?rlden av selenium och andra gui-tester
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-15 10:15 16s
 
-har enbart läst om det, ser onekligen intressant ut dock. i synnerhet om man inte är ett jättefan av selenium
+har enbart l?st om det, ser onekligen intressant ut dock. i synnerhet om man inte ?r ett j?ttefan av selenium
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-15 10:16 56s
 
 exakt min tanke
-de ska börja använda det på mitt uppdrag, lät intressant tyckte jag också
+de ska b?rja anv?nda det p? mitt uppdrag, l?t intressant tyckte jag ocks?
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-15 10:17 36s
 
-coolt! blir du inblandad eller är det på andra sidan företaget?
+coolt! blir du inblandad eller ?r det p? andra sidan f?retaget?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-15 10:18 20s
 
-njae, det är mer för gui-testerna. jag skriver ju bara apier så jag kör Jest
+njae, det ?r mer f?r gui-testerna. jag skriver ju bara apier s? jag k?r Jest
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-15 10:21 58s
 
-allright, hade varit intressant att höra din take på det annars
+allright, hade varit intressant att h?ra din take p? det annars
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-15 10:22 17s
 
-jag hade aldrig hört talas om det förrän nu på standup för 10 minuter sen 🙂
-får se senare
+jag hade aldrig h?rt talas om det f?rr?n nu p? standup f?r 10 minuter sen ?
+f?r se senare
 </section>
 <section class="message" markdown="1">
 ### jens.hunt - 2018-05-15 17:56 12s
 
-Kände direkt att jag måste testa detta!
+K?nde direkt att jag m?ste testa detta!
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-05-15 18:05 53s
 
-Richard Stallman fortsätter att vara Richard Stallman. [https://slashdot.org/story/340766](https://slashdot.org/story/340766)
+Richard Stallman forts?tter att vara Richard Stallman. [https://slashdot.org/story/340766](https://slashdot.org/story/340766)
 
 <div class="attachment"><h4>Richard Stallman Demands Return Of Abortion Joke To libc Documentation - Slashdot</h4><div class="text">An anonymous reader quotes The Register: Late last month, open-source contributor Raymond Nicholson proposed a change to the manual for glibc, the GNU implementation of the C programming language's standard library, to remove "the abortion joke," which accompanied the explanation of libc's abort() f...</div>
 <a href="https://slashdot.org/story/340766"><div class="linkdiv"><img src="/assets/blogAssets/Richard Stallman Demands Return Of Abortion Joke To libc Documentation - Slashdot" fallback="Richard Stallman Demands Return Of Abortion Joke To libc Documentation - Slashdot"/></div></a></div>
@@ -73,76 +73,76 @@ Haha
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 09:59 04s
 
-På mitt projekt har de börjat använda sig av GraphQL i en av tjänsterna och jag har haft möjlighet att lära mig mer om det. Igår kändes det som att det äntligen klickade för mig med GraphQL i hur resolvers fungerade - jag är nu helt klart ett stort fan av tekniken.
-Skulle definitivt kunna tänka mig att använda GraphQL som api-gateway för andra projekt i framtiden 👌
-Har någon annan jobbat med GraphQL också?
+P? mitt projekt har de b?rjat anv?nda sig av GraphQL i en av tj?nsterna och jag har haft m?jlighet att l?ra mig mer om det. Ig?r k?ndes det som att det ?ntligen klickade f?r mig med GraphQL i hur resolvers fungerade - jag ?r nu helt klart ett stort fan av tekniken.
+Skulle definitivt kunna t?nka mig att anv?nda GraphQL som api-gateway f?r andra projekt i framtiden ?
+Har n?gon annan jobbat med GraphQL ocks??
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 10:07 41s
 
-Bara testat, aldrig jobbat med det. Det används flitigt här på mitt nuvarande uppdrag i flera delar
-Jag gillar konceptet att man tillåter konsumenterna att själva styra  hur returformatet ska vara på datat och vad som ska vara med
-men då jag inte jobbat med det har jag dåligt koll på hur man bygger det.
+Bara testat, aldrig jobbat med det. Det anv?nds flitigt h?r p? mitt nuvarande uppdrag i flera delar
+Jag gillar konceptet att man till?ter konsumenterna att sj?lva styra  hur returformatet ska vara p? datat och vad som ska vara med
+men d? jag inte jobbat med det har jag d?ligt koll p? hur man bygger det.
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 10:09 39s
 
-Kan berätta lite kanske 🙂
-jag har ganska begränsad kunskap men gör mitt bästa:
+Kan ber?tta lite kanske ?
+jag har ganska begr?nsad kunskap men g?r mitt b?sta:
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 10:10 02s
 
-och hur man förhindrar DDOS
+och hur man f?rhindrar DDOS
 
 <!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 10:10 14s
 
-det kan jag inte svara på ännu 😉
+det kan jag inte svara p? ?nnu ?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 10:10 35s
 
-om en klient ber om allt data med alla fält  i många nivåer etc
+om en klient ber om allt data med alla f?lt  i m?nga niv?er etc
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 10:12 08s
 
-GraphQL bygger på att man definerar sina entiteter som typer i GraphQL-språket, och sedan registerar ett antal 'resolver'-funktioner för hur dessa entiteter levereras. Ett enkelt exempel kan vara:
+GraphQL bygger p? att man definerar sina entiteter som typer i GraphQL-spr?ket, och sedan registerar ett antal 'resolver'-funktioner f?r hur dessa entiteter levereras. Ett enkelt exempel kan vara:
 
 ```
 User { id: ID, username: String, keys: AccessKey }, AccessKey { id: ID, description: String }
 ```
-där man sedan tex. kan definera en funktion för hur man resolvar en user baserat på id
-och sedan definerar en funktion för hur man baserat på en User kan resolva en AccessKey
-kanske är lite oklart men jag kan förklara vidare på lunchen
+d?r man sedan tex. kan definera en funktion f?r hur man resolvar en user baserat p? id
+och sedan definerar en funktion f?r hur man baserat p? en User kan resolva en AccessKey
+kanske ?r lite oklart men jag kan f?rklara vidare p? lunchen
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 10:13 12s
 
-👍
+?
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 10:13 42s
 
-tror att man kan spara en hel del tid på att skriva diverse web-lagerkod genom dessa resolvers
+tror att man kan spara en hel del tid p? att skriva diverse web-lagerkod genom dessa resolvers
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 10:13 51s
 
-har för mig vi pratade kort förut om att kanske använda graphql i photo garden
+har f?r mig vi pratade kort f?rut om att kanske anv?nda graphql i photo garden
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 10:14 29s
 
-det kanske kan vara en grej! tekniken får min seal of approval iallafall 👌
+det kanske kan vara en grej! tekniken f?r min seal of approval iallafall ?
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 11:23 30s
 
-VSCode är nu obsolete: [https://www.vim.org/vim-8.1-released.php](https://www.vim.org/vim-8.1-released.php)
+VSCode ?r nu obsolete: [https://www.vim.org/vim-8.1-released.php](https://www.vim.org/vim-8.1-released.php)
 :vim:
 </section>
 <section class="message" markdown="1">
@@ -153,28 +153,28 @@ haha
 <section class="message" markdown="1">
 ### erik.malm - 2018-05-18 12:32 41s
 
-Varför skrattar du Daniel? Vår herre Vim har äntligen återvänt.
+Varf?r skrattar du Daniel? V?r herre Vim har ?ntligen ?terv?nt.
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 12:34 32s
 
-Jag skrattar mest för min egen del för att Vim är så långt bort för mig
+Jag skrattar mest f?r min egen del f?r att Vim ?r s? l?ngt bort f?r mig
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 13:00 51s
 
-❤ Jest snapshot testing
+? Jest snapshot testing
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 13:18 44s
 
-Skriver integrationstester för apiet, väldigt smidigt jest snapshot testing
-Har använt jest för alla tester i projektet här på uppdraget, funkar verkligen bra!
+Skriver integrationstester f?r apiet, v?ldigt smidigt jest snapshot testing
+Har anv?nt jest f?r alla tester i projektet h?r p? uppdraget, funkar verkligen bra!
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 13:32 45s
 
-yep, jest är grymt. snapshots i synnerhet är en riktigt bekväm typ av test
+yep, jest ?r grymt. snapshots i synnerhet ?r en riktigt bekv?m typ av test
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 13:50 19s
@@ -184,7 +184,7 @@ verkligen
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 13:51 44s
 
-kör du det på endpoint-nivå?
+k?r du det p? endpoint-niv??
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 13:52 00s
@@ -195,31 +195,31 @@ i integrationstesterna, ja
 ### oscarnylander - 2018-05-18 13:52 09s
 
 neat!
-så jag brukar skriva också
-- att jag brukar köra "manuell" snapshotting då jag inte kört javascript-apier förän nu
-släng på att man kollar att alla side effects inträffat så är det kanon
+s? jag brukar skriva ocks?
+- att jag brukar k?ra "manuell" snapshotting d? jag inte k?rt javascript-apier f?r?n nu
+sl?ng p? att man kollar att alla side effects intr?ffat s? ?r det kanon
 </section>
 <section class="message" markdown="1">
 ### johanhazelius - 2018-05-18 14:16 03s
 
-To change the subject: Jag är tveksam till att Bitcoin (eller andra energikrävande kryptovalutor) kan ha en plats så länge de bygger på extrem energikonsumption... [https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/](https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/)
+To change the subject: Jag ?r tveksam till att Bitcoin (eller andra energikr?vande kryptovalutor) kan ha en plats s? l?nge de bygger p? extrem energikonsumption... [https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/](https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/)
 
-<div class="attachment"><h4>Bitcoin’s energy use got studied, and you libertarian nerds look even worse than usual</h4><div class="text">Bitcoin is on track to consume 0.5 percent of the world's electricity by end of the year.</div>
-<a href="https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/"><div class="linkdiv"><img src="/assets/blogAssets/Bitcoin’s energy use got studied, and you libertarian nerds look even worse than usual" fallback="Bitcoin’s energy use got studied, and you libertarian nerds look even worse than usual"/></div></a></div>
+<div class="attachment"><h4>Bitcoin?s energy use got studied, and you libertarian nerds look even worse than usual</h4><div class="text">Bitcoin is on track to consume 0.5 percent of the world's electricity by end of the year.</div>
+<a href="https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/"><div class="linkdiv"><img src="/assets/blogAssets/Bitcoin?s energy use got studied, and you libertarian nerds look even worse than usual" fallback="Bitcoin?s energy use got studied, and you libertarian nerds look even worse than usual"/></div></a></div>
     
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 14:56 37s
 
-Oj shit 🙂
+Oj shit ?
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-05-18 17:34 18s
 
-Så istället för att investera i bitcoin bör man köpa aktier i elbolag?
+S? ist?llet f?r att investera i bitcoin b?r man k?pa aktier i elbolag?
 </section>
 <section class="message" markdown="1">
 ### johanhazelius - 2018-05-18 17:45 11s
 
-Kanske det @erik.malm. Eller sätta solceller på taket:)
+Kanske det @erik.malm. Eller s?tta solceller p? taket:)
 </section>

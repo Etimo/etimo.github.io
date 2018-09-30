@@ -6,22 +6,22 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### oscarnylander - 2018-04-23 09:29 22s
 
-@jens.hunt I for one welcome my new Microsoft overlords 🐧
+@jens.hunt I for one welcome my new Microsoft overlords ?
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-23 20:11 21s
 
-Riktigt intressant för min del @daniel.winther, finns typ en bransch-standard inom PSD2 ([https://www.berlin-group.org/psd2-access-to-bank-accounts](https://www.berlin-group.org/psd2-access-to-bank-accounts)). Får gräva igenom hur nära dessa Tink ligger.
+Riktigt intressant f?r min del @daniel.winther, finns typ en bransch-standard inom PSD2 ([https://www.berlin-group.org/psd2-access-to-bank-accounts](https://www.berlin-group.org/psd2-access-to-bank-accounts)). F?r gr?va igenom hur n?ra dessa Tink ligger.
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-27 06:58 04s
 
-Behöver göra mig av med ett gäng gamla hårddiskar. Vill gärna utplåna informationen på dem innan det är dags för tippen, om någon har en favorit-utility för sådant så mottages tips gärna.
+Beh?ver g?ra mig av med ett g?ng gamla h?rddiskar. Vill g?rna utpl?na informationen p? dem innan det ?r dags f?r tippen, om n?gon har en favorit-utility f?r s?dant s? mottages tips g?rna.
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-04-27 09:22 00s
 
-DBAN är väl en klassiker
+DBAN ?r v?l en klassiker
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-04-27 09:51 33s
@@ -37,19 +37,19 @@ Flask har kommit ut med en 1.0-release! Intressant.
 <section class="message" markdown="1">
 ### daniel.winther - 2018-04-27 09:54 53s
 
-woop woop! på tiden 😄
-har ju funnits hur länge som helst
+woop woop! p? tiden ?
+har ju funnits hur l?nge som helst
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-04-27 09:56 01s
 
-eller hur, märkvärdigt att de inte gått till 1.0 ännu
+eller hur, m?rkv?rdigt att de inte g?tt till 1.0 ?nnu
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-27 11:50 44s
 
-Haha, Flask fanns till och med när jag skrev ordentligt med Python senast. Tur att jag väntade i ca 10 år så att jag inte lärt mig omogen teknik! ;)
-Även om jag mer tror att det här är ett fall av att hantera versioner som Linus.
+Haha, Flask fanns till och med n?r jag skrev ordentligt med Python senast. Tur att jag v?ntade i ca 10 ?r s? att jag inte l?rt mig omogen teknik! ;)
+?ven om jag mer tror att det h?r ?r ett fall av att hantera versioner som Linus.
 [https://betanews.com/2018/04/16/linux-kernel-5-0/](https://betanews.com/2018/04/16/linux-kernel-5-0/)
 
 <div class="attachment"><h4>Linus Torvalds says Linux kernel v5.0 'should be meaningless'</h4><div class="text">Following the release of Linux kernel 4.16, Linus Torvalds has said that the next kernel will be version 5.0. Or maybe it won't, because version numbers are meaningless.</div>
@@ -59,38 +59,38 @@ Haha, Flask fanns till och med när jag skrev ordentligt med Python senast. Tur 
 <section class="message" markdown="1">
 ### oscarnylander - 2018-04-27 11:55 44s
 
-Troligen är det så 🙂
+Troligen ?r det s? ?
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-27 11:56 07s
 
-DBAN verkar vara precis rätt verktyg @daniel.winther
+DBAN verkar vara precis r?tt verktyg @daniel.winther
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-04-27 11:56 27s
 
-*@oscarnylander 😞
+*@oscarnylander ?
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-04-27 11:58 09s
 
-@erik.malm @oscarnylander använd inte DBAN för SSD:er
+@erik.malm @oscarnylander anv?nd inte DBAN f?r SSD:er
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-27 11:58 19s
 
-Förr i världen har jag låtit bash skriva från /dev/random över hela disken ett par vändor men har inte energi för det den här gången.
+F?rr i v?rlden har jag l?tit bash skriva fr?n /dev/random ?ver hela disken ett par v?ndor men har inte energi f?r det den h?r g?ngen.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-04-27 11:58 46s
 
-dom har mycket intern skrivbalansering osv vilket innebär att rester kommer finnas kvar
-använd [https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase](https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase) istället
+dom har mycket intern skrivbalansering osv vilket inneb?r att rester kommer finnas kvar
+anv?nd [https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase](https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase) ist?llet
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-27 11:59 54s
 
-Mmm.. Den nivå på teknik jag gör mig av med är 5200rpms diskar så inte ett problem den här vändan. Men lär vara relevant nästa gång jag kör en utrensning.
+Mmm.. Den niv? p? teknik jag g?r mig av med ?r 5200rpms diskar s? inte ett problem den h?r v?ndan. Men l?r vara relevant n?sta g?ng jag k?r en utrensning.
 
 <!--excerpt-->
 </section>
@@ -98,7 +98,7 @@ Mmm.. Den nivå på teknik jag gör mig av med är 5200rpms diskar så inte ett 
 ### teo.roijezon - 2018-04-27 12:00 04s
 
 ahh okej
-ja då borde det räcka
+ja d? borde det r?cka
 eller bara `dd if=/dev/urandom of=/dev/sdXN bs=1M` ett par ggr
 </section>
 <section class="message" markdown="1">
@@ -109,7 +109,7 @@ eller bara `dd if=/dev/urandom of=/dev/sdXN bs=1M` ett par ggr
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-27 12:01 26s
 
-Det är min vanliga. Men det är fem diskar som kommer behöva behandlas och då slår latmasken till
+Det ?r min vanliga. Men det ?r fem diskar som kommer beh?va behandlas och d? sl?r latmasken till
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-04-27 12:01 32s
@@ -119,13 +119,13 @@ ahh, iC
 <section class="message" markdown="1">
 ### oscarnylander - 2018-04-27 12:01 43s
 
-koppla in alla och kör parallellt!
+koppla in alla och k?r parallellt!
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-27 12:02 50s
 
-Om de bara vore thunderbolt så kunde jag daisy-chaina allt!
-Som en hårddisk konga-line!
+Om de bara vore thunderbolt s? kunde jag daisy-chaina allt!
+Som en h?rddisk konga-line!
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-04-27 12:05 24s
@@ -139,27 +139,27 @@ Som en hårddisk konga-line!
 <section class="message" markdown="1">
 ### erik.malm - 2018-04-27 12:09 35s
 
-Jag är nöjd med hur den här diskussionen slutade.
+Jag ?r n?jd med hur den h?r diskussionen slutade.
 P.S. are we the baddies?
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-04-27 12:10 58s
 
-tror inte vi har dödskallehattar än?
-Johan får ta tag i det 😛
+tror inte vi har d?dskallehattar ?n?
+Johan f?r ta tag i det ?
 </section>
 <section class="message" markdown="1">
 ### joakoles - 2018-04-28 17:47 28s
 
-För ett tag sedan sa jag att jag skulle informera om resultatet av prestandatest-applikationen jag skrev som skulle mäta prestandan i azure event hub (vilket kan ses som ett kafka-alternativ). Applikationen jag skrev består av två delar: En del som skriver en massa events (med samma storlek som vi skickar i produktion) till event hub och en del som läser dessa events från event hub. Skriv-delen är ett azure webjob och läs-delen är en azure function. Båda dessa delar kan skalas upp och ut som man vill. Även själva event hub'en kan skalas genom att höja antalet throughput units (TPU) och antalet partitioner (i praktiken måste man radera och skapa en ny event hub då man inte kan ändra antalet partitioner i efterhand).
+F?r ett tag sedan sa jag att jag skulle informera om resultatet av prestandatest-applikationen jag skrev som skulle m?ta prestandan i azure event hub (vilket kan ses som ett kafka-alternativ). Applikationen jag skrev best?r av tv? delar: En del som skriver en massa events (med samma storlek som vi skickar i produktion) till event hub och en del som l?ser dessa events fr?n event hub. Skriv-delen ?r ett azure webjob och l?s-delen ?r en azure function. B?da dessa delar kan skalas upp och ut som man vill. ?ven sj?lva event hub'en kan skalas genom att h?ja antalet throughput units (TPU) och antalet partitioner (i praktiken m?ste man radera och skapa en ny event hub d? man inte kan ?ndra antalet partitioner i efterhand).
 
-Både skriv- och läs-delen hanterar intervall. Man kan då ange att varje instans ska skicka tex. 100 meddelanden per sekund under tex. 1 minut och därefter höja till 500 och därefter till 1000 meddelanden per sekund. 
+B?de skriv- och l?s-delen hanterar intervall. Man kan d? ange att varje instans ska skicka tex. 100 meddelanden per sekund under tex. 1 minut och d?refter h?ja till 500 och d?refter till 1000 meddelanden per sekund. 
 
-Läs-delen beräknar lite enkla mätdata för att ta reda på prestandan. Mätdatan lagras inte i databasen för varje event då det skulle påverka resultatet mycket. Istället lagras bara mätdatan en gång per intervall, dvs. tex. en gång per minut.
+L?s-delen ber?knar lite enkla m?tdata f?r att ta reda p? prestandan. M?tdatan lagras inte i databasen f?r varje event d? det skulle p?verka resultatet mycket. Ist?llet lagras bara m?tdatan en g?ng per intervall, dvs. tex. en g?ng per minut.
 
-Resultatet visade att throughput blir högt om man skalar upp/ut men att latensen för en del av eventen är förvånansvärt högt trots att man skalat upp/ut (åtminstone blev jag förvånad). De flesta events går igenom event hub'en snabbt men en liten andel tar över en sekund och ibland över 5 sekunder.
+Resultatet visade att throughput blir h?gt om man skalar upp/ut men att latensen f?r en del av eventen ?r f?rv?nansv?rt h?gt trots att man skalat upp/ut (?tminstone blev jag f?rv?nad). De flesta events g?r igenom event hub'en snabbt men en liten andel tar ?ver en sekund och ibland ?ver 5 sekunder.
 
-Microsoft har själva gjort ett liknande test fast för ett längre flöde och fler events per sekund. Även där ser man att en andel av eventen passerar genom flödet mycket långsammare än genomsnittet. Hälften av eventen passerar flödet på mindre än 1,1 sek medan en del tar mycket längre tid: [https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
+Microsoft har sj?lva gjort ett liknande test fast f?r ett l?ngre fl?de och fler events per sekund. ?ven d?r ser man att en andel av eventen passerar genom fl?det mycket l?ngsammare ?n genomsnittet. H?lften av eventen passerar fl?det p? mindre ?n 1,1 sek medan en del tar mycket l?ngre tid: [https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
 
-Jag vill dock inte påstå att mina mätresultat är 100% tillförlitliga. Det kan vara så att något i applikationen jag skrev är suboptimalt. Dessutom kan klockan skilja sig mellan olika maskiner i azure vilket skulle ge stor effekt på mätresultaten. Jag hörde någon berätta att det är vanligt att klockan i azure-maskiner är "korrekt tid +/- 2 sekunder" vilket innebär ett intervall på 4 sekunder. Ett förslag på workaround är att förlita sig på databas-serverns klocka för att kompensera för detta. Vid uppstart skulle applikationen (både skriv- och läs-sidan) kunna hämta tiden från db-servern för att ta reda på hur den lokala klockan skiljer sig från "sanningen" om vi definerar db-serverns klocka som "sanningen" i prestandatestet. Applikationen får då ta hänsyn till differensen däremellan. Därmed kompenserar man för skillnad i klocka på olika maskiner. Då jag bytt team har jag inte implementerat denna workaround men jag har tipsat teamet om detta.
+Jag vill dock inte p?st? att mina m?tresultat ?r 100% tillf?rlitliga. Det kan vara s? att n?got i applikationen jag skrev ?r suboptimalt. Dessutom kan klockan skilja sig mellan olika maskiner i azure vilket skulle ge stor effekt p? m?tresultaten. Jag h?rde n?gon ber?tta att det ?r vanligt att klockan i azure-maskiner ?r "korrekt tid +/- 2 sekunder" vilket inneb?r ett intervall p? 4 sekunder. Ett f?rslag p? workaround ?r att f?rlita sig p? databas-serverns klocka f?r att kompensera f?r detta. Vid uppstart skulle applikationen (b?de skriv- och l?s-sidan) kunna h?mta tiden fr?n db-servern f?r att ta reda p? hur den lokala klockan skiljer sig fr?n "sanningen" om vi definerar db-serverns klocka som "sanningen" i prestandatestet. Applikationen f?r d? ta h?nsyn till differensen d?remellan. D?rmed kompenserar man f?r skillnad i klocka p? olika maskiner. D? jag bytt team har jag inte implementerat denna workaround men jag har tipsat teamet om detta.
 </section>

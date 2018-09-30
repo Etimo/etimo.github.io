@@ -6,7 +6,7 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-29 10:59 42s
 
-Någon annan som använder `zsh`? Installerade nyss ett gäng plugins till `zsh`: 
+N?gon annan som anv?nder `zsh`? Installerade nyss ett g?ng plugins till `zsh`: 
 ```
 zsh-completions
 zsh-suggestions
@@ -18,12 +18,12 @@ Det leder helt klart till en intressantare terminalupplevelse!
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-29 10:59 53s
 
-jag kör zsh
+jag k?r zsh
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-29 11:00 04s
 
-`oh-my-zsh` också? 🙂
+`oh-my-zsh` ocks?? ?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-29 11:00 08s
@@ -33,13 +33,13 @@ japp
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-29 11:00 13s
 
-👌
+?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-29 11:00 17s
 
-mest för gitintegrationen egentligen
-😄
+mest f?r gitintegrationen egentligen
+?
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-29 11:00 30s
@@ -49,25 +49,25 @@ git och exit code gillar jag
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-29 11:00 30s
 
-se branch etc vid sökvägen
-vad är det för grej om exit code?
+se branch etc vid s?kv?gen
+vad ?r det f?r grej om exit code?
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-29 11:00 42s
 
-röd pil vid non-zero är bra
-grön pil vid zero
+r?d pil vid non-zero ?r bra
+gr?n pil vid zero
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-29 11:00 56s
 
-aha så det är exit coden som visualiseras!
+aha s? det ?r exit coden som visualiseras!
 aldrig fattat
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-29 11:01 24s
 
-skönt att slippa köra `echo $?` i vissa fall
+sk?nt att slippa k?ra `echo $?` i vissa fall
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-29 11:02 04s
@@ -77,9 +77,9 @@ ja indeed
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-29 11:03 50s
 
-syntax highlighting och suggestions är intressant också
-blir lite som att köra `pgcli` fast i terminalen
-har inte kört det länge men än så länge är jag ett fan
+syntax highlighting och suggestions ?r intressant ocks?
+blir lite som att k?ra `pgcli` fast i terminalen
+har inte k?rt det l?nge men ?n s? l?nge ?r jag ett fan
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-29 11:04 31s

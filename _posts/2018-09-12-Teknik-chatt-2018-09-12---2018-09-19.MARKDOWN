@@ -8,31 +8,31 @@ excerpt_separator: <!--excerpt-->
 
 [https://www.dn.se/kultur-noje/eu-parlamentet-sager-ja-till-lankavgift-och-upphovsrattsfilter/](https://www.dn.se/kultur-noje/eu-parlamentet-sager-ja-till-lankavgift-och-upphovsrattsfilter/)
 
-Man ska dock inte missa detta: "Vad Europaparlamentet i dag har röstat om var att inleda förhandlingarna med EU:s ministerråd. När medlemsländerna i ministerrådet och Europaparlamentet nått en överenskommelse ska det slutliga förslaget fortfarande godkännas av Europaparlamentet innan det blir en lag."
+Man ska dock inte missa detta: "Vad Europaparlamentet i dag har r?stat om var att inleda f?rhandlingarna med EU:s ministerr?d. N?r medlemsl?nderna i ministerr?det och Europaparlamentet n?tt en ?verenskommelse ska det slutliga f?rslaget fortfarande godk?nnas av Europaparlamentet innan det blir en lag."
 
-<div class="attachment"><h4>EU-parlamentet säger ja till länkavgift och upphovsrättsfilter - DN.SE</h4><div class="text">Europaparlamentet har röstat igenom både länkavgift och upphovsrättsfilter. Det står klart efter EU-parlamentets omröstning om upphovsrätten på nätet.</div>
-<a href="https://www.dn.se/kultur-noje/eu-parlamentet-sager-ja-till-lankavgift-och-upphovsrattsfilter/"><img src="https://cached-images.bonnier.news/cms30/UploadedImages/2018/9/12/76381db7-c9ee-4228-8f9f-d0287f68182e/bigOriginal.jpg?interpolation=lanczos-none&fit=inside|470:246&output-quality=80&output-format=jpeg" fallback="EU-parlamentet säger ja till länkavgift och upphovsrättsfilter - DN.SE"/></a></div>
+<div class="attachment"><h4>EU-parlamentet s?ger ja till l?nkavgift och upphovsr?ttsfilter - DN.SE</h4><div class="text">Europaparlamentet har r?stat igenom b?de l?nkavgift och upphovsr?ttsfilter. Det st?r klart efter EU-parlamentets omr?stning om upphovsr?tten p? n?tet.</div>
+<a href="https://www.dn.se/kultur-noje/eu-parlamentet-sager-ja-till-lankavgift-och-upphovsrattsfilter/"><img src="https://cached-images.bonnier.news/cms30/UploadedImages/2018/9/12/76381db7-c9ee-4228-8f9f-d0287f68182e/bigOriginal.jpg?interpolation=lanczos-none&fit=inside|470:246&output-quality=80&output-format=jpeg" fallback="EU-parlamentet s?ger ja till l?nkavgift och upphovsr?ttsfilter - DN.SE"/></a></div>
     
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2018-09-12 18:55 39s
 
-"Sedan dess har Europaparlamentets rättsliga utskott arbetat om förslaget så att bland annat småföretag och icke vinstdrivande encyklopedier som Wikipedia undantas från kravet på att betala länkersättning till innehållsproducenter." Även tjänster som github är exkluderade. Så det är inte samma som förut iaf.
+"Sedan dess har Europaparlamentets r?ttsliga utskott arbetat om f?rslaget s? att bland annat sm?f?retag och icke vinstdrivande encyklopedier som Wikipedia undantas fr?n kravet p? att betala l?nkers?ttning till inneh?llsproducenter." ?ven tj?nster som github ?r exkluderade. S? det ?r inte samma som f?rut iaf.
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-09-12 19:28 11s
 
-Känns långt ifrån betryggande i alla fall. I mina ögon förlorade copyrighten sin legitimitet iom den numera absurda längden på upphosvmannens livslängd + 90 år (i vissa fall 70, i andra fall 100). Conan Doyle dog 1930 och Sherlock Holmes skulle med nuvarande regler ha copyright till år 2020. Någon som känner för att populera en content-id databas med allt som produceras i år och ha koll på det 150 år framåt?
-Sättet copyright-takedown notiser redan idag används som en ren konkurrensmetod är också obehaglig, att kunna monetisera länkar kommer kommer knappast att leda till ett mer resonabelt sådant.
-Viljan att rädda lokala tidningar från globala aggregeringstjänster är begriplig, men det här kan fortfarande gå ganska illa.
+K?nns l?ngt ifr?n betryggande i alla fall. I mina ?gon f?rlorade copyrighten sin legitimitet iom den numera absurda l?ngden p? upphosvmannens livsl?ngd + 90 ?r (i vissa fall 70, i andra fall 100). Conan Doyle dog 1930 och Sherlock Holmes skulle med nuvarande regler ha copyright till ?r 2020. N?gon som k?nner f?r att populera en content-id databas med allt som produceras i ?r och ha koll p? det 150 ?r fram?t?
+S?ttet copyright-takedown notiser redan idag anv?nds som en ren konkurrensmetod ?r ocks? obehaglig, att kunna monetisera l?nkar kommer kommer knappast att leda till ett mer resonabelt s?dant.
+Viljan att r?dda lokala tidningar fr?n globala aggregeringstj?nster ?r begriplig, men det h?r kan fortfarande g? ganska illa.
 </section>
 <section class="message" markdown="1">
 ### jens.hunt - 2018-09-13 18:38 33s
 
-Svt har gjort en riktigt häftig visualisering av valresultatet: [https://www.svt.se/special/sa-rostade-svenskarna/](https://www.svt.se/special/sa-rostade-svenskarna/)
+Svt har gjort en riktigt h?ftig visualisering av valresultatet: [https://www.svt.se/special/sa-rostade-svenskarna/](https://www.svt.se/special/sa-rostade-svenskarna/)
 
-<div class="attachment"><h4>Så röstade svenskarna</h4><div class="text">Titta och utforska själv: Följ med på en djupdykning i Sveriges 6004 valdistrikt för att titta närmare på hur svenska folket har röstat runt om i landet och hur det hör samman med till exempel inkomst och utbildningsnivå.</div>
-<a href="https://www.svt.se/special/sa-rostade-svenskarna/"><img src="https://kloss.imgix.net/918/sa-rostade-svenskarna.png?h=630&w=1200&auto=format&fit=crop" fallback="Så röstade svenskarna"/></a></div>
+<div class="attachment"><h4>S? r?stade svenskarna</h4><div class="text">Titta och utforska sj?lv: F?lj med p? en djupdykning i Sveriges 6004 valdistrikt f?r att titta n?rmare p? hur svenska folket har r?stat runt om i landet och hur det h?r samman med till exempel inkomst och utbildningsniv?.</div>
+<a href="https://www.svt.se/special/sa-rostade-svenskarna/"><img src="https://kloss.imgix.net/918/sa-rostade-svenskarna.png?h=630&w=1200&auto=format&fit=crop" fallback="S? r?stade svenskarna"/></a></div>
     
 
 <!--excerpt-->

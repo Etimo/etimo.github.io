@@ -8,7 +8,7 @@ excerpt_separator: <!--excerpt-->
 
 [https://github.com/microsoft/ms-dos](https://github.com/microsoft/ms-dos)
 "Latest commit 35 years ago" 
-Denna PR: [https://github.com/Microsoft/MS-DOS/pull/1](https://github.com/Microsoft/MS-DOS/pull/1) 😂😂😂
+Denna PR: [https://github.com/Microsoft/MS-DOS/pull/1](https://github.com/Microsoft/MS-DOS/pull/1) ???
 
 <div class="attachment"><h4>#1 refactoring</h4><div class="text">just cleaning up some old cruft</div>
 <a href="https://github.com/Microsoft/MS-DOS/pull/1">#1 refactoring</a></div>
@@ -22,7 +22,7 @@ Haha coolt!
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2018-09-30 15:46 22s
 
-Assembler filer på över 4000 rader. Myspys där MSDOS 1.25
+Assembler filer p? ?ver 4000 rader. Myspys d?r MSDOS 1.25
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-09-30 18:52 06s
@@ -36,7 +36,7 @@ Assembler filer på över 4000 rader. Myspys där MSDOS 1.25
 ; 0.56 03/23/81 Variable record and sector sizes
 ; 0.60 03/27/81 Ctrl-C exit changes, including register save on user stack
 ```
-Ganska glad att source-control kommit en bit på väg sen 81.
+Ganska glad att source-control kommit en bit p? v?g sen 81.
 
 <!--excerpt-->
 </section>
