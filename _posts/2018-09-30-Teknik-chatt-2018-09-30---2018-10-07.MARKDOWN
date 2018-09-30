@@ -23,6 +23,20 @@ Haha coolt!
 ### lukas.lindqvist - 2018-09-30 15:46 22s
 
 Assembler filer på över 4000 rader. Myspys där MSDOS 1.25
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-09-30 18:52 06s
+
+```
+; ****************** Revision History *************************
+;          &gt;&gt; EVERY change must noted below!! &lt;&lt;
+;
+; 0.34 12/29/80 General release, updating all past customers
+; 0.42 02/25/81 32-byte directory entries added
+; 0.56 03/23/81 Variable record and sector sizes
+; 0.60 03/27/81 Ctrl-C exit changes, including register save on user stack
+```
+Ganska glad att source-control kommit en bit på väg sen 81.
 
 <!--excerpt-->
 </section>
