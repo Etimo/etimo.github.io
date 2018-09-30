@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ny på Etimo - Jassyr Bravo
+tag: [featured,ny-pa-etimo]
 excerpt_separator: <!--excerpt-->
 ---
 

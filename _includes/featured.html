@@ -6,7 +6,15 @@
         </div>
         <div class="paneOne">
             {% if include.post.image %}
-            <img src="/assets/posts/{{include.post.image}}" alt="{{ include.post.image }}"></img>
+                {% for image in site.static_files %}
+                    {% if image.path contains include.post.image %}
+                    {% assign postImage = image.path %}
+                {% endif %}
+                {% endfor %} 
+             {% if postImage == blank %}
+             {% assign postImage = include.post.image %}
+             {% endif %}
+             <img src={{ postImage }}  alt="{{ include.post.image }}"></img>
             {% endif %}
         </div>
     <div class="paneTwo">
