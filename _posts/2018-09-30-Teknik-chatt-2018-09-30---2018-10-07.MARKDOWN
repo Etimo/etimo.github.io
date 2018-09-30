@@ -1,0 +1,18 @@
+---
+layout: post
+title: Teknik-chatt 2018-09-30 - 2018-10-07
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### jens.hunt - 2018-09-30 11:09 58s
+
+[https://github.com/microsoft/ms-dos](https://github.com/microsoft/ms-dos)
+"Latest commit 35 years ago" 
+Denna PR: [https://github.com/Microsoft/MS-DOS/pull/1](https://github.com/Microsoft/MS-DOS/pull/1) 😂😂😂
+
+<div class="attachment"><h4>#1 refactoring</h4><div class="text">just cleaning up some old cruft</div>
+<a href="https://github.com/Microsoft/MS-DOS/pull/1">#1 refactoring</a></div>
+    
+
+<!--excerpt-->
+</section>
