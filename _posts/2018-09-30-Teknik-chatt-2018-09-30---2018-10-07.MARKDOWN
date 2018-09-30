@@ -18,6 +18,11 @@ Denna PR: [https://github.com/Microsoft/MS-DOS/pull/1](https://github.com/Micros
 ### daniel.winther - 2018-09-30 12:37 46s
 
 Haha coolt!
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2018-09-30 15:46 22s
+
+Assembler filer på över 4000 rader. Myspys där MSDOS 1.25
 
 <!--excerpt-->
 </section>
