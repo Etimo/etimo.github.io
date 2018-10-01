@@ -37,6 +37,16 @@ Assembler filer p? ?ver 4000 rader. Myspys d?r MSDOS 1.25
 ; 0.60 03/27/81 Ctrl-C exit changes, including register save on user stack
 ```
 Ganska glad att source-control kommit en bit p? v?g sen 81.
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-10-01 20:23 39s
+
+Aldrig ?r man s?ker... 
+[https://techcrunch.com/2018/10/01/altima-telecom-server-flaw-customer-data-exposed/?ncid=tcdaily&amp;utm_medium=TCnewsletter](https://techcrunch.com/2018/10/01/altima-telecom-server-flaw-customer-data-exposed/?ncid=tcdaily&amp;utm_medium=TCnewsletter)
+
+<div class="attachment"><h4>Website flaw exposed a Canadian ISP?s entire customer database</h4><div class="text">Canadian internet provider Altima Telecom has fixed a flaw in its website that could have given an attacker full access to its customer database. The customer database was connected to the company?s website, but could be remotely accessed with a blind SQL injection attack. Daley Borda, founde?</div>
+<a href="https://techcrunch.com/2018/10/01/altima-telecom-server-flaw-customer-data-exposed/?ncid=tcdaily&amp;utm_medium=TCnewsletter"><img src="https://techcrunch.com/wp-content/uploads/2018/10/gettyimages-4878672681.jpg?w=618" fallback="Website flaw exposed a Canadian ISP?s entire customer database"/></a></div>
+    
 
 <!--excerpt-->
 </section>
