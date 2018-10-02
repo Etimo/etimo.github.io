@@ -47,6 +47,22 @@ Aldrig ?r man s?ker...
 <div class="attachment"><h4>Website flaw exposed a Canadian ISP?s entire customer database</h4><div class="text">Canadian internet provider Altima Telecom has fixed a flaw in its website that could have given an attacker full access to its customer database. The customer database was connected to the company?s website, but could be remotely accessed with a blind SQL injection attack. Daley Borda, founde?</div>
 <a href="https://techcrunch.com/2018/10/01/altima-telecom-server-flaw-customer-data-exposed/?ncid=tcdaily&amp;utm_medium=TCnewsletter"><img src="https://techcrunch.com/wp-content/uploads/2018/10/gettyimages-4878672681.jpg?w=618" fallback="Website flaw exposed a Canadian ISP?s entire customer database"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-10-02 17:35 56s
+
+Nej det ?r sant, jag har aldrig faktisktn orkat deleta mitt facebook-konto utan bara ghostat facebook. Senaste breachen f?r mig att inse att det ?r dags att f? tummen ur.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-10-02 17:52 50s
+
+Trots att jag inte anv?nder Facebook i ?vrigt har jag tyv?rr mycket av min dagliga kontakt med v?nner i form av diverse gruppchattar. Har flera g?nger f?rs?kt f? folk att byta plattform,  men hamnar alltid tillbaks p? messenger...
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-10-02 17:57 36s
+
+Facebook Messanger p? Android brukade l?gga den man pratade med som en liten flytande ikon ovanp? det vanliga interfacet. Har skytt facebook messanger sen dess.
+Det tog ett tag men nu har flera v?nner b?rjat ringa  (!) n?r de vill n?t.
 
 <!--excerpt-->
 </section>
