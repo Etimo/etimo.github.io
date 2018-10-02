@@ -63,6 +63,11 @@ Trots att jag inte anv?nder Facebook i ?vrigt har jag tyv?rr mycket av min dagli
 
 Facebook Messanger p? Android brukade l?gga den man pratade med som en liten flytande ikon ovanp? det vanliga interfacet. Har skytt facebook messanger sen dess.
 Det tog ett tag men nu har flera v?nner b?rjat ringa  (!) n?r de vill n?t.
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-10-02 19:52 26s
+
+@jens.hunt jag har helt l?mnat fb. Har kostat mig att jag missat diverse sociala event men nu har det g?tt ?ver. Numera ringer/messar folk om de verkligen vill ha med mig p? n?got:)
 
 <!--excerpt-->
 </section>
