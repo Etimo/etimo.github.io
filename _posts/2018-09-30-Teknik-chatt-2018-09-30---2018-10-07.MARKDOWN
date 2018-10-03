@@ -68,6 +68,28 @@ Det tog ett tag men nu har flera v?nner b?rjat ringa  (!) n?r de vill n?t.
 ### johanhazelius - 2018-10-02 19:52 26s
 
 @jens.hunt jag har helt l?mnat fb. Har kostat mig att jag missat diverse sociala event men nu har det g?tt ?ver. Numera ringer/messar folk om de verkligen vill ha med mig p? n?got:)
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2018-10-03 08:56 04s
+
+@erik.malm Du kan st?nga av bubblorna. Det har jag gjort iaf. Men har samma problem som Jens, 100% av all kommunikation med v?nner g?r genom messenger. Alla studentevent g?r genom fb ocks?. S? som student ?r det typ om?jligt att inte anv?nda det.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-10-03 09:01 22s
+
+Jag blev s? f?rol?mpad ?ver designen att appen omedelbart deletades. L?ste ocks? problemet.
+L?t oss ocks? ta det h?r tillf?llet att minnas Kin telefonen:
+[https://www.google.se/amp/s/www.wired.com/2010/04/microsoft-kin-phone-first-look/amp](https://www.google.se/amp/s/www.wired.com/2010/04/microsoft-kin-phone-first-look/amp)
+
+<div class="attachment"><h4>Hands-On: Can Kin Phones Make Microsoft Cool Again?</h4><div class="text">Microsoft?s new Kin phone sits between two worlds. It isn?t really a smartphone ? there?s no access to apps, games, document editing or viewing ? but it?s more than a feature phone. It integrates social networking updates, news feeds and contacts, in a way that aims to be hip and cool. And Kin just about \[?\]</div>
+<a href="https://www.google.se/amp/s/www.wired.com/2010/04/microsoft-kin-phone-first-look/amp"><img src="https://media.wired.com/photos/59344f005321273fc0f91da8/2:1/w_2500,c_limit/two_loop_print.jpg" fallback="Hands-On: Can Kin Phones Make Microsoft Cool Again?"/></a></div>
+    
+Och facebooks egen telefon: 
+[https://www.google.se/amp/s/amp.usatoday.com/amp/2053521](https://www.google.se/amp/s/amp.usatoday.com/amp/2053521)
+
+<div class="attachment"><h4>Facebook launches HTC First Android phone</h4><div class="text">Facebook today unveiled its long-rumored mobile phone foray, with HTC.</div>
+<a href="https://www.google.se/amp/s/amp.usatoday.com/amp/2053521"><img src="https://www.gannett-cdn.com/media/USATODAY/USATODAY/2013/04/04/chat-head-preview-16_9.jpg?width=3200&height=1680&fit=crop" fallback="Facebook launches HTC First Android phone"/></a></div>
+    
 
 <!--excerpt-->
 </section>
