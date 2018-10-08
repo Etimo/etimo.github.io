@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2018-10-08 - 2018-10-15
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### joakoles - 2018-10-08 20:18 14s
+
+Jag undrar hur stort detta blir: [https://www.reuters.com/article/us-google-data/google-exposed-user-data-chose-not-to-tell-public-wsj-idUSKCN1MI1WM](https://www.reuters.com/article/us-google-data/google-exposed-user-data-chose-not-to-tell-public-wsj-idUSKCN1MI1WM)
+Svd skriver att "Tj?nsten Google Plus ska st?ngas ned helt f?r vanliga anv?ndare under de kommande tio m?naderna" [https://www.svd.se/google-morkade-sakerhetslacka--tjanst-stangs](https://www.svd.se/google-morkade-sakerhetslacka--tjanst-stangs)
+
+<div class="attachment"><h4>Google m?rkade s?kerhetsl?cka ? tj?nst st?ngs | SvD</h4><div class="text">Tj?nsten Google Plus ska st?ngas ned helt f?r vanliga anv?ndare under de kommande tio m?naderna efter att en s?kerhetslucka avsl?jats, meddelar Googles moderbolag Alphabet. Data tillh?rande hundratusentals Google Plus-anv?ndare var exponerade f?r utomst?ende akt?rer i tre ?r, enligt anonyma k?llor till The Wall Street Journal. Upp till 500 000 a...</div>
+<a href="https://www.svd.se/google-morkade-sakerhetslacka--tjanst-stangs"><div class="linkdiv"><img src="/assets/blogAssets/Google m?rkade s?kerhetsl?cka ? tj?nst st?ngs | SvD" fallback="Google m?rkade s?kerhetsl?cka ? tj?nst st?ngs | SvD"/></div></a></div>
+    
+
+<!--excerpt-->
+</section>
