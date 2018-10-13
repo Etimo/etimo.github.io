@@ -7,21 +7,21 @@ excerpt_separator: <!--excerpt-->
 ### joakoles - 2018-10-08 20:18 14s
 
 Jag undrar hur stort detta blir: [https://www.reuters.com/article/us-google-data/google-exposed-user-data-chose-not-to-tell-public-wsj-idUSKCN1MI1WM](https://www.reuters.com/article/us-google-data/google-exposed-user-data-chose-not-to-tell-public-wsj-idUSKCN1MI1WM)
-Svd skriver att "Tj?nsten Google Plus ska st?ngas ned helt f?r vanliga anv?ndare under de kommande tio m?naderna" [https://www.svd.se/google-morkade-sakerhetslacka--tjanst-stangs](https://www.svd.se/google-morkade-sakerhetslacka--tjanst-stangs)
+Svd skriver att "Tjänsten Google Plus ska stängas ned helt för vanliga användare under de kommande tio månaderna" [https://www.svd.se/google-morkade-sakerhetslacka--tjanst-stangs](https://www.svd.se/google-morkade-sakerhetslacka--tjanst-stangs)
 
-<div class="attachment"><h4>Google m?rkade s?kerhetsl?cka ? tj?nst st?ngs | SvD</h4><div class="text">Tj?nsten Google Plus ska st?ngas ned helt f?r vanliga anv?ndare under de kommande tio m?naderna efter att en s?kerhetslucka avsl?jats, meddelar Googles moderbolag Alphabet. Data tillh?rande hundratusentals Google Plus-anv?ndare var exponerade f?r utomst?ende akt?rer i tre ?r, enligt anonyma k?llor till The Wall Street Journal. Upp till 500 000 a...</div>
-<a href="https://www.svd.se/google-morkade-sakerhetslacka--tjanst-stangs"><div class="linkdiv"><img src="/assets/blogAssets/Google m?rkade s?kerhetsl?cka ? tj?nst st?ngs | SvD" fallback="Google m?rkade s?kerhetsl?cka ? tj?nst st?ngs | SvD"/></div></a></div>
+<div class="attachment"><h4>Google mörkade säkerhetsläcka – tjänst stängs | SvD</h4><div class="text">Tjänsten Google Plus ska stängas ned helt för vanliga användare under de kommande tio månaderna efter att en säkerhetslucka avslöjats, meddelar Googles moderbolag Alphabet. Data tillhörande hundratusentals Google Plus-användare var exponerade för utomstående aktörer i tre år, enligt anonyma källor till The Wall Street Journal. Upp till 500 000 a...</div>
+<a href="https://www.svd.se/google-morkade-sakerhetslacka--tjanst-stangs"><div class="linkdiv"><img src="/assets/blogAssets/Google mörkade säkerhetsläcka – tjänst stängs | SvD" fallback="Google mörkade säkerhetsläcka – tjänst stängs | SvD"/></div></a></div>
     
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-10-09 07:59 42s
 
-Wow, k?nns r?tt illa med tanke p? hur h?rt integrerade googles tj?nster ?r. 
+Wow, känns rätt illa med tanke på hur hårt integrerade googles tjänster är. 
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-10-09 08:16 30s
 
-Kan trots att de pekar p? mjukvarufel inte l?ta bli att undra om det har att g?ra med Bloombergs avsl?jande om "The Big Hack" f?r en stund sen. 10 m?nader k?nns som s? l?ng tid. Edit: okej, tio m?nader ?r allts? tid till total shutdown. Inte tio m?nader s?kerhetstestning som jag feltolkade d?r.
+Kan trots att de pekar på mjukvarufel inte låta bli att undra om det har att göra med Bloombergs avslöjande om "The Big Hack" för en stund sen. 10 månader känns som så lång tid. Edit: okej, tio månader är alltså tid till total shutdown. Inte tio månader säkerhetstestning som jag feltolkade där.
 [https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
 
 <div class="attachment"><h4>China Used a Tiny Chip in a Hack That Infiltrated U.S. Companies</h4><div class="text">The attack by Chinese spies reached almost 30 U.S. companies by compromising America's technology supply chain.</div>

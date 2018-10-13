@@ -11,21 +11,21 @@ En metod att undvika self-DDOS med GraphQL: [https://github.com/facebook/dataloa
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-22 11:47 01s
 
-Har tittat lite p? fritiden p? Rust och ?r helt klart intresserad av de l?ften spr?ket ger i zero-cost abstractions och compile-time garantier mot minnesl?ckor. Tror ni spr?ket kommer bli en kandidat f?r kommersiell utveckling i framtiden?
+Har tittat lite på fritiden på Rust och är helt klart intresserad av de löften språket ger i zero-cost abstractions och compile-time garantier mot minnesläckor. Tror ni språket kommer bli en kandidat för kommersiell utveckling i framtiden?
 
-St?rsta nackdelen just nu verkar vara instabilitet och f? libs, samt att spr?ket ?r lite knepigt att l?ra sig och (enligt min erfarenhet) tar lite l?ngre att skriva.
+Största nackdelen just nu verkar vara instabilitet och få libs, samt att språket är lite knepigt att lära sig och (enligt min erfarenhet) tar lite längre att skriva.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-05-22 12:18 00s
 
-jag och Therese anv?nder det f?r (en stor del av) exjobbet
-vi anv?nder det f?r utveckling av microcontroller-firmware, vilket ?r ett relativt instabilt och nischat anv?ndningsomr?de
-men ?r ?nd? j?tten?jda med det ?n s? l?nge
+jag och Therese använder det för (en stor del av) exjobbet
+vi använder det för utveckling av microcontroller-firmware, vilket är ett relativt instabilt och nischat användningsområde
+men är ändå jättenöjda med det än så länge
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-05-22 12:39 05s
 
-t.ex. ?r RTFM ([http://blog.japaric.io/fearless-concurrency/](http://blog.japaric.io/fearless-concurrency/)) ett v?ldigt intressant alternativ till "fullstora" RTOS som FreeRTOS
+t.ex. är RTFM ([http://blog.japaric.io/fearless-concurrency/](http://blog.japaric.io/fearless-concurrency/)) ett väldigt intressant alternativ till "fullstora" RTOS som FreeRTOS
 
 <div class="attachment"><h4>Fearless concurrency in your microcontroller - Embedded in Rust</h4><div class="text">A blog about Rust and embedded stuff</div>
 <a href="http://blog.japaric.io/fearless-concurrency/">Fearless concurrency in your microcontroller - Embedded in Rust</a></div>
@@ -34,7 +34,7 @@ t.ex. ?r RTFM ([http://blog.japaric.io/fearless-concurrency/](http://blog.japari
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-22 12:51 40s
 
-Intressant! F?r ta en titt p? det.
+Intressant! Får ta en titt på det.
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-23 07:46 41s
@@ -45,7 +45,7 @@ Gratis onlinekurs i AI
 <section class="message" markdown="1">
 ### erik.malm - 2018-05-23 15:50 42s
 
-L?ste verkligen Al d?r ist?llet f?r AI v?ldigt l?nge.
+Läste verkligen Al där istället för AI väldigt länge.
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-23 15:52 20s
@@ -55,11 +55,11 @@ Big Al!
 <section class="message" markdown="1">
 ### erik.malm - 2018-05-24 07:48 31s
 
-Kursen verkar r?tt bra i ?vrigt, n?r vi g?tt den allihopa kanske vi ocks? kan kickstarta n?got. Som Tenni-bot.  
-Boten som vill inleda automatiseringseran genom att ers?tta alla v?rldens boll-Kalle.   [https://www.kickstarter.com/projects/770435035/tennibot-the-worlds-first-robotic-tennis-ball-coll](https://www.kickstarter.com/projects/770435035/tennibot-the-worlds-first-robotic-tennis-ball-coll)
+Kursen verkar rätt bra i övrigt, när vi gått den allihopa kanske vi också kan kickstarta något. Som Tenni-bot.  
+Boten som vill inleda automatiseringseran genom att ersätta alla världens boll-Kalle.   [https://www.kickstarter.com/projects/770435035/tennibot-the-worlds-first-robotic-tennis-ball-coll](https://www.kickstarter.com/projects/770435035/tennibot-the-worlds-first-robotic-tennis-ball-coll)
 
-<div class="attachment"><h4>Tennibot: The World?s First Robotic Tennis Ball Collector</h4><div class="text">Autonomous &amp; intelligent robot saves players and coaches time by eliminating the tedious task of collecting tennis balls!</div>
-<a href="https://www.kickstarter.com/projects/770435035/tennibot-the-worlds-first-robotic-tennis-ball-coll"><img src="https://ksr-ugc.imgix.net/assets/020/677/032/f0bfed73a1832be0306c35e25190232d_original.jpg?crop=faces&w=1552&h=873&fit=crop&v=1522090404&auto=format&q=92&s=a5f824cc6bd4cb17752fa0a00d740cf9" fallback="Tennibot: The World?s First Robotic Tennis Ball Collector"/></a></div>
+<div class="attachment"><h4>Tennibot: The World’s First Robotic Tennis Ball Collector</h4><div class="text">Autonomous &amp; intelligent robot saves players and coaches time by eliminating the tedious task of collecting tennis balls!</div>
+<a href="https://www.kickstarter.com/projects/770435035/tennibot-the-worlds-first-robotic-tennis-ball-coll"><img src="https://ksr-ugc.imgix.net/assets/020/677/032/f0bfed73a1832be0306c35e25190232d_original.jpg?crop=faces&w=1552&h=873&fit=crop&v=1522090404&auto=format&q=92&s=a5f824cc6bd4cb17752fa0a00d740cf9" fallback="Tennibot: The World’s First Robotic Tennis Ball Collector"/></a></div>
     
 </section>
 <section class="message" markdown="1">
@@ -70,28 +70,28 @@ Boten som vill inleda automatiseringseran genom att ers?tta alla v?rldens boll-K
 <div class="attachment"><h4>We made an iPhone app for those who have too many photos</h4><div class="text">Gemini Photos brings order to your Camera Roll by clearing similar photos, blurred ones, and other useless clutter. Check it out.</div>
 <a href="https://macpaw.com/blog/gemini-photos-release?ref=producthunt"><img src="https://cdn.macpaw.com/uploads/images/blogOG.jpg" fallback="We made an iPhone app for those who have too many photos"/></a></div>
     
-Hitta och ta bort liknande foton, suddiga foton etc p? din kamerarulle. 
-Inspiration till liknande funktioner som vi har pratat om f?r photo garden
+Hitta och ta bort liknande foton, suddiga foton etc på din kamerarulle. 
+Inspiration till liknande funktioner som vi har pratat om för photo garden
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 08:59 05s
 
-Provade appen precis. Otroligt bra resultat vid f?rsta anblicken!
+Provade appen precis. Otroligt bra resultat vid första anblicken!
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 09:58 51s
 
-n?n som provat `traceroute bad.horse`?
+nån som provat `traceroute bad.horse`?
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-24 09:59 03s
 
-Nej, vad h?nder om man g?r det?
+Nej, vad händer om man gör det?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 09:59 18s
 
-man g?r en trace route som blir en saga om en h?st typ ?
+man gör en trace route som blir en saga om en häst typ 🙂
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-24 09:59 27s
@@ -104,19 +104,19 @@ testar!
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 09:59 35s
 
-sv?rt att f?rklara,
-tar typ 10-20 steg innan du kommer till h?stgrejen
+svårt att förklara,
+tar typ 10-20 steg innan du kommer till hästgrejen
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-24 09:59 59s
 
-?
+🐴
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 10:00 09s
 
-varf?r, kan man undra
-hittade den i n?n twittertr?d som b?rjade med `curl parrot.live`
+varför, kan man undra
+hittade den i nån twittertråd som började med `curl parrot.live`
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-24 10:01 16s
@@ -126,28 +126,28 @@ vilken grej!
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 10:01 23s
 
-verkligen! ?
+verkligen! 🐧
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-24 10:01 23s
 
-kom till ber?ttelsen nu
-ska l?sa
-m?rkv?rdigt!
+kom till berättelsen nu
+ska läsa
+märkvärdigt!
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 10:03 45s
 
-ja, kul men v?ldigt m?rkv?rdigt ?
-suck, `telnet [http://towel.blinkenlights.nl|towel.blinkenlights.nl](http://towel.blinkenlights.nl|towel.blinkenlights.nl)` s? f?r man se hela star wars IV i asciiart
-eller hela och hela? n?n kortvariant
-Folk har f?r mycket tid, och kreativitet
+ja, kul men väldigt märkvärdigt 😄
+suck, `telnet [http://towel.blinkenlights.nl|towel.blinkenlights.nl](http://towel.blinkenlights.nl|towel.blinkenlights.nl)` så får man se hela star wars IV i asciiart
+eller hela och hela… nån kortvariant
+Folk har för mycket tid, och kreativitet
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-24 10:06 15s
 
-man f?r betrakta det som konstverk helt enkelt
-d? ?r det l?ttare att f?rst? ?
+man får betrakta det som konstverk helt enkelt
+då är det lättare att förstå 🙂
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 10:06 39s
@@ -157,49 +157,49 @@ absolut
 <section class="message" markdown="1">
 ### joakoles - 2018-05-24 17:55 21s
 
-Har n?n tips p? restaurang med afrikansk mat?
+Har nån tips på restaurang med afrikansk mat?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 19:43 24s
 
-Tyv?rr inte men ?r ocks? nyfiken p? vad du hittar f?r st?lle
+Tyvärr inte men är också nyfiken på vad du hittar för ställe
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-25 09:07 27s
 
-Afrikansk mat ?r nog lite v?l generellt skulle jag tro ?
+Afrikansk mat är nog lite väl generellt skulle jag tro 😉
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-25 10:11 49s
 
-Idag tr?der GDPR i kraft - har ni gjort n?gra takeouts eller forgetme-requests?
+Idag träder GDPR i kraft - har ni gjort några takeouts eller forgetme-requests?
 </section>
 <section class="message" markdown="1">
 ### johanhazelius - 2018-05-25 10:47 08s
 
-Pratade precis om det @oscarnylander. Inte provat ?nnu:)
+Pratade precis om det @oscarnylander. Inte provat ännu:)
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-25 11:01 21s
 
-haha vi pratade exakt om just bankerna @oscarnylander, du f?r ber?tta hur det g?r!
-fanns det ett formul?r att fylla i eller hur gjorde du?
-d? m?se man ju bara skicka en request till dem ?
+haha vi pratade exakt om just bankerna @oscarnylander, du får berätta hur det går!
+fanns det ett formulär att fylla i eller hur gjorde du?
+då måse man ju bara skicka en request till dem 😛
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-25 11:06 15s
 
-eller hur ?
-?
+eller hur 😉
+🔥
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-25 11:08 16s
 
-?
+💣
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-25 11:08 31s
 
-?
-det v?rsta tror jag ?r att ingen hade t?nkt aktivt p? det h?r om inte den senaste veckan hade varit 100% gdpr-mail
+😡
+det värsta tror jag är att ingen hade tänkt aktivt på det här om inte den senaste veckan hade varit 100% gdpr-mail
 </section>

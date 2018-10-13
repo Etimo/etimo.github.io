@@ -11,7 +11,7 @@ excerpt_separator: <!--excerpt-->
 <div class="attachment"><h4>BrandColors - official brand color hex codes</h4><div class="text">The biggest collection of official brand color codes around. Includes hex colors codes for 500+ brands including Facebook, Twitter, Instagram, and many more.</div>
 <a href="https://brandcolors.net/">BrandColors - official brand color hex codes</a></div>
     
-Perfekt n?r man ska ta fram hexkoder f?r olika loggor eller dylikt ?
+Perfekt när man ska ta fram hexkoder för olika loggor eller dylikt 🙂
 
 <!--excerpt-->
 </section>

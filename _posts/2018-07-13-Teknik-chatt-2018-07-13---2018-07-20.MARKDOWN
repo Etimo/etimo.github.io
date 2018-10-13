@@ -6,7 +6,7 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### daniel.winther - 2018-07-13 21:35 56s
 
-Vim f?rf?ljer mig ?ven p? semestern!
+Vim förföljer mig även på semestern!
 [https://rhysd.github.io/vim.wasm/](https://rhysd.github.io/vim.wasm/)
 </section>
 <section class="message" markdown="1">
@@ -17,20 +17,20 @@ hehe
 <section class="message" markdown="1">
 ### johanhazelius - 2018-07-13 22:48 13s
 
-? 
+👍 
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2018-07-14 13:32 46s
 
-?ntligen, snart kan jag k?ra ?ven vim som electron-app!
-Med det sagt verkar Webassembly riktigt kul som target, har spanat p? project-uno som fokuserar p? att anv?nda C# f?r Android, iPhone och Webassembly utveckling.
+Äntligen, snart kan jag köra även vim som electron-app!
+Med det sagt verkar Webassembly riktigt kul som target, har spanat på project-uno som fokuserar på att använda C# för Android, iPhone och Webassembly utveckling.
 [http://platform.uno/](http://platform.uno/)
 
 <div class="attachment"><h4>Uno</h4><div class="text">Build native apps for Mobile and Web using XAML and C#. Uno is a free UWP Bridge for iOS, Android and WebAssembly.</div>
 <a href="http://platform.uno/">Uno</a></div>
     
-Just UWP har r?tt coola s?tt att definiera responsiva appar, n?got som microsoft faktiskt spenderat tid p? iom deras ambition om convergence kring Windows 8.
-Men allvarligt s? kanske jag f?rs?ker f? till en electron-version av vim web-assembly, f?r varianten i git-bash har b?rjat g? mig p? nerverna.
+Just UWP har rätt coola sätt att definiera responsiva appar, något som microsoft faktiskt spenderat tid på iom deras ambition om convergence kring Windows 8.
+Men allvarligt så kanske jag försöker få till en electron-version av vim web-assembly, för varianten i git-bash har börjat gå mig på nerverna.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-07-14 13:39 13s
@@ -40,13 +40,13 @@ provat gvim antar jag?
 <section class="message" markdown="1">
 ### erik.malm - 2018-07-14 13:41 58s
 
-Har det installerat, men k?nns lite.. off. Sv?rt att kvantifiera varf?r.
-Funderar p? att b?rja leka med NeoVim, men inte riktigt hunnit dit ?nnu.
-N?men, n?men...
-Fr?n [https://rhysd.github.io/](https://rhysd.github.io/)
+Har det installerat, men känns lite.. off. Svårt att kvantifiera varför.
+Funderar på att börja leka med NeoVim, men inte riktigt hunnit dit ännu.
+Nämen, nämen...
+Från [https://rhysd.github.io/](https://rhysd.github.io/)
 NyaoVim
 Neovim Frontend built on Electron, Polymer and Flux
-?ntligen, 100% electron i mitt workflow!
+Äntligen, 100% electron i mitt workflow!
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2018-07-14 13:44 35s

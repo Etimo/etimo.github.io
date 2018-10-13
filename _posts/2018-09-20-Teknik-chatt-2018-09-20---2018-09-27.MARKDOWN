@@ -6,12 +6,12 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2018-09-20 23:10 06s
 
-Okej, p? skalan av coola project ?r GraalVM bland det ballaste jag sprungit p?. Skriv kod i flera olika spr?l, och l?t dem anropa varandra. Embedda Graalvm som interpeter i olika spr?k, lite som Jython eller JRuby men f?r allt fr?n R och Javascript till C++.
+Okej, på skalan av coola project är GraalVM bland det ballaste jag sprungit på. Skriv kod i flera olika språl, och låt dem anropa varandra. Embedda Graalvm som interpeter i olika språk, lite som Jython eller JRuby men för allt från R och Javascript till C++.
 
-Och sist men inte minst, ta denna oheliga skapelse och kompilera den till en bin?r ahead-of-time. 
+Och sist men inte minst, ta denna oheliga skapelse och kompilera den till en binär ahead-of-time. 
 
-Spenderade den sena kv?llen med att kompileraom gammal Java till bin?rer och det funkar. Fr?mst f?r ?ldre kod som inte anv?nder reflection men t.o.m. r?tt avancerade saker som sockets verkar fungera sm?rtfritt. 
-Jag ?r riktigt imponerad.
+Spenderade den sena kvällen med att kompileraom gammal Java till binärer och det funkar. Främst för äldre kod som inte använder reflection men t.o.m. rätt avancerade saker som sockets verkar fungera smärtfritt. 
+Jag är riktigt imponerad.
 
 [https://www.graalvm.org](https://www.graalvm.org)
 
