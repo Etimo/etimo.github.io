@@ -11,6 +11,17 @@ excerpt_separator: <!--excerpt-->
 <div class="attachment"><h4>KTH-forskare har byggt en bot som patchar kod lika bra som en människa</h4><div class="text">Repairnator hittar buggar och patchar koden lika bra och snabbt som en mänsklig utvecklare.</div>
 <a href="https://techworld.idg.se/2.2524/1.709232/bot-repairnator-patchar-kod"><div class="linkdiv"><img src="/assets/blogAssets/KTH-forskare har byggt en bot som patchar kod lika bra som en människa" fallback="KTH-forskare har byggt en bot som patchar kod lika bra som en människa"/></div></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-10-25 08:09 02s
+
+Okej, det där peket borde vi köra ett litteraturseminarium på.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-10-25 08:16 01s
+
+Upplägget påminner om en intelligent stackoverflow-autocomplete plugin jag hade för några år sen, eller statisk kodanalys som faktiskt patchar. 
+Extra coolt med tanke på hur många AI firmor som tydligen är lågavlönade på mechanical turk.
 
 <!--excerpt-->
 </section>
