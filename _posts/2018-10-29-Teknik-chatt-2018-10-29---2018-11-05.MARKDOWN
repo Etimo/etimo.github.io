@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2018-10-29 - 2018-11-05
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### william.vage - 2018-10-29 09:26 42s
+
+@william.vage has joined the channel
+
+<!--excerpt-->
+</section>
