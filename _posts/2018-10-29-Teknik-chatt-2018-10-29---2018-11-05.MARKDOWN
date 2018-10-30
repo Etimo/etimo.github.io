@@ -16,6 +16,11 @@ Det ser mörkt ut för Red Hat... [https://techcrunch.com/2018/10/28/ibm-to-buy-
 <div class="attachment"><h4>IBM to buy Red Hat for $34B in cash and debt, taking a bigger leap into hybrid cloud</h4><div class="text">After rumours flew around this weekend, IBM today confirmed that it would acquire open source, cloud software business Red Hat for $190 per share in cash, working out to a total value of $34 billion. IBM said the deal has already been approved by the boards of directors of both IBM and Red Hat but …</div>
 <a href="https://techcrunch.com/2018/10/28/ibm-to-buy-red-hat-for-34b-in-cash-and-debt-taking-a-bigger-leap-into-hybrid-cloud/?utm_medium=TCnewsletter"><img src="https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-184684731.jpg?w=599" fallback="IBM to buy Red Hat for $34B in cash and debt, taking a bigger leap into hybrid cloud"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-10-30 11:12 02s
+
+Såg det där och blev lätt deprimerad. Men för 34 miljarder dollar hade jag kanske också haft svårt att hålla emot.
 
 <!--excerpt-->
 </section>
