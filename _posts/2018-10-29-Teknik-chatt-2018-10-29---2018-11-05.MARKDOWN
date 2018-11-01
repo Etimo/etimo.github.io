@@ -31,6 +31,17 @@ Såg det där och blev lätt deprimerad. Men för 34 miljarder dollar hade jag k
 ### nicole.othman - 2018-10-31 07:52 38s
 
 @nicole.othman has joined the channel
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-11-01 19:09 33s
+
+Nån som använt nginx unit? Har helt missat och aldrig hört talas om men låter som en smidig och enkel applikationsserver för flera möjliga språk. 
+
+[https://www.nginx.com/products/nginx-unit/](https://www.nginx.com/products/nginx-unit/)
+
+<div class="attachment"><h4>NGINX Unit | NGINX</h4><div class="text">A new dynamic application server from NGINX. Supports Go, Node.js, Perl, PHP, Python, and Ruby.</div>
+<a href="https://www.nginx.com/products/nginx-unit/"><div class="linkdiv"><img src="/assets/blogAssets/NGINX Unit | NGINX" fallback="NGINX Unit | NGINX"/></div></a></div>
+    
 
 <!--excerpt-->
 </section>
