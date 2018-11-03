@@ -42,6 +42,17 @@ Nån som använt nginx unit? Har helt missat och aldrig hört talas om men låte
 <div class="attachment"><h4>NGINX Unit | NGINX</h4><div class="text">A new dynamic application server from NGINX. Supports Go, Node.js, Perl, PHP, Python, and Ruby.</div>
 <a href="https://www.nginx.com/products/nginx-unit/"><div class="linkdiv"><img src="/assets/blogAssets/NGINX Unit | NGINX" fallback="NGINX Unit | NGINX"/></div></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-11-03 18:32 52s
+
+Inte hört talas om alls, har du hunnit testa den för något än @daniel.winther? Deployar ett antal php appar hemma via vanliga Nginx och har aldrig riktigt uppskattat configen.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-11-03 18:38 04s
+
+Inte testat än men verkade väldigt smidigt. Har alltid gillat nginx men precis som du säger inte varit superförtjust i configen
+Återkommer om jag testar
 
 <!--excerpt-->
 </section>
