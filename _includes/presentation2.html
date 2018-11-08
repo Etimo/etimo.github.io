@@ -1,0 +1,23 @@
+<p>Tiden går fort och idag har {{ include.data.name }} jobbat 1 år på Etimo!</p>
+
+<img src="{{ include.data.image }}" style="float:left; border-radius: 50%; padding: 0 10px; max-width: 150px; max-height: 150px;">
+
+<h4>Hur har Etimo levt upp till dina förväntningar?</h4>
+{% for answer in include.data.answers[0] %}
+<p>{{ answer }}</p>
+{% endfor %}
+
+<h4>Berätta om ett kul uppdrag du har jobbat med på Etimo!</h4>
+{% for answer in include.data.answers[1] %}
+<p>{{ answer }}</p>
+{% endfor %}
+
+<h4>Vad är roligast med att jobba på Etimo?</h4>
+{% for answer in include.data.answers[2] %}
+<p>{{ answer }}</p>
+{% endfor %}
+
+<h4>Hur har du utvecklats sen du började på Etimo?</h4>
+{% for answer in include.data.answers[3] %}
+<p>{{ answer }}</p>
+{% endfor %}
