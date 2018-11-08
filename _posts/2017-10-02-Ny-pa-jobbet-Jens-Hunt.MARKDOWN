@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ny på Etimo - Jens Hunt
-tag: [featured,ny-pa-etimo]
+tag: [ny-pa-etimo]
 excerpt_separator: <!--excerpt-->
 ---
 
