@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2018-11-16 - 2018-11-23
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### pontus.luthin - 2018-11-16 16:34 21s
+
+@pontus.luthin has joined the channel
+
+<!--excerpt-->
+</section>
