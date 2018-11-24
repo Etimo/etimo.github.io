@@ -7,6 +7,11 @@ excerpt_separator: <!--excerpt-->
 ### johanhazelius - 2018-11-23 16:21 05s
 
 Vi tackar Datasektionen vid Linköpings Tekniska Högskola för en trevlig pubkväll!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-11-24 02:19 35s
+
+Ledsen att ha missat den, men det blir nog fler.
 
 <!--excerpt-->
 </section>
