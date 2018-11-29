@@ -27,6 +27,11 @@ Alla som hållt på med .net lär tycka detta är kul: [https://www.gofundme.com
 <div class="attachment"><h4>Click here to support Jon Skeet reading the C# 6 spec by the fire organised by Jonathan Skeet</h4><div class="text">As requested by Barry Dorrans, I will read some of the C# 6 draft specification out loud in my living room, by the fire (well, stove) and in a rocking chair, wearing something as close to a 70s cardigan as I can find. The C# spec is huge. I'm not going to read all of it, but I promise to read fo...</div>
 <a href="https://www.gofundme.com/jon-skeet-reading-the-c-6-spec-by-the-fire"><img src="https://d2g8igdw686xgo.cloudfront.net/34951560_1543502450281799_r.jpeg" fallback="Click here to support Jon Skeet reading the C# 6 spec by the fire organised by Jonathan Skeet"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-11-29 19:53 33s
+
+Är Jon Skeet någon man känner till i Dotnet världen?
 
 <!--excerpt-->
 </section>
