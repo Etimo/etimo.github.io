@@ -1,0 +1,23 @@
+---
+layout: post
+title: Teknik-chatt 2018-11-28 - 2018-12-05
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2018-11-28 21:35 07s
+
+[https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies](https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies)
+
+<div class="attachment"><h4>The rise of 'pseudo-AI': how tech firms quietly use humans to do bots' work</h4><div class="text">Using what one expert calls a ‘Wizard of Oz technique’, some companies keep their reliance on humans a secret from investors</div>
+<a href="https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies"><img src="https://i.guim.co.uk/img/media/dd988ca35ee7f58bbc6217148c8a1492785aed4e/0_95_5758_3454/master/5758.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=c8d13e1f6d00ad6a61596ebfd0632198" fallback="The rise of 'pseudo-AI': how tech firms quietly use humans to do bots' work"/></a></div>
+    
+Den här är lite äldre, men rätt fascinerande värld. Både företagen som kör låtsas AI och den kultur som finn kring mikrogig på t.ex. mechanical turk.
+Step one: Start AI Company, step two: Wait for AI to be invented.
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-11-28 21:38 13s
+
+Snacka om Buzz-word...
+
+<!--excerpt-->
+</section>
