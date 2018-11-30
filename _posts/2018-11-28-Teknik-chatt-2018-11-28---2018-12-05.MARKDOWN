@@ -37,6 +37,20 @@ Alla som hållt på med .net lär tycka detta är kul: [https://www.gofundme.com
 ### jens.hunt - 2018-11-30 09:00 37s
 
 Ja
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-11-30 10:10 59s
+
+Är han Skeet-bra?
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-11-30 10:39 45s
+
+Ja det är precis det han @erik.malm! Här är ett Skeet-bra exempel: [https://stackoverflow.com/a/6841479/3563677](https://stackoverflow.com/a/6841479/3563677)
+
+<div class="attachment"><h4>Why is subtracting these two times (in 1927) giving a strange result?</h4><div class="text">If I run the following program, which parses two date strings referencing times 1 second apart and compares them: public static void main(String[] args) throws ParseException { SimpleDateForma...</div>
+<a href="https://stackoverflow.com/a/6841479/3563677"><div class="linkdiv"><img src="/assets/blogAssets/Why is subtracting these two times (in 1927) giving a strange result?" fallback="Why is subtracting these two times (in 1927) giving a strange result?"/></div></a></div>
+    
 
 <!--excerpt-->
 </section>
