@@ -32,6 +32,11 @@ Alla som hållt på med .net lär tycka detta är kul: [https://www.gofundme.com
 ### erik.malm - 2018-11-29 19:53 33s
 
 Är Jon Skeet någon man känner till i Dotnet världen?
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-11-30 09:00 37s
+
+Ja
 
 <!--excerpt-->
 </section>
