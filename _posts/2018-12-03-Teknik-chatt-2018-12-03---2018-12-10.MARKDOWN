@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2018-12-03 - 2018-12-10
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2018-12-03 18:41 46s
+
+För oss som devopsar så har Amazon nyligen presenterat något riktigt coolt, MicroVMs baserade på KVM med med uppstartstider kring en tiondels sekund och densiteter som liknar containers.
+[https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/](https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/)
+
+<div class="attachment"><h4>Announcing the Firecracker Open Source Technology: Secure and Fast microVM for Serverless Computing | Amazon Web Services</h4><div class="text">New Challenges for Virtualization Today, our customers can use serverless computing to build applications without worrying about provisioning or managing infrastructure. Developers can package their code as serverless containers with AWS Fargate or serverless functions with AWS Lambda. Our customers tell us they love the low operational overhead of serverless, and we believe it will […]</div>
+<a href="https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/"><img src="https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2018/11/24/Firecracker-logo-1260x314.png" fallback="Announcing the Firecracker Open Source Technology: Secure and Fast microVM for Serverless Computing | Amazon Web Services"/></a></div>
+    
+
+<!--excerpt-->
+</section>
