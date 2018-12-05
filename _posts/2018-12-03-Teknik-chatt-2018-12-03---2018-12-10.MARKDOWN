@@ -21,6 +21,17 @@ För oss som devopsar så har Amazon nyligen presenterat något riktigt coolt, M
 <div class="attachment"><h4>Announcing WPF, WinForms, and WinUI are going Open Source</h4><div class="text">Buckle up friends! Microsoft is open sourcing WPF, Windows Forms (winforms), and WinUI, so the three major Windows UX ...</div>
 <a href="https://www.hanselman.com/blog/AnnouncingWPFWinFormsAndWinUIAreGoingOpenSource.aspx">Announcing WPF, WinForms, and WinUI are going Open Source</a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-12-05 16:39 16s
+
+Det är ju lite coolt, men jag kommer nog att fortsätta känna antipati av bara farten.
+Men om GUI bitarna faktiskt portas någon annanstans än windows skulle det vara praktiskt, att licenciera QT om man inte skriver öppna saker är galet dyrt.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-12-05 17:28 51s
+
+är inte QT LGPL numera?
 
 <!--excerpt-->
 </section>
