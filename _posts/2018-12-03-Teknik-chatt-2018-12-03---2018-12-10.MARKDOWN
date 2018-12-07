@@ -32,6 +32,25 @@ Men om GUI bitarna faktiskt portas någon annanstans än windows skulle det vara
 ### teo.roijezon - 2018-12-05 17:28 51s
 
 är inte QT LGPL numera?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-12-07 07:55 27s
+
+Japp, om du hamnar utanför LGPL sfären (eller bara är orolig för att göra det) är licensen rejält, rejält dyr dock med licensiering per utvecklare. Licenser kring devices är också väldigt udda och officiellt bara kommersiella. Har även hört historier där QTs licensteam argumenterar för att t.e.x datorer som bara kör en mjukvara ibland ska ses som embedded . Rätt ofta köper man licenser bara för att undvika risken för att hamna i konflikt med GPL i de diskussioner jag sett kring det.
+
+"Selling exceptions to the GPL" är ett av de sätt att tjäna pengar på fri mjukvara som Richard Stallman är okej med, och det känns lite som att QT optimerar mot den.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-12-07 07:58 53s
+
+jo, men du är väl ok under LGPL så länge du inte länkar det statiskt (eller tivoiserar)
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-12-07 08:07 35s
+
+så borde det vara, som sagt verkar det inte alltid ges tydliga besked om det från QT. En dator som kör enbart en mjukvara borde inte räknas som tivoisation i min mening t.ex.
+Verkar också svårt att få QT att förtydliga policies om man är en mindre kund. Med det sagt så gillar jag QT skarpt.
+Men .net core kör MIT licens, så om även GUI bitarna kör på det kan det potentiellt eventuellt bli användbart.
 
 <!--excerpt-->
 </section>
