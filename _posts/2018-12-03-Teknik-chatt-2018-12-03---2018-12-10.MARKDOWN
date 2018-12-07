@@ -51,6 +51,18 @@ jo, men du är väl ok under LGPL så länge du inte länkar det statiskt (eller
 så borde det vara, som sagt verkar det inte alltid ges tydliga besked om det från QT. En dator som kör enbart en mjukvara borde inte räknas som tivoisation i min mening t.ex.
 Verkar också svårt att få QT att förtydliga policies om man är en mindre kund. Med det sagt så gillar jag QT skarpt.
 Men .net core kör MIT licens, så om även GUI bitarna kör på det kan det potentiellt eventuellt bli användbart.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-12-07 17:39 32s
+
+Råkade snubbla över denna sida:
+[http://oraclemine.com/sql-query-solved-sudoku-seconds/](http://oraclemine.com/sql-query-solved-sudoku-seconds/)
+
+En sqlfråga som löser sudokus (av godtycklig svårighetsgrad). Jag blev imponerad, sjukt imponerad! 
+
+<div class="attachment"><h4>This Single SQL Query Solved My Sudoku In Seconds</h4><div class="text">A single SQL query that solved my Sudoku in seconds. You don't believe it right? Then come check it out. You will be amazed by power of SQL.</div>
+<a href="http://oraclemine.com/sql-query-solved-sudoku-seconds/"><img src="http://oraclemine.com/wp-content/uploads/2018/02/This-SQL-query-solved-my-sudoku-in-seconds.jpg" fallback="This Single SQL Query Solved My Sudoku In Seconds"/></a></div>
+    
 
 <!--excerpt-->
 </section>
