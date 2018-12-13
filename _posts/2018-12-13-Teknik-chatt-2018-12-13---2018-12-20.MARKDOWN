@@ -25,6 +25,18 @@ Finns också en uppföljare som är mer moderniserad där man får lära sig par
 ### erik.malm - 2018-12-13 11:08 29s
 
 Gillat deras andra saker, så ska shoppa in för dagens resa norrut.
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-12-13 16:57 18s
+
+Jag borde också testa!
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-12-13 17:08 49s
+
+och sen är det dags att gå igenom hela Zachtronics spelkatalog 😄
+[http://www.zachtronics.com/](http://www.zachtronics.com/)
+(fast tyvärr finns bara SpaceChem i mobilvariant, såvitt jag vet)
 
 <!--excerpt-->
 </section>
