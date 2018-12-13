@@ -1,0 +1,30 @@
+---
+layout: post
+title: Teknik-chatt 2018-12-13 - 2018-12-20
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2018-12-13 09:38 16s
+
+Tips om man gillar att spela på mobilen:
+Human Resource Machine av Experimental Gameplay Group [https://itunes.apple.com/se/app/human-resource-machine/id1005098334?mt=8](https://itunes.apple.com/se/app/human-resource-machine/id1005098334?mt=8)
+
+Spel för programmerare. Riktigt kul och med mycket humor!
+
+<div class="attachment"><h4>‎Human Resource Machine</h4><div class="text">‎Programmera små arbetare att lösa problem. Var en god anställd! Maskinerna är på väg... att ta över ditt jobb. - Included in the 'App Store Best of 2016'. - A worldwide App Store Editors’ Choice. - Winner of Excellence in Innovation by the International Mobile Gaming Awards. Human Resource Machi…</div>
+<a href="https://itunes.apple.com/se/app/human-resource-machine/id1005098334?mt=8"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/88/58/09/88580947-c083-aace-cedd-6e4ed70871ab/AppIcon-0-1x_U007emarketing-0-85-220-7.png/1200x630wa.png" fallback="‎Human Resource Machine"/></a></div>
+    
+Finns också en uppföljare som är mer moderniserad där man får lära sig parallell programmering och lite annat 😊
+7 Billion Humans av Experimental Gameplay Group [https://itunes.apple.com/se/app/7-billion-humans/id1393923918?mt=8](https://itunes.apple.com/se/app/7-billion-humans/id1393923918?mt=8)
+
+<div class="attachment"><h4>‎7 Billion Humans</h4><div class="text">‎Automate swarms of office workers to solve puzzles inside your very own parallel computer made of people. A thrilling followup to the award winning Human Resource Machine. Now with more humans! THRILLING FEATURES! - More puzzles, more humans, more rippling brain muscles - over 60+ levels of progr…</div>
+<a href="https://itunes.apple.com/se/app/7-billion-humans/id1393923918?mt=8"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/b2/55/9c/b2559c17-4554-c833-845c-2505bc91b987/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/1200x630wa.png" fallback="‎7 Billion Humans"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-12-13 11:08 29s
+
+Gillat deras andra saker, så ska shoppa in för dagens resa norrut.
+
+<!--excerpt-->
+</section>
