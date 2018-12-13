@@ -37,6 +37,27 @@ Jag borde också testa!
 och sen är det dags att gå igenom hela Zachtronics spelkatalog 😄
 [http://www.zachtronics.com/](http://www.zachtronics.com/)
 (fast tyvärr finns bara SpaceChem i mobilvariant, såvitt jag vet)
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-12-13 21:47 03s
+
+Jag provade 'Human Resource Machine' och gillar det! Väl spenderade pengar för din resa norrut @erik.malm 🙂
+Rekommenderar du något specifikt i Zachtronics spelkatalog @teo.roijezon?
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-12-13 21:53 52s
+
+Shenzhen IO och TIS-100 tar "flödesprogrammering" (tänk Rx) till sin spets, skulle rekommendera att börja med Shenzhen här eftersom det är något mer polerat
+(TIS-100 var också en stor inspiration till mitt exjobb)
+Exapunks är samma koncept för actors
+Opus Magnum, Infinifactory, och SpaceChem är mer visuella varianter, om [https://www.youtube.com/watch?v=Kp62YVtejiY](https://www.youtube.com/watch?v=Kp62YVtejiY) gör dig sugen på att bygga så ska du definitivt prova dom
+
+<div class="attachment"><h4>World's Longest LEGO Great Ball Contraption! Brickworld Chicago 2018</h4><div class="text"></div>
+<a href="https://www.youtube.com/watch?v=Kp62YVtejiY"><div class="linkdiv"><img src="/assets/blogAssets/World's Longest LEGO Great Ball Contraption! Brickworld Chicago 2018" fallback="World's Longest LEGO Great Ball Contraption! Brickworld Chicago 2018"/></div></a></div>
+    
+skulle säga att Opus Magnum är HRM på steroider, med ett något bättre gränssnitt för att ändra koden i efterhand
+(även om inget kan konkurrera med goda gamla Vim 😄)
+skulle rekommendera att spela igenom den serien i den ordningen, med tanke på både polering och svårighetsgrad
 
 <!--excerpt-->
 </section>
