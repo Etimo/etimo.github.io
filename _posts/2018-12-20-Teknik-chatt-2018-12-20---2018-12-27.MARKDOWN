@@ -1,0 +1,13 @@
+---
+layout: post
+title: Teknik-chatt 2018-12-20 - 2018-12-27
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### teo.roijezon - 2018-12-20 23:26 01s
+
+[https://github.com/hercules-ci/arion](https://github.com/hercules-ci/arion) verkar intressant för dev..
+docker-compose som bind-mountar /nix/store istf att kopiera in allt i containern
+
+<!--excerpt-->
+</section>
