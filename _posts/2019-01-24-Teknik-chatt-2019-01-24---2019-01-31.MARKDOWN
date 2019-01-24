@@ -1,0 +1,20 @@
+---
+layout: post
+title: Teknik-chatt 2019-01-24 - 2019-01-31
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-01-24 12:51 35s
+
+Så vad händer med containern om jag updaterar mitt nix-repo? 
+Eller utgår vi från immutable och välversionerade paket?
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-01-24 13:12 47s
+
+nix-paket är alltid immutable i /nix/store
+det enda som kan hända är att paketet raderas om inget refererar till det (genom att du kör `nix-collect-garbage`)
+versioneringen sköts automatiskt genom att all input till paketet hashas ihop
+
+<!--excerpt-->
+</section>
