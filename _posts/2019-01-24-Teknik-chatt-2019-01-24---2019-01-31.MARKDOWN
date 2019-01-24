@@ -15,6 +15,13 @@ Eller utgår vi från immutable och välversionerade paket?
 nix-paket är alltid immutable i /nix/store
 det enda som kan hända är att paketet raderas om inget refererar till det (genom att du kör `nix-collect-garbage`)
 versioneringen sköts automatiskt genom att all input till paketet hashas ihop
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-01-24 15:25 24s
+
+Kul, med de förutsättningarna är det en smart lösning, även om det lägger en extern dependency på docker. Körde en vända med Nix på min nya server. Det höll två dar innan apt-atin blev för stor, men jag kommer nog att köra ett par installationer innan alla diskar levereras så vi får se.  
+
+Uppskattar att kunna versionera hela serverns config enkelt.
 
 <!--excerpt-->
 </section>
