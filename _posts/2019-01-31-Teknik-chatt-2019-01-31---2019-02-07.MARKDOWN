@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2019-01-31 - 2019-02-07
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### jakob.huss89 - 2019-01-31 13:42 57s
+
+@jakob.huss89 has joined the channel
+
+<!--excerpt-->
+</section>
