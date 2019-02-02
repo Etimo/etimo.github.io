@@ -7,6 +7,17 @@ excerpt_separator: <!--excerpt-->
 ### jakob.huss89 - 2019-01-31 13:42 57s
 
 @jakob.huss89 has joined the channel
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-02-02 19:58 20s
+
+[https://www.zdnet.com/article/unsecured-mongodb-databases-expose-kremlins-backdoor-into-russian-businesses/](https://www.zdnet.com/article/unsecured-mongodb-databases-expose-kremlins-backdoor-into-russian-businesses/)
+
+<div class="attachment"><h4>Unsecured MongoDB databases expose Kremlin's backdoor into Russian businesses | ZDNet</h4><div class="text">"<mailto:Admin@kremlin.ru|Admin@kremlin.ru>" account spotted on thousands of Russian-linked, internet-exposed MongoDB databases.</div>
+<a href="https://www.zdnet.com/article/unsecured-mongodb-databases-expose-kremlins-backdoor-into-russian-businesses/"><img src="https://zdnet1.cbsistatic.com/hub/i/r/2018/08/07/dc9784ce-17ee-46f0-af52-70d30f6801b5/thumbnail/770x578/514c0c681f998945bb88e205d1032967/kremlinistock-693404290.jpg" fallback="Unsecured MongoDB databases expose Kremlin's backdoor into Russian businesses | ZDNet"/></a></div>
+    
+Jag älskar Mongo, men defaulten att allt är helt öppet har gett många huvudvärker. Nu senast Kreml som inte orkat göra sin setup ordentligt.
+För övrigt är det svenska ordet för default "skönvärde". Tror ni att det är för sent att få ut det i cirkulation?
 
 <!--excerpt-->
 </section>
