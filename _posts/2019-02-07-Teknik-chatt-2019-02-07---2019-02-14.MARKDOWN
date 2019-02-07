@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2019-02-07 - 2019-02-14
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### jens.hunt - 2019-02-07 09:58 53s
+
+Swetugg dag 1: Har börjat morgonen med en dragning om testdriven utveckling för teams.     Var bland annat vissa bildliga beskrivningar om att jobba i legacy som jag kunde relatera hårt till. 
+
+<!--excerpt-->
+</section>
