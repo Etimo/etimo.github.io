@@ -7,6 +7,11 @@ excerpt_separator: <!--excerpt-->
 ### jens.hunt - 2019-02-07 09:58 53s
 
 Swetugg dag 1: Har börjat morgonen med en dragning om testdriven utveckling för teams.     Var bland annat vissa bildliga beskrivningar om att jobba i legacy som jag kunde relatera hårt till. 
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-02-08 07:02 58s
+
+Kul! Fick skippa JFokus p.g.a. saker att göra så får leve i andra hand genom er.
 
 <!--excerpt-->
 </section>
