@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2019-02-15 - 2019-02-22
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2019-02-15 08:29 11s
+
+Stor dag idag!
+
+<!--excerpt-->
+</section>
