@@ -7,6 +7,11 @@ excerpt_separator: <!--excerpt-->
 ### daniel.winther - 2019-02-15 08:29 11s
 
 Stor dag idag!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-02-15 19:18 35s
+
+Den höll ut längre än jag hade gissat. R.I.P.
 
 <!--excerpt-->
 </section>
