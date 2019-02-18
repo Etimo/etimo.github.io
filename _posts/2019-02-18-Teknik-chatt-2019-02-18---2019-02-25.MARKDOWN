@@ -1,0 +1,36 @@
+---
+layout: post
+title: Teknik-chatt 2019-02-18 - 2019-02-25
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### teo.roijezon - 2019-02-18 15:35 44s
+
+testmeddelande
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-02-18 15:55 20s
+
+Ojdå: [https://computersweden.idg.se/2.2683/1.714790/1177-lackan-integritetshaveri](https://computersweden.idg.se/2.2683/1.714790/1177-lackan-integritetshaveri)
+
+<div class="attachment"><h4>Värsta svenska integritetshaveriet i mannaminne</h4><div class="text">Omfattningen av haveriet är nästan ofattbart. Nu måste 1177-läckan utredas grundligt, skriver Computer Swedens chefredaktör Marcus Jerräng.</div>
+<a href="https://computersweden.idg.se/2.2683/1.714790/1177-lackan-integritetshaveri"><div class="linkdiv"><img src="/assets/blogAssets/Värsta svenska integritetshaveriet i mannaminne" fallback="Värsta svenska integritetshaveriet i mannaminne"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-02-18 15:56 38s
+
+VD: "Det är omöjligt", och lägger på luren. Stadigt...
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-02-18 15:56 53s
+
+Ja, haha, det var en annorlunda kommentar
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-02-18 16:07 01s
+
+ouch
+
+<!--excerpt-->
+</section>
