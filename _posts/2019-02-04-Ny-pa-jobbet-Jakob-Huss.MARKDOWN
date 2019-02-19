@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ny på Etimo - Jakob Huss
-tag: [ny-pa-etimo]
+tag: [featured,ny-pa-etimo]
 excerpt_separator: <!--excerpt-->
 ---
 

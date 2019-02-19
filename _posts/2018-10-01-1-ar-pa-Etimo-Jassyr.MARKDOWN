@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1 år på Etimo - Jassyr Bravo
-tag: [featured,1-ar-pa-etimo]
+tag: [1-ar-pa-etimo]
 image: /assets/img/jassyromar2.jpg
 excerpt_separator: <!--excerpt-->
 ---
