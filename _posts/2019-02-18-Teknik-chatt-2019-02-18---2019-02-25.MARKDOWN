@@ -31,6 +31,16 @@ Ja, haha, det var en annorlunda kommentar
 ### teo.roijezon - 2019-02-18 16:07 01s
 
 ouch
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-02-20 09:33 14s
+
+SSF slår på dom som ligger ner.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-02-20 10:22 28s
+
+Haha, too low?
 
 <!--excerpt-->
 </section>
