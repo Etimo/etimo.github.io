@@ -41,6 +41,11 @@ SSF slår på dom som ligger ner.
 ### daniel.winther - 2019-02-20 10:22 28s
 
 Haha, too low?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-02-21 08:17 56s
+
+Aldrig för lågt.
 
 <!--excerpt-->
 </section>
