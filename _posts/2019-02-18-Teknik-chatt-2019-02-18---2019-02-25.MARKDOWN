@@ -46,6 +46,11 @@ Haha, too low?
 ### erik.malm - 2019-02-21 08:17 56s
 
 Aldrig för lågt.
+</section>
+<section class="message" markdown="1">
+### johan.ahrens - 2019-02-23 18:24 56s
+
+@johan.ahrens has joined the channel
 
 <!--excerpt-->
 </section>
