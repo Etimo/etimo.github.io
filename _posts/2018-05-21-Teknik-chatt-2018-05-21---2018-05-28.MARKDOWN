@@ -98,8 +98,6 @@ man gör en trace route som blir en saga om en häst typ 🙂
 
 :thinking_face:
 testar!
-
-<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 09:59 35s
@@ -158,6 +156,8 @@ absolut
 ### joakoles - 2018-05-24 17:55 21s
 
 Har nån tips på restaurang med afrikansk mat?
+
+<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-24 19:43 24s

@@ -9,6 +9,12 @@ excerpt_separator: <!--excerpt-->
 Stor skillnad i hur moderna bankerna vågar vara i sin framtoning och copy i sina appar. Avanza lanserade just en stor uppdatering av sin app och skriver följande i sin uppdateringstext:
 
 
+<div class="imageblock">
+<a href="/assets/blogAssets/FGH65FL72-Image_from_iOS.png">
+<img alt="Image from iOS.png" src="/assets/blogAssets/thumbnail-FGH65FL72-Image_from_iOS.png"/>
+</a></div>
+
+     
 Kul, tycker jag! Att man tillåter sig att vara rolig, inte helt vanligt i bankvärlden annars kanske...
 </section>
 <section class="message" markdown="1">

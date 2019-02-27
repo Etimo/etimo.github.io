@@ -35,7 +35,13 @@ ouch
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-02-20 09:33 14s
 
-SSF slår på dom som ligger ner.
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FGBHXAQ5A-fo0tjq89rjh21.jpeg">
+<img alt="fo0tjq89rjh21.jpeg" src="/assets/blogAssets/thumbnail-FGBHXAQ5A-fo0tjq89rjh21.jpeg"/>
+</a></div>
+
+     
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-02-20 10:22 28s

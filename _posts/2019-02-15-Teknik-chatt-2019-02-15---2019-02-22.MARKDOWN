@@ -6,7 +6,13 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### daniel.winther - 2019-02-15 08:29 11s
 
-Stor dag idag!
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FG7SKTZL2-Image_from_iOS.png">
+<img alt="Image from iOS.png" src="/assets/blogAssets/thumbnail-FG7SKTZL2-Image_from_iOS.png"/>
+</a></div>
+
+     
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-02-15 19:18 35s

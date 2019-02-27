@@ -94,8 +94,6 @@ jag har ganska begränsad kunskap men gör mitt bästa:
 ### daniel.winther - 2018-05-18 10:10 02s
 
 och hur man förhindrar DDOS
-
-<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### oscarnylander - 2018-05-18 10:10 14s
@@ -154,6 +152,8 @@ haha
 ### erik.malm - 2018-05-18 12:32 41s
 
 Varför skrattar du Daniel? Vår herre Vim har äntligen återvänt.
+
+<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-18 12:34 32s

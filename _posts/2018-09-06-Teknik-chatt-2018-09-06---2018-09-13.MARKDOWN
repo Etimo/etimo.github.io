@@ -84,8 +84,6 @@ Jaha, jag kopplade inte. Eventuellt pga att det var en tjej som skrivit det och 
 Ahhh, ett enkelt pronomen kan ha sabbat en bra ordvits. Bittert.
 Men mer på JS sidan har jag just upptäckt att Window objektet i chrome numera har ett "performance" object som lagrar hastighetsinfo om anrop och svar. Det går att tagga dem genom att låta servern inkludera "performance" headers i svaret från servern också.
 Sjukt robust funktionalitet som jag inte haft en aning om det inte vore för en av många kodpoddar.
-
-<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### jens.hunt - 2018-09-06 18:42 28s
@@ -139,6 +137,8 @@ Har lyssnat på utmaningarna i implementation av multitrådning i node som komme
 ### erik.malm - 2018-09-07 11:29 51s
 
 Fasen, får se om jag sätter den på konferensschemat nästa år.
+
+<!--excerpt-->
 </section>
 <section class="message" markdown="1">
 ### jens.hunt - 2018-09-07 12:31 07s
