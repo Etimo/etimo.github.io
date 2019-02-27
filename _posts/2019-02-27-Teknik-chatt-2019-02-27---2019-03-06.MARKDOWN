@@ -10,6 +10,11 @@ Stor skillnad i hur moderna bankerna vågar vara i sin framtoning och copy i sin
 
 
 Kul, tycker jag! Att man tillåter sig att vara rolig, inte helt vanligt i bankvärlden annars kanske...
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-02-27 09:47 26s
+
+De ser ut att ha tagit inspiration från Discord. De har varit "vimsiga" i sina patch-notes sen urminnes tider 🙂 Mycket bättre än "Performance and bug fixes" som står på 99% av alla uppdateringar man får.
 
 <!--excerpt-->
 </section>
