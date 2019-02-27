@@ -1,0 +1,15 @@
+---
+layout: post
+title: Teknik-chatt 2019-02-27 - 2019-03-06
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2019-02-27 05:57 10s
+
+Stor skillnad i hur moderna bankerna vågar vara i sin framtoning och copy i sina appar. Avanza lanserade just en stor uppdatering av sin app och skriver följande i sin uppdateringstext:
+
+
+Kul, tycker jag! Att man tillåter sig att vara rolig, inte helt vanligt i bankvärlden annars kanske...
+
+<!--excerpt-->
+</section>
