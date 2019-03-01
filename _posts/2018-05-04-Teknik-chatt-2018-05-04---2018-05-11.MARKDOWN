@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2018-05-04 - 2018-05-11
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2018-05-04 05:03 34s
+
+Ok, dags att byta bransch, flytta ut i skogen och leva på svampplockning. Det här med datorer är uppenbarligen ett misstag.
+
+<!--excerpt-->
+</section>
