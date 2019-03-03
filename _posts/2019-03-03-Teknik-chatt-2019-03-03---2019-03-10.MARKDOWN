@@ -1,0 +1,19 @@
+---
+layout: post
+title: Teknik-chatt 2019-03-03 - 2019-03-10
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2019-03-03 11:26 03s
+
+Håller med @lukas.lindqvist!
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FGM4Q494H-image.png">
+<img alt="image.png" src="/assets/blogAssets/thumbnail-FGM4Q494H-image.png"/>
+</a></div>
+
+     
+
+<!--excerpt-->
+</section>
