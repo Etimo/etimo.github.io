@@ -63,6 +63,14 @@ En sqlfråga som löser sudokus (av godtycklig svårighetsgrad). Jag blev impone
 <div class="attachment"><h4>This Single SQL Query Solved My Sudoku In Seconds</h4><div class="text">A single SQL query that solved my Sudoku in seconds. You don't believe it right? Then come check it out. You will be amazed by power of SQL.</div>
 <a href="http://oraclemine.com/sql-query-solved-sudoku-seconds/"><img src="http://oraclemine.com/wp-content/uploads/2018/02/This-SQL-query-solved-my-sudoku-in-seconds.jpg" fallback="This Single SQL Query Solved My Sudoku In Seconds"/></a></div>
     
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles reacted this way." class="reactionSpan">
+👌x1</span>
+</div>
+     
+      </div>
+    
 
 <!--excerpt-->
 </section>

@@ -38,7 +38,7 @@ ouch
 
 <div class="imageblock">
 <a href="/assets/blogAssets/FGBHXAQ5A-fo0tjq89rjh21.jpeg">
-<img alt="fo0tjq89rjh21.jpeg" src="/assets/blogAssets/thumbnail-FGBHXAQ5A-fo0tjq89rjh21.jpeg"/>
+<img alt="fo0tjq89rjh21.jpeg" src="/assets/blogAssets/FGBHXAQ5A-fo0tjq89rjh21.jpeg"/>
 </a></div>
 
      

@@ -10,7 +10,7 @@ Håller med @lukas.lindqvist!
 
 <div class="imageblock">
 <a href="/assets/blogAssets/FGM4Q494H-image.png">
-<img alt="image.png" src="/assets/blogAssets/thumbnail-FGM4Q494H-image.png"/>
+<img alt="image.png" src="/assets/blogAssets/FGM4Q494H-image.png"/>
 </a></div>
 
      
@@ -23,7 +23,7 @@ WaPos betalvägg är ganska "intressant" också..
 
 <div class="imageblock">
 <a href="/assets/blogAssets/FGMLD9LSG-image.png">
-<img alt="image.png" src="/assets/blogAssets/thumbnail-FGMLD9LSG-image.png"/>
+<img alt="image.png" src="/assets/blogAssets/FGMLD9LSG-image.png"/>
 </a></div>
 
      
@@ -60,6 +60,14 @@ Fortsättning från vår senaste diskussion @pontus.luthin gällande elsparkcykl
 
 Känns som att vår tes ändå stämde, ganska komiskt att då Voi fått investering på 500 milj av stora aktörer på investeringsmarknaden, känns som att dem gett pengar i blindo utan att faktiskt ens räkna på vad intäkterna och kostnaderna skulle kunna vara 
 Men antar att fortsättning följer...ska bli spännande att se hur dem vänder till lönsamhet @daniel.winther 
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="daniel.winther reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     
+      </div>
+    
 
 <!--excerpt-->
 </section>

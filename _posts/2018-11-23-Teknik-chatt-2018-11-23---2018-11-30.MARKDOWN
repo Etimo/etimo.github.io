@@ -9,7 +9,7 @@ excerpt_separator: <!--excerpt-->
 
 <div class="imageblock">
 <a href="/assets/blogAssets/FEALKTC3V-Studentevent_LIU_-_20181121.jpg">
-<img alt="Studentevent LIU - 20181121.jpg" src="/assets/blogAssets/thumbnail-FEALKTC3V-Studentevent_LIU_-_20181121.jpg"/>
+<img alt="Studentevent LIU - 20181121.jpg" src="/assets/blogAssets/FEALKTC3V-Studentevent_LIU_-_20181121.jpg"/>
 </a></div>
 
      

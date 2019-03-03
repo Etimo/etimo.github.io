@@ -25,6 +25,14 @@ Man ska dock inte missa detta: "Vad Europaparlamentet i dag har röstat om var a
 Känns långt ifrån betryggande i alla fall. I mina ögon förlorade copyrighten sin legitimitet iom den numera absurda längden på upphosvmannens livslängd + 90 år (i vissa fall 70, i andra fall 100). Conan Doyle dog 1930 och Sherlock Holmes skulle med nuvarande regler ha copyright till år 2020. Någon som känner för att populera en content-id databas med allt som produceras i år och ha koll på det 150 år framåt?
 Sättet copyright-takedown notiser redan idag används som en ren konkurrensmetod är också obehaglig, att kunna monetisera länkar kommer kommer knappast att leda till ett mer resonabelt sådant.
 Viljan att rädda lokala tidningar från globala aggregeringstjänster är begriplig, men det här kan fortfarande gå ganska illa.
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="teo.roijezon, johanhazelius reacted this way." class="reactionSpan">
+👍x2</span>
+</div>
+     
+      </div>
+    
 </section>
 <section class="message" markdown="1">
 ### jens.hunt - 2018-09-13 18:38 33s
@@ -33,6 +41,14 @@ Svt har gjort en riktigt häftig visualisering av valresultatet: [https://www.sv
 
 <div class="attachment"><h4>Så röstade svenskarna</h4><div class="text">Titta och utforska själv: Följ med på en djupdykning i Sveriges 6004 valdistrikt för att titta närmare på hur svenska folket har röstat runt om i landet och hur det hör samman med till exempel inkomst och utbildningsnivå.</div>
 <a href="https://www.svt.se/special/sa-rostade-svenskarna/"><img src="https://kloss.imgix.net/918/sa-rostade-svenskarna.png?h=630&w=1200&auto=format&fit=crop" fallback="Så röstade svenskarna"/></a></div>
+    
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles, lukas.lindqvist reacted this way." class="reactionSpan">
+👍x2</span>
+</div>
+     
+      </div>
     
 
 <!--excerpt-->

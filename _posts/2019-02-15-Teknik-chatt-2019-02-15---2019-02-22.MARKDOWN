@@ -9,10 +9,18 @@ excerpt_separator: <!--excerpt-->
 
 <div class="imageblock">
 <a href="/assets/blogAssets/FG7SKTZL2-Image_from_iOS.png">
-<img alt="Image from iOS.png" src="/assets/blogAssets/thumbnail-FG7SKTZL2-Image_from_iOS.png"/>
+<img alt="Image from iOS.png" src="/assets/blogAssets/FG7SKTZL2-Image_from_iOS.png"/>
 </a></div>
 
      
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles reacted this way." class="reactionSpan">
+😄x1</span>
+</div>
+     
+      </div>
+    
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-02-15 19:18 35s

@@ -11,7 +11,7 @@ Stor skillnad i hur moderna bankerna vågar vara i sin framtoning och copy i sin
 
 <div class="imageblock">
 <a href="/assets/blogAssets/FGH65FL72-Image_from_iOS.png">
-<img alt="Image from iOS.png" src="/assets/blogAssets/thumbnail-FGH65FL72-Image_from_iOS.png"/>
+<img alt="Image from iOS.png" src="/assets/blogAssets/FGH65FL72-Image_from_iOS.png"/>
 </a></div>
 
      

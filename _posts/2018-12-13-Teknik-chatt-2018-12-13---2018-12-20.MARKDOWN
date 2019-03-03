@@ -58,6 +58,14 @@ Opus Magnum, Infinifactory, och SpaceChem är mer visuella varianter, om [https:
 skulle säga att Opus Magnum är HRM på steroider, med ett något bättre gränssnitt för att ändra koden i efterhand
 (även om inget kan konkurrera med goda gamla Vim 😄)
 skulle rekommendera att spela igenom den serien i den ordningen, med tanke på både polering och svårighetsgrad
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles, daniel.winther reacted this way." class="reactionSpan">
+👍x2</span>
+</div>
+     
+      </div>
+    
 
 <!--excerpt-->
 </section>

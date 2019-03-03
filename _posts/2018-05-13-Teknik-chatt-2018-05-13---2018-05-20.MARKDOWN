@@ -64,6 +64,14 @@ Richard Stallman fortsätter att vara Richard Stallman. [https://slashdot.org/st
 <div class="attachment"><h4>Richard Stallman Demands Return Of Abortion Joke To libc Documentation - Slashdot</h4><div class="text">An anonymous reader quotes The Register: Late last month, open-source contributor Raymond Nicholson proposed a change to the manual for glibc, the GNU implementation of the C programming language's standard library, to remove "the abortion joke," which accompanied the explanation of libc's abort() f...</div>
 <a href="https://slashdot.org/story/340766"><div class="linkdiv"><img src="/assets/blogAssets/Richard Stallman Demands Return Of Abortion Joke To libc Documentation - Slashdot" fallback="Richard Stallman Demands Return Of Abortion Joke To libc Documentation - Slashdot"/></div></a></div>
     
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="oscarnylander reacted this way." class="reactionSpan">
+:linux:x1</span>
+</div>
+     
+      </div>
+    
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2018-05-15 18:07 56s

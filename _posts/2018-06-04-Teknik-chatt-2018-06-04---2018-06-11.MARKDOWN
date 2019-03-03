@@ -40,7 +40,7 @@ allt hittils verkar bara som sätt att köpa tillbaka utvecklare så att de fast
 
 <div class="imageblock">
 <a href="/assets/blogAssets/FB1KHCBQC-20180605_142218.png">
-<img alt="20180605_142218.png" src="/assets/blogAssets/thumbnail-FB1KHCBQC-20180605_142218.png"/>
+<img alt="20180605_142218.png" src="/assets/blogAssets/FB1KHCBQC-20180605_142218.png"/>
 </a></div>
 
      
