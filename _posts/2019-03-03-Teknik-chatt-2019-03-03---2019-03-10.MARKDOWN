@@ -14,6 +14,36 @@ Håller med @lukas.lindqvist!
 </a></div>
 
      
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-03-03 11:33 50s
+
+väldigt tveksamt..
+WaPos betalvägg är ganska "intressant" också..
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FGMLD9LSG-image.png">
+<img alt="image.png" src="/assets/blogAssets/thumbnail-FGMLD9LSG-image.png"/>
+</a></div>
+
+     
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-03-03 12:04 15s
+
+Oj ja den var annorlunda också
+Kul att det är en feature i Free och Basic att man godtycker ads och grejer
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-03-03 12:05 06s
+
+det har en ✔ så det måste vara positivt!
+😛
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-03-03 12:07 34s
+
+Haha ja precis
 
 <!--excerpt-->
 </section>
