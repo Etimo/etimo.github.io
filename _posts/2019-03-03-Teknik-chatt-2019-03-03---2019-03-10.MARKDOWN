@@ -54,6 +54,12 @@ Fortsättning från vår senaste diskussion @pontus.luthin gällande elsparkcykl
 <div class="attachment"><h4>Kort livslängd för elsparkcyklar från uthyrningstjänster</h4><div class="text">Alison Griswold som driver nyhetsbrevet Oversharing har tittat lite närmare på hur ekonomin ser ut för tjänster som hyr ut elsparkcyklar i USA ser ut. Stämmer de slutsatser hon har kommit fram till så ser det ut som om det kan vara väldigt svårt att få lönsamhet i verksamheter som dessa. Enligt Griswold så är slitaget på fordonen den så kallade trånga sektorn och enligt undersökningen så låg den ....</div>
 <a href="https://feber.se/fordon/art/394150/kort_livslngd_fr_elsparkcyklar/">Kort livslängd för elsparkcyklar från uthyrningstjänster</a></div>
     
+</section>
+<section class="message" markdown="1">
+### pontus.luthin - 2019-03-03 20:19 09s
+
+Känns som att vår tes ändå stämde, ganska komiskt att då Voi fått investering på 500 milj av stora aktörer på investeringsmarknaden, känns som att dem gett pengar i blindo utan att faktiskt ens räkna på vad intäkterna och kostnaderna skulle kunna vara 
+Men antar att fortsättning följer...ska bli spännande att se hur dem vänder till lönsamhet @daniel.winther 
 
 <!--excerpt-->
 </section>
