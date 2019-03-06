@@ -1,0 +1,81 @@
+---
+layout: post
+title: Teknik-chatt 2018-05-10 - 2018-05-17
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2018-05-10 08:41 35s
+
+[https://techcrunch.com/2018/05/08/microsoft-and-red-hat-now-offer-a-jointly-managed-openshift-service-on-azure/](https://techcrunch.com/2018/05/08/microsoft-and-red-hat-now-offer-a-jointly-managed-openshift-service-on-azure/)
+
+<div class="attachment"><h4>Microsoft and Red Hat now offer a jointly managed OpenShift service on Azure</h4><div class="text">Microsoft and Red Hat are deepening their existing alliance around cloud computing. The two companies will now offer a managed version of OpenShift, Red Hat’s container application platform, on Microsoft Azure. This service will be jointly developed and managed by Microsoft and Red Hat and wi…</div>
+<a href="https://techcrunch.com/2018/05/08/microsoft-and-red-hat-now-offer-a-jointly-managed-openshift-service-on-azure/"><img src="https://techcrunch.com/wp-content/uploads/2014/04/redhat_hat.jpg?w=764" fallback="Microsoft and Red Hat now offer a jointly managed OpenShift service on Azure"/></a></div>
+    
+Ytterligare alternativ i vår diskussion kring Containers
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-05-10 15:23 00s
+
+Slänger in den här också då: [https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436](https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
+
+<div class="attachment"><h4>Titus, the Netflix container management platform, is now open source</h4><div class="text">by Amit Joshi, Andrew Leung, Corin Dwyer, Fabio Kung, Sargun Dhillon, Tomasz Bak, Andrew Spyker, Tim Bozarth</div>
+<a href="https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436"><img src="https://cdn-images-1.medium.com/max/1200/1*R-XMUHeTud1sYosB1UWijQ.png" fallback="Titus, the Netflix container management platform, is now open source"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-10 20:00 12s
+
+Kul Netflix är ju bra på DevOps. Känns som att de ensamma orsakat mycket av nuvarande mikrotjänst-fokus.
+OpenShift har jag jobbat med tillräckligt mycket för att börja gilla den nu, även om jag ibland tycker att de funktioner den erbjuder till viss del gör det svårare att helt veta hur den byggda containern kommer att bete sig.
+Lite ovant är det fortfarande att se Microsoft lansera nya Linux-baserade initiativ (till och med ett Linux-baserat eget OS nyligen).
+Ännu mer container-fokuserade saker   
+RedHat håller på att integrera CoreOS, och Google gick just ut med GVisor - En "Userspace Kernel" som mellanlager mellan den riktiga Kerneln (än så länge bara linux) och processen som vill använda den.  
+Målet verkar vara att ytterligare isolera processer i containers utan alltför mycket overhead, men det ska bli intressant att se om någon börjar utveckla direkt för GVisor istället för hostkerneln.  
+[https://github.com/google/gvisor](https://github.com/google/gvisor)
+
+<div class="attachment"><h4>google/gvisor</h4><div class="text">gvisor - Container Runtime Sandbox</div>
+<a href="https://github.com/google/gvisor"><div class="linkdiv"><img src="/assets/blogAssets/google/gvisor" fallback="google/gvisor"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### joakoles - 2018-05-11 13:34 14s
+
+Nån som känner igen situationen?
+[https://youtu.be/zXTUK2W422w](https://youtu.be/zXTUK2W422w)
+
+<div class="attachment"><h4>Fixing bugs in your code</h4><div class="text"></div>
+<a href="https://youtu.be/zXTUK2W422w"><div class="linkdiv"><img src="/assets/blogAssets/Fixing bugs in your code" fallback="Fixing bugs in your code"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-11 13:34 37s
+
+Haha ja verkligen 😄
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-05-11 20:30 22s
+
+[https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/](https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/)
+
+<div class="attachment"><h4>Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web</h4><div class="text">About two months ago I published my initial research[1] on data-driven bundling. A few weeks after that, I had the opportunity to present my work on RenderConf in Oxford, UK in my talk “Teach Your Bundler Users’ Habits”[2]. The original goal of the article was to show how data can help in improving the user-perceived page load performance by using predictive analytics[3]. The artifacts from the a....</div>
+<a href="https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/">Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-05-12 23:14 16s
+
+Dagen i ära, lite trevlig data analys av Eurovision röstnings-block, komplett med graphviz charts. Spoiler: Sverige / Danmark (och Norge) röstar mycket på varandras bidrag och i allmänhet röstar länder på grannar.  
+[http://jasss.soc.surrey.ac.uk/21/1/1.html](http://jasss.soc.surrey.ac.uk/21/1/1.html)
+
+<div class="attachment"><h4>Examining  Collusion and Voting Biases Between Countries During the Eurovision Song Contest Since 1957</h4><div class="text">by Alexander V. Mantzaris, Samuel R. Rein and Alexander D. Hopkins</div>
+<a href="http://jasss.soc.surrey.ac.uk/21/1/1.html"><div class="linkdiv"><img src="/assets/blogAssets/Examining  Collusion and Voting Biases Between Countries During the Eurovision Song Contest Since 1957" fallback="Examining  Collusion and Voting Biases Between Countries During the Eurovision Song Contest Since 1957"/></div></a></div>
+    
+Datan och koden som ligger bakom finns på Github om någon behöver ett dataset för ett hobbyprojekt:
+[https://github.com/mantzaris/eurovision/](https://github.com/mantzaris/eurovision/)
+
+<div class="attachment"><h4>mantzaris/eurovision</h4><div class="text">eurovision - Mapping the collusion and biases inovting between countries in the Eurovision song contest (JASSS 2017)</div>
+<a href="https://github.com/mantzaris/eurovision/"><div class="linkdiv"><img src="/assets/blogAssets/mantzaris/eurovision" fallback="mantzaris/eurovision"/></div></a></div>
+    
+
+<!--excerpt-->
+</section>
