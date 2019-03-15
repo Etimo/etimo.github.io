@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2019-03-15 - 2019-03-22
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2019-03-15 11:06 41s
+
+[https://feber.se/vetenskap/art/394713/ostar_vill_helst_lyssna_p_hiph/](https://feber.se/vetenskap/art/394713/ostar_vill_helst_lyssna_p_hiph/)
+
+<div class="attachment"><h4>Ostar vill helst lyssna på hiphop</h4><div class="text">I Schweiz har ett ostföretag och forskare från Berns universitet testat hur ostar reagerar på musik och vilken musik som gör dem godast. Man testade det hela genom att låsa in ett gäng med 22 kilo tunga emmental-ostar i separata lådor och lät dem lyssna på olika musik och ljudslingor under åtta månaders tid. När det hela var klart ansåg en jury att den osten som lagrats bäst under experimentet va....</div>
+<a href="https://feber.se/vetenskap/art/394713/ostar_vill_helst_lyssna_p_hiph/"><img src="https://static.feber.se/article_images/47/01/46/470146_440x440.jpg" fallback="Ostar vill helst lyssna på hiphop"/></a></div>
+    
+Ack så viktig info
+
+<!--excerpt-->
+</section>
