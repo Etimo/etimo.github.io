@@ -1,0 +1,16 @@
+---
+layout: post
+title: Teknik-chatt 2019-03-23 - 2019-03-30
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-03-23 10:41 29s
+
+```
+A major international bank accidentally published a private package of their own to the public npm Registry, took *3 years* to notice, and then sent DMCA takedown notices to Amazon and Cloudflare for hosting "stolen code". Now I have to pay a lawyer to explain this to them.
+```
+[https://twitter.com/seldo/status/1105153287718723584](https://twitter.com/seldo/status/1105153287718723584)
+NPM verkar verkligen byggt för just detta, med autoregistrering om man skriver in ett användarnamn och lösen.
+
+<!--excerpt-->
+</section>
