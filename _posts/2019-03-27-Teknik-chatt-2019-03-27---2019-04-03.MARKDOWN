@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2019-03-27 - 2019-04-03
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-03-27 22:58 41s
+
+[https://www.wsj.com/graphics/apple-still-hasnt-fixed-its-macbook-keyboard-problem/](https://www.wsj.com/graphics/apple-still-hasnt-fixed-its-macbook-keyboard-problem/)
+
+<div class="attachment"><h4>Appl Still Hasn’t Fixd Its MacBook Kyboad Problm</h4><div class="text">Apple’s third-generation butterfly keyboard was supposed to fix all the previous defects but buyers are still having problems</div>
+<a href="https://www.wsj.com/graphics/apple-still-hasnt-fixed-its-macbook-keyboard-problem/"><img src="https://images.wsj.net/im-62653/social" fallback="Appl Still Hasn’t Fixd Its MacBook Kyboad Problm"/></a></div>
+    
+Riktigt snygg interaktiv artikel, visste inte att Apple användarna hos oss hade det så här tufft.
+
+<!--excerpt-->
+</section>
