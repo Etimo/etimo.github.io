@@ -1,0 +1,25 @@
+---
+layout: post
+title: Teknik-chatt 2019-04-03 - 2019-04-10
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-04-03 17:25 42s
+
+Mozilla verkar ha dragit igång ett initiativ för att man enklare ska kunna köra Webassembly utanför browsern. Tankarna på ett libWebassembly känns ganska lockande kämfört med electron.
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     
+      </div>
+    
+[https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
+
+<div class="attachment"><h4>Standardizing WASI: A system interface to run WebAssembly outside the web – Mozilla Hacks - the Web developer blog</h4><div class="text">WebAssembly is an assembly language for a conceptual machine, not a physical one. This is why it can be run across a variety of different machine architectures. WebAssembly needs a ...</div>
+<a href="https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/"><img src="https://hacks.mozilla.org/files/2019/03/featured_image.png" fallback="Standardizing WASI: A system interface to run WebAssembly outside the web – Mozilla Hacks - the Web developer blog"/></a></div>
+    
+
+<!--excerpt-->
+</section>
