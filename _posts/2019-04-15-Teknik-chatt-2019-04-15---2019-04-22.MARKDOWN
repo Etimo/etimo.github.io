@@ -1,0 +1,23 @@
+---
+layout: post
+title: Teknik-chatt 2019-04-15 - 2019-04-22
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2019-04-15 09:55 51s
+
+Två utmanare till Photo Garden:
+[https://shoeboxapp.com/](https://shoeboxapp.com/)
+
+<div class="attachment"><h4>Shoebox - Free Unlimited Photo Backup</h4><div class="text">Free unlimited photo storage, so you can rediscover your photos anywhere. Available for iPhone, iPad, Android, Mac and PC.</div>
+<a href="https://shoeboxapp.com/"><img src="https://app.shoeboxapp.com/marketing/img/feature_graphic.jpg" fallback="Shoebox - Free Unlimited Photo Backup"/></a></div>
+    
+[https://www.everalbum.com/](https://www.everalbum.com/)
+
+<div class="attachment"><h4>Ever | Make memories</h4><div class="text">Ever is a company dedicated to helping you capture and rediscover your life's memories</div>
+<a href="https://www.everalbum.com/"><div class="linkdiv"><img src="/assets/blogAssets/Ever | Make memories" fallback="Ever | Make memories"/></div></a></div>
+    
+synk och backup av foton från flera tjänster med automatisk taggning etc
+
+<!--excerpt-->
+</section>
