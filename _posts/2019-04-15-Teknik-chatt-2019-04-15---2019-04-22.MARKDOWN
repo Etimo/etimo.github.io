@@ -18,6 +18,16 @@ Två utmanare till Photo Garden:
 <a href="https://www.everalbum.com/"><div class="linkdiv"><img src="/assets/blogAssets/Ever | Make memories" fallback="Ever | Make memories"/></div></a></div>
     
 synk och backup av foton från flera tjänster med automatisk taggning etc
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2019-04-15 11:08 55s
+
+Kul, dem får vi undersöka närmare:)
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-04-15 11:09 38s
+
+Japp, håller redan på att lämna ut mitt liv till båda och tanka upp allt jag har på telefonen. Får se hur de funkar
 
 <!--excerpt-->
 </section>
