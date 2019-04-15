@@ -28,6 +28,20 @@ Kul, dem får vi undersöka närmare:)
 ### daniel.winther - 2019-04-15 11:09 38s
 
 Japp, håller redan på att lämna ut mitt liv till båda och tanka upp allt jag har på telefonen. Får se hur de funkar
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-04-15 19:03 37s
+
+Det är bra att du offrar din data i researchsyfte @daniel.winther. Jag jobbar mer och mer på att bli självhostad istället.
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="teo.roijezon, daniel.winther reacted this way." class="reactionSpan">
+👍x2</span>
+</div>
+     
+      </div>
+    
+Tillsammans får vi kanske en bra balans.
 
 <!--excerpt-->
 </section>
