@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2019-04-26 - 2019-05-03
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### nicl - 2019-04-26 10:28 35s
+
+@nicl has joined the channel
+
+<!--excerpt-->
+</section>
