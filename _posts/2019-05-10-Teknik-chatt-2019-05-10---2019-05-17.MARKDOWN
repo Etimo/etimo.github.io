@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2019-05-10 - 2019-05-17
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2019-05-10 22:37 34s
+
+Helgnöje; spela Doom i ASCII:
+[https://vimeo.com/139774508](https://vimeo.com/139774508)
+
+<div class="attachment"><h4>Doom in ASCII (libcaca)</h4><div class="text">Running Doom (Crispy Doom port) in a text mode (SDL+libcaca) on Linux. In Debian this works out of the box. Also tested on Fedora 22, no success.</div>
+<a href="https://vimeo.com/139774508"><div class="linkdiv"><img src="/assets/blogAssets/Doom in ASCII (libcaca)" fallback="Doom in ASCII (libcaca)"/></div></a></div>
+    
+
+<!--excerpt-->
+</section>
