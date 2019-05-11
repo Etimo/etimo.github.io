@@ -12,6 +12,20 @@ Helgnöje; spela Doom i ASCII:
 <div class="attachment"><h4>Doom in ASCII (libcaca)</h4><div class="text">Running Doom (Crispy Doom port) in a text mode (SDL+libcaca) on Linux. In Debian this works out of the box. Also tested on Fedora 22, no success.</div>
 <a href="https://vimeo.com/139774508"><div class="linkdiv"><img src="/assets/blogAssets/Doom in ASCII (libcaca)" fallback="Doom in ASCII (libcaca)"/></div></a></div>
     
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-05-11 21:12 57s
+
+Blev inspirerad av Doom i ASCII och skrev ihop följande på bussen hem i fredags:
+[https://github.com/indrif/diamonds-terminal-viewer](https://github.com/indrif/diamonds-terminal-viewer)
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FJLBL7FJQ-demo.gif">
+<img alt="demo.gif" src="/assets/blogAssets/FJLBL7FJQ-demo.gif"/>
+</a></div>
+
+     
+Trevlig helg!
 
 <!--excerpt-->
 </section>
