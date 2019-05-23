@@ -4,7 +4,7 @@ author: Jens Hunt
 title: Diamonds prisudelning
 image: diamonds_prisutdelning_vt2019.jpg
 caption: Årets upplaga av Diamonds är nu avslutad.
-tag: [Diamonds,event,linköping]
+tag: [featured,Diamonds,event,linköping]
 categories: [Diamonds]
 excerpt_separator: <!--excerpt-->
 ---
