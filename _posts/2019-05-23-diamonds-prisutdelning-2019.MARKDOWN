@@ -14,3 +14,6 @@ För andra året i rad har Etimo genomfört en kodtävling på Linköpings unive
 Tävlingen är nu avslutad och under gårdagen fick vi besök av årets första- och andrapristagare Alfred och Arturas.    
 
 Kvällen firades med VR-spel, god mat och en hel del kodsnack.
+
+
+{% include presentation-promo.html %}
