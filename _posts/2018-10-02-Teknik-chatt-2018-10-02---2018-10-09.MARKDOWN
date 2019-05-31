@@ -1,0 +1,50 @@
+---
+layout: post
+title: Teknik-chatt 2018-10-02 - 2018-10-09
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2018-10-02 17:35 56s
+
+Nej det är sant, jag har aldrig faktisktn orkat deleta mitt facebook-konto utan bara ghostat facebook. Senaste breachen får mig att inse att det är dags att få tummen ur.
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2018-10-02 17:52 50s
+
+Trots att jag inte använder Facebook i övrigt har jag tyvärr mycket av min dagliga kontakt med vänner i form av diverse gruppchattar. Har flera gånger försökt få folk att byta plattform,  men hamnar alltid tillbaks på messenger...
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-10-02 17:57 36s
+
+Facebook Messanger på Android brukade lägga den man pratade med som en liten flytande ikon ovanpå det vanliga interfacet. Har skytt facebook messenger sen dess.
+Det tog ett tag men nu har flera vänner börjat ringa  (!) när de vill nåt.
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2018-10-02 19:52 26s
+
+@jens.hunt jag har helt lämnat fb. Har kostat mig att jag missat diverse sociala event men nu har det gått över. Numera ringer/messar folk om de verkligen vill ha med mig på något:)
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2018-10-03 08:56 04s
+
+@erik.malm Du kan stänga av bubblorna. Det har jag gjort iaf. Men har samma problem som Jens, 100% av all kommunikation med vänner går genom messenger. Alla studentevent går genom fb också. Så som student är det typ omöjligt att inte använda det.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-10-03 09:01 22s
+
+Jag blev så förolämpad över designen att appen omedelbart deletades. Löste också problemet.
+Låt oss också ta det här tillfället att minnas Kin telefonen:
+[https://www.google.se/amp/s/www.wired.com/2010/04/microsoft-kin-phone-first-look/amp](https://www.google.se/amp/s/www.wired.com/2010/04/microsoft-kin-phone-first-look/amp)
+
+<div class="attachment"><h4>Hands-On: Can Kin Phones Make Microsoft Cool Again?</h4><div class="text">Microsoft’s new Kin phone sits between two worlds. It isn’t really a smartphone — there’s no access to apps, games, document editing or viewing — but it’s more than a feature phone. It integrates social networking updates, news feeds and contacts, in a way that aims to be hip and cool. And Kin just about \[…\]</div>
+<a href="https://www.google.se/amp/s/www.wired.com/2010/04/microsoft-kin-phone-first-look/amp"><img src="https://media.wired.com/photos/59344f005321273fc0f91da8/2:1/w_2500,c_limit/two_loop_print.jpg" fallback="Hands-On: Can Kin Phones Make Microsoft Cool Again?"/></a></div>
+    
+Och facebooks egen telefon: 
+[https://www.google.se/amp/s/amp.usatoday.com/amp/2053521](https://www.google.se/amp/s/amp.usatoday.com/amp/2053521)
+
+<div class="attachment"><h4>Facebook launches HTC First Android phone</h4><div class="text">Facebook today unveiled its long-rumored mobile phone foray, with HTC.</div>
+<a href="https://www.google.se/amp/s/amp.usatoday.com/amp/2053521"><img src="https://www.gannett-cdn.com/media/USATODAY/USATODAY/2013/04/04/chat-head-preview-16_9.jpg?width=3200&height=1680&fit=crop" fallback="Facebook launches HTC First Android phone"/></a></div>
+    
+
+<!--excerpt-->
+</section>
