@@ -1,0 +1,18 @@
+---
+layout: post
+title: Teknik-chatt 2019-06-03 - 2019-06-10
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-06-03 08:25 33s
+
+Om någon minns @teo.roijezon  dystopiska klassiker "Min cykel vill inte boota" så är uppföljaren "Googles molnplatform låste mig ur huset".
+[https://techstartups.com/2019/06/02/google-cloud-affecting-many-apps-services-people-cannot-turn-ac-open-smart-locks-let-house/](https://techstartups.com/2019/06/02/google-cloud-affecting-many-apps-services-people-cannot-turn-ac-open-smart-locks-let-house/)
+
+<div class="attachment"><h4>Google Cloud is down, people cannot turn on their AC or use their "smart" locks to get access into their homes | Startups News | Tech News</h4><div class="text">Google Cloud is currently down. Google Cloud is a suite of cloud computing services for developers, offering Infrastructure as a service, Platform as a service and Serverless Computing features. The outage is affecting a lot of Google Cloud-based applications and …</div>
+<a href="https://techstartups.com/2019/06/02/google-cloud-affecting-many-apps-services-people-cannot-turn-ac-open-smart-locks-let-house/"><div class="linkdiv"><img src="/assets/blogAssets/Google Cloud is down, people cannot turn on their AC or use their "smart" locks to get access into their homes | Startups News | Tech News" fallback="Google Cloud is down, people cannot turn on their AC or use their "smart" locks to get access into their homes | Startups News | Tech News"/></div></a></div>
+    
+Plus att google cloud tydligen fortfarande har rejäla outages på sina håll och Google är knäpptysta.
+
+<!--excerpt-->
+</section>
