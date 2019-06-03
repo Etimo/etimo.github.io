@@ -26,6 +26,23 @@ Plus att google cloud tydligen fortfarande har rejäla outages på sina håll oc
 ### joakoles - 2019-06-03 15:38 54s
 
 Det påminner mig om personen som låste upp sin bil med en app via 4g och parkerade (och låste) bilen i ett garage under marken där täckning saknades
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="lukas.lindqvist reacted this way." class="reactionSpan">
+😄x1</span>
+</div>
+     <div class="reactionDiv">
+<span title="erik.malm reacted this way." class="reactionSpan">
+🚗x1</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-06-03 16:43 45s
+
+Nuförtiden när man ser på bio så använder man appen för att visa sin biljett. Appen kräver internet, där man ska visa biljetten på biografen i Linköping har man max 1-bar i mottagning. Så jag har flertalet gånger behövt gå ut ur biografen, ta fram biljetten på mobilen, sen gå in för att visa den.
 
 <!--excerpt-->
 </section>
