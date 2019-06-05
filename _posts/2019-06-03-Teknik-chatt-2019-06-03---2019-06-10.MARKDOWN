@@ -43,6 +43,17 @@ Det påminner mig om personen som låste upp sin bil med en app via 4g och parke
 ### lukas.lindqvist - 2019-06-03 16:43 45s
 
 Nuförtiden när man ser på bio så använder man appen för att visa sin biljett. Appen kräver internet, där man ska visa biljetten på biografen i Linköping har man max 1-bar i mottagning. Så jag har flertalet gånger behövt gå ut ur biografen, ta fram biljetten på mobilen, sen gå in för att visa den.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-06-05 08:55 23s
+
+Man kanske fokuserade mer på coolhetsfaktorn och glömde det praktiska @lukas.lindqvist 😄
+Riktigt grym fileuploader, kallar sig själv för "next-gen":
+[https://uppy.io/](https://uppy.io/)
+
+<div class="attachment"><h4>Uppy</h4><div class="text">Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.</div>
+<a href="https://uppy.io/"><img src="http://uppy.io/images/uppy-social-pink.png" fallback="Uppy"/></a></div>
+    
 
 <!--excerpt-->
 </section>
