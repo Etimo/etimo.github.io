@@ -85,7 +85,7 @@ sass:
 plugins_dir:
   - jekyll-paginate
   - jekyll-seo-tag
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
