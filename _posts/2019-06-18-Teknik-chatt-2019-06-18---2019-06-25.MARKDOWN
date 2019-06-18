@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teknik-chatt 2019-06-18 - 2019-06-25
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2019-06-18 20:46 01s
+
+Kanske första kryptovalutan som faktiskt blir något riktigt användbart? [https://techcrunch.com/2019/06/18/facebook-libra/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1](https://techcrunch.com/2019/06/18/facebook-libra/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1)
+
+<div class="attachment"><h4>Facebook announces Libra cryptocurrency: All you need to know – TechCrunch</h4><div class="text">Facebook has finally revealed the details of its cryptocurrency, Libra, which will let you buy things or send money to people with nearly zero fees. You’ll pseudonymously buy or cash out your Libra online or at local exchange points like grocery stores, and spend it using interoperable third-…</div>
+<a href="https://techcrunch.com/2019/06/18/facebook-libra/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1"><img src="https://techcrunch.com/wp-content/uploads/2019/06/Facebook-Libra.png?w=713" fallback="Facebook announces Libra cryptocurrency: All you need to know – TechCrunch"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-18 22:09 59s
+
+Undrar om krypto blivit så likvärdigt med spekulation att det kommer bli svårt att faktiskt få folk att använda det som valuta.
+
+<!--excerpt-->
+</section>
