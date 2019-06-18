@@ -16,6 +16,12 @@ Kanske första kryptovalutan som faktiskt blir något riktigt användbart? [http
 ### erik.malm - 2019-06-18 22:09 59s
 
 Undrar om krypto blivit så likvärdigt med spekulation att det kommer bli svårt att faktiskt få folk att använda det som valuta.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-06-18 23:49 07s
+
+verkar ha samma problem som SWIFT/Visa/MC utan att lösa nått nytt
+och trots allt blåsväder nyligen så litar jag nog fortfarande mer på Sparbanken Nord än Spotify..
 
 <!--excerpt-->
 </section>
