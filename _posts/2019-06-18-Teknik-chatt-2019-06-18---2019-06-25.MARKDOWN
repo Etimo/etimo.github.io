@@ -22,6 +22,18 @@ Undrar om krypto blivit så likvärdigt med spekulation att det kommer bli svår
 
 verkar ha samma problem som SWIFT/Visa/MC utan att lösa nått nytt
 och trots allt blåsväder nyligen så litar jag nog fortfarande mer på Sparbanken Nord än Spotify..
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-06-19 10:24 28s
+
+Deras sätt att lösa "lita på" problemet verkar vara att varje företag/medlem max får ha 1 av 100 röster.
+Så även trotts att facebook har vart huvudaktören med att starta libra har de bara 1% av rösten
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-06-19 10:26 08s
+
+mjo, men spelar det någon roll när alla medlemmarna kommer från ~samma bakgrund och umgås i samma kretsar?
+dessutom har du ju samma tillitsproblem när det gäller att se till att den regeln följs
 
 <!--excerpt-->
 </section>
