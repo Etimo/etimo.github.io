@@ -70,6 +70,34 @@ Enkel matte
 <div class="attachment"><h4>fast math</h4><div class="text"></div>
 <a href="https://giphy.com/gifs/filmeditor--the-hangover-movie-3owzW5c1tPq63MPmWk"><img src="https://media1.giphy.com/media/3owzW5c1tPq63MPmWk/giphy-downsized.gif?cid=6104955e5d09ffb27469424c73f7d146&rid=giphy-downsized.gif" fallback="fast math"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-19 17:22 03s
+
+Kör nog på mitt favorit grinig-gubbe citat och säger att "Not all change is progress"
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="teo.roijezon reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-06-19 17:33 31s
+
+"But all progress comes from change." 😉
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-19 17:52 35s
+
+Undrar f.ö. hur bloggen hanterat din gify @lukas.lindqvist... korrekt ser det ut som.
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-06-19 17:53 12s
+
+imponerande av bloggen, starkt jobbat!
 
 <!--excerpt-->
 </section>
