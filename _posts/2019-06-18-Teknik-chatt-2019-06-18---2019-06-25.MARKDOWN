@@ -34,6 +34,42 @@ Så även trotts att facebook har vart huvudaktören med att starta libra har de
 
 mjo, men spelar det någon roll när alla medlemmarna kommer från ~samma bakgrund och umgås i samma kretsar?
 dessutom har du ju samma tillitsproblem när det gäller att se till att den regeln följs
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-06-19 10:44 48s
+
+Finns ju inte riktigt 100 företag som är som spotify/facebook, men visst, ska man vara cynisk kan aldrig lita på något 🙂
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-06-19 10:46 28s
+
+Jag vet inte om jag skulle lita så himla mycket mer på bankerna... de jobbar väl alltid mer för sina egna intressen än andras?
+Bankerna bryr sig inte på samma sätt som företagen om vad deras användare tycker
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-06-19 10:48 12s
+
+nä absolut, men det känns ännu mer suspekt att gå ut och säga "vi har löst problemen med översyn i bankvärlden! (genom att ge oss kontrollen istället...)"
+som dom säger.. "infinitesimal supposed improvement is the enemy of good" 😛
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-06-19 10:48 42s
+
+Du sprider ju ut kontrollen till minst 100 parter, istället för 1 part. Så det är minst 100ggr så bra.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-06-19 10:59 11s
+
+Enkel matte
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-06-19 11:26 17s
+
+
+
+<div class="attachment"><h4>fast math</h4><div class="text"></div>
+<a href="https://giphy.com/gifs/filmeditor--the-hangover-movie-3owzW5c1tPq63MPmWk"><img src="https://media1.giphy.com/media/3owzW5c1tPq63MPmWk/giphy-downsized.gif?cid=6104955e5d09ffb27469424c73f7d146&rid=giphy-downsized.gif" fallback="fast math"/></a></div>
+    
 
 <!--excerpt-->
 </section>
