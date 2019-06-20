@@ -98,6 +98,23 @@ Undrar f.ö. hur bloggen hanterat din gify @lukas.lindqvist... korrekt ser det u
 ### lukas.lindqvist - 2019-06-19 17:53 12s
 
 imponerande av bloggen, starkt jobbat!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-06-20 07:46 31s
+
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FKQPWFPTJ-Image_from_iOS.jpg">
+<img alt="Image from iOS.jpg" src="/assets/blogAssets/FKQPWFPTJ-Image_from_iOS.jpg"/>
+</a></div>
+
+     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-20 07:56 58s
+
+Som utvecklare med katter känner jag igen mig dubbelt.
+En katt gillar att dra sin mat med tassen in under en av hyllorna och sen äta där när hon samlat en hög.
 
 <!--excerpt-->
 </section>
