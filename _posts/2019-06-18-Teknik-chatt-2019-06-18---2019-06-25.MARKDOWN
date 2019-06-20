@@ -115,6 +115,11 @@ imponerande av bloggen, starkt jobbat!
 
 Som utvecklare med katter känner jag igen mig dubbelt.
 En katt gillar att dra sin mat med tassen in under en av hyllorna och sen äta där när hon samlat en hög.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-06-20 10:12 15s
+
+Haha våra hundar gör lite samma sak. De bär ut sina kulor från matskålen i köket till mattan i vardagsrummet och äter där. Konstigt beteende men de kanske gillar att stå på mjukt underlag och äta. Kanske får AB-testa och lägga en liten matta vid deras matskål ibland :thinking_face:
 
 <!--excerpt-->
 </section>
