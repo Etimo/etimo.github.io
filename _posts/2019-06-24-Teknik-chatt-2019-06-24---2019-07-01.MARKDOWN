@@ -59,6 +59,13 @@ heh
 ### erik.malm - 2019-06-24 14:28 23s
 
 Jag tror att jag egentligen skulle må bättre av att ha gjort mig av med lite fler saker, men detnår si och så med det.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-06-24 15:36 59s
+
+kör huvudservern också ARM förresten?
+väldigt nyfiken på hur k8s klarar den sortens heterogena kluster..
+fast rent teoretiskt borde det ju inte vara några problem så länge alla images finns i både AArch64 och AMD64-varianter med samma tagg
 
 <!--excerpt-->
 </section>
