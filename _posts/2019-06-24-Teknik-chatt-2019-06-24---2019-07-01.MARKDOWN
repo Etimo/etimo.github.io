@@ -18,6 +18,47 @@ Verkar vara en rejäl genomarbetning, funderar på att ha dem som kubernetes-fai
 ### teo.roijezon - 2019-06-24 11:20 02s
 
 ska du köra K8s i HA måste du tyvärr ha ett minst 3 master-noder, annars kommer den aldrig ha tillräcklig konsensus för att byta aktiv master
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-24 13:32 37s
+
+Har huvudservern som 3e..
+Just nu är den enda nod.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-06-24 13:41 56s
+
+ahh
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-24 13:42 02s
+
+Ser också att de bytt HDMI format, vilket innebär att jag faktiskt får användning för min övervintrade micro-HDMI kabel.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-06-24 13:42 03s
+
+rimligt
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-24 13:42 11s
+
+Släng aldrig någonting.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-06-24 13:42 15s
+
+heh
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-06-24 13:54 14s
+
+"Släng aldrig någonting." Det är en ok idé tills man ska flytta. Sen hade man hoppats att man slängt allt för längesen 😄
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-24 14:28 23s
+
+Jag tror att jag egentligen skulle må bättre av att ha gjort mig av med lite fler saker, men detnår si och så med det.
 
 <!--excerpt-->
 </section>
