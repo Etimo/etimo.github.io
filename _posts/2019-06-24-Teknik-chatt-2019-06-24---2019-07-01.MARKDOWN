@@ -66,6 +66,40 @@ Jag tror att jag egentligen skulle må bättre av att ha gjort mig av med lite f
 kör huvudservern också ARM förresten?
 väldigt nyfiken på hur k8s klarar den sortens heterogena kluster..
 fast rent teoretiskt borde det ju inte vara några problem så länge alla images finns i både AArch64 och AMD64-varianter med samma tagg
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-24 18:36 35s
+
+Nope den är dubbel xeon med 96Gb ram, så rejäla skillnader, just nu borde allt som den kör fungera även på pi:erna men långsiktigt blir det knepigt. Jag hoppades lösa arkitekturproblemen med  att länka dem till olika registries men det är helt möjligt att jag springer på patrull.
+Känns som ett projekt oavsett, lär veta mer än jag gjorde vid start när jag ger upp.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-06-24 19:09 52s
+
+mjo, får väl lägga prio-taggar på grejerna som ska ha HA
+olika registries blir svårt eftersom registret är en del av tagg-namnet
+men har för mig att Registry v2 la till stöd för olika varianter av samma tagg
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-24 19:50 15s
+
+Tag för varje arch vore betydligt mindre hackigt, men känns som att det borde gå att få pierna att resolva DNSen olika och populera dem systematiskt om man sätter upp den som en private registry server. 
+
+Vore trevligt att ha HA just på ett gäng inte så krävande tjänster som jag faktiskt gjort mig själv beroende av men vi får se hur praktiskt det slutar.
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-06-24 20:00 14s
+
+[https://www.youtube.com/watch?v=783ccP__No8](https://www.youtube.com/watch?v=783ccP__No8)
+
+<div class="attachment"><h4>GraphQL: The Documentary (Official Release)</h4><div class="text"></div>
+<a href="https://www.youtube.com/watch?v=783ccP__No8"><div class="linkdiv"><img src="/assets/blogAssets/GraphQL: The Documentary (Official Release)" fallback="GraphQL: The Documentary (Official Release)"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-06-24 20:04 49s
+
+Känns lite svårt att klicka på länkar där det står Honeypot, men jag gör ett undantag här. Återkommer när jag sett den.
 
 <!--excerpt-->
 </section>
