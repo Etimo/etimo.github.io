@@ -1,0 +1,23 @@
+---
+layout: post
+title: Teknik-chatt 2019-06-24 - 2019-07-01
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-06-24 10:58 43s
+
+Jag vet inte riktigt varför, men har refan beställt två sådana här:
+[https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/](https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/)
+
+<div class="attachment"><h4>Raspberry Pi 4 on sale now from $35 - Raspberry Pi</h4><div class="text">We have a surprise for you today: Raspberry Pi 4 is now on sale, starting at $35.</div>
+<a href="https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/"><img src="https://www.raspberrypi.org/app/uploads/2019/06/HERO-ALT-500x357.jpg" fallback="Raspberry Pi 4 on sale now from $35 - Raspberry Pi"/></a></div>
+    
+Verkar vara en rejäl genomarbetning, funderar på att ha dem som kubernetes-failover cluster bara för att se hur det går.  Full gigabit ethernet och mer ram gör det också till något användbart för den som vill hacka ihop en egen Nas.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-06-24 11:20 02s
+
+ska du köra K8s i HA måste du tyvärr ha ett minst 3 master-noder, annars kommer den aldrig ha tillräcklig konsensus för att byta aktiv master
+
+<!--excerpt-->
+</section>
