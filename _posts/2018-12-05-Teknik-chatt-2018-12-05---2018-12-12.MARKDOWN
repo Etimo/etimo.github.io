@@ -1,0 +1,66 @@
+---
+layout: post
+title: Teknik-chatt 2018-12-05 - 2018-12-12
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### jens.hunt - 2018-12-05 08:46 09s
+
+[https://www.hanselman.com/blog/AnnouncingWPFWinFormsAndWinUIAreGoingOpenSource.aspx](https://www.hanselman.com/blog/AnnouncingWPFWinFormsAndWinUIAreGoingOpenSource.aspx) är mer själva grejen än att jag blir glad över att det sker på just dessa produkter
+
+<div class="attachment"><h4>Announcing WPF, WinForms, and WinUI are going Open Source</h4><div class="text">Buckle up friends! Microsoft is open sourcing WPF, Windows Forms (winforms), and WinUI, so the three major Windows UX ...</div>
+<a href="https://www.hanselman.com/blog/AnnouncingWPFWinFormsAndWinUIAreGoingOpenSource.aspx">Announcing WPF, WinForms, and WinUI are going Open Source</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-12-05 16:39 16s
+
+Det är ju lite coolt, men jag kommer nog att fortsätta känna antipati av bara farten.
+Men om GUI bitarna faktiskt portas någon annanstans än windows skulle det vara praktiskt, att licenciera QT om man inte skriver öppna saker är galet dyrt.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-12-05 17:28 51s
+
+är inte QT LGPL numera?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-12-07 07:55 27s
+
+Japp, om du hamnar utanför LGPL sfären (eller bara är orolig för att göra det) är licensen rejält, rejält dyr dock med licensiering per utvecklare. Licenser kring devices är också väldigt udda och officiellt bara kommersiella. Har även hört historier där QTs licensteam argumenterar för att t.e.x datorer som bara kör en mjukvara ibland ska ses som embedded . Rätt ofta köper man licenser bara för att undvika risken för att hamna i konflikt med GPL i de diskussioner jag sett kring det.
+
+"Selling exceptions to the GPL" är ett av de sätt att tjäna pengar på fri mjukvara som Richard Stallman är okej med, och det känns lite som att QT optimerar mot den.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2018-12-07 07:58 53s
+
+jo, men du är väl ok under LGPL så länge du inte länkar det statiskt (eller tivoiserar)
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2018-12-07 08:07 35s
+
+så borde det vara, som sagt verkar det inte alltid ges tydliga besked om det från QT. En dator som kör enbart en mjukvara borde inte räknas som tivoisation i min mening t.ex.
+Verkar också svårt att få QT att förtydliga policies om man är en mindre kund. Med det sagt så gillar jag QT skarpt.
+Men .net core kör MIT licens, så om även GUI bitarna kör på det kan det potentiellt eventuellt bli användbart.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2018-12-07 17:39 32s
+
+Råkade snubbla över denna sida:
+[http://oraclemine.com/sql-query-solved-sudoku-seconds/](http://oraclemine.com/sql-query-solved-sudoku-seconds/)
+
+En sqlfråga som löser sudokus (av godtycklig svårighetsgrad). Jag blev imponerad, sjukt imponerad! 
+
+<div class="attachment"><h4>This Single SQL Query Solved My Sudoku In Seconds</h4><div class="text">A single SQL query that solved my Sudoku in seconds. You don't believe it right? Then come check it out. You will be amazed by power of SQL.</div>
+<a href="http://oraclemine.com/sql-query-solved-sudoku-seconds/"><img src="http://oraclemine.com/wp-content/uploads/2018/02/This-SQL-query-solved-my-sudoku-in-seconds.jpg" fallback="This Single SQL Query Solved My Sudoku In Seconds"/></a></div>
+    
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles reacted this way." class="reactionSpan">
+👌x1</span>
+</div>
+     
+      </div>
+    
+
+<!--excerpt-->
+</section>
