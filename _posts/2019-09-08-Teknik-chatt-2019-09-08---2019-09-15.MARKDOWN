@@ -1,0 +1,24 @@
+---
+layout: post
+title: Teknik-chatt 2019-09-08 - 2019-09-15
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-09-08 17:14 29s
+
+Rätt intressant säkerhetsdiskussion kring IOS vs Android senaste veckorna. Tydligen har IOS exploits börjat bli väldigt vanliga på exploit-marknaden och flera siter har kunnat attackera IOS-via browsern i flera år.
+[https://www.theguardian.com/technology/2019/aug/30/hackers-monitoring-implants-iphones-google-says](https://www.theguardian.com/technology/2019/aug/30/hackers-monitoring-implants-iphones-google-says)
+
+<div class="attachment"><h4>Google says hackers have put ‘monitoring implants’ in iPhones for years</h4><div class="text">Visiting hacked sites was enough for server to gather users’ images and contacts</div>
+<a href="https://www.theguardian.com/technology/2019/aug/30/hackers-monitoring-implants-iphones-google-says"><img src="https://i.guim.co.uk/img/media/7437f5794951091d34c0edd1f392a2c745095934/0_0_3990_2394/master/3990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae082cc489e72457af90f81e29d51f52" fallback="Google says hackers have put ‘monitoring implants’ in iPhones for years"/></a></div>
+    
+Bland det mer intressanta här är diskussion kring hurvida det är möjligt för Apple att säkra IOS och ändå hålla det closed source, där många av Androids fixar kommer t.ex. från Samsungs säkerhetsavdelning eller oberoende säkerhetsforskare.
+Känns som ett av de större testen för "Security through obscurity".
+[https://www.androidauthority.com/android-exploits-ios-exploits-1026055/](https://www.androidauthority.com/android-exploits-ios-exploits-1026055/)
+
+<div class="attachment"><h4>Why Android exploits are now more expensive than iOS exploits</h4><div class="text">Google, give yourself a pat on the back.</div>
+<a href="https://www.androidauthority.com/android-exploits-ios-exploits-1026055/"><img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/01/security-protection-anti-virus-software-60504-920x470.jpeg" fallback="Why Android exploits are now more expensive than iOS exploits"/></a></div>
+    
+
+<!--excerpt-->
+</section>
