@@ -34,6 +34,11 @@ Amazon lanserar en blockkedjedatabas
 ### daniel.winther - 2019-09-12 08:17 41s
 
 frågan är bara vad man ska använda den till? :thinking_face:
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-09-12 14:50 12s
+
+Nån som kollat in htc vive cosmos? nya htc vive-headsetet
 
 <!--excerpt-->
 </section>
