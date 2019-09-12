@@ -19,6 +19,21 @@ Känns som ett av de större testen för "Security through obscurity".
 <div class="attachment"><h4>Why Android exploits are now more expensive than iOS exploits</h4><div class="text">Google, give yourself a pat on the back.</div>
 <a href="https://www.androidauthority.com/android-exploits-ios-exploits-1026055/"><img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/01/security-protection-anti-virus-software-60504-920x470.jpeg" fallback="Why Android exploits are now more expensive than iOS exploits"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-09-12 07:31 47s
+
+[https://aws.amazon.com/blogs/aws/now-available-amazon-quantum-ledger-database-qldb/](https://aws.amazon.com/blogs/aws/now-available-amazon-quantum-ledger-database-qldb/)
+
+<div class="attachment"><h4>Now Available – Amazon Quantum Ledger Database (QLDB) | Amazon Web Services</h4><div class="text">Given the wide range of data types, query models, indexing options, scaling expectations, and performance requirements, databases are definitely not one size fits all products. That’s why there are many different AWS database offerings, each one purpose-built to meet the needs of a different type of application. Introducing QLDB Today I would like to tell […]</div>
+<a href="https://aws.amazon.com/blogs/aws/now-available-amazon-quantum-ledger-database-qldb/"><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2019/09/09/qldb_blob_2.png" fallback="Now Available – Amazon Quantum Ledger Database (QLDB) | Amazon Web Services"/></a></div>
+    
+Amazon lanserar en blockkedjedatabas
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-09-12 08:17 41s
+
+frågan är bara vad man ska använda den till? :thinking_face:
 
 <!--excerpt-->
 </section>
