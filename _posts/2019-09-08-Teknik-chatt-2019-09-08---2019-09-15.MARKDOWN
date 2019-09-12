@@ -39,6 +39,20 @@ frågan är bara vad man ska använda den till? :thinking_face:
 ### daniel.winther - 2019-09-12 14:50 12s
 
 Nån som kollat in htc vive cosmos? nya htc vive-headsetet
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2019-09-12 16:46 53s
+
+Det är ju lite frågan med hela blockchain hysterin..? (Kanske blir jag nu som den där ministern som för 25 år sedan sa att Internet är en fluga)
+</section>
+<section class="message" markdown="1">
+### joakoles - 2019-09-12 18:10 13s
+
+Jag läste om den på [https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor](https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor) (vet inte mer än vad som står där)
+
+<div class="attachment"><h4>HTC Vive Cosmos lanseras 3 oktober – får prislapp på 9 590 kronor</h4><div class="text">Nästa generations VR-headset från HTC heter Vive Cosmos som bestyckas med högre upplösning, ett nytt spårningssystem och stöd för utökad funktionalitet via...</div>
+<a href="https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor">HTC Vive Cosmos lanseras 3 oktober – får prislapp på 9 590 kronor</a></div>
+    
 
 <!--excerpt-->
 </section>
