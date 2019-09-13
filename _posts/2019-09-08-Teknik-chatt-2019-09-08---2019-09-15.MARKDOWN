@@ -53,6 +53,12 @@ Jag läste om den på [https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-l
 <div class="attachment"><h4>HTC Vive Cosmos lanseras 3 oktober – får prislapp på 9 590 kronor</h4><div class="text">Nästa generations VR-headset från HTC heter Vive Cosmos som bestyckas med högre upplösning, ett nytt spårningssystem och stöd för utökad funktionalitet via...</div>
 <a href="https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor">HTC Vive Cosmos lanseras 3 oktober – får prislapp på 9 590 kronor</a></div>
     
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-09-13 08:34 19s
+
+Ja precis. Säkert kul om man hittar nåt case men känns svårt om man typ inte ska bygga en bank...
+Ett case skulle kunna vara auditloggar (spåra vem som har gjort vad i ett system) där man tex inte kan radera spår. Men känns också lite overkill med en sån här lösning för det
 
 <!--excerpt-->
 </section>
