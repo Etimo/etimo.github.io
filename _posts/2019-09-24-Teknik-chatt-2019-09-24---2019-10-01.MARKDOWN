@@ -1,0 +1,27 @@
+---
+layout: post
+title: Teknik-chatt 2019-09-24 - 2019-10-01
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2019-09-24 13:47 43s
+
+Äntligen kan vi åldras med värdighet:
+[https://feber.se/spel/lenovo-drar-igang-alderdomshem-for-gamers/402387/](https://feber.se/spel/lenovo-drar-igang-alderdomshem-for-gamers/402387/)
+
+<div class="attachment"><h4>Lenovo drar igång ålderdomshem för gamers. Så att vi kan lira till det bittra slutet</h4><div class="text">Lenovo har dragit igång en kampanj där man erbjuder gamers att boka plats på ett ålderdomshem där e-sportare och andra gamers ska kunna tillbringa ålderns höst, ett ålderdomshem som man kallar för x22House of Graymersx22. Ålderdomshemmet finns än så länge dock bara på pappret. Tanken verkar vara att man ska börja ta emot grånande gamers år 2050 och än så länge ska nog det hela mest ses som en rek....</div>
+<a href="https://feber.se/spel/lenovo-drar-igang-alderdomshem-for-gamers/402387/">Lenovo drar igång ålderdomshem för gamers. Så att vi kan lira till det bittra slutet</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-09-24 14:03 35s
+
+"obegränsat med pizza" Sign me up!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-09-24 14:12 50s
+
+haha
+
+<!--excerpt-->
+</section>
