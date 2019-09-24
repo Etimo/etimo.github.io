@@ -22,6 +22,31 @@ excerpt_separator: <!--excerpt-->
 ### daniel.winther - 2019-09-24 14:12 50s
 
 haha
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-09-24 14:47 13s
+
+Funderade på förtidspension där, men om stället öppnar 2050 får man väl hålla ut ett tag till.
+Bonus för att det tydligen finns åtminstonde ett CS:GO seniorlag, silver-snipers. Antar att trädgårdsskötsel inte är det enda alternativet framåt pensionsåldern.
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="lukas.lindqvist reacted this way." class="reactionSpan">
+😄x1</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-09-24 15:11 41s
+
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FNNPE3HNG-image.png">
+<img alt="image.png" src="/assets/blogAssets/FNNPE3HNG-image.png"/>
+</a></div>
+
+     
 
 <!--excerpt-->
 </section>
