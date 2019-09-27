@@ -47,6 +47,21 @@ Bonus för att det tydligen finns åtminstonde ett CS:GO seniorlag, silver-snipe
 </a></div>
 
      
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-09-27 12:02 49s
+
+[https://www.gatsbyjs.org/blog/2019-09-26-announcing-gatsby-15m-series-a-funding-round/](https://www.gatsbyjs.org/blog/2019-09-26-announcing-gatsby-15m-series-a-funding-round/)
+
+<div class="attachment"><h4>Announcing Gatsby’s $15M Series A Funding Round</h4><div class="text">I’m incredibly excited to announce that Gatsby has raised a \$15M Series A funding round, led by CRV , to drive the reinvention of website…</div>
+<a href="https://www.gatsbyjs.org/blog/2019-09-26-announcing-gatsby-15m-series-a-funding-round/"><div class="linkdiv"><img src="/assets/blogAssets/Announcing Gatsby’s $15M Series A Funding Round" fallback="Announcing Gatsby’s $15M Series A Funding Round"/></div></a></div>
+    
+Verktyget vi använder för att bygga nya hemsidan har spännande nyheter
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-09-27 12:29 11s
+
+Kul med ett ganska rent produktbolag som växer, undrar vad affärsplanen är? Ta över från wordpress?
 
 <!--excerpt-->
 </section>
