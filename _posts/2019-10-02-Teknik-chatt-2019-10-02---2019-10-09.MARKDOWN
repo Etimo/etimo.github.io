@@ -23,6 +23,11 @@ Wow snyggt!
 ### erik.malm - 2019-10-03 07:34 01s
 
 Bra jobbat där, förstår att du målat själv @johanhazelius!
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2019-10-03 09:58 25s
+
+Glad att du förstår det @erik.malm 🙂
 
 <!--excerpt-->
 </section>
