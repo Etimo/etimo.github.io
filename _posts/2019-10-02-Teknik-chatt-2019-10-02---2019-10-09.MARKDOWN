@@ -18,6 +18,11 @@ excerpt_separator: <!--excerpt-->
 ### daniel.winther - 2019-10-02 21:32 08s
 
 Wow snyggt!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-10-03 07:34 01s
+
+Bra jobbat där, förstår att du målat själv @johanhazelius!
 
 <!--excerpt-->
 </section>
