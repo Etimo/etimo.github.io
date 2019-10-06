@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2019-10-06 - 2019-10-13
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### philip.forsberg - 2019-10-06 20:08 28s
+
+@philip.forsberg has joined the channel
+
+<!--excerpt-->
+</section>
