@@ -1,0 +1,37 @@
+---
+layout: post
+title: Teknik-chatt 2019-10-13 - 2019-10-20
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-10-13 13:51 32s
+
+Jag vet inte om jag riktigt vant mig vid Microsoft-mjukvara på Linux ännu, men det mesta har ändå varit utvecklingsrelaterat, och med t.ex. VSCode gratis iom att det ändå är baserat på Electron. Men om MS faktiskt publicerar Edge på Linux måste jag nog pröva den bara för att det känns rätt absurt.
+[https://www.neowin.net/news/microsoft-is-trying-to-bring-the-chromium-based-edge-to-linux](https://www.neowin.net/news/microsoft-is-trying-to-bring-the-chromium-based-edge-to-linux)
+
+<div class="attachment"><h4>Microsoft is trying to bring the Chromium-based Edge to Linux</h4><div class="text">Microsoft has recently published a survey asking users about various aspects of web development on Linux. The company says it's working out the details to bring its browser to the OS.</div>
+<a href="https://www.neowin.net/news/microsoft-is-trying-to-bring-the-chromium-based-edge-to-linux"><img src="https://cdn.neow.in/news/images/uploaded/2019/04/1555199121_edgepreviews_story.jpg" fallback="Microsoft is trying to bring the Chromium-based Edge to Linux"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2019-10-13 14:10 26s
+
+Gillar att logons skugga ser mer ur som IE än edge
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-10-13 14:12 15s
+
+Det är som ett Scooby-Doo avsnitt  "It was old man Internet Explorer all along!"
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-10-13 14:14 02s
+
+Edge är i förgrunden, IE7 är i bakgrunden och lurpassar.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-10-13 20:15 36s
+
+Haha
+
+<!--excerpt-->
+</section>
