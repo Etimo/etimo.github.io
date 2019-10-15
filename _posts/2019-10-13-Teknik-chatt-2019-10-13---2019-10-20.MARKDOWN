@@ -102,6 +102,18 @@ Förklarar också lite liknande koncept för att ådstakomma samma sak genom att
 Consider the following Python snippet. Some operation is performed on data coming from and going back....</div>
 <a href="https://blog.gocept.com/2013/07/15/reliable-file-updates-with-python/">Reliable file updates with Python</a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-10-15 15:01 01s
+
+Skriver flera instanser av era saker till samma fil då @daniel.winther? Python har väl globalt interpreter lås fortfarande och kör enkeltrådat, eller har jag missat någon ny utveckling där?
+När man läser, Spooldir har jag kört utan att veta att patternet har ett namn.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-10-15 15:17 39s
+
+Precis, visste inte heller om att det var nåt slags "pattern"
+Python har fortfarande GIL och det kommer man inte ifrån. Det här programmet kör inte flertrådat utan i flera processer (pythons paket multiprocessing) som är standardsättet att köra python parallelt. Flertrådat används mer vid tex köhantering (tex vänta på requests, nätverk etc och dylikt). Dessa processer gör en hel del olika saker och använder filer för att swappa ut saker från minnet och kunna lämna över jobb och resultat till andra processer
 
 <!--excerpt-->
 </section>
