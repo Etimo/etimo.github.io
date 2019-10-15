@@ -32,6 +32,59 @@ Edge är i förgrunden, IE7 är i bakgrunden och lurpassar.
 ### daniel.winther - 2019-10-13 20:15 36s
 
 Haha
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-10-15 11:38 10s
+
+Nån som känner till och/eller har använt Open collective? [https://opencollective.com](https://opencollective.com)
+
+<div class="attachment"><h4>Open Collective</h4><div class="text">The Internet generation needs organizations that reflect who we are; where anybody can contribute to a shared mission; where leaders can easily change; and where money flows in full transparency. Create an Open Collective for your community.</div>
+<a href="https://opencollective.com/"><img src="https://opencollective.com/static/images/opencollective-og-default.jpg" fallback="Open Collective"/></a></div>
+    
+Man kan sätta upp projektkollekter där fok/organisationer kan gå in och donera, skaffa sponsorer etc
+Rätt intressant, tex har webpack en årlig återkommande budget på ~$430'000 bara från detta
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FPD4QNW04-image.png">
+<img alt="image.png" src="/assets/blogAssets/FPD4QNW04-image.png"/>
+</a></div>
+
+     
+ändå rätt mycket att dra in drygt 4,3 miljoner kr per år på ett open source projekt
+[https://opencollective.com/discover?show=open%20source](https://opencollective.com/discover?show=open%20source)
+
+<div class="attachment"><h4>Discover - Open Collective</h4><div class="text"></div>
+<a href="https://opencollective.com/discover?show=open%20source"><img src="https://opencollective.com/static/images/opencollective-og-default.jpg" fallback="Discover - Open Collective"/></a></div>
+    
+Ska man vara petig så är $430k en projicerad budget utifrån deras status på sidan. Vet inte hur ny sidan är men kan iaf se att webpack har nästan 60 sponsorer som bidrar med minst $200/mån var
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-10-15 12:38 23s
+
+Jag har ju använt Webpack en massvis, så då har jag använt opencollective gissar jag 😉
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles reacted this way." class="reactionSpan">
+😄x1</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-10-15 12:46 22s
+
+Står att Trivago har donerat 230k dollar till Webpack projektet. Det är en rätt bra summar för ett företag att donera på ett open source projekt
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-10-15 13:21 38s
+
+verkligen
+</section>
+<section class="message" markdown="1">
+### joakoles - 2019-10-15 13:51 46s
+
+Jag kände inte till det men tycker det är intressant! Kan tänka mig att det (eller någon konkurrent) blir väldigt stort.
 
 <!--excerpt-->
 </section>
