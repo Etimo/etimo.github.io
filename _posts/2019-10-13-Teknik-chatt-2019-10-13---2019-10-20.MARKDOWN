@@ -113,7 +113,9 @@ När man läser, Spooldir har jag kört utan att veta att patternet har ett namn
 ### daniel.winther - 2019-10-15 15:17 39s
 
 Precis, visste inte heller om att det var nåt slags "pattern"
-Python har fortfarande GIL och det kommer man inte ifrån. Det här programmet kör inte flertrådat utan i flera processer (pythons paket multiprocessing) som är standardsättet att köra python parallelt. Flertrådat används mer vid tex köhantering (tex vänta på requests, nätverk etc och dylikt). Dessa processer gör en hel del olika saker och använder filer för att swappa ut saker från minnet och kunna lämna över jobb och resultat till andra processer
+Python har fortfarande GIL och det kommer man inte ifrån. Det här programmet kör inte flertrådat utan i flera processer (pythons paket multiprocessing) som är standardsättet att köra python parallelt. Dessa processer gör en hel del olika saker och använder filer för att swappa ut saker från minnet och kunna lämna över jobb och resultat till andra processer. 
+
+Flertrådat används mer vid tex köhantering (tex vänta på requests, nätverk etc och dylikt).
 
 <!--excerpt-->
 </section>
