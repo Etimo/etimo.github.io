@@ -116,6 +116,28 @@ Precis, visste inte heller om att det var nåt slags "pattern"
 Python har fortfarande GIL och det kommer man inte ifrån. Det här programmet kör inte flertrådat utan i flera processer (pythons paket multiprocessing) som är standardsättet att köra python parallelt. Dessa processer gör en hel del olika saker och använder filer för att swappa ut saker från minnet och kunna lämna över jobb och resultat till andra processer. 
 
 Flertrådat används mer vid tex köhantering (tex vänta på requests, nätverk etc och dylikt).
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-10-17 16:02 15s
+
+Folk har för mycket tid:
+
+[https://github.com/sinclairzx81/zero](https://github.com/sinclairzx81/zero)
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2019-10-17 16:05 07s
+
+Så vackert!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2019-10-17 16:05 41s
+
+Verkligen! Funderade på om jag ska ta och prova den där vid version 2 av terminalviewern för diamonds
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-10-17 16:20 43s
+
+Det där förtjänar klart mer än 65 stjärnor allts!
 
 <!--excerpt-->
 </section>
