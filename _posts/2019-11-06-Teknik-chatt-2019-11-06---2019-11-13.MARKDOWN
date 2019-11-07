@@ -1,0 +1,19 @@
+---
+layout: post
+title: Teknik-chatt 2019-11-06 - 2019-11-13
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-11-06 20:11 34s
+
+Apple har släppt ett nätverksbibliotek med fokus på att bygga en skalbar och performant nätverkskommunikation, verkar lösa problem med t.ex. felpropagering, loggning, lastbalancering etc.
+Verkar innehålla högnivåabstraktioner för synkron och asynkron kommunikation, med t.ex. reactive streams och stöd för flera protokoHTTP/HTTP2 och GRPC.
+Det som gör det riktigt kul från Java-dev perspektiv är att det är Apples första publika Java-repo byggt ovanpå Netty.
+Känns som  att Apples nyfokus på att vara ett service-företag fört dem tillbaka till Java, även om det kanske är en rätt stor slutsats.
+Och så själva repot:
+[https://github.com/apple/servicetalk/](https://github.com/apple/servicetalk/)
+Docs:en ger lite mer bakgrund:
+[https://apple.github.io/servicetalk/servicetalk/SNAPSHOT/programming-paradigms.html](https://apple.github.io/servicetalk/servicetalk/SNAPSHOT/programming-paradigms.html)
+
+<!--excerpt-->
+</section>
