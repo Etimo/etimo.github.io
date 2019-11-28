@@ -1,0 +1,19 @@
+---
+layout: post
+title: Teknik-chatt 2019-11-27 - 2019-12-04
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2019-11-27 09:23 26s
+
+[https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-aurora-mysql-5-7-now-supports-zero-downtime-patching/](https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-aurora-mysql-5-7-now-supports-zero-downtime-patching/)
+Amazon aurora kan nu uppgraderas med zero downtime
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-11-27 12:46 10s
+
+Har inte kört Aurora, så ställer lite basfrågor. Har man sina egna instanser (typ s3 buckets) eller sväljs allt i Amazons backend?
+Antar att man har nåt eget iom att man måste uppgradera?
+
+<!--excerpt-->
+</section>
