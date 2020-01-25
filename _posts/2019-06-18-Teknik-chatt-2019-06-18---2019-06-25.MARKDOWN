@@ -6,56 +6,56 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### johanhazelius - 2019-06-18 20:46 01s
 
-Kanske första kryptovalutan som faktiskt blir något riktigt användbart? [https://techcrunch.com/2019/06/18/facebook-libra/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1](https://techcrunch.com/2019/06/18/facebook-libra/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1)
+Kanske f?rsta kryptovalutan som faktiskt blir n?got riktigt anv?ndbart? [https://techcrunch.com/2019/06/18/facebook-libra/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1](https://techcrunch.com/2019/06/18/facebook-libra/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1)
 
-<div class="attachment"><h4>Facebook announces Libra cryptocurrency: All you need to know – TechCrunch</h4><div class="text">Facebook has finally revealed the details of its cryptocurrency, Libra, which will let you buy things or send money to people with nearly zero fees. You’ll pseudonymously buy or cash out your Libra online or at local exchange points like grocery stores, and spend it using interoperable third-…</div>
-<a href="https://techcrunch.com/2019/06/18/facebook-libra/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1"><img src="https://techcrunch.com/wp-content/uploads/2019/06/Facebook-Libra.png?w=713" fallback="Facebook announces Libra cryptocurrency: All you need to know – TechCrunch"/></a></div>
+<div class="attachment"><h4>Facebook announces Libra cryptocurrency: All you need to know ? TechCrunch</h4><div class="text">Facebook has finally revealed the details of its cryptocurrency, Libra, which will let you buy things or send money to people with nearly zero fees. You?ll pseudonymously buy or cash out your Libra online or at local exchange points like grocery stores, and spend it using interoperable third-?</div>
+<a href="https://techcrunch.com/2019/06/18/facebook-libra/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1"><img src="https://techcrunch.com/wp-content/uploads/2019/06/Facebook-Libra.png?w=713" fallback="Facebook announces Libra cryptocurrency: All you need to know ? TechCrunch"/></a></div>
     
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-18 22:09 59s
 
-Undrar om krypto blivit så likvärdigt med spekulation att det kommer bli svårt att faktiskt få folk att använda det som valuta.
+Undrar om krypto blivit s? likv?rdigt med spekulation att det kommer bli sv?rt att faktiskt f? folk att anv?nda det som valuta.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-06-18 23:49 07s
 
-verkar ha samma problem som SWIFT/Visa/MC utan att lösa nått nytt
-och trots allt blåsväder nyligen så litar jag nog fortfarande mer på Sparbanken Nord än Spotify..
+verkar ha samma problem som SWIFT/Visa/MC utan att l?sa n?tt nytt
+och trots allt bl?sv?der nyligen s? litar jag nog fortfarande mer p? Sparbanken Nord ?n Spotify..
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-06-19 10:24 28s
 
-Deras sätt att lösa "lita på" problemet verkar vara att varje företag/medlem max får ha 1 av 100 röster.
-Så även trotts att facebook har vart huvudaktören med att starta libra har de bara 1% av rösten
+Deras s?tt att l?sa "lita p?" problemet verkar vara att varje f?retag/medlem max f?r ha 1 av 100 r?ster.
+S? ?ven trotts att facebook har vart huvudakt?ren med att starta libra har de bara 1% av r?sten
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-06-19 10:26 08s
 
-mjo, men spelar det någon roll när alla medlemmarna kommer från ~samma bakgrund och umgås i samma kretsar?
-dessutom har du ju samma tillitsproblem när det gäller att se till att den regeln följs
+mjo, men spelar det n?gon roll n?r alla medlemmarna kommer fr?n ~samma bakgrund och umg?s i samma kretsar?
+dessutom har du ju samma tillitsproblem n?r det g?ller att se till att den regeln f?ljs
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-06-19 10:44 48s
 
-Finns ju inte riktigt 100 företag som är som spotify/facebook, men visst, ska man vara cynisk kan aldrig lita på något 🙂
+Finns ju inte riktigt 100 f?retag som ?r som spotify/facebook, men visst, ska man vara cynisk kan aldrig lita p? n?got ?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-06-19 10:46 28s
 
-Jag vet inte om jag skulle lita så himla mycket mer på bankerna... de jobbar väl alltid mer för sina egna intressen än andras?
-Bankerna bryr sig inte på samma sätt som företagen om vad deras användare tycker
+Jag vet inte om jag skulle lita s? himla mycket mer p? bankerna... de jobbar v?l alltid mer f?r sina egna intressen ?n andras?
+Bankerna bryr sig inte p? samma s?tt som f?retagen om vad deras anv?ndare tycker
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-06-19 10:48 12s
 
-nä absolut, men det känns ännu mer suspekt att gå ut och säga "vi har löst problemen med översyn i bankvärlden! (genom att ge oss kontrollen istället...)"
-som dom säger.. "infinitesimal supposed improvement is the enemy of good" 😛
+n? absolut, men det k?nns ?nnu mer suspekt att g? ut och s?ga "vi har l?st problemen med ?versyn i bankv?rlden! (genom att ge oss kontrollen ist?llet...)"
+som dom s?ger.. "infinitesimal supposed improvement is the enemy of good" ?
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-06-19 10:48 42s
 
-Du sprider ju ut kontrollen till minst 100 parter, istället för 1 part. Så det är minst 100ggr så bra.
+Du sprider ju ut kontrollen till minst 100 parter, ist?llet f?r 1 part. S? det ?r minst 100ggr s? bra.
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-06-19 10:59 11s
@@ -74,11 +74,11 @@ Enkel matte
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-19 17:22 03s
 
-Kör nog på mitt favorit grinig-gubbe citat och säger att "Not all change is progress"
+K?r nog p? mitt favorit grinig-gubbe citat och s?ger att "Not all change is progress"
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="teo.roijezon reacted this way." class="reactionSpan">
-👍x1</span>
+?x1</span>
 </div>
      
       </div>
@@ -87,12 +87,12 @@ Kör nog på mitt favorit grinig-gubbe citat och säger att "Not all change is p
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-06-19 17:33 31s
 
-"But all progress comes from change." 😉
+"But all progress comes from change." ?
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-19 17:52 35s
 
-Undrar f.ö. hur bloggen hanterat din gify @lukas.lindqvist... korrekt ser det ut som.
+Undrar f.?. hur bloggen hanterat din gify @lukas.lindqvist... korrekt ser det ut som.
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-06-19 17:53 12s
@@ -113,18 +113,18 @@ imponerande av bloggen, starkt jobbat!
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-20 07:56 58s
 
-Som utvecklare med katter känner jag igen mig dubbelt.
-En katt gillar att dra sin mat med tassen in under en av hyllorna och sen äta där när hon samlat en hög.
+Som utvecklare med katter k?nner jag igen mig dubbelt.
+En katt gillar att dra sin mat med tassen in under en av hyllorna och sen ?ta d?r n?r hon samlat en h?g.
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-06-20 10:12 15s
 
-Haha våra hundar gör lite samma sak. De bär ut sina kulor från matskålen i köket till mattan i vardagsrummet och äter där. Konstigt beteende men de kanske gillar att stå på mjukt underlag och äta. Kanske får AB-testa och lägga en liten matta vid deras matskål ibland :thinking_face:
+Haha v?ra hundar g?r lite samma sak. De b?r ut sina kulor fr?n matsk?len i k?ket till mattan i vardagsrummet och ?ter d?r. Konstigt beteende men de kanske gillar att st? p? mjukt underlag och ?ta. Kanske f?r AB-testa och l?gga en liten matta vid deras matsk?l ibland :thinking_face:
 </section>
 <section class="message" markdown="1">
 ### joakoles - 2019-06-20 10:53 02s
 
-Låter som bra AB-test! @erik.malm kanske kan ställa en hylla över katternas matplats ibland?
+L?ter som bra AB-test! @erik.malm kanske kan st?lla en hylla ?ver katternas matplats ibland?
 
 <!--excerpt-->
 </section>

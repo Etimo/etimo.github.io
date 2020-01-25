@@ -6,17 +6,17 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### daniel.winther - 2019-09-24 13:47 43s
 
-Äntligen kan vi åldras med värdighet:
+?ntligen kan vi ?ldras med v?rdighet:
 [https://feber.se/spel/lenovo-drar-igang-alderdomshem-for-gamers/402387/](https://feber.se/spel/lenovo-drar-igang-alderdomshem-for-gamers/402387/)
 
-<div class="attachment"><h4>Lenovo drar igång ålderdomshem för gamers. Så att vi kan lira till det bittra slutet</h4><div class="text">Lenovo har dragit igång en kampanj där man erbjuder gamers att boka plats på ett ålderdomshem där e-sportare och andra gamers ska kunna tillbringa ålderns höst, ett ålderdomshem som man kallar för x22House of Graymersx22. Ålderdomshemmet finns än så länge dock bara på pappret. Tanken verkar vara att man ska börja ta emot grånande gamers år 2050 och än så länge ska nog det hela mest ses som en rek....</div>
-<a href="https://feber.se/spel/lenovo-drar-igang-alderdomshem-for-gamers/402387/">Lenovo drar igång ålderdomshem för gamers. Så att vi kan lira till det bittra slutet</a></div>
+<div class="attachment"><h4>Lenovo drar ig?ng ?lderdomshem f?r gamers. S? att vi kan lira till det bittra slutet</h4><div class="text">Lenovo har dragit ig?ng en kampanj d?r man erbjuder gamers att boka plats p? ett ?lderdomshem d?r e-sportare och andra gamers ska kunna tillbringa ?lderns h?st, ett ?lderdomshem som man kallar f?r x22House of Graymersx22. ?lderdomshemmet finns ?n s? l?nge dock bara p? pappret. Tanken verkar vara att man ska b?rja ta emot gr?nande gamers ?r 2050 och ?n s? l?nge ska nog det hela mest ses som en rek....</div>
+<a href="https://feber.se/spel/lenovo-drar-igang-alderdomshem-for-gamers/402387/">Lenovo drar ig?ng ?lderdomshem f?r gamers. S? att vi kan lira till det bittra slutet</a></div>
     
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-09-24 14:03 35s
 
-"obegränsat med pizza" Sign me up!
+"obegr?nsat med pizza" Sign me up!
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-09-24 14:12 50s
@@ -26,12 +26,12 @@ haha
 <section class="message" markdown="1">
 ### erik.malm - 2019-09-24 14:47 13s
 
-Funderade på förtidspension där, men om stället öppnar 2050 får man väl hålla ut ett tag till.
-Bonus för att det tydligen finns åtminstonde ett CS:GO seniorlag, silver-snipers. Antar att trädgårdsskötsel inte är det enda alternativet framåt pensionsåldern.
+Funderade p? f?rtidspension d?r, men om st?llet ?ppnar 2050 f?r man v?l h?lla ut ett tag till.
+Bonus f?r att det tydligen finns ?tminstonde ett CS:GO seniorlag, silver-snipers. Antar att tr?dg?rdssk?tsel inte ?r det enda alternativet fram?t pensions?ldern.
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="lukas.lindqvist reacted this way." class="reactionSpan">
-😄x1</span>
+?x1</span>
 </div>
      
       </div>
@@ -53,15 +53,15 @@ Bonus för att det tydligen finns åtminstonde ett CS:GO seniorlag, silver-snipe
 
 [https://www.gatsbyjs.org/blog/2019-09-26-announcing-gatsby-15m-series-a-funding-round/](https://www.gatsbyjs.org/blog/2019-09-26-announcing-gatsby-15m-series-a-funding-round/)
 
-<div class="attachment"><h4>Announcing Gatsby’s $15M Series A Funding Round</h4><div class="text">I’m incredibly excited to announce that Gatsby has raised a \$15M Series A funding round, led by CRV , to drive the reinvention of website…</div>
-<a href="https://www.gatsbyjs.org/blog/2019-09-26-announcing-gatsby-15m-series-a-funding-round/"><div class="linkdiv"><img src="/assets/blogAssets/Announcing Gatsby’s $15M Series A Funding Round" fallback="Announcing Gatsby’s $15M Series A Funding Round"/></div></a></div>
+<div class="attachment"><h4>Announcing Gatsby?s $15M Series A Funding Round</h4><div class="text">I?m incredibly excited to announce that Gatsby has raised a \$15M Series A funding round, led by CRV , to drive the reinvention of website?</div>
+<a href="https://www.gatsbyjs.org/blog/2019-09-26-announcing-gatsby-15m-series-a-funding-round/"><div class="linkdiv"><img src="/assets/blogAssets/Announcing Gatsby?s $15M Series A Funding Round" fallback="Announcing Gatsby?s $15M Series A Funding Round"/></div></a></div>
     
-Verktyget vi använder för att bygga nya hemsidan har spännande nyheter
+Verktyget vi anv?nder f?r att bygga nya hemsidan har sp?nnande nyheter
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-09-27 12:29 11s
 
-Kul med ett ganska rent produktbolag som växer, undrar vad affärsplanen är? Ta över från wordpress?
+Kul med ett ganska rent produktbolag som v?xer, undrar vad aff?rsplanen ?r? Ta ?ver fr?n wordpress?
 
 <!--excerpt-->
 </section>

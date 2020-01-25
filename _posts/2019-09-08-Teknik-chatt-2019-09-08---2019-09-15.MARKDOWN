@@ -6,14 +6,14 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2019-09-08 17:14 29s
 
-Rätt intressant säkerhetsdiskussion kring IOS vs Android senaste veckorna. Tydligen har IOS exploits börjat bli väldigt vanliga på exploit-marknaden och flera siter har kunnat attackera IOS-via browsern i flera år.
+R?tt intressant s?kerhetsdiskussion kring IOS vs Android senaste veckorna. Tydligen har IOS exploits b?rjat bli v?ldigt vanliga p? exploit-marknaden och flera siter har kunnat attackera IOS-via browsern i flera ?r.
 [https://www.theguardian.com/technology/2019/aug/30/hackers-monitoring-implants-iphones-google-says](https://www.theguardian.com/technology/2019/aug/30/hackers-monitoring-implants-iphones-google-says)
 
-<div class="attachment"><h4>Google says hackers have put ‘monitoring implants’ in iPhones for years</h4><div class="text">Visiting hacked sites was enough for server to gather users’ images and contacts</div>
-<a href="https://www.theguardian.com/technology/2019/aug/30/hackers-monitoring-implants-iphones-google-says"><img src="https://i.guim.co.uk/img/media/7437f5794951091d34c0edd1f392a2c745095934/0_0_3990_2394/master/3990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae082cc489e72457af90f81e29d51f52" fallback="Google says hackers have put ‘monitoring implants’ in iPhones for years"/></a></div>
+<div class="attachment"><h4>Google says hackers have put ?monitoring implants? in iPhones for years</h4><div class="text">Visiting hacked sites was enough for server to gather users? images and contacts</div>
+<a href="https://www.theguardian.com/technology/2019/aug/30/hackers-monitoring-implants-iphones-google-says"><img src="https://i.guim.co.uk/img/media/7437f5794951091d34c0edd1f392a2c745095934/0_0_3990_2394/master/3990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae082cc489e72457af90f81e29d51f52" fallback="Google says hackers have put ?monitoring implants? in iPhones for years"/></a></div>
     
-Bland det mer intressanta här är diskussion kring hurvida det är möjligt för Apple att säkra IOS och ändå hålla det closed source, där många av Androids fixar kommer t.ex. från Samsungs säkerhetsavdelning eller oberoende säkerhetsforskare.
-Känns som ett av de större testen för "Security through obscurity".
+Bland det mer intressanta h?r ?r diskussion kring hurvida det ?r m?jligt f?r Apple att s?kra IOS och ?nd? h?lla det closed source, d?r m?nga av Androids fixar kommer t.ex. fr?n Samsungs s?kerhetsavdelning eller oberoende s?kerhetsforskare.
+K?nns som ett av de st?rre testen f?r "Security through obscurity".
 [https://www.androidauthority.com/android-exploits-ios-exploits-1026055/](https://www.androidauthority.com/android-exploits-ios-exploits-1026055/)
 
 <div class="attachment"><h4>Why Android exploits are now more expensive than iOS exploits</h4><div class="text">Google, give yourself a pat on the back.</div>
@@ -25,40 +25,40 @@ Känns som ett av de större testen för "Security through obscurity".
 
 [https://aws.amazon.com/blogs/aws/now-available-amazon-quantum-ledger-database-qldb/](https://aws.amazon.com/blogs/aws/now-available-amazon-quantum-ledger-database-qldb/)
 
-<div class="attachment"><h4>Now Available – Amazon Quantum Ledger Database (QLDB) | Amazon Web Services</h4><div class="text">Given the wide range of data types, query models, indexing options, scaling expectations, and performance requirements, databases are definitely not one size fits all products. That’s why there are many different AWS database offerings, each one purpose-built to meet the needs of a different type of application. Introducing QLDB Today I would like to tell […]</div>
-<a href="https://aws.amazon.com/blogs/aws/now-available-amazon-quantum-ledger-database-qldb/"><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2019/09/09/qldb_blob_2.png" fallback="Now Available – Amazon Quantum Ledger Database (QLDB) | Amazon Web Services"/></a></div>
+<div class="attachment"><h4>Now Available ? Amazon Quantum Ledger Database (QLDB) | Amazon Web Services</h4><div class="text">Given the wide range of data types, query models, indexing options, scaling expectations, and performance requirements, databases are definitely not one size fits all products. That?s why there are many different AWS database offerings, each one purpose-built to meet the needs of a different type of application. Introducing QLDB Today I would like to tell [?]</div>
+<a href="https://aws.amazon.com/blogs/aws/now-available-amazon-quantum-ledger-database-qldb/"><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2019/09/09/qldb_blob_2.png" fallback="Now Available ? Amazon Quantum Ledger Database (QLDB) | Amazon Web Services"/></a></div>
     
 Amazon lanserar en blockkedjedatabas
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-09-12 08:17 41s
 
-frågan är bara vad man ska använda den till? :thinking_face:
+fr?gan ?r bara vad man ska anv?nda den till? :thinking_face:
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-09-12 14:50 12s
 
-Nån som kollat in htc vive cosmos? nya htc vive-headsetet
+N?n som kollat in htc vive cosmos? nya htc vive-headsetet
 </section>
 <section class="message" markdown="1">
 ### johanhazelius - 2019-09-12 16:46 53s
 
-Det är ju lite frågan med hela blockchain hysterin..? (Kanske blir jag nu som den där ministern som för 25 år sedan sa att Internet är en fluga)
+Det ?r ju lite fr?gan med hela blockchain hysterin..? (Kanske blir jag nu som den d?r ministern som f?r 25 ?r sedan sa att Internet ?r en fluga)
 </section>
 <section class="message" markdown="1">
 ### joakoles - 2019-09-12 18:10 13s
 
-Jag läste om den på [https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor](https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor) (vet inte mer än vad som står där)
+Jag l?ste om den p? [https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor](https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor) (vet inte mer ?n vad som st?r d?r)
 
-<div class="attachment"><h4>HTC Vive Cosmos lanseras 3 oktober – får prislapp på 9 590 kronor</h4><div class="text">Nästa generations VR-headset från HTC heter Vive Cosmos som bestyckas med högre upplösning, ett nytt spårningssystem och stöd för utökad funktionalitet via...</div>
-<a href="https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor">HTC Vive Cosmos lanseras 3 oktober – får prislapp på 9 590 kronor</a></div>
+<div class="attachment"><h4>HTC Vive Cosmos lanseras 3 oktober ? f?r prislapp p? 9?590?kronor</h4><div class="text">N?sta generations VR-headset fr?n HTC heter Vive Cosmos som bestyckas med h?gre uppl?sning, ett nytt sp?rningssystem och st?d f?r ut?kad funktionalitet via...</div>
+<a href="https://www.sweclockers.com/nyhet/28169-htc-vive-cosmos-lanseras-3-oktober-far-prislapp-pa-9-590-kronor">HTC Vive Cosmos lanseras 3 oktober ? f?r prislapp p? 9?590?kronor</a></div>
     
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-09-13 08:34 19s
 
-Ja precis. Säkert kul om man hittar nåt case men känns svårt om man typ inte ska bygga en bank...
-Ett case skulle kunna vara auditloggar (spåra vem som har gjort vad i ett system) där man tex inte kan radera spår. Men känns också lite overkill med en sån här lösning för det
+Ja precis. S?kert kul om man hittar n?t case men k?nns sv?rt om man typ inte ska bygga en bank...
+Ett case skulle kunna vara auditloggar (sp?ra vem som har gjort vad i ett system) d?r man tex inte kan radera sp?r. Men k?nns ocks? lite overkill med en s?n h?r l?sning f?r det
 
 <!--excerpt-->
 </section>

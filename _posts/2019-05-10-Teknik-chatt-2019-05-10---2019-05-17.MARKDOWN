@@ -6,7 +6,7 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### daniel.winther - 2019-05-10 22:37 34s
 
-Helgnöje; spela Doom i ASCII:
+Helgn?je; spela Doom i ASCII:
 [https://vimeo.com/139774508](https://vimeo.com/139774508)
 
 <div class="attachment"><h4>Doom in ASCII (libcaca)</h4><div class="text">Running Doom (Crispy Doom port) in a text mode (SDL+libcaca) on Linux. In Debian this works out of the box. Also tested on Fedora 22, no success.</div>
@@ -16,12 +16,12 @@ Helgnöje; spela Doom i ASCII:
 <section class="message" markdown="1">
 ### daniel.winther - 2019-05-11 21:12 57s
 
-Blev inspirerad av Doom i ASCII och skrev ihop följande på bussen hem i fredags:
+Blev inspirerad av Doom i ASCII och skrev ihop f?ljande p? bussen hem i fredags:
 [https://github.com/indrif/diamonds-terminal-viewer](https://github.com/indrif/diamonds-terminal-viewer)
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="erik.malm reacted this way." class="reactionSpan">
-⌨x1</span>
+?x1</span>
 </div>
      
       </div>

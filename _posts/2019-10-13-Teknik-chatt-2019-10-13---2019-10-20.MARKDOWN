@@ -6,7 +6,7 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2019-10-13 13:51 32s
 
-Jag vet inte om jag riktigt vant mig vid Microsoft-mjukvara på Linux ännu, men det mesta har ändå varit utvecklingsrelaterat, och med t.ex. VSCode gratis iom att det ändå är baserat på Electron. Men om MS faktiskt publicerar Edge på Linux måste jag nog pröva den bara för att det känns rätt absurt.
+Jag vet inte om jag riktigt vant mig vid Microsoft-mjukvara p? Linux ?nnu, men det mesta har ?nd? varit utvecklingsrelaterat, och med t.ex. VSCode gratis iom att det ?nd? ?r baserat p? Electron. Men om MS faktiskt publicerar Edge p? Linux m?ste jag nog pr?va den bara f?r att det k?nns r?tt absurt.
 [https://www.neowin.net/news/microsoft-is-trying-to-bring-the-chromium-based-edge-to-linux](https://www.neowin.net/news/microsoft-is-trying-to-bring-the-chromium-based-edge-to-linux)
 
 <div class="attachment"><h4>Microsoft is trying to bring the Chromium-based Edge to Linux</h4><div class="text">Microsoft has recently published a survey asking users about various aspects of web development on Linux. The company says it's working out the details to bring its browser to the OS.</div>
@@ -16,17 +16,17 @@ Jag vet inte om jag riktigt vant mig vid Microsoft-mjukvara på Linux ännu, men
 <section class="message" markdown="1">
 ### jens.hunt - 2019-10-13 14:10 26s
 
-Gillar att logons skugga ser mer ur som IE än edge
+Gillar att logons skugga ser mer ur som IE ?n edge
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-10-13 14:12 15s
 
-Det är som ett Scooby-Doo avsnitt  "It was old man Internet Explorer all along!"
+Det ?r som ett Scooby-Doo avsnitt  "It was old man Internet Explorer all along!"
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-10-13 14:14 02s
 
-Edge är i förgrunden, IE7 är i bakgrunden och lurpassar.
+Edge ?r i f?rgrunden, IE7 ?r i bakgrunden och lurpassar.
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-10-13 20:15 36s
@@ -36,13 +36,13 @@ Haha
 <section class="message" markdown="1">
 ### daniel.winther - 2019-10-15 11:38 10s
 
-Nån som känner till och/eller har använt Open collective? [https://opencollective.com](https://opencollective.com)
+N?n som k?nner till och/eller har anv?nt Open collective? [https://opencollective.com](https://opencollective.com)
 
 <div class="attachment"><h4>Open Collective</h4><div class="text">The Internet generation needs organizations that reflect who we are; where anybody can contribute to a shared mission; where leaders can easily change; and where money flows in full transparency. Create an Open Collective for your community.</div>
 <a href="https://opencollective.com/"><img src="https://opencollective.com/static/images/opencollective-og-default.jpg" fallback="Open Collective"/></a></div>
     
-Man kan sätta upp projektkollekter där fok/organisationer kan gå in och donera, skaffa sponsorer etc
-Rätt intressant, tex har webpack en årlig återkommande budget på ~$430'000 bara från detta
+Man kan s?tta upp projektkollekter d?r fok/organisationer kan g? in och donera, skaffa sponsorer etc
+R?tt intressant, tex har webpack en ?rlig ?terkommande budget p? ~$430'000 bara fr?n detta
 
 <div class="imageblock">
 <a href="/assets/blogAssets/FPD4QNW04-image.png">
@@ -50,22 +50,22 @@ Rätt intressant, tex har webpack en årlig återkommande budget på ~$430'000 b
 </a></div>
 
      
-ändå rätt mycket att dra in drygt 4,3 miljoner kr per år på ett open source projekt
+?nd? r?tt mycket att dra in drygt 4,3 miljoner kr per ?r p? ett open source projekt
 [https://opencollective.com/discover?show=open%20source](https://opencollective.com/discover?show=open%20source)
 
 <div class="attachment"><h4>Discover - Open Collective</h4><div class="text"></div>
 <a href="https://opencollective.com/discover?show=open%20source"><img src="https://opencollective.com/static/images/opencollective-og-default.jpg" fallback="Discover - Open Collective"/></a></div>
     
-Ska man vara petig så är $430k en projicerad budget utifrån deras status på sidan. Vet inte hur ny sidan är men kan iaf se att webpack har nästan 60 sponsorer som bidrar med minst $200/mån var
+Ska man vara petig s? ?r $430k en projicerad budget utifr?n deras status p? sidan. Vet inte hur ny sidan ?r men kan iaf se att webpack har n?stan 60 sponsorer som bidrar med minst $200/m?n var
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-10-15 12:38 23s
 
-Jag har ju använt Webpack en massvis, så då har jag använt opencollective gissar jag 😉
+Jag har ju anv?nt Webpack en massvis, s? d? har jag anv?nt opencollective gissar jag ?
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="joakoles reacted this way." class="reactionSpan">
-😄x1</span>
+?x1</span>
 </div>
      
       </div>
@@ -74,7 +74,7 @@ Jag har ju använt Webpack en massvis, så då har jag använt opencollective gi
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-10-15 12:46 22s
 
-Står att Trivago har donerat 230k dollar till Webpack projektet. Det är en rätt bra summar för ett företag att donera på ett open source projekt
+St?r att Trivago har donerat 230k dollar till Webpack projektet. Det ?r en r?tt bra summar f?r ett f?retag att donera p? ett open source projekt
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-10-15 13:21 38s
@@ -84,60 +84,60 @@ verkligen
 <section class="message" markdown="1">
 ### joakoles - 2019-10-15 13:51 46s
 
-Jag kände inte till det men tycker det är intressant! Kan tänka mig att det (eller någon konkurrent) blir väldigt stort.
+Jag k?nde inte till det men tycker det ?r intressant! Kan t?nka mig att det (eller n?gon konkurrent) blir v?ldigt stort.
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-10-15 14:21 15s
 
-Har suttit idag och felsökt ett racekondition i paralell körning av python. Visade sig bero på filhanteringen. Kort och gott förlitade jag mig på flushning av filer till disk istället för att programmatiskt tvinga det. Hittade en intressant sida som beskriver hur man gör filoperationer atomära och konsekventa. Är lite basic i början men listar ändå en del bra tekniker att tänka på ibland när man hanterar förändringar i filer. Hur man förhindrar skrivfel etc genom atomära operationer, hur man kan förhindra brutna appends med tex checksummade skrivningar (att jämföra med tex WAL och transaktionsloggar i databaser).
+Har suttit idag och fels?kt ett racekondition i paralell k?rning av python. Visade sig bero p? filhanteringen. Kort och gott f?rlitade jag mig p? flushning av filer till disk ist?llet f?r att programmatiskt tvinga det. Hittade en intressant sida som beskriver hur man g?r filoperationer atom?ra och konsekventa. ?r lite basic i b?rjan men listar ?nd? en del bra tekniker att t?nka p? ibland n?r man hanterar f?r?ndringar i filer. Hur man f?rhindrar skrivfel etc genom atom?ra operationer, hur man kan f?rhindra brutna appends med tex checksummade skrivningar (att j?mf?ra med tex WAL och transaktionsloggar i databaser).
 
-Förklarar också lite liknande koncept för att ådstakomma samma sak genom att tex använda ett format som kallas spooldir och maildir. Inget jag kände till innan iaf, även om jag snubblat över kataloger som heter spool i unix 😄
+F?rklarar ocks? lite liknande koncept f?r att ?dstakomma samma sak genom att tex anv?nda ett format som kallas spooldir och maildir. Inget jag k?nde till innan iaf, ?ven om jag snubblat ?ver kataloger som heter spool i unix ?
 [https://blog.gocept.com/2013/07/15/reliable-file-updates-with-python/](https://blog.gocept.com/2013/07/15/reliable-file-updates-with-python/)
 
-<div class="attachment"><h4>Reliable file updates with Python</h4><div class="text">Programs need to update files. Although most programmers know that unexpected things can happen while performing I/O, I often see code that has been written in a surprisingly na&iuml;ve way. In this article, I would like to share some insights on how to improve I/O reliability in Python code.
+<div class="attachment"><h4>Reliable file updates with?Python</h4><div class="text">Programs need to update files. Although most programmers know that unexpected things can happen while performing I/O, I often see code that has been written in a surprisingly na&iuml;ve way. In this article, I would like to share some insights on how to improve I/O reliability in Python code.
 
 
 
 
 Consider the following Python snippet. Some operation is performed on data coming from and going back....</div>
-<a href="https://blog.gocept.com/2013/07/15/reliable-file-updates-with-python/">Reliable file updates with Python</a></div>
+<a href="https://blog.gocept.com/2013/07/15/reliable-file-updates-with-python/">Reliable file updates with?Python</a></div>
     
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-10-15 15:01 01s
 
-Skriver flera instanser av era saker till samma fil då @daniel.winther? Python har väl globalt interpreter lås fortfarande och kör enkeltrådat, eller har jag missat någon ny utveckling där?
-När man läser, Spooldir har jag kört utan att veta att patternet har ett namn.
+Skriver flera instanser av era saker till samma fil d? @daniel.winther? Python har v?l globalt interpreter l?s fortfarande och k?r enkeltr?dat, eller har jag missat n?gon ny utveckling d?r?
+N?r man l?ser, Spooldir har jag k?rt utan att veta att patternet har ett namn.
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-10-15 15:17 39s
 
-Precis, visste inte heller om att det var nåt slags "pattern"
-Python har fortfarande GIL och det kommer man inte ifrån. Det här programmet kör inte flertrådat utan i flera processer (pythons paket multiprocessing) som är standardsättet att köra python parallelt. Dessa processer gör en hel del olika saker och använder filer för att swappa ut saker från minnet och kunna lämna över jobb och resultat till andra processer. 
+Precis, visste inte heller om att det var n?t slags "pattern"
+Python har fortfarande GIL och det kommer man inte ifr?n. Det h?r programmet k?r inte flertr?dat utan i flera processer (pythons paket multiprocessing) som ?r standards?ttet att k?ra python parallelt. Dessa processer g?r en hel del olika saker och anv?nder filer f?r att swappa ut saker fr?n minnet och kunna l?mna ?ver jobb och resultat till andra processer. 
 
-Flertrådat används mer vid tex köhantering (tex vänta på requests, nätverk etc och dylikt).
+Flertr?dat anv?nds mer vid tex k?hantering (tex v?nta p? requests, n?tverk etc och dylikt).
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-10-17 16:02 15s
 
-Folk har för mycket tid:
+Folk har f?r mycket tid:
 
 [https://github.com/sinclairzx81/zero](https://github.com/sinclairzx81/zero)
 </section>
 <section class="message" markdown="1">
 ### jens.hunt - 2019-10-17 16:05 07s
 
-Så vackert!
+S? vackert!
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-10-17 16:05 41s
 
-Verkligen! Funderade på om jag ska ta och prova den där vid version 2 av terminalviewern för diamonds
+Verkligen! Funderade p? om jag ska ta och prova den d?r vid version 2 av terminalviewern f?r diamonds
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-10-17 16:20 43s
 
-Det där förtjänar klart mer än 65 stjärnor allts!
+Det d?r f?rtj?nar klart mer ?n 65 stj?rnor allts!
 
 <!--excerpt-->
 </section>

@@ -6,24 +6,24 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-24 10:58 43s
 
-Jag vet inte riktigt varför, men har refan beställt två sådana här:
+Jag vet inte riktigt varf?r, men har refan best?llt tv? s?dana h?r:
 [https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/](https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/)
 
 <div class="attachment"><h4>Raspberry Pi 4 on sale now from $35 - Raspberry Pi</h4><div class="text">We have a surprise for you today: Raspberry Pi 4 is now on sale, starting at $35.</div>
 <a href="https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/"><img src="https://www.raspberrypi.org/app/uploads/2019/06/HERO-ALT-500x357.jpg" fallback="Raspberry Pi 4 on sale now from $35 - Raspberry Pi"/></a></div>
     
-Verkar vara en rejäl genomarbetning, funderar på att ha dem som kubernetes-failover cluster bara för att se hur det går.  Full gigabit ethernet och mer ram gör det också till något användbart för den som vill hacka ihop en egen Nas.
+Verkar vara en rej?l genomarbetning, funderar p? att ha dem som kubernetes-failover cluster bara f?r att se hur det g?r.  Full gigabit ethernet och mer ram g?r det ocks? till n?got anv?ndbart f?r den som vill hacka ihop en egen Nas.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-06-24 11:20 02s
 
-ska du köra K8s i HA måste du tyvärr ha ett minst 3 master-noder, annars kommer den aldrig ha tillräcklig konsensus för att byta aktiv master
+ska du k?ra K8s i HA m?ste du tyv?rr ha ett minst 3 master-noder, annars kommer den aldrig ha tillr?cklig konsensus f?r att byta aktiv master
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-24 13:32 37s
 
 Har huvudservern som 3e..
-Just nu är den enda nod.
+Just nu ?r den enda nod.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-06-24 13:41 56s
@@ -33,7 +33,7 @@ ahh
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-24 13:42 02s
 
-Ser också att de bytt HDMI format, vilket innebär att jag faktiskt får användning för min övervintrade micro-HDMI kabel.
+Ser ocks? att de bytt HDMI format, vilket inneb?r att jag faktiskt f?r anv?ndning f?r min ?vervintrade micro-HDMI kabel.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-06-24 13:42 03s
@@ -43,7 +43,7 @@ rimligt
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-24 13:42 11s
 
-Släng aldrig någonting.
+Sl?ng aldrig n?gonting.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-06-24 13:42 15s
@@ -53,39 +53,39 @@ heh
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-06-24 13:54 14s
 
-"Släng aldrig någonting." Det är en ok idé tills man ska flytta. Sen hade man hoppats att man slängt allt för längesen 😄
+"Sl?ng aldrig n?gonting." Det ?r en ok id? tills man ska flytta. Sen hade man hoppats att man sl?ngt allt f?r l?ngesen ?
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-24 14:28 23s
 
-Jag tror att jag egentligen skulle må bättre av att ha gjort mig av med lite fler saker, men detnår si och så med det.
+Jag tror att jag egentligen skulle m? b?ttre av att ha gjort mig av med lite fler saker, men detn?r si och s? med det.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-06-24 15:36 59s
 
-kör huvudservern också ARM förresten?
-väldigt nyfiken på hur k8s klarar den sortens heterogena kluster..
-fast rent teoretiskt borde det ju inte vara några problem så länge alla images finns i både AArch64 och AMD64-varianter med samma tagg
+k?r huvudservern ocks? ARM f?rresten?
+v?ldigt nyfiken p? hur k8s klarar den sortens heterogena kluster..
+fast rent teoretiskt borde det ju inte vara n?gra problem s? l?nge alla images finns i b?de AArch64 och AMD64-varianter med samma tagg
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-24 18:36 35s
 
-Nope den är dubbel xeon med 96Gb ram, så rejäla skillnader, just nu borde allt som den kör fungera även på pi:erna men långsiktigt blir det knepigt. Jag hoppades lösa arkitekturproblemen med  att länka dem till olika registries men det är helt möjligt att jag springer på patrull.
-Känns som ett projekt oavsett, lär veta mer än jag gjorde vid start när jag ger upp.
+Nope den ?r dubbel xeon med 96Gb ram, s? rej?la skillnader, just nu borde allt som den k?r fungera ?ven p? pi:erna men l?ngsiktigt blir det knepigt. Jag hoppades l?sa arkitekturproblemen med  att l?nka dem till olika registries men det ?r helt m?jligt att jag springer p? patrull.
+K?nns som ett projekt oavsett, l?r veta mer ?n jag gjorde vid start n?r jag ger upp.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-06-24 19:09 52s
 
-mjo, får väl lägga prio-taggar på grejerna som ska ha HA
-olika registries blir svårt eftersom registret är en del av tagg-namnet
-men har för mig att Registry v2 la till stöd för olika varianter av samma tagg
+mjo, f?r v?l l?gga prio-taggar p? grejerna som ska ha HA
+olika registries blir sv?rt eftersom registret ?r en del av tagg-namnet
+men har f?r mig att Registry v2 la till st?d f?r olika varianter av samma tagg
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-24 19:50 15s
 
-Tag för varje arch vore betydligt mindre hackigt, men känns som att det borde gå att få pierna att resolva DNSen olika och populera dem systematiskt om man sätter upp den som en private registry server. 
+Tag f?r varje arch vore betydligt mindre hackigt, men k?nns som att det borde g? att f? pierna att resolva DNSen olika och populera dem systematiskt om man s?tter upp den som en private registry server. 
 
-Vore trevligt att ha HA just på ett gäng inte så krävande tjänster som jag faktiskt gjort mig själv beroende av men vi får se hur praktiskt det slutar.
+Vore trevligt att ha HA just p? ett g?ng inte s? kr?vande tj?nster som jag faktiskt gjort mig sj?lv beroende av men vi f?r se hur praktiskt det slutar.
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-06-24 20:00 14s
@@ -99,7 +99,7 @@ Vore trevligt att ha HA just på ett gäng inte så krävande tjänster som jag 
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-24 20:04 49s
 
-Känns lite svårt att klicka på länkar där det står Honeypot, men jag gör ett undantag här. Återkommer när jag sett den.
+K?nns lite sv?rt att klicka p? l?nkar d?r det st?r Honeypot, men jag g?r ett undantag h?r. ?terkommer n?r jag sett den.
 
 <!--excerpt-->
 </section>
