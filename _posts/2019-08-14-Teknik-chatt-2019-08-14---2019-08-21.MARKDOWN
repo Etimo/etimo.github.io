@@ -7,48 +7,48 @@ excerpt_separator: <!--excerpt-->
 ### daniel.winther - 2019-08-14 12:39 48s
 
 [https://feber.se/spel/slass-som-kraftdjur-i-fight-crab/400765/](https://feber.se/spel/slass-som-kraftdjur-i-fight-crab/400765/)
-om detta spel gjordes i en VR-version skulle det bli ett perfekt tillskott till v?r h?rna!
+om detta spel gjordes i en VR-version skulle det bli ett perfekt tillskott till vår hörna!
 
-<div class="attachment"><h4>Sl?ss som kr?ftdjur i Fight Crab. Ny trailer sl?ppt</h4><div class="text">Anf?kta och anamma, landkrabbor! En ny trailer f?r Fight Crab har sl?ppts och i den f?r vi se kr?ftdjur av olika slag som sl?ss med diverse tillhyggen. I versionen av spelet som finns tillg?nglig nu f?r vi tillg?ng till 19 olika kr?ftdjur och 41 olika vapen att sl?ss med. Fight Crab finns tillg?ngligt som Early Access-spel f?r 14,80 dollar och kan norpas via l?nken h?r nere till v?nster. Early Ac....</div>
-<a href="https://feber.se/spel/slass-som-kraftdjur-i-fight-crab/400765/"><img src="https://i.ytimg.com/vi/n_n5FFPrZuI/hqdefault.jpg" fallback="Sl?ss som kr?ftdjur i Fight Crab. Ny trailer sl?ppt"/></a></div>
+<div class="attachment"><h4>Slåss som kräftdjur i Fight Crab. Ny trailer släppt</h4><div class="text">Anfäkta och anamma, landkrabbor! En ny trailer för Fight Crab har släppts och i den får vi se kräftdjur av olika slag som slåss med diverse tillhyggen. I versionen av spelet som finns tillgänglig nu får vi tillgång till 19 olika kräftdjur och 41 olika vapen att slåss med. Fight Crab finns tillgängligt som Early Access-spel för 14,80 dollar och kan norpas via länken här nere till vänster. Early Ac....</div>
+<a href="https://feber.se/spel/slass-som-kraftdjur-i-fight-crab/400765/"><img src="https://i.ytimg.com/vi/n_n5FFPrZuI/hqdefault.jpg" fallback="Slåss som kräftdjur i Fight Crab. Ny trailer släppt"/></a></div>
     
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-08-14 12:41 29s
 
-Ibland undrar man vad vissa utvecklare har r?kt p? allts? ?
+Ibland undrar man vad vissa utvecklare har rökt på alltså 😄
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-08-14 12:41 56s
 
-Det g?ller att vara nyskapande! ?
+Det gäller att vara nyskapande! 😄
 </section>
 <section class="message" markdown="1">
 ### joakoles - 2019-08-14 12:48 14s
 
-Det kommer sl? stort!
+Det kommer slå stort!
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-08-14 12:51 29s
 
-Deras tankeg?ng kring namnet ?r ocks? r?tt sk?n: "Ja allts?, vi har ju krabbor, som sl?ss... s??? FightCrab?"
+Deras tankegång kring namnet är också rätt skön: "Ja alltså, vi har ju krabbor, som slåss... sååå FightCrab?"
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-08-15 13:41 40s
 
 [https://www.theverge.com/tldr/2019/8/14/20805543/null-license-plate-california-parking-tickets-violations-void-programming-bug](https://www.theverge.com/tldr/2019/8/14/20805543/null-license-plate-california-parking-tickets-violations-void-programming-bug)
 
-<div class="attachment"><h4>Having "Null" as a license plate is about as much of a nightmare as you?d expect</h4><div class="text">The license plate was "null," but the tickets were anything but.</div>
-<a href="https://www.theverge.com/tldr/2019/8/14/20805543/null-license-plate-california-parking-tickets-violations-void-programming-bug"><img src="https://cdn.vox-cdn.com/thumbor/scOHYoHF4Ww4eqL-H0N0lfQ-91o=/0x145:3000x1716/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/18971659/963767120.jpg.jpg" fallback="Having "Null" as a license plate is about as much of a nightmare as you?d expect"/></a></div>
+<div class="attachment"><h4>Having "Null" as a license plate is about as much of a nightmare as you’d expect</h4><div class="text">The license plate was "null," but the tickets were anything but.</div>
+<a href="https://www.theverge.com/tldr/2019/8/14/20805543/null-license-plate-california-parking-tickets-violations-void-programming-bug"><img src="https://cdn.vox-cdn.com/thumbor/scOHYoHF4Ww4eqL-H0N0lfQ-91o=/0x145:3000x1716/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/18971659/963767120.jpg.jpg" fallback="Having "Null" as a license plate is about as much of a nightmare as you’d expect"/></a></div>
     
 Synopsis:
-1. S?kerhetsforskare skaffar Null som registreringsskylt
-2. S?kerhetsforskare f?r samtliga parkeringsb?ter d?r polisen inte skriver i registreringsnummer.
-N?gon som vill skaffa sig en SQL-injection registreringsskylt?
+1. Säkerhetsforskare skaffar Null som registreringsskylt
+2. Säkerhetsforskare får samtliga parkeringsböter där polisen inte skriver i registreringsnummer.
+Någon som vill skaffa sig en SQL-injection registreringsskylt?
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="joakoles reacted this way." class="reactionSpan">
-?x1</span>
+😄x1</span>
 </div>
      
       </div>
@@ -57,12 +57,12 @@ N?gon som vill skaffa sig en SQL-injection registreringsskylt?
 <section class="message" markdown="1">
 ### joakoles - 2019-08-15 13:46 45s
 
-Det p?minner mig om Bobby Tables: [https://bobby-tables.com/](https://bobby-tables.com/)
+Det påminner mig om Bobby Tables: [https://bobby-tables.com/](https://bobby-tables.com/)
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-08-15 13:58 06s
 
-Haha ?
+Haha 😄
 
 <!--excerpt-->
 </section>

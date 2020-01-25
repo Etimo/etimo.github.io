@@ -20,11 +20,11 @@ Snyggt!
 <section class="message" markdown="1">
 ### erik.malm - 2019-05-27 16:10 42s
 
-K?nner omedelbart att firman beh?ver en dr?narbudget.
+Känner omedelbart att firman behöver en drönarbudget.
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="joakoles reacted this way." class="reactionSpan">
-?x1</span>
+➕x1</span>
 </div>
      
       </div>
@@ -38,12 +38,12 @@ absolut
 <section class="message" markdown="1">
 ### erik.malm - 2019-05-30 20:50 56s
 
-Den h?r ?r v?l inte helt purf?rsk, men ett r?tt tydligt exempel p? supply-chain attack. Asus har tappat b?de kontrollen ?ver sina live-update servrar vilket gett tredje part m?jlighet att ladda upp falska uppdateringar.
-Dessa trojaniserade uppdateringar har dessutom blivit signerade med stulna Asus-certifikat - det ?r oklart om Asus till sist har invaliderat dessa certifikat eller inte s? oklart om faran kan bl?sas ?ver.
-M?let verkar ha vart specifika asus-routrar och en verkar inneh?lla en f?rdefinierad lista med m?l MAC-Addresser.
+Den här är väl inte helt purfärsk, men ett rätt tydligt exempel på supply-chain attack. Asus har tappat både kontrollen över sina live-update servrar vilket gett tredje part möjlighet att ladda upp falska uppdateringar.
+Dessa trojaniserade uppdateringar har dessutom blivit signerade med stulna Asus-certifikat - det är oklart om Asus till sist har invaliderat dessa certifikat eller inte så oklart om faran kan blåsas över.
+Målet verkar ha vart specifika asus-routrar och en verkar innehålla en fördefinierad lista med mål MAC-Addresser.
 [https://www.vice.com/en_us/article/pan9wn/hackers-hijacked-asus-software-updates-to-install-backdoors-on-thousands-of-computers](https://www.vice.com/en_us/article/pan9wn/hackers-hijacked-asus-software-updates-to-install-backdoors-on-thousands-of-computers)
 
-<div class="attachment"><h4>Hackers Hijacked ASUS Software Updates to Install Backdoors on Thousands of Computers</h4><div class="text">The Taiwan-based tech giant ASUS is believed to have pushed the malware to hundreds of thousands of customers through its trusted automatic software update tool after attackers compromised the company?s server and used it to push the malware to machines.</div>
+<div class="attachment"><h4>Hackers Hijacked ASUS Software Updates to Install Backdoors on Thousands of Computers</h4><div class="text">The Taiwan-based tech giant ASUS is believed to have pushed the malware to hundreds of thousands of customers through its trusted automatic software update tool after attackers compromised the company’s server and used it to push the malware to machines.</div>
 <a href="https://www.vice.com/en_us/article/pan9wn/hackers-hijacked-asus-software-updates-to-install-backdoors-on-thousands-of-computers"><img src="https://video-images.vice.com/articles/5c95589b230c840007f72aca/lede/1553292021826-shutterstock_1153426579.jpeg?crop=1xw:0.8439609902475619xh;center,center&resize=1200:*" fallback="Hackers Hijacked ASUS Software Updates to Install Backdoors on Thousands of Computers"/></a></div>
     
 

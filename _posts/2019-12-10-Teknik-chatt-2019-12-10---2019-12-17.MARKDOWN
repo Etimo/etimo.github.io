@@ -6,7 +6,7 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### daniel.winther - 2019-12-10 10:12 10s
 
-Jag skippar ny?r i ?r och kommer fira det h?r ist?llet:
+Jag skippar nyår i år och kommer fira det här istället:
 [https://pythonclock.org/](https://pythonclock.org/)
 
 <div class="attachment"><h4>Python 2.7 Countdown</h4><div class="text">Python 2.7 will retire in 2020. Learn more and see the countdown here.</div>
@@ -15,11 +15,11 @@ Jag skippar ny?r i ?r och kommer fira det h?r ist?llet:
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="joakoles, philip.forsberg, lukas.lindqvist reacted this way." class="reactionSpan">
-?x3</span>
+🎉x3</span>
 </div>
      <div class="reactionDiv">
 <span title="erik.malm reacted this way." class="reactionSpan">
-?x1</span>
+🍾x1</span>
 </div>
      
       </div>
@@ -28,7 +28,7 @@ Jag skippar ny?r i ?r och kommer fira det h?r ist?llet:
 <section class="message" markdown="1">
 ### erik.malm - 2019-12-10 18:41 15s
 
-Jag f?r v?l motvilligt  g? vidare och acceptera att 'print' ?r en funktion numera.
+Jag får väl motvilligt  gå vidare och acceptera att 'print' är en funktion numera.
 
 <!--excerpt-->
 </section>

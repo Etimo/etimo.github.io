@@ -12,22 +12,22 @@ Amazon aurora kan nu uppgraderas med zero downtime
 <section class="message" markdown="1">
 ### erik.malm - 2019-11-27 12:46 10s
 
-Har inte k?rt Aurora, s? st?ller lite basfr?gor. Har man sina egna instanser (typ s3 buckets) eller sv?ljs allt i Amazons backend?
-Antar att man har n?t eget iom att man m?ste uppgradera?
+Har inte kört Aurora, så ställer lite basfrågor. Har man sina egna instanser (typ s3 buckets) eller sväljs allt i Amazons backend?
+Antar att man har nåt eget iom att man måste uppgradera?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-11-28 08:49 00s
 
-Man har sina egna instanser, t?nk dig ungef?r som vanliga EC2-instanser fast de ?r speciellt konfigurerade. De ?r helt nerl?sta och man kan inte komma in p? dem, det enda man kan g?ra ?r att ansluta via mysqlprotokollet till dem. S? det ?r "burkar" i n?n mening som k?r en speciell mysqlkompatibel databas och anv?nder ett speciellt system f?r lagring som ligger utanf?r burken
-S? det som man kan g?ra nu ?r att ungef?r "starta om mysql p? burken" utan att n?n tappar sina anslutningar till mysql. Den h?ller kvar anslutningarna medans tj?nsten startar om
+Man har sina egna instanser, tänk dig ungefär som vanliga EC2-instanser fast de är speciellt konfigurerade. De är helt nerlåsta och man kan inte komma in på dem, det enda man kan göra är att ansluta via mysqlprotokollet till dem. Så det är "burkar" i nån mening som kör en speciell mysqlkompatibel databas och använder ett speciellt system för lagring som ligger utanför burken
+Så det som man kan göra nu är att ungefär "starta om mysql på burken" utan att nån tappar sina anslutningar till mysql. Den håller kvar anslutningarna medans tjänsten startar om
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-11-30 14:05 24s
 
-Bland "Black Friday" jippon tycker jag att den h?r st?r ut (f?r er som inte h?nger med ?r "Cards Against Humanity" ett kortspel d?r man kombinerar kort i meningar, som alltid blir liiite kr?nkande).
+Bland "Black Friday" jippon tycker jag att den här står ut (för er som inte hänger med är "Cards Against Humanity" ett kortspel där man kombinerar kort i meningar, som alltid blir liiite kränkande).
 [https://www.theverge.com/2019/11/29/20988128/cards-against-humanity-ai-challenge-writers-black-friday-competition](https://www.theverge.com/2019/11/29/20988128/cards-against-humanity-ai-challenge-writers-black-friday-competition)
 
-<div class="attachment"><h4>Cards Against Humanity writers are battling an AI to keep their jobs, and you can watch</h4><div class="text">It?s a joke, we think</div>
+<div class="attachment"><h4>Cards Against Humanity writers are battling an AI to keep their jobs, and you can watch</h4><div class="text">It’s a joke, we think</div>
 <a href="https://www.theverge.com/2019/11/29/20988128/cards-against-humanity-ai-challenge-writers-black-friday-competition"><img src="https://cdn.vox-cdn.com/thumbor/whe1zYDfc_4GOZuZGVQKZahHsOY=/0x0:1160x607/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19417777/Screen_Shot_2019_11_29_at_10.36.01_AM.png" fallback="Cards Against Humanity writers are battling an AI to keep their jobs, and you can watch"/></a></div>
     
 

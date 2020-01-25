@@ -6,7 +6,7 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### daniel.winther - 2019-04-15 09:55 51s
 
-Tv? utmanare till Photo Garden:
+Två utmanare till Photo Garden:
 [https://shoeboxapp.com/](https://shoeboxapp.com/)
 
 <div class="attachment"><h4>Shoebox - Free Unlimited Photo Backup</h4><div class="text">Free unlimited photo storage, so you can rediscover your photos anywhere. Available for iPhone, iPad, Android, Mac and PC.</div>
@@ -17,43 +17,43 @@ Tv? utmanare till Photo Garden:
 <div class="attachment"><h4>Ever | Make memories</h4><div class="text">Ever is a company dedicated to helping you capture and rediscover your life's memories</div>
 <a href="https://www.everalbum.com/"><div class="linkdiv"><img src="/assets/blogAssets/Ever | Make memories" fallback="Ever | Make memories"/></div></a></div>
     
-synk och backup av foton fr?n flera tj?nster med automatisk taggning etc
+synk och backup av foton från flera tjänster med automatisk taggning etc
 </section>
 <section class="message" markdown="1">
 ### johanhazelius - 2019-04-15 11:08 55s
 
-Kul, dem f?r vi unders?ka n?rmare:)
+Kul, dem får vi undersöka närmare:)
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-04-15 11:09 38s
 
-Japp, h?ller redan p? att l?mna ut mitt liv till b?da och tanka upp allt jag har p? telefonen. F?r se hur de funkar
+Japp, håller redan på att lämna ut mitt liv till båda och tanka upp allt jag har på telefonen. Får se hur de funkar
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-04-15 19:03 37s
 
-Det ?r bra att du offrar din data i researchsyfte @daniel.winther. Jag jobbar mer och mer p? att bli sj?lvhostad ist?llet.
+Det är bra att du offrar din data i researchsyfte @daniel.winther. Jag jobbar mer och mer på att bli självhostad istället.
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="teo.roijezon, daniel.winther reacted this way." class="reactionSpan">
-?x2</span>
+👍x2</span>
 </div>
      
       </div>
     
-Tillsammans f?r vi kanske en bra balans.
+Tillsammans får vi kanske en bra balans.
 </section>
 <section class="message" markdown="1">
 ### joakoles - 2019-04-16 18:42 02s
 
 [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/)
 Verklighetstrogna autogenererade ansikten 
-Refresha sidan f?r ett nytt ansikte!
+Refresha sidan för ett nytt ansikte!
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-04-16 19:19 54s
 
-L?ste om det d?r f?rut har jag n?t minne av, men inte sett p? riktigt f?rr?n nu. R?tt creepy egentligen
+Läste om det där förut har jag nåt minne av, men inte sett på riktigt förrän nu. Rätt creepy egentligen
 </section>
 <section class="message" markdown="1">
 ### johanhazelius - 2019-04-17 09:49 21s
@@ -74,26 +74,26 @@ Vackert
 <section class="message" markdown="1">
 ### erik.malm - 2019-04-17 11:29 36s
 
-Blev hela kontoret klart p? en dag?
+Blev hela kontoret klart på en dag?
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-04-17 11:30 55s
 
-beror v?l p? om du r?knar st?dandet i f?rrg?r ?
+beror väl på om du räknar städandet i förrgår 😛
 </section>
 <section class="message" markdown="1">
 ### johanhazelius - 2019-04-17 11:35 19s
 
-Nja, vi har kvar att fixa VR-rummet, k?ket och ?ven att f? klart alla stolar. Men de stora bitarna ?r p? plats!
+Nja, vi har kvar att fixa VR-rummet, köket och även att få klart alla stolar. Men de stora bitarna är på plats!
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-04-17 15:09 42s
 
-Ser v?ldigt mycket sexigare ut ?n innan ?
+Ser väldigt mycket sexigare ut än innan 😄
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="daniel.winther reacted this way." class="reactionSpan">
-?x1</span>
+👍x1</span>
 </div>
      
       </div>
@@ -102,12 +102,12 @@ Ser v?ldigt mycket sexigare ut ?n innan ?
 <section class="message" markdown="1">
 ### daniel.winther - 2019-04-17 15:43 01s
 
-Hade sett fram emot att komma in till kontoret imorrn och se allt men f?r bli n?sta vecka
+Hade sett fram emot att komma in till kontoret imorrn och se allt men får bli nästa vecka
 </section>
 <section class="message" markdown="1">
 ### jens.hunt - 2019-04-17 15:43 35s
 
-Samma h?r, kommer nog ?ka f?rbi efter jobbet imorgon bara f?r att titta
+Samma här, kommer nog åka förbi efter jobbet imorgon bara för att titta
 
 <!--excerpt-->
 </section>

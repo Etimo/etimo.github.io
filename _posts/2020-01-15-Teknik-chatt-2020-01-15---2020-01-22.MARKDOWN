@@ -6,13 +6,13 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2020-01-15 16:45 48s
 
-@lukas.lindqvist och jag har diskuterat utvecklar-fonter ett par v?ndor. Testar JetBrains nya just nu och m?ste s?ga att jag tycker den ger r?tt bra l?sbarhet.
+@lukas.lindqvist och jag har diskuterat utvecklar-fonter ett par vändor. Testar JetBrains nya just nu och måste säga att jag tycker den ger rätt bra läsbarhet.
 [https://www.jetbrains.com/lp/mono/#how-to-install](https://www.jetbrains.com/lp/mono/#how-to-install)
 
-<div class="attachment"><h4>JetBrains Mono: A free and open source typeface for developers</h4><div class="text">Try JetBrains Mono in your IDE. Its simple forms and attention to every detail make coding a nice experience for developers? eyes, no matter which IDE you choose.</div>
+<div class="attachment"><h4>JetBrains Mono: A free and open source typeface for developers</h4><div class="text">Try JetBrains Mono in your IDE. Its simple forms and attention to every detail make coding a nice experience for developers’ eyes, no matter which IDE you choose.</div>
 <a href="https://www.jetbrains.com/lp/mono/#how-to-install"><img src="https://jetbrains.com/lp/mono/static/preview-234ae51be7d3bc231bf3a05b373d9f8e.png" fallback="JetBrains Mono: A free and open source typeface for developers"/></a></div>
     
-Vad var den absurdt dyra fonten som ?r popul?r nu igen?
+Vad var den absurdt dyra fonten som är populär nu igen?
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2020-01-15 17:24 05s
@@ -22,7 +22,7 @@ Vad var den absurdt dyra fonten som ?r popul?r nu igen?
 <div class="attachment"><h4>Download Operator Fonts</h4><div class="text">Operator - A typeface rooted in the traditions of typewriting, Operator is designed to offer a new voice for designers, and a new tool for developers.</div>
 <a href="https://www.typography.com/fonts/operator/styles"><img src="https://d31td5fkd89rr1.cloudfront.net/openGraphImages/Artboard37-7703672ed89e1265d49cd9e9974ea166.png" fallback="Download Operator Fonts"/></a></div>
     
-Detta ?r den hetaste p? marknaden just nu, din f?r endast 199 dollar
+Detta är den hetaste på marknaden just nu, din för endast 199 dollar
 
 <!--excerpt-->
 </section>

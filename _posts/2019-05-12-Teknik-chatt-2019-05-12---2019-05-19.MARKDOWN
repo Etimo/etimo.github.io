@@ -8,11 +8,11 @@ excerpt_separator: <!--excerpt-->
 
 [https://github.com/features/package-registry](https://github.com/features/package-registry)
 
-Detta announcandes senaste dagarna. V?ldigt sp?nnande steg f?r github.
+Detta announcandes senaste dagarna. Väldigt spännande steg för github.
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="joakoles reacted this way." class="reactionSpan">
-?x1</span>
+👍x1</span>
 </div>
      
       </div>
@@ -21,34 +21,34 @@ Detta announcandes senaste dagarna. V?ldigt sp?nnande steg f?r github.
 <section class="message" markdown="1">
 ### joakoles - 2019-05-12 17:51 09s
 
-@daniel.winther: Vore kul med valbart ascii-l?ge p? [http://diamonds.etimo.se](http://diamonds.etimo.se)
+@daniel.winther: Vore kul med valbart ascii-läge på [http://diamonds.etimo.se](http://diamonds.etimo.se)
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-05-12 18:54 28s
 
-Bra id? @joakoles ?
+Bra idé @joakoles 👍
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-05-16 07:20 57s
 
-Tillbaks till Githubs package registry -  k?nns som der kan bli n?got enbart p? grund av skala. Beroende p? uppl?gg vore det riktigt trevligt att ha direkt integration med allehanda byggverktyg. 
-?r inte s? f?rtjust i artefactory t.ex.
+Tillbaks till Githubs package registry -  känns som der kan bli något enbart på grund av skala. Beroende på upplägg vore det riktigt trevligt att ha direkt integration med allehanda byggverktyg. 
+Är inte så förtjust i artefactory t.ex.
 </section>
 <section class="message" markdown="1">
 ### teo.roijezon - 2019-05-16 08:24 41s
 
-mjo.. samtidigt k?nns det sorgligt om mer s?nt bara blir tillg?ngligt som SaaS
-vilket p?minner mig.. tydligen verkar Nexus ha f?tt st?d f?r i princip samma format? senast jag k?rde det fanns bara st?d f?r Maven..
+mjo.. samtidigt känns det sorgligt om mer sånt bara blir tillgängligt som SaaS
+vilket påminner mig.. tydligen verkar Nexus ha fått stöd för i princip samma format? senast jag körde det fanns bara stöd för Maven..
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2019-05-16 15:15 56s
 
-De hoppas tydligen open sourcea, men vad det inneb?r att hoppas p? det ?r lite oklart.
+De hoppas tydligen open sourcea, men vad det innebär att hoppas på det är lite oklart.
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-05-18 12:38 27s
 
-Jag tror att f?r saker som ska stanna privata inom f?retaget ?r nog ett eget hostat Nexus repo b?ttre. Men om man arbetar en hel del med open-source som m?nga f?retag g?r kanske det ?r smidigt att ha det "halv" ute innan det releasas?
+Jag tror att för saker som ska stanna privata inom företaget är nog ett eget hostat Nexus repo bättre. Men om man arbetar en hel del med open-source som många företag gör kanske det är smidigt att ha det "halv" ute innan det releasas?
 
 <!--excerpt-->
 </section>

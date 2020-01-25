@@ -6,34 +6,34 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2019-06-03 08:25 33s
 
-Om n?gon minns @teo.roijezon  dystopiska klassiker "Min cykel vill inte boota" s? ?r uppf?ljaren "Googles molnplatform l?ste mig ur huset".
+Om någon minns @teo.roijezon  dystopiska klassiker "Min cykel vill inte boota" så är uppföljaren "Googles molnplatform låste mig ur huset".
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="joakoles reacted this way." class="reactionSpan">
-?x1</span>
+😂x1</span>
 </div>
      
       </div>
     
 [https://techstartups.com/2019/06/02/google-cloud-affecting-many-apps-services-people-cannot-turn-ac-open-smart-locks-let-house/](https://techstartups.com/2019/06/02/google-cloud-affecting-many-apps-services-people-cannot-turn-ac-open-smart-locks-let-house/)
 
-<div class="attachment"><h4>Google Cloud is down, people cannot turn on their AC or use their "smart" locks to get access into their homes | Startups News | Tech News</h4><div class="text">Google Cloud is currently down. Google Cloud is a suite of cloud computing services for developers, offering Infrastructure as a service, Platform as a service and Serverless Computing features. The outage is affecting a lot of Google Cloud-based applications and ?</div>
+<div class="attachment"><h4>Google Cloud is down, people cannot turn on their AC or use their "smart" locks to get access into their homes | Startups News | Tech News</h4><div class="text">Google Cloud is currently down. Google Cloud is a suite of cloud computing services for developers, offering Infrastructure as a service, Platform as a service and Serverless Computing features. The outage is affecting a lot of Google Cloud-based applications and …</div>
 <a href="https://techstartups.com/2019/06/02/google-cloud-affecting-many-apps-services-people-cannot-turn-ac-open-smart-locks-let-house/"><div class="linkdiv"><img src="/assets/blogAssets/Google Cloud is down, people cannot turn on their AC or use their "smart" locks to get access into their homes | Startups News | Tech News" fallback="Google Cloud is down, people cannot turn on their AC or use their "smart" locks to get access into their homes | Startups News | Tech News"/></div></a></div>
     
-Plus att google cloud tydligen fortfarande har rej?la outages p? sina h?ll och Google ?r kn?pptysta.
+Plus att google cloud tydligen fortfarande har rejäla outages på sina håll och Google är knäpptysta.
 </section>
 <section class="message" markdown="1">
 ### joakoles - 2019-06-03 15:38 54s
 
-Det p?minner mig om personen som l?ste upp sin bil med en app via 4g och parkerade (och l?ste) bilen i ett garage under marken d?r t?ckning saknades
+Det påminner mig om personen som låste upp sin bil med en app via 4g och parkerade (och låste) bilen i ett garage under marken där täckning saknades
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="lukas.lindqvist reacted this way." class="reactionSpan">
-?x1</span>
+😄x1</span>
 </div>
      <div class="reactionDiv">
 <span title="erik.malm reacted this way." class="reactionSpan">
-?x1</span>
+🚗x1</span>
 </div>
      
       </div>
@@ -42,13 +42,13 @@ Det p?minner mig om personen som l?ste upp sin bil med en app via 4g och parkera
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2019-06-03 16:43 45s
 
-Nuf?rtiden n?r man ser p? bio s? anv?nder man appen f?r att visa sin biljett. Appen kr?ver internet, d?r man ska visa biljetten p? biografen i Link?ping har man max 1-bar i mottagning. S? jag har flertalet g?nger beh?vt g? ut ur biografen, ta fram biljetten p? mobilen, sen g? in f?r att visa den.
+Nuförtiden när man ser på bio så använder man appen för att visa sin biljett. Appen kräver internet, där man ska visa biljetten på biografen i Linköping har man max 1-bar i mottagning. Så jag har flertalet gånger behövt gå ut ur biografen, ta fram biljetten på mobilen, sen gå in för att visa den.
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2019-06-05 08:55 23s
 
-Man kanske fokuserade mer p? coolhetsfaktorn och gl?mde det praktiska @lukas.lindqvist ?
-Riktigt grym fileuploader, kallar sig sj?lv f?r "next-gen":
+Man kanske fokuserade mer på coolhetsfaktorn och glömde det praktiska @lukas.lindqvist 😄
+Riktigt grym fileuploader, kallar sig själv för "next-gen":
 [https://uppy.io/](https://uppy.io/)
 
 <div class="attachment"><h4>Uppy</h4><div class="text">Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.</div>

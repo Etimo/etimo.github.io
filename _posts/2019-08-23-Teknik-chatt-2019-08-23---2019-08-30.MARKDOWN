@@ -6,13 +6,13 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### daniel.winther - 2019-08-23 08:03 11s
 
-En ai som 3D renderar scener utifr?n det du ritar
+En ai som 3D renderar scener utifrån det du ritar
 [http://nvidia-research-mingyuliu.com/gaugan](http://nvidia-research-mingyuliu.com/gaugan)
 </section>
 <section class="message" markdown="1">
 ### joakoles - 2019-08-23 16:47 50s
 
-Kul att prova! Tekniken ?r imponerande, men jag tror inte jag fick till snyggaste bilden direkt ?
+Kul att prova! Tekniken är imponerande, men jag tror inte jag fick till snyggaste bilden direkt 🙂
 
 <div class="imageblock">
 <a href="/assets/blogAssets/FMFUP3N9X-image.png">
