@@ -1,0 +1,26 @@
+---
+layout: post
+title: Teknik-chatt 2020-02-12 - 2020-02-19
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2020-02-12 20:31 24s
+
+Jag är smått exalterad över att den rent linuxbaserade Pinephonen från Pine64 börjat skeppa.
+[https://www.pine64.org/pinephone/](https://www.pine64.org/pinephone/)
+
+<div class="attachment"><h4>PINEPHONE | PINE64</h4><div class="text"></div>
+<a href="https://www.pine64.org/pinephone/"><img src="https://www.pine64.org/wp-content/uploads/2019/04/PinePhone-1.jpg" fallback="PINEPHONE | PINE64"/></a></div>
+    
+Som troligen den enda svenske ägaren av en Ubuntu Touch telefon känner jag att det är dags att investera i ytterligare en dömd plattform.
+Det som skeppas nu är defenitivt för den modige (Braveheart edition) men den ser oväntat komplett ut för att vara ett sidoprojekt från ett litet entusiastföretag.
+För internets mest avslappnade unboxing:
+[https://www.youtube.com/watch?v=ACcxegtDVBI&amp;feature=youtu.be](https://www.youtube.com/watch?v=ACcxegtDVBI&amp;feature=youtu.be)
+
+<div class="attachment"><h4>Unboxing of a Pinephone from Pine64!</h4><div class="text"></div>
+<a href="https://www.youtube.com/watch?v=ACcxegtDVBI&amp;feature=youtu.be"><div class="linkdiv"><img src="/assets/blogAssets/Unboxing of a Pinephone from Pine64!" fallback="Unboxing of a Pinephone from Pine64!"/></div></a></div>
+    
+Avslutas med att tala om vilka funktioner man behöver aktivera via command-line eftersom de inte stöds i UIt. Det känns som min typ av produkt.
+
+<!--excerpt-->
+</section>
