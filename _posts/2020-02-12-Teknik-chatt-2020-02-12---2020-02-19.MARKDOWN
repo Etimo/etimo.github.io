@@ -26,6 +26,11 @@ Avslutas med att tala om vilka funktioner man behöver aktivera via command-line
 ### daniel.winther - 2020-02-13 06:18 13s
 
 Ojdå där ser man. Aldrig hört talas om denna
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2020-02-13 09:06 10s
+
+@erik.malm du tar begreppet "early adopter" till en ny nivå. Detta är väl istället "partly suicidal" 🙂
 
 <!--excerpt-->
 </section>
