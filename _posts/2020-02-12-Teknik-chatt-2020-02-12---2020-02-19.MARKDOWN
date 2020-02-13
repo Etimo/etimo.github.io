@@ -21,6 +21,11 @@ För internets mest avslappnade unboxing:
 <a href="https://www.youtube.com/watch?v=ACcxegtDVBI&amp;feature=youtu.be"><div class="linkdiv"><img src="/assets/blogAssets/Unboxing of a Pinephone from Pine64!" fallback="Unboxing of a Pinephone from Pine64!"/></div></a></div>
     
 Avslutas med att tala om vilka funktioner man behöver aktivera via command-line eftersom de inte stöds i UIt. Det känns som min typ av produkt.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-02-13 06:18 13s
+
+Ojdå där ser man. Aldrig hört talas om denna
 
 <!--excerpt-->
 </section>
