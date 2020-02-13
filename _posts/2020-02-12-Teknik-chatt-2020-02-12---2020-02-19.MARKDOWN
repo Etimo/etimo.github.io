@@ -13,7 +13,7 @@ Jag är smått exalterad över att den rent linuxbaserade Pinephonen från Pine6
 <a href="https://www.pine64.org/pinephone/"><img src="https://www.pine64.org/wp-content/uploads/2019/04/PinePhone-1.jpg" fallback="PINEPHONE | PINE64"/></a></div>
     
 Som troligen den enda svenske ägaren av en Ubuntu Touch telefon känner jag att det är dags att investera i ytterligare en dömd plattform.
-Det som skeppas nu är defenitivt för den modige (Braveheart edition) men den ser oväntat komplett ut för att vara ett sidoprojekt från ett litet entusiastföretag.
+Det som skeppas nu är definitivt för den modige (Braveheart edition) men den ser oväntat komplett ut för att vara ett sidoprojekt från ett litet entusiastföretag.
 För internets mest avslappnade unboxing:
 [https://www.youtube.com/watch?v=ACcxegtDVBI&amp;feature=youtu.be](https://www.youtube.com/watch?v=ACcxegtDVBI&amp;feature=youtu.be)
 
@@ -31,6 +31,11 @@ Ojdå där ser man. Aldrig hört talas om denna
 ### johanhazelius - 2020-02-13 09:06 10s
 
 @erik.malm du tar begreppet "early adopter" till en ny nivå. Detta är väl istället "partly suicidal" 🙂
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-02-13 20:12 59s
+
+De verkar väldigt väldigt slutsålda ändå, så jag får nöja mig med min nuvarande tråkigt välfungerande lur.
 
 <!--excerpt-->
 </section>
