@@ -44,6 +44,11 @@ Nån som använt det här libbet?
 [https://github.com/enquirer/enquirer](https://github.com/enquirer/enquirer)
 Sjukt snyggt tyckte jag! Kolla tex: [https://github.com/enquirer/enquirer#built-in-prompts](https://github.com/enquirer/enquirer#built-in-prompts)
 Eller om nån använt nåt liknande?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-02-15 09:00 40s
+
+Blir alltid lite ställd när Node används till CLI saker, men det där var onekligen riktigt snyggt.
 
 <!--excerpt-->
 </section>
