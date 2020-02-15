@@ -1,0 +1,29 @@
+---
+layout: post
+title: Teknik-chatt 2019-05-16 - 2019-05-23
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-05-16 07:20 57s
+
+Tillbaks till Githubs package registry -  känns som der kan bli något enbart på grund av skala. Beroende på upplägg vore det riktigt trevligt att ha direkt integration med allehanda byggverktyg. 
+Är inte så förtjust i artefactory t.ex.
+</section>
+<section class="message" markdown="1">
+### teo.roijezon - 2019-05-16 08:24 41s
+
+mjo.. samtidigt känns det sorgligt om mer sånt bara blir tillgängligt som SaaS
+vilket påminner mig.. tydligen verkar Nexus ha fått stöd för i princip samma format? senast jag körde det fanns bara stöd för Maven..
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2019-05-16 15:15 56s
+
+De hoppas tydligen open sourcea, men vad det innebär att hoppas på det är lite oklart.
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2019-05-18 12:38 27s
+
+Jag tror att för saker som ska stanna privata inom företaget är nog ett eget hostat Nexus repo bättre. Men om man arbetar en hel del med open-source som många företag gör kanske det är smidigt att ha det "halv" ute innan det releasas?
+
+<!--excerpt-->
+</section>
