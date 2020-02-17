@@ -16,6 +16,28 @@ Känns på något sätt mer riktigt, även om jag nof kompilerat till native ima
 <div class="attachment"><h4>Apollo Federation overview</h4><div class="text">Implement a single data graph across multiple services</div>
 <a href="https://www.apollographql.com/docs/apollo-server/federation/introduction/"><img src="https://www.apollographql.com/docs/apollo-server/social-cards/introduction.png" fallback="Apollo Federation overview"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-02-17 22:16 47s
+
+Så, ett query interface som använder ett gäng microtjänster som datakällor?
+Sitter Appolo framför de andra som en GQL lastbalanserare eller nåt annat?
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-02-17 22:17 30s
+
+Apollo ligger i varje mikrotjänst
+samt framför i en gateway
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-02-17 22:21 17s
+
+Coolt!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-02-17 22:21 53s
+
+Känns som en API-gateway fast för GQL, inget dumt koncept alls. Skulle vara intressant att se implementerad i corporate API-gateways - som det är nu är ren REST ganska konserverad med tanke på hur bekvämt det är att hantera i gateway-tjänster.
 
 <!--excerpt-->
 </section>
