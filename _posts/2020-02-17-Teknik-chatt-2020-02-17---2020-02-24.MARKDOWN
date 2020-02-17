@@ -7,6 +7,15 @@ excerpt_separator: <!--excerpt-->
 ### erik.malm - 2020-02-17 07:40 56s
 
 Känns på något sätt mer riktigt, även om jag nof kompilerat till native image med graal eller nåt.
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-02-17 14:45 13s
+
+[https://www.apollographql.com/docs/apollo-server/federation/introduction/](https://www.apollographql.com/docs/apollo-server/federation/introduction/) Detta verkar sjukt coolt! GraphQL som microservices med ett exponerat schema.
+
+<div class="attachment"><h4>Apollo Federation overview</h4><div class="text">Implement a single data graph across multiple services</div>
+<a href="https://www.apollographql.com/docs/apollo-server/federation/introduction/"><img src="https://www.apollographql.com/docs/apollo-server/social-cards/introduction.png" fallback="Apollo Federation overview"/></a></div>
+    
 
 <!--excerpt-->
 </section>
