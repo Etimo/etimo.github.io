@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2020-02-17 - 2020-02-24
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2020-02-17 07:40 56s
+
+Känns på något sätt mer riktigt, även om jag nof kompilerat till native image med graal eller nåt.
+
+<!--excerpt-->
+</section>
