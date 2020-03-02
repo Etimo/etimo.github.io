@@ -13,6 +13,105 @@ excerpt_separator: <!--excerpt-->
 </a></div>
 
      
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     <div class="reactionDiv">
+<span title="erik.malm reacted this way." class="reactionSpan">
+🔏x1</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-03-02 12:25 19s
+
+Japp, men så jäkla skum syntax. But whyyy?
+Varför inte bara ta en mer vedertagen standard, typ "private"
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-03-02 12:29 14s
+
+Alla programmerare gillar att vara kreativa helt enkelt.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-03-02 12:29 20s
+
+Haha mjo det är ju sant
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-03-02 12:39 49s
+
+Private finns redan, men medför inte hard-privacy
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-03-02 12:40 08s
+
+finns private i ecmascript också?
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-03-02 12:40 12s
+
+private är endast en typescript sak, så vid kompileringe försvinner det helt
+Det är det typescript implementerat som du ser ovan
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-03-02 12:40 29s
+
+ja precis, private finns i typescript
+men jag undrar varför ecmascript inte väljer att köra typ private, varför de istället ska komma på en ny konvention
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-03-02 12:40 52s
+
+En variable markerad private går att accessa utanför dock, t.ex. om du kör javascript
+Det är oklart 🙂
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-03-02 12:41 23s
+
+Kanske står förklarat iofs om man läser förslaget 😄
+Men för säkerhetsskull börjar jag basha på förslaget direkt utan att veta all bakgrundsinfo!
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-03-02 12:42 19s
+
+Gäller att täcka alla områden direkt 😄
+Läser nu, tanken verkar vara att private är onödigt långt att behöva skriva varje gång för en privat variabel
+Medan # bara är ett tecken.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-03-02 12:44 58s
+
+Mjo de har en poäng i det såklart, men känns kanske inte som det starkaste argumentet?
+Men de har säkert stött och blött det där en hel del
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-03-02 12:45 08s
+
+[https://github.com/tc39/proposal-private-fields/blob/master/FAQ.md](https://github.com/tc39/proposal-private-fields/blob/master/FAQ.md)
+
+<div class="attachment"><h4>FAQ.md</h4><div class="text">```
+## Why aren't declarations `private x`?
+
+This sort of declaration is what other languages use (notably Java), and implies that access would be done with `this.x`. Assuming that isn't the case (see below), in JavaScript this would silently create or access a public field, rather than throwing an error. This is a major potential source of bugs or invisibly making public fields which were intend....</div>
+<a href="https://github.com/tc39/proposal-private-fields/blob/master/FAQ.md">FAQ.md</a></div>
+    
+Okej, här står det mer klart
+Hittade exakta tankar
+[https://jamie.build/javascripts-new-private-class-fields.html](https://jamie.build/javascripts-new-private-class-fields.html)
+Här finns ännu mer
+De är rätt genomtänkt med andra ord 🙂
+Hoppa till "So why the hashtag?", där står det förklarat bra
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-03-02 12:50 49s
+
+Japp, ska läsa senare
+Tack
 
 <!--excerpt-->
 </section>
