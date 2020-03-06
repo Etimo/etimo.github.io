@@ -14,7 +14,7 @@ Jag skippar nyår i år och kommer fira det här istället:
     
 <div class="reactionsDiv">
 <div class="reactionDiv">
-<span title="joakoles, philip.forsberg, lukas.lindqvist reacted this way." class="reactionSpan">
+<span title=", , lukas.lindqvist reacted this way." class="reactionSpan">
 🎉x3</span>
 </div>
      <div class="reactionDiv">
