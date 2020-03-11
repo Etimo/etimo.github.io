@@ -15,7 +15,7 @@ excerpt_separator: <!--excerpt-->
      
 <div class="reactionsDiv">
 <div class="reactionDiv">
-<span title="joakoles reacted this way." class="reactionSpan">
+<span title=" reacted this way." class="reactionSpan">
 👍x1</span>
 </div>
      <div class="reactionDiv">

@@ -1,0 +1,67 @@
+---
+layout: post
+title: Teknik-chatt 2020-03-11 - 2020-03-18
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-03-11 14:03 42s
+
+[https://www.svtplay.se/video/25942068/guldbron/guldbron-sasong-1-11-mars-06-00-1](https://www.svtplay.se/video/25942068/guldbron/guldbron-sasong-1-11-mars-06-00-1) Livestream på när Guldbron anländer
+
+<div class="attachment"><h4>Guldbron - Idag 06:00</h4><div class="text">Följ i realtid när guldbron ankommer till Slussen i Stockholm.</div>
+<a href="https://www.svtplay.se/video/25942068/guldbron/guldbron-sasong-1-11-mars-06-00-1"><img src="https://www.svtstatic.se/image/large/650/25928908/1583830649?format=auto&chromaSubSampling=false" fallback="Guldbron - Idag 06:00"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-03-11 14:57 02s
+
+
+<div class="imageblock">
+<a href="/assets/blogAssets/FV7JTRS4V-Image_from_iOS.jpg">
+<img alt="Image from iOS.jpg" src="/assets/blogAssets/FV7JTRS4V-Image_from_iOS.jpg"/>
+</a></div>
+
+     
+
+<div class="fileblock">
+<div class="text">
+</div>
+<a href="/assets/blogAssets/FUW4K41HR-File_from_iOS.MOV">File from iOS.MOV</a>
+</div>
+
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-03-11 15:39 37s
+
+Fin miljö för ett så rejält skepp.
+Och första gången på väldigt länge jag sett någon dela en Quicktime-film. Lever det formatet fortfarande alltså?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-03-11 15:40 33s
+
+Haha ingen aning, det är det där formatet som blir när man filmar uppsnabbat på en iphone
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-03-11 15:41 39s
+
+Måst kolla hur bloggen hanterar filmklipp, får eventuellt komma på något smart där med portning till ett Youtube-konto eller så.
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-03-11 15:43 30s
+
+Underbart edge-case
+"våran automatiska blogg, hur gör vi så den hanterar QuickTime videos?"
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2020-03-11 15:44 14s
+
+En video-tag med github raw-länk?
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-03-11 15:47 04s
+
+Tror repot når maxgräns rätt fort med video i bara, skalar bilderna rätt hårt också för att hålla det smärtfritt.
+Men det känns som den bara tuggat ett tag nu, det är dags att optimera nåt edge-case.
+
+<!--excerpt-->
+</section>
