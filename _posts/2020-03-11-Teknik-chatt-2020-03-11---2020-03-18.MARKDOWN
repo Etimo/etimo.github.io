@@ -62,6 +62,12 @@ En video-tag med github raw-länk?
 
 Tror repot når maxgräns rätt fort med video i bara, skalar bilderna rätt hårt också för att hålla det smärtfritt.
 Men det känns som den bara tuggat ett tag nu, det är dags att optimera nåt edge-case.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-03-12 06:43 31s
+
+Tydligen så visar bloggen thumbnail och länkar filmklippet i Github-raw nedanför. Funkar rätt bra. Känner att snubben som skrev den där var klokare än vad jag är till vardags.
+MEN det kan ju bli en video-tag eller en embedded YT video så alltid något mer att titta på.
 
 <!--excerpt-->
 </section>
