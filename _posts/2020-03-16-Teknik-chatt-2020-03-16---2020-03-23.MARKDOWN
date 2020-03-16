@@ -1,0 +1,16 @@
+---
+layout: post
+title: Teknik-chatt 2020-03-16 - 2020-03-23
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### jens.hunt - 2020-03-16 21:25 22s
+
+Microsoft köper npm [https://www.zdnet.com/article/microsoft-buys-javascript-developer-platform-npm-plans-to-integrate-it-with-github/|https://www.zdnet.com/article/microsoft-buys-javascript-developer-platform-npm-plans-to-integrate-it-with-github/](https://www.zdnet.com/article/microsoft-buys-javascript-developer-platform-npm-plans-to-integrate-it-with-github/|https://www.zdnet.com/article/microsoft-buys-javascript-developer-platform-npm-plans-to-integrate-it-with-github/)
+
+<div class="attachment"><h4>Microsoft buys JavaScript developer platform npm; plans to integrate it with GitHub | ZDNet</h4><div class="text">Microsoft is acquiring npm, a major JavaScript-developer platform, which it is planning to integrate with GitHub.</div>
+<a href="https://www.zdnet.com/article/microsoft-buys-javascript-developer-platform-npm-plans-to-integrate-it-with-github/"><img src="https://zdnet1.cbsistatic.com/hub/i/r/2020/03/16/7fec6238-f58a-4d6b-b9e8-e599badd3d68/thumbnail/770x578/02ff87719e40a53e2eb79b5843a955f6/microsoftbuysnpm.jpg" fallback="Microsoft buys JavaScript developer platform npm; plans to integrate it with GitHub | ZDNet"/></a></div>
+    
+
+<!--excerpt-->
+</section>
