@@ -1,0 +1,16 @@
+---
+layout: post
+title: Teknik-chatt 2020-04-28 - 2020-05-05
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2020-04-28 20:04 53s
+
+[https://mkorostoff.github.io/1-pixel-wealth/|https://mkorostoff.github.io/1-pixel-wealth/](https://mkorostoff.github.io/1-pixel-wealth/|https://mkorostoff.github.io/1-pixel-wealth/)
+
+<div class="attachment"><h4>Wealth, shown to scale</h4><div class="text">Inequality in the United States is out of control. Here we visualize the issue in a unique way.</div>
+<a href="https://mkorostoff.github.io/1-pixel-wealth/"><img src="https://mkorostoff.github.io/1-pixel-wealth/img/off-the-chart.png" fallback="Wealth, shown to scale"/></a></div>
+    
+
+<!--excerpt-->
+</section>
