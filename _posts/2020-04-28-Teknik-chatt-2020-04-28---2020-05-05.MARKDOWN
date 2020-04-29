@@ -11,6 +11,14 @@ excerpt_separator: <!--excerpt-->
 <div class="attachment"><h4>Wealth, shown to scale</h4><div class="text">Inequality in the United States is out of control. Here we visualize the issue in a unique way.</div>
 <a href="https://mkorostoff.github.io/1-pixel-wealth/"><img src="https://mkorostoff.github.io/1-pixel-wealth/img/off-the-chart.png" fallback="Wealth, shown to scale"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-04-29 11:21 35s
+
+```
+All the money you will ever earn in your entire life from the day you are born until the day you die
+```
+I'm in this picture and I don't like it.
 
 <!--excerpt-->
 </section>
