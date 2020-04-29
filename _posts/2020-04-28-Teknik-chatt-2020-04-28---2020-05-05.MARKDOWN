@@ -19,6 +19,22 @@ excerpt_separator: <!--excerpt-->
 All the money you will ever earn in your entire life from the day you are born until the day you die
 ```
 I'm in this picture and I don't like it.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-04-29 13:32 38s
+
+Hehe
+Are you the big yellow field?
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-04-29 13:37 55s
+
+Ne, jag är den där pixeln i början 😉 Ligger mycket back om man räknar pengarna jag är skyldig banken
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-04-29 13:40 07s
+
+hehe
 
 <!--excerpt-->
 </section>
