@@ -44,6 +44,11 @@ Spotify gör sin utvecklarportal till open source. [https://backstage.io/|https:
 <div class="attachment"><h4>Backstage · An open platform for building developer portals</h4><div class="text">An open platform for building developer portals</div>
 <a href="https://backstage.io/"><div class="linkdiv"><img src="/assets/blogAssets/Backstage · An open platform for building developer portals" fallback="Backstage · An open platform for building developer portals"/></div></a></div>
     
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2020-05-02 19:47 58s
+
+Kul! Bli intressant att se om de har verktyg som är konkurrenskraftiga.
 
 <!--excerpt-->
 </section>
