@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2020-05-08 - 2020-05-15
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### jeanette.britan - 2020-05-08 13:27 46s
+
+@jeanette.britan has joined the channel
+
+<!--excerpt-->
+</section>
