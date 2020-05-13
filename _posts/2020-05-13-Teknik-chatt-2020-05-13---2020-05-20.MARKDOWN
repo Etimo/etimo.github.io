@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teknik-chatt 2020-05-13 - 2020-05-20
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2020-05-13 09:21 11s
+
+Etimo är nu anmälda till stegtävling i samarbete med Rädda Barnen: [https://www.raddabarnen.se/foretag/medarbetarengagemang/stegtavlingen/](https://www.raddabarnen.se/foretag/medarbetarengagemang/stegtavlingen/). Syftet med detta är att inspirera oss alla att röra på oss i dessa hemma-sittar-tider. Det är centralt, både för personligt välbefinnande och produktivitet, att ta pauser, komma ut och röra på sig. Genom vårt deltagande i tävlingen skänker vi även pengar till Rädda Barnen. Tävlingen löper 18e maj till 14e juni.
+
+<div class="attachment"><h4>Steg som räddar liv</h4><div class="text">Du och din arbetsplats kan göra stor skillnad genom att gå för barns överlevnad och er egen hälsa! Genom Rädda Barnens stegtävling kan ni bidra till våra insats</div>
+<a href="https://www.raddabarnen.se/foretag/medarbetarengagemang/stegtavlingen/"><div class="linkdiv"><img src="/assets/blogAssets/Steg som räddar liv" fallback="Steg som räddar liv"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-05-13 10:20 47s
+
+Känns som en välkommen morot, speciellt nu när vädret återgått till slask och iskyla.
+
+<!--excerpt-->
+</section>
