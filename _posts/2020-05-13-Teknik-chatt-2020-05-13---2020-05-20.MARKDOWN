@@ -11,6 +11,14 @@ Etimo är nu anmälda till stegtävling i samarbete med Rädda Barnen: [https://
 <div class="attachment"><h4>Steg som räddar liv</h4><div class="text">Du och din arbetsplats kan göra stor skillnad genom att gå för barns överlevnad och er egen hälsa! Genom Rädda Barnens stegtävling kan ni bidra till våra insats</div>
 <a href="https://www.raddabarnen.se/foretag/medarbetarengagemang/stegtavlingen/"><div class="linkdiv"><img src="/assets/blogAssets/Steg som räddar liv" fallback="Steg som räddar liv"/></div></a></div>
     
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title=" reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     
+      </div>
+    
 </section>
 <section class="message" markdown="1">
 ### erik.malm - 2020-05-13 10:20 47s
