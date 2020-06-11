@@ -1,0 +1,24 @@
+---
+layout: post
+title: Teknik-chatt 2020-06-11 - 2020-06-18
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2020-06-11 12:52 07s
+
+Äntligen en game changer inom PFM/fintech!
+[https://tink.com/blog/product-updates/background-refresh](https://tink.com/blog/product-updates/background-refresh)
+
+<div class="attachment"><h4>Automatically refresh customers’ financial data | Tink blog</h4><div class="text">Automatically keep customers' financial information up-to-date with background, so you can create more valuable services.</div>
+<a href="https://tink.com/blog/product-updates/background-refresh"><img src="https://images.ctfassets.net/c78bhj3obgck/6rWQT7j8QaQ2CXgQ59qIyq/12a3387d355e0700a046cc52a9a674e8/Background_refresh_log-cover.jpg" fallback="Automatically refresh customers’ financial data | Tink blog"/></a></div>
+    
+Med en bankidsignering kan man låta datat flöda i realtid i upp till 90 dagar till de tjänster man godkänner. Nu jäklar kan man börja bygga roliga grejer!
+Det här har jag väntat på i två år nu för att kunna fortsätta med flera projektidéer!
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2020-06-11 13:00 05s
+
+Spännande, nu kan kreativiteten flöda:)
+
+<!--excerpt-->
+</section>
