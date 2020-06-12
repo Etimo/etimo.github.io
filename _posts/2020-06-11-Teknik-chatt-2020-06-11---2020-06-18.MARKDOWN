@@ -19,6 +19,11 @@ Det här har jag väntat på i två år nu för att kunna fortsätta med flera p
 ### johanhazelius - 2020-06-11 13:00 05s
 
 Spännande, nu kan kreativiteten flöda:)
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-06-12 11:48 04s
+
+Jag känner igen den där 90 dagars gränsen, gissar att det är PSD2 baserat.
 
 <!--excerpt-->
 </section>
