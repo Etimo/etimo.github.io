@@ -24,6 +24,11 @@ Spännande, nu kan kreativiteten flöda:)
 ### erik.malm - 2020-06-12 11:48 04s
 
 Jag känner igen den där 90 dagars gränsen, gissar att det är PSD2 baserat.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-06-12 15:23 00s
+
+Ja precis. Det gäller för psd2 compliance
 
 <!--excerpt-->
 </section>
