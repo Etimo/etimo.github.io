@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2020-06-15 - 2020-06-22
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### astenbor - 2020-06-15 11:05 56s
+
+@astenbor has joined the channel
+
+<!--excerpt-->
+</section>
