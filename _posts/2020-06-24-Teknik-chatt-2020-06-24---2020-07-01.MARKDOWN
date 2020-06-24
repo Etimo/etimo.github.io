@@ -23,6 +23,31 @@ Allt är runt!!
 ### daniel.winther - 2020-06-24 10:36 18s
 
 jag vet!! kändes inte så githubigt
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-06-24 13:48 45s
+
+Snart behöver jag inte min widescreen ändå, dags att börja jobba i VR även på linuxsidan!
+[https://m.youtube.com/watch?feature=youtu.be&amp;v=bCqT61g1Oeo|https://m.youtube.com/watch?feature=youtu.be&amp;v=bCqT61g1Oeo](https://m.youtube.com/watch?feature=youtu.be&amp;v=bCqT61g1Oeo|https://m.youtube.com/watch?feature=youtu.be&amp;v=bCqT61g1Oeo)
+
+<div class="attachment"><h4>Making a reddit post about SimulaVR (in SimulaVR)</h4><div class="text"></div>
+<a href="https://m.youtube.com/watch?feature=youtu.be&amp;v=bCqT61g1Oeo"><div class="linkdiv"><img src="/assets/blogAssets/Making a reddit post about SimulaVR (in SimulaVR)" fallback="Making a reddit post about SimulaVR (in SimulaVR)"/></div></a></div>
+    
+Kan detta göra en Vive-pro till kontorsutgift?
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-06-24 13:58 33s
+
+typ billigare lösning än en bra skärm
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2020-06-24 14:40 24s
+
+Nytt som kommer i c# 9 [https://daveabrock.com/2020/06/18/reduce-mental-energy-with-c-sharp|https://daveabrock.com/2020/06/18/reduce-mental-energy-with-c-sharp](https://daveabrock.com/2020/06/18/reduce-mental-energy-with-c-sharp|https://daveabrock.com/2020/06/18/reduce-mental-energy-with-c-sharp)
+
+<div class="attachment"><h4>Reduce mental energy with C# 9</h4><div class="text">Learn how C# 9 makes things cleaner, more maintainable, and minimizes mental energy.</div>
+<a href="https://daveabrock.com/2020/06/18/reduce-mental-energy-with-c-sharp"><div class="linkdiv"><img src="/assets/blogAssets/Reduce mental energy with C# 9" fallback="Reduce mental energy with C# 9"/></div></a></div>
+    
 
 <!--excerpt-->
 </section>
