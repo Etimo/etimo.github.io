@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teknik-chatt 2020-07-01 - 2020-07-08
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### jens.hunt - 2020-07-01 21:49 11s
+
+Ett riktigt sjukt projekt av en som gör konst med CSS. En div och CSS. Inga bilder eller annat. [https://a.singlediv.com/|https://a.singlediv.com/](https://a.singlediv.com/|https://a.singlediv.com/)
+
+<div class="attachment"><h4>A Single Div</h4><div class="text">A CSS drawing experiment to see what’s possible with a single div.</div>
+<a href="https://a.singlediv.com/">A Single Div</a></div>
+    
+</section>
+<section class="message" markdown="1">
+### joakoles - 2020-07-01 21:59 48s
+
+Imponerande! Lynn kan CSS, ingen tvekan om det!
+
+<!--excerpt-->
+</section>
