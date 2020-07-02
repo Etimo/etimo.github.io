@@ -16,6 +16,31 @@ Ett riktigt sjukt projekt av en som gör konst med CSS. En div och CSS. Inga bil
 ### joakoles - 2020-07-01 21:59 48s
 
 Imponerande! Lynn kan CSS, ingen tvekan om det!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-07-02 08:32 18s
+
+Verkligen imponerande!
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-07-02 09:48 20s
+
+[https://www.youtube.com/watch?v=kY-pUxKQMUE](https://www.youtube.com/watch?v=kY-pUxKQMUE)
+
+<div class="attachment"><h4>Didn't stop to think if they should</h4><div class="text"></div>
+<a href="https://www.youtube.com/watch?v=kY-pUxKQMUE"><div class="linkdiv"><img src="/assets/blogAssets/Didn't stop to think if they should" fallback="Didn't stop to think if they should"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2020-07-02 11:22 35s
+
+Absolut, det är en av sakerna som nämns i readmen på repot. Att det självklart är bättre att göra detta som exempelvis en svg. Men det är för att det är kul.
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-07-02 11:35 16s
+
+Sjukt imponerande hur som helst.
+Här försöker man centrera saker vertikalt och folk gör konst med css...
 
 <!--excerpt-->
 </section>
