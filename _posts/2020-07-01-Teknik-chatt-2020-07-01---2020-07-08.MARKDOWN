@@ -41,6 +41,11 @@ Absolut, det är en av sakerna som nämns i readmen på repot. Att det självkla
 
 Sjukt imponerande hur som helst.
 Här försöker man centrera saker vertikalt och folk gör konst med css...
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-07-02 12:31 23s
+
+Kunde inte sagt det bättre själv @lukas.lindqvist , håller helt med 😂
 
 <!--excerpt-->
 </section>
