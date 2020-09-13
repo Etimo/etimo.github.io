@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teknik-chatt 2020-09-13 - 2020-09-20
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2020-09-13 09:46 20s
+
+Jag har lite av en personlig vendetta mot YAML, mest beroende på hur jäkla irriterande det är att refaktorera, och hur sjukt irriterande det är att skriva vissa strängar.
+Äntligen har jag bevis på att någon annan delar min smärta!
+[https://noyaml.com/](https://noyaml.com/)
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-09-13 10:31 54s
+
+Haha
+snygg sida!
+väldigt fyndig
+
+<!--excerpt-->
+</section>
