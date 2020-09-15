@@ -16,6 +16,20 @@ Jag har lite av en personlig vendetta mot YAML, mest beroende på hur jäkla irr
 Haha
 snygg sida!
 väldigt fyndig
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-09-15 16:25 13s
+
+Väldigt fräsigt bibliotek för visualisering: [https://www.amcharts.com/](https://www.amcharts.com/) - kolla demot direkt på förstasidan!
+
+<div class="attachment"><h4>JavaScript Charts &amp; Maps - amCharts</h4><div class="text">JavaScript / HTML5 charts and maps data-viz libraries for web sites and applications. Fast and responsive. WordPress plugin available. Developed since 2006.</div>
+<a href="https://www.amcharts.com/"><div class="linkdiv"><img src="/assets/blogAssets/JavaScript Charts &amp; Maps - amCharts" fallback="JavaScript Charts &amp; Maps - amCharts"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### joakoles - 2020-09-15 16:38 36s
+
+Demon överst på startsidan är väldigt fin!
 
 <!--excerpt-->
 </section>
