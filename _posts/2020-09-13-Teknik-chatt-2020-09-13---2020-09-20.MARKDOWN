@@ -30,6 +30,27 @@ Väldigt fräsigt bibliotek för visualisering: [https://www.amcharts.com/](http
 ### joakoles - 2020-09-15 16:38 36s
 
 Demon överst på startsidan är väldigt fin!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-09-16 07:51 51s
+
+Toppen, jag tror jag testar det här med spegeln. Behöver bara något att visualisera också.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-09-16 08:15 58s
+
+[https://d3js.org/](https://d3js.org/)
+Som jag kört en del innan är lite jobbigt att köra med react, och betydligt mindre strömlinjeformat.
+
+<div class="attachment"><h4>D3.js - Data-Driven Documents</h4><div class="text">D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.</div>
+<a href="https://d3js.org/"><img src="https://d3js.org/preview.png" fallback="D3.js - Data-Driven Documents"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-09-16 08:16 44s
+
+Ja d3 är ju en klassiker. Vet inte hur amcharts skiljer sig, inte använt än men såg häromdagen att vi kör det här hos kunden
+Har inte provat d3 med react dock
 
 <!--excerpt-->
 </section>
