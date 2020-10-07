@@ -1,0 +1,18 @@
+---
+layout: post
+title: Teknik-chatt 2020-10-07 - 2020-10-14
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2020-10-07 18:31 43s
+
+Fick det mest pedagogiska sättet att förstå http statusar utpekat idag.
+[https://http.cat/](https://http.cat/)
+
+<div class="attachment"><h4>HTTP Cats</h4><div class="text">API for HTTP Cats</div>
+<a href="https://http.cat/"><img src="https://http.cat/100.jpg" fallback="HTTP Cats"/></a></div>
+    
+Skillnaden på 401 och 403 har aldrig vart så tydlig
+
+<!--excerpt-->
+</section>
