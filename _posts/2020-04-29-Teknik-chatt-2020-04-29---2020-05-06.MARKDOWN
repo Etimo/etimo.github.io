@@ -1,0 +1,45 @@
+---
+layout: post
+title: Teknik-chatt 2020-04-29 - 2020-05-06
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2020-04-29 11:21 35s
+
+```
+All the money you will ever earn in your entire life from the day you are born until the day you die
+```
+I'm in this picture and I don't like it.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-04-29 13:32 38s
+
+Hehe
+Are you the big yellow field?
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-04-29 13:37 55s
+
+Ne, jag är den där pixeln i början 😉 Ligger mycket back om man räknar pengarna jag är skyldig banken
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-04-29 13:40 07s
+
+hehe
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2020-05-01 15:54 37s
+
+Spotify gör sin utvecklarportal till open source. [https://backstage.io/|https://backstage.io/](https://backstage.io/|https://backstage.io/)
+
+<div class="attachment"><h4>Backstage · An open platform for building developer portals</h4><div class="text">An open platform for building developer portals</div>
+<a href="https://backstage.io/"><div class="linkdiv"><img src="/assets/blogAssets/Backstage · An open platform for building developer portals" fallback="Backstage · An open platform for building developer portals"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2020-05-02 19:47 58s
+
+Kul! Bli intressant att se om de har verktyg som är konkurrenskraftiga.
+
+<!--excerpt-->
+</section>
