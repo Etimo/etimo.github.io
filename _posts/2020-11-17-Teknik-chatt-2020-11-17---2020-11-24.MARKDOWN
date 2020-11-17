@@ -1,0 +1,38 @@
+---
+layout: post
+title: Teknik-chatt 2020-11-17 - 2020-11-24
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2020-11-17 14:30 50s
+
+[https://alxgrade.itch.io/ps5-simulator](https://alxgrade.itch.io/ps5-simulator)
+
+<div class="attachment"><h4>PS5 Simulator by alxgrade</h4><div class="text">Available for Windows</div>
+<a href="https://alxgrade.itch.io/ps5-simulator"><img src="https://img.itch.zone/aW1nLzQ2MDUzNDIucG5n/original/HAMFuD.png" fallback="PS5 Simulator by alxgrade"/></a></div>
+    
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles reacted this way." class="reactionSpan">
+😅x1</span>
+</div>
+     
+      </div>
+    
+Alltså… ett spel där man får låtsas packa upp en ps5, koppla in kablar och kasta kontrollen
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="jens.hunt,  reacted this way." class="reactionSpan">
+😂x2</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-11-17 15:24 59s
+
+Känner att det där är ett resultat av PS5 brist och pandemi-tid.
+
+<!--excerpt-->
+</section>
