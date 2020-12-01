@@ -1,0 +1,13 @@
+---
+layout: post
+title: Teknik-chatt 2020-12-01 - 2020-12-08
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2020-12-01 08:57 07s
+
+Kanske nåt ni andra sett innan men om man är lite intresserad av koncepten i docker och vill lära sig mer kan man kolla på ett intressant projekt som heter bocker. Det är docker (typ) implementerat med cirka 100 rader bash:
+[https://github.com/p8952/bocker](https://github.com/p8952/bocker)
+
+<!--excerpt-->
+</section>
