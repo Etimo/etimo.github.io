@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ny på Etimo - Philip Forsberg
-image: {{ site.data.philipforsberg.image }}
+image: /assets/img/philipforsberg.png
 tag: [featured,ny-pa-etimo]
 excerpt_separator: <!--excerpt-->
 ---
