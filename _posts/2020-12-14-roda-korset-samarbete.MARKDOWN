@@ -5,7 +5,7 @@ title: Rädda Barnen
 image: samarbetslogotyp-hallbarhetspartner---sverige.png
 caption: Deltar i arbete för att motverka otrygghet
 shortexcerpt: Etimo inleder samarbete med Rädda Barnen som hållbarhetspartner.
-tag: [featured,compile-time,rust]
+tag: [featured, announcement]
 categories: [Featured]
 excerpt_separator: <!--excerpt-->
 ---
