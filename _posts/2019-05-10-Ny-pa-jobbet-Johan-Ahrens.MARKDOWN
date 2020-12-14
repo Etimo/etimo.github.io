@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ny på Etimo - Johan Ahrens
-image: {{ site.data.johanahrens.image }}
+image: /assets/img/johanahrens.jpg
 tag: [featured,ny-pa-etimo]
 excerpt_separator: <!--excerpt-->
 ---
