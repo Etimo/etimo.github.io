@@ -11,6 +11,14 @@ excerpt_separator: <!--excerpt-->
 <div class="attachment"><h4>Rädda Barnen - Save the Children Sweden on LinkedIn: VARMT TACK TILL ALLA VÅRA PARTNERS FÖR ÅRET SOM GÅTT 2020 har varit</h4><div class="text">VARMT TACK TILL ALLA VÅRA PARTNERS FÖR ÅRET SOM GÅTT 2020 har varit en utmaning för oss alla. Men värst har det varit för barnen. Många barn har farit ...</div>
 <a href="https://www.linkedin.com/posts/save-the-children-sweden_varmt-tack-till-alla-v%C3%A5ra-partners-f%C3%B6r-%C3%A5ret-activity-6749626137749581824-ovHf"><img src="https://media-exp1.licdn.com/dms/image/C4E22AQFlVdxZJeDoFg/feedshare-shrink_1280-alternative/0/1609236272290?e=1612396800&v=beta&t=yp_EAQ2hBdQWdTPmVTWqcVXx8iOa-smsMRhdQobNViM" fallback="Rädda Barnen - Save the Children Sweden on LinkedIn: VARMT TACK TILL ALLA VÅRA PARTNERS FÖR ÅRET SOM GÅTT 2020 har varit"/></a></div>
     
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="daniel.winther reacted this way." class="reactionSpan">
+🐧x1</span>
+</div>
+     
+      </div>
+    
 
 <!--excerpt-->
 </section>
