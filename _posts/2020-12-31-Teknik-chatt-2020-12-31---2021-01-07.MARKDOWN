@@ -13,8 +13,8 @@ excerpt_separator: <!--excerpt-->
     
 <div class="reactionsDiv">
 <div class="reactionDiv">
-<span title="daniel.winther reacted this way." class="reactionSpan">
-🐧x1</span>
+<span title="daniel.winther,  reacted this way." class="reactionSpan">
+🐧x2</span>
 </div>
      
       </div>
