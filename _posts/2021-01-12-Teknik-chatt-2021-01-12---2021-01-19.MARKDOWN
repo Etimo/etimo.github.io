@@ -41,6 +41,16 @@ Får mixed messages här.
 ### daniel.winther - 2021-01-12 16:06 09s
 
 Ja det blir ju kanske svårt med 100% på en flygplats men de kanske driver allt utom flygplanen med förnybar energi iaf.
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2021-01-12 16:40 23s
+
+Sol och yta finns det ju gott om där nere
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2021-01-12 20:14 31s
+
+Riktigt häftigt! Hoppas tågen går nattetid när det är vindstilla också :)
 
 <!--excerpt-->
 </section>
