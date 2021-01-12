@@ -1,0 +1,46 @@
+---
+layout: post
+title: Teknik-chatt 2021-01-12 - 2021-01-19
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2021-01-12 13:34 48s
+
+Kul projekt: [https://feber.se/bil/saudiarabien-planerar-helt-bilfri-stad/420185/](https://feber.se/bil/saudiarabien-planerar-helt-bilfri-stad/420185/)
+
+<div class="attachment"><h4>Saudiarabien planerar helt bilfri stad. The Line har inte ens några vägar</h4><div class="text">Mohammed bin Salman som är Saudiarabiens kronprins presenterar nu planerna på den helt bilfria staden The Line. Den ska bli en del av den planerade gränsstaden Neom i nordvästra Saudiarabien. The Line kommer inte att ha några vägar utan du tar dig runt med hjälp av höghastighetståg. Att ta sig genom hela den långa staden som mäter 17 mil ska inte ta mer än 20 minuter. Staden ska omges av grönska ....</div>
+<a href="https://feber.se/bil/saudiarabien-planerar-helt-bilfri-stad/420185/"><img src="https://static.feber.se/article_images/50/68/73/506873.jpg" fallback="Saudiarabien planerar helt bilfri stad. The Line har inte ens några vägar"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### joakoles - 2021-01-12 14:16 39s
+
+"Staden ska börja byggas nu under årets första kvartal. År 2030 räknar man med att det ska bo en miljon invånare här"
+
+Det går snabbt!
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2021-01-12 14:23 15s
+
+Stadan ska vara en lång strimma också 20 mil lång
+Riktigt bananas
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2021-01-12 14:47 10s
+
+cash finns uppenbarligen
+men snabba puckar, verkligen
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2021-01-12 15:00 02s
+
+Lite jobbig kombo av grön energi och att ha en av världens största flygplatser..
+Får mixed messages här.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2021-01-12 16:06 09s
+
+Ja det blir ju kanske svårt med 100% på en flygplats men de kanske driver allt utom flygplanen med förnybar energi iaf.
+
+<!--excerpt-->
+</section>
