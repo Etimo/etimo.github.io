@@ -51,6 +51,39 @@ Sol och yta finns det ju gott om där nere
 ### johanhazelius - 2021-01-12 20:14 31s
 
 Riktigt häftigt! Hoppas tågen går nattetid när det är vindstilla också :)
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2021-01-13 10:40 17s
+
+Jag letade efter ny ny window-manager på uppdragets Windows-maskin och sprang på: [https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+Lägger till funktionalitet för “Power users”, exempelvis en rätt skaplig window manager, förhandsgranskning av markdownfiler i file explorer, samt lite annat trevligt.
+Som mac-användare är jag såklart mest nöjd av deras “Launcher” dvs att man kan trycka alt + space för köra igång saker.
+</section>
+<section class="message" markdown="1">
+### joakoles - 2021-01-13 11:07 27s
+
+Visst är det FancyZones du menar som är en del av powertoys? Jag använder den och tycker det funkar jättebra. Jag använder den och [https://www.stardock.com/products/groupy/](https://www.stardock.com/products/groupy/) som gör att man kan ha olika applikationer som flikar.
+
+Jag installerade de programmen efter att ha kollat på [https://www.youtube.com/watch?v=4pteCeFXnsw&amp;ab_channel=DavidZhang](https://www.youtube.com/watch?v=4pteCeFXnsw&amp;ab_channel=DavidZhang)
+
+<div class="attachment"><h4>Stardock Groupy: Tabs for Windows</h4><div class="text">Groupy enables you to drag and drop application windows together to group them together under a common tabbed interface.</div>
+<a href="https://www.stardock.com/products/groupy/">Stardock Groupy: Tabs for Windows</a></div>
+    
+
+
+<div class="attachment"><h4>My Favorite Productivity Apps for Windows10 - Ultrawide, Tiling &amp; Tabs Tools</h4><div class="text"></div>
+<a href="https://www.youtube.com/watch?v=4pteCeFXnsw&amp;ab_channel=DavidZhang"><div class="linkdiv"><img src="/assets/blogAssets/My Favorite Productivity Apps for Windows10 - Ultrawide, Tiling &amp; Tabs Tools" fallback="My Favorite Productivity Apps for Windows10 - Ultrawide, Tiling &amp; Tabs Tools"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2021-01-13 11:08 27s
+
+Stämmer bra! Ska testa stardock också nu!
+</section>
+<section class="message" markdown="1">
+### joakoles - 2021-01-13 11:09 26s
+
+Får se om du gillar det lika mycket som jag då 🙂
 
 <!--excerpt-->
 </section>

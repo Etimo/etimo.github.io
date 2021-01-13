@@ -22,7 +22,7 @@ excerpt_separator: <!--excerpt-->
 Alltså… ett spel där man får låtsas packa upp en ps5, koppla in kablar och kasta kontrollen
 <div class="reactionsDiv">
 <div class="reactionDiv">
-<span title=",  reacted this way." class="reactionSpan">
+<span title="jens.hunt,  reacted this way." class="reactionSpan">
 😂x2</span>
 </div>
      
