@@ -84,6 +84,11 @@ Stämmer bra! Ska testa stardock också nu!
 ### joakoles - 2021-01-13 11:09 26s
 
 Får se om du gillar det lika mycket som jag då 🙂
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2021-01-13 11:34 47s
+
+Powertoys har hängt med länge nu. Riktigt bra verktyg och jag antar att det hänt väldigt mycket sen jag senast använde det. Så fanns ingen fönsterhanterare, då var det mer en massa tillgång till bra inställningar som annars låg gömda i registret i Windows
 
 <!--excerpt-->
 </section>
