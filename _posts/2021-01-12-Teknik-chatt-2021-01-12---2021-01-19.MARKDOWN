@@ -89,6 +89,13 @@ Får se om du gillar det lika mycket som jag då 🙂
 ### daniel.winther - 2021-01-13 11:34 47s
 
 Powertoys har hängt med länge nu. Riktigt bra verktyg och jag antar att det hänt väldigt mycket sen jag senast använde det. Så fanns ingen fönsterhanterare, då var det mer en massa tillgång till bra inställningar som annars låg gömda i registret i Windows
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2021-01-14 07:26 05s
+
+Tänk om det fanns ett OS som lät en göra sånt här utan hackiga saker? Vore toppen om det var en bra Posix miljö också och gick att köra på hårdvara som inte var låst.
+Men det är nog för mycket begärt.
+Om jag tar ett uppdrag där jag behöver köra Windows igen så kommer jag fly till de här sakerna omedelbart dock.
 
 <!--excerpt-->
 </section>
