@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2021-01-30 - 2021-02-06
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### andre.hansson - 2021-01-30 12:26 36s
+
+@andre.hansson has joined the channel
+
+<!--excerpt-->
+</section>
