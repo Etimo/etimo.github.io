@@ -1,0 +1,16 @@
+---
+layout: post
+title: Teknik-chatt 2021-02-21 - 2021-02-28
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2021-02-21 22:53 34s
+
+Riktigt snyggt: [https://youtu.be/He6MCalvDf4](https://youtu.be/He6MCalvDf4)
+
+<div class="attachment"><h4>A.I. Generates 3D Virtual Concerts from Sound</h4><div class="text"></div>
+<a href="https://youtu.be/He6MCalvDf4"><div class="linkdiv"><img src="/assets/blogAssets/A.I. Generates 3D Virtual Concerts from Sound" fallback="A.I. Generates 3D Virtual Concerts from Sound"/></div></a></div>
+    
+
+<!--excerpt-->
+</section>
