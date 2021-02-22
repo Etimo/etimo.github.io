@@ -11,6 +11,17 @@ Riktigt snyggt: [https://youtu.be/He6MCalvDf4](https://youtu.be/He6MCalvDf4)
 <div class="attachment"><h4>A.I. Generates 3D Virtual Concerts from Sound</h4><div class="text"></div>
 <a href="https://youtu.be/He6MCalvDf4"><div class="linkdiv"><img src="/assets/blogAssets/A.I. Generates 3D Virtual Concerts from Sound" fallback="A.I. Generates 3D Virtual Concerts from Sound"/></div></a></div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2021-02-22 07:09 57s
+
+Har börjat kika på generativ maskin-lärning nyligen, försöker få den att härma Van Gogh stil från ett vanligt foto.
+Vi kan säga att det här ligger lite före min modell...
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2021-02-22 07:47 00s
+
+Haha det låter också rätt häftigt tycker jag
 
 <!--excerpt-->
 </section>
