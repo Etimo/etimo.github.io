@@ -1,0 +1,34 @@
+---
+layout: post
+title: Teknik-chatt 2021-06-25 - 2021-07-02
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2021-06-25 13:51 01s
+
+
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title=", , , erik.malm, ,  reacted this way." class="reactionSpan">
+?x6</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2021-06-25 16:25 28s
+
+H?r har vi plockat jordgubbsodlingarna. Lika h?lsosamt och mycket godare.
+
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title=", johanhazelius,  reacted this way." class="reactionSpan">
+?x3</span>
+</div>
+     
+      </div>
+    
+
+<!--excerpt-->
+</section>

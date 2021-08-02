@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2021-06-09 - 2021-06-16
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johan.grundberg98 - 2021-06-09 01:35 42s
+
+@johan.grundberg98 has joined the channel
+
+<!--excerpt-->
+</section>

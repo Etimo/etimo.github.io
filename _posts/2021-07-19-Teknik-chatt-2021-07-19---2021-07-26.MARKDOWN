@@ -1,0 +1,20 @@
+---
+layout: post
+title: Teknik-chatt 2021-07-19 - 2021-07-26
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2021-07-19 07:39 51s
+
+Uddevalla Mtb - varmt men roligt!
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title=", erik.malm reacted this way." class="reactionSpan">
+:man-biking:x2</span>
+</div>
+     
+      </div>
+    
+
+<!--excerpt-->
+</section>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2021-06-01 - 2021-06-08
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### bjorn.wahlberg - 2021-06-01 09:00 25s
+
+@bjorn.wahlberg has joined the channel
+
+<!--excerpt-->
+</section>
