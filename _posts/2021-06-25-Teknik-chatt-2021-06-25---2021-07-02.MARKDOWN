@@ -9,7 +9,7 @@ excerpt_separator: <!--excerpt-->
 
 <div class="reactionsDiv">
 <div class="reactionDiv">
-<span title=", , , erik.malm, ,  reacted this way." class="reactionSpan">
+<span title=", daniel.winther, joakoles, erik.malm, ,  reacted this way." class="reactionSpan">
 🏃x6</span>
 </div>
      
@@ -23,7 +23,7 @@ Här har vi plockat jordgubbsodlingarna. Lika hälsosamt och mycket godare.
 
 <div class="reactionsDiv">
 <div class="reactionDiv">
-<span title=", johanhazelius,  reacted this way." class="reactionSpan">
+<span title="joakoles, johanhazelius,  reacted this way." class="reactionSpan">
 🍓x3</span>
 </div>
      

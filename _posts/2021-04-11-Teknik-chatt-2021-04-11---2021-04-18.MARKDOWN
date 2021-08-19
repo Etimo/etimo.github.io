@@ -1,0 +1,19 @@
+---
+layout: post
+title: Teknik-chatt 2021-04-11 - 2021-04-18
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### joakoles - 2021-04-11 22:01 00s
+
+set the channel topic: Här skriver vi allt möjligt om teknik och kanalen speglas publikt på [http://blog.etimo.se](http://blog.etimo.se)
+
+Var noga med att inte skriva saker som är hemliga, opassande för extern publik eller på något sätt stötande för våra kunder.
+</section>
+<section class="message" markdown="1">
+### julius.willen - 2021-04-15 09:49 56s
+
+@julius.willen has joined the channel
+
+<!--excerpt-->
+</section>
