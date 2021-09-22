@@ -9,8 +9,8 @@ excerpt_separator: <!--excerpt-->
 Uddevalla Mtb - varmt men roligt!
 <div class="reactionsDiv">
 <div class="reactionDiv">
-<span title=", erik.malm reacted this way." class="reactionSpan">
-:man-biking:x2</span>
+<span title=", erik.malm,  reacted this way." class="reactionSpan">
+:man-biking:x3</span>
 </div>
      
       </div>
