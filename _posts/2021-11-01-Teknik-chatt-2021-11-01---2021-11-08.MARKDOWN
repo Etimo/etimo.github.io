@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2021-11-01 - 2021-11-08
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### morgan.cromell - 2021-11-01 09:44 35s
+
+@morgan.cromell has joined the channel
+
+<!--excerpt-->
+</section>
