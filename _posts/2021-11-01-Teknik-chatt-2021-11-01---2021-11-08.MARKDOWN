@@ -7,6 +7,24 @@ excerpt_separator: <!--excerpt-->
 ### morgan.cromell - 2021-11-01 09:44 35s
 
 @morgan.cromell has joined the channel
+</section>
+<section class="message" markdown="1">
+### joakoles - 2021-11-03 16:58 48s
+
+"Riksbanken skapar nu en ny infrastruktur eller plattform för betalningar som går sekundsnabbt /.../ planen är att då att flytta över Swish som första produkt på den nya plattformen /.../ Men framöver är tanken att även andra företags produkter eller tjänster ska kunna kopplas på den nya plattformen".
+
+Det ska bli intressant att se vad som byggs kring det i framtiden!
+
+[https://www.svd.se/riksbanken-tar-over-bakom-swish](https://www.svd.se/riksbanken-tar-over-bakom-swish)
+
+<div class="attachment"><h4>Riksbanken tar över bakom Swish | SvD</h4><div class="text">Riksbanken skapar en ny plattform för omedelbara betalningar. Den nya plattformen tar över efter Bankgirot som infrastruktur för den digitala betalförmedlaren Swish, som fått ett stort uppsving under pandemin.</div>
+<a href="https://www.svd.se/riksbanken-tar-over-bakom-swish"><img src="https://svd.vgc.no/v2/images/59556f02-653a-491b-93fc-7324a3be862b?h=630&q=80&upscale=true&w=1200&s=f733dba0b77054dbd16b5a1cc376a9a79f140845" fallback="Riksbanken tar över bakom Swish | SvD"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2021-11-03 17:03 55s
+
+Verkligen, ska bli kul att se. Det är ju faktiskt stora institutioner (och inte start ups) som ligger bakom flera av de bästa innovationerna i svensk fin-tech (ex swish o bankid)
 
 <!--excerpt-->
 </section>
