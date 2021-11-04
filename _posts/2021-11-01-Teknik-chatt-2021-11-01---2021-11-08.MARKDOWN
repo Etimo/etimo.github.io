@@ -25,6 +25,11 @@ Det ska bli intressant att se vad som byggs kring det i framtiden!
 ### johanhazelius - 2021-11-03 17:03 55s
 
 Verkligen, ska bli kul att se. Det är ju faktiskt stora institutioner (och inte start ups) som ligger bakom flera av de bästa innovationerna i svensk fin-tech (ex swish o bankid)
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2021-11-04 09:39 39s
+
+Jävla paywalls, får inte läsa artikeln 😞
 
 <!--excerpt-->
 </section>
