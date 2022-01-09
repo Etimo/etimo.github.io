@@ -90,7 +90,6 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-theme: type-on-strap # If using the theme as a jekyll theme gem
 exclude:
   - Gemfile
   - Gemfile.lock
