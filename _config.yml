@@ -39,7 +39,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: 
+  twitter:
   wordpress:
   youtube:
 
@@ -47,7 +47,7 @@ theme_settings:
   google_analytics: UA-47276360-3 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -77,6 +77,7 @@ collections:
     permalink: /:collection/:name
 
 # BUILD SETTINGS
+remote_theme: /sylhare/Type-on-Strap
 markdown: kramdown
 highlighter: rouge
 sass:
