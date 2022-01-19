@@ -9,7 +9,7 @@ excerpt_separator: <!--excerpt-->
 
 <div class="reactionsDiv">
 <div class="reactionDiv">
-<span title=", daniel.winther, joakoles, erik.malm, ,  reacted this way." class="reactionSpan">
+<span title="rickard.lofberg, daniel.winther, joakoles, erik.malm, ,  reacted this way." class="reactionSpan">
 🏃x6</span>
 </div>
      

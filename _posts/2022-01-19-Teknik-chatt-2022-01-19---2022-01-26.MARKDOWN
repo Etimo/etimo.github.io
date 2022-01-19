@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2022-01-19 - 2022-01-26
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### rickard.lofberg - 2022-01-19 14:23 21s
+
+Spännande domstolsbeslut, verkar som att det kommer att komma i flera europeiska länder ifall de följer samma linje.
+[https://tutanota.com/blog/posts/google-analytics/](https://tutanota.com/blog/posts/google-analytics/)
+
+<div class="attachment"><h4>Google Analytics declared illegal in the EU.</h4><div class="text">Will Google protect data of European better to comply with the GDPR?</div>
+<a href="https://tutanota.com/blog/posts/google-analytics/"><img src="https://tutanota.com/blog/images/max-schrems-noyb-privacy-shield.jpg" fallback="Google Analytics declared illegal in the EU."/></a></div>
+    
+
+<!--excerpt-->
+</section>
