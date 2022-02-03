@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2022-02-03 - 2022-02-10
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### rickard.lofberg - 2022-02-03 13:26 43s
+
+Häftigt vad de kan göra men jag tycker att variabelnamnen kan v ara bättre. Men den är säkert tränad på python kod och mina fördomar är att python folk sällan oroar sig över sådana bagateller som läsbarhet 😄
+[https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
+
+<div class="attachment"><h4>Competitive programming with AlphaCode</h4><div class="text">As part of DeepMind’s mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level.</div>
+<a href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"><img src="https://lh3.googleusercontent.com/vz8uwIhCXl_JqJGaUoUessaut6aLXPffnRi4fq7M82o01WJOBKFIWkPLh6Hg-tvnJCLw6mKu-gEGUNIPftbm7xzwUfZFKRl9VW-Nl-IbIFcbgAiKh7A9" fallback="Competitive programming with AlphaCode"/></a></div>
+    
+
+<!--excerpt-->
+</section>
