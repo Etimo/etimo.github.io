@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2022-02-18 - 2022-02-25
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2022-02-18 06:59 32s
+
+Dagens bug är nog Mazda. Eftersom NPR appen innehåller en JPG utan .jpg ändelse är entertainment systemet fast i en reboot loop. Och fast på NPR.
+[https://www.carscoops.com/2022/02/some-mazda-owners-are-stuck-on-npr-automaker-blames-station-for-breaking-infotainment-system/|https://www.carscoops.com/2022/02/some-mazda-owners-are-stuck-on-npr-automaker-blames-station-for-breaking-infotainment-system/](https://www.carscoops.com/2022/02/some-mazda-owners-are-stuck-on-npr-automaker-blames-station-for-breaking-infotainment-system/|https://www.carscoops.com/2022/02/some-mazda-owners-are-stuck-on-npr-automaker-blames-station-for-breaking-infotainment-system/)
+
+<div class="attachment"><h4>Mazda Owners Are Stuck On NPR, Automaker Blames Station For Breaking Infotainment Systems | Carscoops</h4><div class="text">Mazda blames the radio station for locking 2014-2017 vehicles on the local NPR station</div>
+<a href="https://www.carscoops.com/2022/02/some-mazda-owners-are-stuck-on-npr-automaker-blames-station-for-breaking-infotainment-system/"><div class="linkdiv"><img src="/assets/blogAssets/Mazda Owners Are Stuck On NPR, Automaker Blames Station For Breaking Infotainment Systems | Carscoops" fallback="Mazda Owners Are Stuck On NPR, Automaker Blames Station For Breaking Infotainment Systems | Carscoops"/></div></a></div>
+    
+
+<!--excerpt-->
+</section>
