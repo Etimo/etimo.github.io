@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2022-02-22 - 2022-03-01
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### mikael.goransson - 2022-02-22 10:45 33s
+
+@mikael.goransson has joined the channel
+
+<!--excerpt-->
+</section>
