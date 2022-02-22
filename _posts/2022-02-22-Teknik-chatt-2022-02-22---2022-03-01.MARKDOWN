@@ -7,6 +7,15 @@ excerpt_separator: <!--excerpt-->
 ### mikael.goransson - 2022-02-22 10:45 33s
 
 @mikael.goransson has joined the channel
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2022-02-22 12:55 37s
+
+Nån annan förutom jag som är sinnessjukt taggad på Elden Ring som släpps nu på fredag? [https://en.bandainamcoent.eu/elden-ring/elden-ring](https://en.bandainamcoent.eu/elden-ring/elden-ring)
+
+<div class="attachment"><h4>ELDEN RING</h4><div class="text">The Golden Order has been broken.   Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between. In the Lands Between ruled by Queen Marika the Eternal, the Elden Ring, the source of the Erdtree, has been shattered. Marika's offspring, demigods all, claimed the shards of the Elden Ring known as the Great Runes, and the mad taint of....</div>
+<a href="https://en.bandainamcoent.eu/elden-ring/elden-ring"><img src="https://static.bandainamcoent.eu/high/elden-ring/elden-ring/00-page-setup/elden-ring-new-header-mobile.jpg" fallback="ELDEN RING"/></a></div>
+    
 
 <!--excerpt-->
 </section>
