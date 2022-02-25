@@ -6,11 +6,11 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2022-02-18 06:59 32s
 
-Dagens bug ?r nog Mazda. Eftersom NPR appen inneh?ller en JPG utan .jpg ?ndelse ?r entertainment systemet fast i en reboot loop. Och fast p? NPR.
+Dagens bug är nog Mazda. Eftersom NPR appen innehåller en JPG utan .jpg ändelse är entertainment systemet fast i en reboot loop. Och fast på NPR.
 <div class="reactionsDiv">
 <div class="reactionDiv">
 <span title="bjorn.wahlberg reacted this way." class="reactionSpan">
-?x1</span>
+😅x1</span>
 </div>
      
       </div>

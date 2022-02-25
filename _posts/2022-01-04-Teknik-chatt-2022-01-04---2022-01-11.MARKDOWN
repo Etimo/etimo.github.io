@@ -6,9 +6,9 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2022-01-04 09:09 29s
 
-Som en bra start p? det nya ?ret fick vi en kul datumbugg i exchange-servrar.
-K?nd som y22k buggen blockerade den fl?det av emails genom Exchange-servrar eftersom Januari-2022 var f?r futuristiskt f?r att hantera.
-Vi som var vid liv och medvetande kring ?rsskiftet 2000 f?r lite nostalgi av det.
+Som en bra start på det nya året fick vi en kul datumbugg i exchange-servrar.
+Känd som y22k buggen blockerade den flödet av emails genom Exchange-servrar eftersom Januari-2022 var för futuristiskt för att hantera.
+Vi som var vid liv och medvetande kring årsskiftet 2000 får lite nostalgi av det.
 [https://www.onmsft.com/news/fix-for-microsoft-exchange-bug-now-available](https://www.onmsft.com/news/fix-for-microsoft-exchange-bug-now-available)
 
 <div class="attachment"><h4>Microsoft Issues Emergency Fix for Exchange Y2K22 bug</h4><div class="text">As promised, Microsoft has now delievered an emergency fix for the Y2K22 Exchange Bug that caused emails to be stuck in transit.</div>

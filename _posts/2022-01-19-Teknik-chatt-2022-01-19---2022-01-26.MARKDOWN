@@ -6,7 +6,7 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### rickard.lofberg - 2022-01-19 14:23 21s
 
-Sp?nnande domstolsbeslut, verkar som att det kommer att komma i flera europeiska l?nder ifall de f?ljer samma linje.
+Spännande domstolsbeslut, verkar som att det kommer att komma i flera europeiska länder ifall de följer samma linje.
 [https://tutanota.com/blog/posts/google-analytics/](https://tutanota.com/blog/posts/google-analytics/)
 
 <div class="attachment"><h4>Google Analytics declared illegal in the EU.</h4><div class="text">Will Google protect data of European better to comply with the GDPR?</div>
@@ -21,7 +21,7 @@ Detta kan ju bli en mindre revolution!
 <section class="message" markdown="1">
 ### erik.malm - 2022-01-20 07:42 47s
 
-Ska bli v?ldigt intressant att se vad som h?nder i praktiken, gissar att man beh?ver faktiskt l?sa domen f?r att se hur det p?verkar andra analysprodukter och vilka anpassningar man eventuellt skulle beh?va g?ra.
+Ska bli väldigt intressant att se vad som händer i praktiken, gissar att man behöver faktiskt läsa domen för att se hur det påverkar andra analysprodukter och vilka anpassningar man eventuellt skulle behöva göra.
 
 <!--excerpt-->
 </section>

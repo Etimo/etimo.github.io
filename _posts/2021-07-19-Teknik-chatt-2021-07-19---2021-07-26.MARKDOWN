@@ -19,7 +19,7 @@ Uddevalla Mtb - varmt men roligt!
 <section class="message" markdown="1">
 ### joakoles - 2021-07-19 14:02 40s
 
-Sitter cykeln fast i n?t p? marken?
+Sitter cykeln fast i nåt på marken?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2021-07-19 22:54 55s
