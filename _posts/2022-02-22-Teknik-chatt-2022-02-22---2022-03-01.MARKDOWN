@@ -133,6 +133,25 @@ Hmm... Ska man lägga sig skittidigt ikväll så man kan spela någon timme inna
      
       </div>
     
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2022-02-25 15:39 09s
+
+[https://www.youtube.com/watch?v=ao36_2n333E](https://www.youtube.com/watch?v=ao36_2n333E)
+Jag bara lägger den här här.
+Det är klart ni andra ska joina den mörka JVM sidan...
+
+<div class="attachment"><h4>Java Developer The Best Job In The World?</h4><div class="text"></div>
+<a href="https://www.youtube.com/watch?v=ao36_2n333E"><div class="linkdiv"><img src="/assets/blogAssets/Java Developer The Best Job In The World?" fallback="Java Developer The Best Job In The World?"/></div></a></div>
+    
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="daniel.winther reacted this way." class="reactionSpan">
+😉x1</span>
+</div>
+     
+      </div>
+    
 
 <!--excerpt-->
 </section>
