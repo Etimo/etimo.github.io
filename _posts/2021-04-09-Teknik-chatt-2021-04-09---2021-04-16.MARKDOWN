@@ -11,6 +11,11 @@ Sjukt creepy webcam: [https://marcteyssier.com/projects/eyecam/](https://marctey
 <div class="attachment"><h4>Marc Teyssier | Eyecam</h4><div class="text">Marc Teyssier</div>
 <a href="https://marcteyssier.com/projects/eyecam/">Marc Teyssier | Eyecam</a></div>
     
+</section>
+<section class="message" markdown="1">
+### joakoles - 2021-04-09 14:44 03s
+
+Det d?r var riktigt creepy! S? jag la precis in l?nken p? kundens chatt f?r utvecklingsavdelningen ?
 
 <!--excerpt-->
 </section>

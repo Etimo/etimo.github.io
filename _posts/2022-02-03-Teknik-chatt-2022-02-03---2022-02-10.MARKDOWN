@@ -6,12 +6,49 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### rickard.lofberg - 2022-02-03 13:26 43s
 
-Häftigt vad de kan göra men jag tycker att variabelnamnen kan v ara bättre. Men den är säkert tränad på python kod och mina fördomar är att python folk sällan oroar sig över sådana bagateller som läsbarhet 😄
+H?ftigt vad de kan g?ra men jag tycker att variabelnamnen kan v ara b?ttre. Men den ?r s?kert tr?nad p? python kod och mina f?rdomar ?r att python folk s?llan oroar sig ?ver s?dana bagateller som l?sbarhet ?
 [https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
 
-<div class="attachment"><h4>Competitive programming with AlphaCode</h4><div class="text">As part of DeepMind’s mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level.</div>
+<div class="attachment"><h4>Competitive programming with AlphaCode</h4><div class="text">As part of DeepMind?s mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level.</div>
 <a href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"><img src="https://lh3.googleusercontent.com/vz8uwIhCXl_JqJGaUoUessaut6aLXPffnRi4fq7M82o01WJOBKFIWkPLh6Hg-tvnJCLw6mKu-gEGUNIPftbm7xzwUfZFKRl9VW-Nl-IbIFcbgAiKh7A9" fallback="Competitive programming with AlphaCode"/></a></div>
     
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2022-02-03 13:35 01s
+
+Vad ?r dett f?r nedv?rderande ord om pythonprogrammerare jag h?r?
+Men sjukt sammantr?ffande, l?ste precis den d?r ocks?
+Skulle vi bry ossm indre om l?sbarhet? K?nner en beef p? g?ng h?r
+</section>
+<section class="message" markdown="1">
+### rickard.lofberg - 2022-02-03 13:41 28s
+
+Jag ?r ocks? pythonprogrammerar men ?r ?vertygad om att det ?r fallet p.g.a. de kurser som ges inom det och att det ?r m?ngas f?rsta spr?k ?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2022-02-03 13:44 49s
+
+Haha ok ja det kan finnas en po?ng i det
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2022-02-03 13:56 46s
+
+__ ?r ett tv?rs?kert s?tt att g?ra en variable privat ocks?.
+</section>
+<section class="message" markdown="1">
+### rickard.lofberg - 2022-02-03 14:09 16s
+
+Don't be a dunder hater (dunder ?r Pythoniska f?r dubble underscore).. finns inte en person som skulle t?nka tanken p? att anv?nda en dunder metod, den ?r ju privat!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2022-02-03 15:55 07s
+
+Tror att min f?rsta Python tutorial l?rde mig att accessa __ saker i flask ?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2022-02-04 11:47 14s
+
+haha
 
 <!--excerpt-->
 </section>

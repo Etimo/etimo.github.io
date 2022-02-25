@@ -6,7 +6,7 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### daniel.winther - 2021-09-14 14:14 17s
 
-Den här är rätt fräck: [https://github.com/Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
+Den h?r ?r r?tt fr?ck: [https://github.com/Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
 
 <div class="attachment"><h4>Rigellute/spotify-tui</h4><div class="text">Spotify for the terminal written in Rust :rocket:</div>
 <a href="null">Rigellute/spotify-tui</a></div>
@@ -15,8 +15,13 @@ Den här är rätt fräck: [https://github.com/Rigellute/spotify-tui](https://gi
 <section class="message" markdown="1">
 ### erik.malm - 2021-09-14 14:15 28s
 
-Har kört den ett tag faktiskt, lyckades maxa datorns ram med massa docker-containrar så sparar ett par hundra meg med detta.
-Plus att det är mer leet förstår.
+Har k?rt den ett tag faktiskt, lyckades maxa datorns ram med massa docker-containrar s? sparar ett par hundra meg med detta.
+Plus att det ?r mer leet f?rst?r.
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2021-09-14 14:15 44s
+
+verkligen mer leet!
 
 <!--excerpt-->
 </section>

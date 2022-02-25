@@ -1,0 +1,22 @@
+---
+layout: post
+title: Teknik-chatt 2021-08-22 - 2021-08-29
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2021-08-22 10:45 24s
+
+exakt!
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2021-08-24 20:45 18s
+
+Kan inte annat ?n h?lla med: [https://how-i-experience-web-today.com/](https://how-i-experience-web-today.com/)
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2021-08-25 08:04 22s
+
+Det v?rsta ?r att jag kommer gl?mma bort den h?r addressen och googla det..
+
+<!--excerpt-->
+</section>
