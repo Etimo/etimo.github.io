@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teknik-chatt 2022-03-08 - 2022-03-15
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2022-03-08 08:56 44s
+
+Ny hackerattack: [https://techcrunch.com/2022/03/07/samsung-breach-source-code/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1](https://techcrunch.com/2022/03/07/samsung-breach-source-code/?utm_medium=TCnewsletter&amp;tpcc=TCdailynewsletter&amp;guccounter=1)
+
+<div class="attachment"><h4>Samsung confirms data breach after hackers leak internal source code – TechCrunch</h4><div class="text">Leaked source code could help threat actors find new security vulnerabilities.</div>
+<a href="https://techcrunch.com/2022/03/07/samsung-breach-source-code/?utm_medium=TCnewsletter&tpcc=TCdailynewsletter&guccounter=1"><img src="https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1126324973-samsung.jpg?w=600" fallback="Samsung confirms data breach after hackers leak internal source code – TechCrunch"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### rebecka.hedin - 2022-03-08 09:16 59s
+
+@rebecka.hedin has joined the channel
+
+<!--excerpt-->
+</section>
