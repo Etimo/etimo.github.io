@@ -1,0 +1,26 @@
+---
+layout: post
+title: Teknik-chatt 2022-03-14 - 2022-03-21
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2022-03-14 10:56 59s
+
+Intressant lösning: [https://feber.se/internet/webbsida-later-vem-som-helst-prata-med-ryssar/436177/](https://feber.se/internet/webbsida-later-vem-som-helst-prata-med-ryssar/436177/)
+
+<div class="attachment"><h4>Webbsida låter vem som helst prata med ryssar. Berätta för dem vad som händer.</h4><div class="text">Samtidigt som Rysslands myndigheter gör det svårare och svårare för invånare att ha koll på vad som faktiskt händer i världen genom att begränsa, eller till och med blockera, plattformar som Instagram och Twitter har polska programmerare kommit på något smart. Squad303 är nämligen en webbsida som låter vem som helst skriva till ryssar. Webbsidan genererar ett slumpmässigt nummer eller e-postadres....</div>
+<a href="https://feber.se/internet/webbsida-later-vem-som-helst-prata-med-ryssar/436177/"><img src="https://static.feber.se/article_images/53/17/21/531721.jpg" fallback="Webbsida låter vem som helst prata med ryssar. Berätta för dem vad som händer."/></a></div>
+    
+Frågan är hur mycket hat som också skickas genom detta…
+</section>
+<section class="message" markdown="1">
+### joakoles - 2022-03-14 11:28 41s
+
+I Litauen har "Ring Ryssland" lanserats som är likt: [https://www.dn.se/varlden/litauiska-kampanjen-ring-ryssland-siktar-pa-40-miljoner-samtal/](https://www.dn.se/varlden/litauiska-kampanjen-ring-ryssland-siktar-pa-40-miljoner-samtal/)
+
+<div class="attachment"><h4>Litauiska kampanjen ”Ring Ryssland” siktar på 40 miljoner samtal</h4><div class="text">En kampanj som på engelska kallas ”Call Russia”, med tillgång till 40 miljoner telefonnummer i Ryssland, har lanserats i Litauen.</div>
+<a href="https://www.dn.se/varlden/litauiska-kampanjen-ring-ryssland-siktar-pa-40-miljoner-samtal/"><img src="https://cached-images.bonnier.news/swift/bilder/mly/5af47aab-49d4-48cc-953d-b559e4109bf8.jpeg?interpolation=lanczos-none&fit=around%7C1024:576&crop=1024:h;center,top&output-quality=80" fallback="Litauiska kampanjen ”Ring Ryssland” siktar på 40 miljoner samtal"/></a></div>
+    
+
+<!--excerpt-->
+</section>
