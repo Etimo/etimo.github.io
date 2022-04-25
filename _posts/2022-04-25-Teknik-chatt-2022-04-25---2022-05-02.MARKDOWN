@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2022-04-25 - 2022-05-02
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### henrik.westoo - 2022-04-25 16:20 59s
+
+@henrik.westoo has joined the channel
+
+<!--excerpt-->
+</section>
