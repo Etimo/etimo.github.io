@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2022-05-05 - 2022-05-12
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### saga.swahn - 2022-05-05 13:55 35s
+
+@saga.swahn has joined the channel
+
+<!--excerpt-->
+</section>
