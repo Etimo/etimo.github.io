@@ -1,0 +1,17 @@
+---
+layout: post
+title: Teknik-chatt 2022-06-13 - 2022-06-20
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### arvid.sandin - 2022-06-13 09:37 11s
+
+@arvid.sandin has joined the channel
+</section>
+<section class="message" markdown="1">
+### joseph.hughes - 2022-06-13 09:52 33s
+
+@joseph.hughes has joined the channel
+
+<!--excerpt-->
+</section>
