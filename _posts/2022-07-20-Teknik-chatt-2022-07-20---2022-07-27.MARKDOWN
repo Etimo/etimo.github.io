@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2022-07-20 - 2022-07-27
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### axel.elmarsson - 2022-07-20 14:37 34s
+
+@axel.elmarsson has joined the channel
+
+<!--excerpt-->
+</section>
