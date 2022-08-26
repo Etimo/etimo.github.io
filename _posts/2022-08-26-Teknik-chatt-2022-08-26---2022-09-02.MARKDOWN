@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teknik-chatt 2022-08-26 - 2022-09-02
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### rickard.lofberg - 2022-08-26 12:49 58s
+
+Helt sjukt vad mycket det kunnat få in i kabeln: [https://www.theverge.com/23321517/omg-elite-cable-hacker-tool-review-defcon](https://www.theverge.com/23321517/omg-elite-cable-hacker-tool-review-defcon)
+
+<div class="attachment"><h4>The O․MG Elite cable is a scarily stealthy hacker tool</h4><div class="text">Beware of unknown charging cables.</div>
+<a href="https://www.theverge.com/23321517/omg-elite-cable-hacker-tool-review-defcon"><img src="https://cdn.vox-cdn.com/thumbor/hE6Dk1i2CHspuWsat4K8zwcOZsw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23957231/acastro_226156_omgCable_0001.jpg" fallback="The O․MG Elite cable is a scarily stealthy hacker tool"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2022-08-26 12:52 57s
+
+Det är sånt här som får en att ge upp lite och flytta ut i skogen med ett exemplar av telefonkatalogen och en gammal Eriksson telefon.
+
+<!--excerpt-->
+</section>
