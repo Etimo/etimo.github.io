@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2022-10-24 - 2022-10-31
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### therese.dahlstrom - 2022-10-24 13:21 22s
+
+@therese.dahlstrom has joined the channel
+
+<!--excerpt-->
+</section>
