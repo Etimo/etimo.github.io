@@ -1,0 +1,106 @@
+---
+layout: post
+title: Teknik-chatt 2022-12-08 - 2022-12-15
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### joakoles - 2022-12-08 11:51 41s
+
+@morgan.cromell gick till vår hemsida, markerade allt, kopierade och klistrade in i ChatGPT (utan att snygga till innehållet). Då bad han den beskriva företaget. Imponerande AI tycker jag! Den gav denna beskrivning:
+
+&gt; Etimo är en teknikföretag som jobbar med att leverera kundvärde och bidra till samhällsnytta genom att utveckla mjukvara. De strävar efter att skapa en gemenskap på arbetsplatsen där trivsel och utbyte av erfarenheter är viktigt. Varje fredag träffas alla medarbetare på kontoret och varannan månad har de två koddagar där de jobbar med open source-projekt. Etimo väljer också att avböja uppdrag som inte går i linje med deras värderingar, såsom gambling.
+Det handlar om [https://openai.com/blog/chatgpt/](https://openai.com/blog/chatgpt/) och man kan prova på [https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)
+
+<div class="attachment"><h4>ChatGPT: Optimizing Language Models for Dialogue</h4><div class="text">We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in</div>
+<a href="https://openai.com/blog/chatgpt/"><img src="https://openai.com/content/images/2022/11/ChatGPT.jpg" fallback="ChatGPT: Optimizing Language Models for Dialogue"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2022-12-08 11:52 19s
+
+sjukt! spot on
+</section>
+<section class="message" markdown="1">
+### joakoles - 2022-12-08 11:54 19s
+
+I denna skärmdump syns det tydligt att det var en helt ofixad copy-paste:
+Den exakta frågan Morgan ställde syns nederst: "What is this website?"
+</section>
+<section class="message" markdown="1">
+### therese.dahlstrom - 2022-12-08 12:00 55s
+
+Wow! Häftigt!
+</section>
+<section class="message" markdown="1">
+### therese.dahlstrom - 2022-12-08 12:10 45s
+
+Borde inte detta komma upp i vår teknikchat direkt via denna kanal?
+Kan vi lägga upp detta i våra sociala medier? 😃
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2022-12-08 12:12 42s
+
+det borde vi väl absolut kunna göra tycker jag?
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="therese.dahlstrom reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### joakoles - 2022-12-08 12:20 45s
+
+Om vår scraper funkar så kommer detta upp på [https://blog.etimo.se/](https://blog.etimo.se/) men inte direkt. Ibland funkar den dock inte.
+
+<div class="attachment"><h4>Etimo tech tidbits</h4><div class="text">The Etimo blog in git form</div>
+<a href="https://blog.etimo.se/">Etimo tech tidbits</a></div>
+    
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="therese.dahlstrom reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     
+      </div>
+    
+Helt okej att lägga upp detta i sociala medier. @morgan.cromell får själv uttala sig om ifall det är okej att hans namn nämns.
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="therese.dahlstrom reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### morgan.cromell - 2022-12-08 12:22 42s
+
+det är lungt
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="therese.dahlstrom reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     
+      </div>
+    
+</section>
+<section class="message" markdown="1">
+### therese.dahlstrom - 2022-12-08 12:29 14s
+
+Perfekt, jag samlar innehåll att lägga upp efter att julkalendern tar slut 😃 Detta är ju klockrent!
+<div class="reactionsDiv">
+<div class="reactionDiv">
+<span title="joakoles reacted this way." class="reactionSpan">
+👍x1</span>
+</div>
+     
+      </div>
+    
+
+<!--excerpt-->
+</section>
