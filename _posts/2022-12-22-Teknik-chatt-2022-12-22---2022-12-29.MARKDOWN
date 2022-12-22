@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2022-12-22 - 2022-12-29
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### klara.djurberg - 2022-12-22 19:08 46s
+
+@klara.djurberg has joined the channel
+
+<!--excerpt-->
+</section>
