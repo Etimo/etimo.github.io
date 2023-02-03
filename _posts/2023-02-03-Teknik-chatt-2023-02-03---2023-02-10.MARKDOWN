@@ -1,0 +1,58 @@
+---
+layout: post
+title: Teknik-chatt 2023-02-03 - 2023-02-10
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2023-02-03 10:11 40s
+
+Tänkte dämpa hypen genom att testa samma sak på SMMRY som är en tjänst som använder rätt enkla regler för att summera text.
+
+[https://smmry.com/9187974980#&amp;SM_LENGTH=3](https://smmry.com/9187974980#&amp;SM_LENGTH=3)
+
+<div class="attachment"><h4>SMMRY - Summarize articles, text, websites, essays and documents</h4><div class="text">Summarize articles, text, websites, essays and documents for free with SMMRY</div>
+<a href="https://smmry.com/9187974980#&SM_LENGTH=3">SMMRY - Summarize articles, text, websites, essays and documents</a></div>
+    
+Får då:
+```
+Välkommen till Etimo! Passion för teknik, kundvärde och samhällsnytta För oss är gemenskap och trivsel viktig och vi avböjer uppdrag som inte går i linje med våra värderingar som exempelvis gambling.
+
+I veckorna är vi ute på olika uppdrag hos våra kunder men på fredagar samlas vi alla på kontoret då vi utbyter erfarenheter och hjälper varandra med nya perspektiv.
+
+Varannan månad har vi två koddagar där vi utvecklar open source för att ha roligt och samtidigt skapa lösningar som kan bidra till samhällsnyttan.
+```
+Med samma råa copy paste
+Det är denna algoritm:
+```
+
+About
+
+SMMRY (pronounced suh·muh·ree) was created to summarize text.
+
+SMMRY's mission is to provide an efficient manner of understanding text, which is done primarily by reducing the text to only the most important sentences. SMMRY accomplishes its mission by:
+
+    Ranking sentences by importance using its core algorithm.
+    Reorganizing the summary to focus on a topic; by selection of a keyword.
+    Removing transition phrases.
+    Removing unnecessary clauses.
+    Removing excessive examples.
+```
+Så man kommer rätt långt med en mindre language model också, sjukt imponerande att vi är där vi är idag med att generalisera och parsea generiska prompter, men inte på maginivå ännu.
+</section>
+<section class="message" markdown="1">
+### joakoles - 2023-02-03 11:13 36s
+
+Inte illa! Impressive!
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2023-02-03 11:15 35s
+
+Första gången jag såg SMMRY var jag jätteimponerad dock, det är fint hur man går till "Den nya AIn är bara lite bättre än den förra" när man vant sig.
+</section>
+<section class="message" markdown="1">
+### morgan.cromell - 2023-02-03 11:16 19s
+
+SMRRY va ju väldigt imponerande. Verkar ju kunna ta in hela dokument också så den kanske inte har samma token limit som chatGPT
+
+<!--excerpt-->
+</section>
