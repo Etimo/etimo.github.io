@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teknik-chatt 2023-02-06 - 2023-02-13
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### hannamina - 2023-02-06 17:23 40s
+
+@hannamina has joined the channel
+
+<!--excerpt-->
+</section>
